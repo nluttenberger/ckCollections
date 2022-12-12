@@ -38,14 +38,6 @@
         <fr:igdtQuantity/>
         <fr:igdtName>Pesto</fr:igdtName>
       </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName>Holzspieße</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName>Garn</fr:igdtName>
-      </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
