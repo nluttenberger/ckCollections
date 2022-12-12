@@ -64,7 +64,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz, Pfeffer, Kräuter</fr:igdtName>
+        <fr:igdtName>Salz, Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Kräuter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>

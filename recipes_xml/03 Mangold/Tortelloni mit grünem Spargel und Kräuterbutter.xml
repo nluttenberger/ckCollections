@@ -32,11 +32,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, (oder Spinat)</fr:igdtName>
+        <fr:igdtName>Mangold (oder Spinat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Speck (Pancetta, luftgetrockneter ital. Speck)</fr:igdtName>
+        <fr:igdtName>Pancetta (luftgetrockneter ital. Speck)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -48,7 +48,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer, Muskat</fr:igdtName>
+        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
