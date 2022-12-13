@@ -16,7 +16,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 dl</fr:igdtQuantity>
-        <fr:igdtName>Milch - Wasser (1/2 Milch, 1/2 Wasser)</fr:igdtName>
+        <fr:igdtName>Milch-Wasser (1/2 Milch, 1/2 Wasser)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -27,16 +27,24 @@
         <fr:igdtName>Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Tasse</fr:igdtQuantity>
-        <fr:igdtName>Kräuter (Petersilie, Schnittlauch, Rosmarin, Basilikum), gehackt</fr:igdtName>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName>Salami (Doppelsalsiz) oder</fr:igdtName>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Schnittlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Rosmarin</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Basilikum</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Schinken (Bündnerfleisch oder Rohschinken)</fr:igdtName>
+        <fr:igdtName>Salami (Doppelsalsiz) oder Schinken (Bündnerfleisch oder Rohschinken)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 Blätter</fr:igdtQuantity>

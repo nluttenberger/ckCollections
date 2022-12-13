@@ -12,11 +12,11 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName>Hirschfleisch (Hirschrückenfilet)</fr:igdtName>
+        <fr:igdtName>Hirschrückenfilet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Wild - Farce</fr:igdtName>
+        <fr:igdtName>Wild-Farce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Blätter</fr:igdtQuantity>
@@ -28,11 +28,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName>Fond (Wildfond)</fr:igdtName>
+        <fr:igdtName>Wildfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName>Wein, rot</fr:igdtName>
+        <fr:igdtName>Rotwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -43,12 +43,12 @@
         <fr:igdtName>Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName>Sellerie, kleines Stück</fr:igdtName>
+        <fr:igdtQuantity>kleines Stück</fr:igdtQuantity>
+        <fr:igdtName>Knollensellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Sirup (Holundersirup)</fr:igdtName>
+        <fr:igdtName>Holundersirup</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
