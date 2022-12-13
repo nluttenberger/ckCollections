@@ -48,7 +48,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Käse (Butterkäse), gerieben, 150 g Wiesenkleeblätter, blanchiert, gehackt</fr:igdtName>
+        <fr:igdtName>Butterkäse, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>Wiesenkleeblätter, blanchiert und gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>

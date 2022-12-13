@@ -26,10 +26,10 @@
         <fr:igdtQuantity>30 ml</fr:igdtQuantity>
         <fr:igdtName>Olivenöl</fr:igdtName>
       </fr:igdtListLine>
-      <fr:igdtListLine>
+      <!--<fr:igdtListLine>
         <fr:igdtQuantity/>
         <fr:igdtName>Mehl für die Arbeitsfläche</fr:igdtName>
-      </fr:igdtListLine>
+      </fr:igdtListLine>-->
       <fr:igdtListLine>
         <fr:igdtQuantity/>
         <fr:igdtName>Fett und Mehl für die Form</fr:igdtName>

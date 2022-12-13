@@ -11,8 +11,36 @@
     <fr:igdtList>
       <fr:igdtListName/>
       <fr:igdtListLine>
-        <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName>Löwenzahn, Brennnessel, Gänseblümchen, Fenchel/-Radieschengrün, Sauerampfer, Bärlauch, Mangold etc.)</fr:igdtName>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Löwenzahn</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Brennnessel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Gänseblümchen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Fenchelgrün</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Radieschengrün</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Sauerampfer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Bärlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -36,7 +64,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Wasser, (Eiswasser)</fr:igdtName>
+        <fr:igdtName>Eiswasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
