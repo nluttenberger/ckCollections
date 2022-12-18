@@ -44,7 +44,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName>Blattsalat, gemischter (z. B. Rucola, Spinat, roter Mangold, Rote Bete-Blätter...)</fr:igdtName>
+        <fr:igdtName>Rucola</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName>roter Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName>Spinat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName>Rote Bete-Blätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
@@ -60,7 +72,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Kräuter, gemischte (Petersilie, Dill, Kresse, Kerbel, Schnittlauch, Sauerampfer, Borretsch, Pimpinelle)</fr:igdtName>
+        <fr:igdtName>Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Dill</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Kresse</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Kerbel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Schnittlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Sauerampfer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Borretsch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName>Pimpinelle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

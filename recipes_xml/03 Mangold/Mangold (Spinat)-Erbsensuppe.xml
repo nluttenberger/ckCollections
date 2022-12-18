@@ -10,6 +10,42 @@
   <fr:recipeIngredients>
     <fr:igdtList>
       <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName>Zwiebel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName>Knoblauchzehen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName>Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 ml</fr:igdtQuantity>
+        <fr:igdtName>Weißwein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 ml</fr:igdtQuantity>
+        <fr:igdtName>Gemüsebrühe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName>Mangold oder Spinat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName>Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName>Mozzarella</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName>Erbsen, TK</fr:igdtName>
+      </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>

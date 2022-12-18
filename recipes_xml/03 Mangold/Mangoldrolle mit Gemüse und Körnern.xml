@@ -23,6 +23,26 @@
         <fr:igdtName>Gemüsebrühe -Extrakt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Zucchini</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Porree</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Paprikaschoten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Staudensellerie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Möhren oder Kohlrabi</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName>Gemüse, gemischtes (Zucchini, Porree. Paprikaschoten, Staudensellerie, Möhren oder Kohlrabi), fein gewürfe</fr:igdtName>
       </fr:igdtListLine>

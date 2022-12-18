@@ -10,6 +10,38 @@
   <fr:recipeIngredients>
     <fr:igdtList>
       <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Kugeln</fr:igdtQuantity>
+        <fr:igdtName>Mozzarella</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName>Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName>Knoblauchzehen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName>Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName>Eier</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>Paniermehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Öl zum Ausbacken</fr:igdtName>
+      </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>

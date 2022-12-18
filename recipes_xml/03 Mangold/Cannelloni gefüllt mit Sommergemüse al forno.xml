@@ -44,7 +44,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Kräuter, mediterriane (Oregano, Basilikum, Thymian, Rosmarin, Schnittlauch, Petersilie ), frische</fr:igdtName>
+        <fr:igdtName>Oregano</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName>Basilikum</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName>Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName>Rosmarin</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName>Schnittlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName>Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>

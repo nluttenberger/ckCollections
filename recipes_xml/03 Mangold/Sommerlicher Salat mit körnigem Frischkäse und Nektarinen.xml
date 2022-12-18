@@ -12,7 +12,23 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Pflücksalat, Frisée, Rucola, roter Mangold, Lollo Rosso, Romana, gemischt</fr:igdtName>
+        <fr:igdtName>Romana</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>Frisée</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>Rucola</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>roter Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName>Lollo Rosso</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>

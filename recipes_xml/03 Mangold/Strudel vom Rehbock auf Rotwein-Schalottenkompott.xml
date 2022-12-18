@@ -40,7 +40,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Gemüse, gemischtes (Karotte und Petersilienwurzel), gewürfelt, blanchiert</fr:igdtName>
+        <fr:igdtName>Karotte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName>Petersilienwurzel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>16 Blätter</fr:igdtQuantity>

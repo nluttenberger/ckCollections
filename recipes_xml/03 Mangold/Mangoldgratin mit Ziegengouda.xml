@@ -10,6 +10,26 @@
   <fr:recipeIngredients>
     <fr:igdtList>
       <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName>Mangold bunt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName>Ziegengouda</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName>Schmand</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName>Eier</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity></fr:igdtQuantity>
+        <fr:igdtName>Butter</fr:igdtName>
+      </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>

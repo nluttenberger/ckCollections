@@ -108,7 +108,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Kräuter, gemischte (z.B. Dill, Oregano, Thymian, Rosmarin)</fr:igdtName>
+        <fr:igdtName>Dill</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Oregano</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName>Rosmarin</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
