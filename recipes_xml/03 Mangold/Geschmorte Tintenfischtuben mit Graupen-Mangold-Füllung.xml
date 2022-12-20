@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1280271233394631">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1280271233394631">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1280271233394631 - Geschmorte Tintenfischtuben mit Graupen - Mangold - Füllung</fr:recipeName>
+  <fr:recipeName>Geschmorte Tintenfischtuben mit Graupen-Mangold-Füllung</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,35 +11,35 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Tintenfisch(e), küchenfertige Tuben, insg. 300-350 g</fr:igdtName>
+        <fr:igdtName ref="tintenfisch">Tintenfisch(e), küchenfertige Tuben, insg. 300-350 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Graupen</fr:igdtName>
+        <fr:igdtName ref="graupen">Graupen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Brühe, kräftige</fr:igdtName>
+        <fr:igdtName ref="brühe">Brühe, kräftige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Mangold, ohne Stiele</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, ohne Stiele</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n), stückige (400 g)</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), stückige (400 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

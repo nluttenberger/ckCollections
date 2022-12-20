@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2852211437300406">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2852211437300406">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2852211437300406 - Grüner Smoothie Juli-Ernte</fr:recipeName>
+  <fr:recipeName>Grüner Smoothie Juli-Ernte</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>145 g</fr:igdtQuantity>
-        <fr:igdtName>Zucchini</fr:igdtName>
+        <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName>Banane(n)</fr:igdtName>
+        <fr:igdtName ref="banane">Banane(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
-        <fr:igdtName>Stachelbeeren</fr:igdtName>
+        <fr:igdtName ref="stachelbeeren">Stachelbeeren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Sauerkirschen, entsteint</fr:igdtName>
+        <fr:igdtName ref="sauerkirschen">Sauerkirschen, entsteint</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n)</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold (Mangoldblätter)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold (Mangoldblätter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Salbeiblätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Kapuzinerkresse</fr:igdtName>
+        <fr:igdtName ref="kapuzinerkresse">Kapuzinerkresse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName>Zimt</fr:igdtName>
+        <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

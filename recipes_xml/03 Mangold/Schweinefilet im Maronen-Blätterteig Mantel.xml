@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-433821134645649">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-433821134645649">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-433821134645649 - Schweinefilet im Maronen - Blätterteig Mantel</fr:recipeName>
+  <fr:recipeName>Schweinefilet im Maronen-Blätterteig Mantel</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,67 +11,67 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Champignons</fr:igdtName>
+        <fr:igdtName ref="champignon">Champignons</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Petersilie, frisch, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, frisch, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Thymian, frisch, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="thymian">Thymian, frisch, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Majoran, frisch, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="majoran">Majoran, frisch, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Marone(n), blanchiert</fr:igdtName>
+        <fr:igdtName ref="marone">Marone(n), blanchiert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Sojasauce</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer, schwarz</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, schwarz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName>Schweinefilet(s)</fr:igdtName>
+        <fr:igdtName ref="schweinefleisch">Schweinefilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Blätterteig</fr:igdtName>
+        <fr:igdtName ref="blätterteig">Blätterteig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Blätter, grüne, von Spinat, Mangold, Lattich</fr:igdtName>
+        <fr:igdtName ref="mangold">Blätter, grüne, von Spinat, Mangold, Lattich</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Eigelb, zum Einpinseln</fr:igdtName>
+        <fr:igdtName ref="ei">Eigelb, zum Einpinseln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Butter, weiche</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, weiche</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

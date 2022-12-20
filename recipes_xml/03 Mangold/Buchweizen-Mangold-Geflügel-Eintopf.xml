@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4089941641561062">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4089941641561062">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-4089941641561062 - Buchweizen-Mangold-Geflügel-Eintopf</fr:recipeName>
+  <fr:recipeName>Buchweizen-Mangold-Geflügel-Eintopf</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,47 +11,47 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName>Buchweizen</fr:igdtName>
+        <fr:igdtName ref="buchweizen">Buchweizen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Liter</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName>Geflügel (Taube, Wachtel, Huhn, Ente, Gans u.s.w.)</fr:igdtName>
+        <fr:igdtName ref="geflügel">Geflügel (Taube, Wachtel, Huhn, Ente, Gans u.s.w.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Sojasauce</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName>Brühepulver</fr:igdtName>
+        <fr:igdtName ref="brühe">Brühepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Giersch</fr:igdtName>
+        <fr:igdtName ref="giersch">Giersch</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

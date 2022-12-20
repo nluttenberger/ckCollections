@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3911561596593144">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3911561596593144">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3911561596593144 - Würzige Hackfleischbällchen mit Cap-Cay und Reis</fr:recipeName>
+  <fr:recipeName>Würzige Hackfleischbällchen mit Cap-Cay und Reis</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,139 +11,139 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
-        <fr:igdtName>Basmatireis</fr:igdtName>
+        <fr:igdtName ref="reis">Basmatireis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>135 g</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Weißbrot vom Vortag</fr:igdtName>
+        <fr:igdtName ref="weißbrot">Weißbrot vom Vortag</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Vollmilch, lauwarm</fr:igdtName>
+        <fr:igdtName ref="milch">Vollmilch, lauwarm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 g</fr:igdtQuantity>
-        <fr:igdtName>Hühnerbrühe, gekörnte</fr:igdtName>
+        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, gekörnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Hackfleisch, gemischtes, grob gehackt</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes, grob gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
-        <fr:igdtName>Ingwer, gerieben, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="ingwer">Ingwer, gerieben, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Schnittsellerieblätter, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Schnittsellerieblätter, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 kleine</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), rote</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer, schwarzer, frisch aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, schwarzer, frisch aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Chiliflocken (z.B. Pul Biber)</fr:igdtName>
+        <fr:igdtName ref="chiliflocken">Chiliflocken (z.B. Pul Biber)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Brokkoli</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Brokkoli</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Peperoni, rote, lang, mild</fr:igdtName>
+        <fr:igdtName ref="peperoni">Peperoni, rote, lang, mild</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Paprikaschote(n), rote</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
-        <fr:igdtName>Kailan (Chinesischer Brokkoli), ersatzweise Mangold</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), ersatzweise Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName>Chilischote(n), grün, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), grün, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Tomatensaft</fr:igdtName>
+        <fr:igdtName ref="tomatensaft">Tomatensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Kokoswasser (Asiashop, Getränke)</fr:igdtName>
+        <fr:igdtName ref="kokoswasser">Kokoswasser (Asiashop, Getränke)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Fischsauce, helle, (z. B. kecap ikan "King Lobster")</fr:igdtName>
+        <fr:igdtName ref="fischsauce">Fischsauce, helle, (z. B. kecap ikan &quot;King Lobster&quot;)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 g</fr:igdtQuantity>
-        <fr:igdtName>Hühnerbrühe, gekörnte</fr:igdtName>
+        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, gekörnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Chiliflocken (z.B. Pul Biber)</fr:igdtName>
+        <fr:igdtName ref="chiliflocken">Chiliflocken (z.B. Pul Biber)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
-        <fr:igdtName>Frittieröl</fr:igdtName>
+        <fr:igdtName ref="">Frittieröl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Backpulver</fr:igdtName>
+        <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Salatgurke(n), kernlos</fr:igdtName>
+        <fr:igdtName ref="gurke">Salatgurke(n), kernlos</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Dillspitzen</fr:igdtName>
+        <fr:igdtName ref="dill">Dillspitzen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

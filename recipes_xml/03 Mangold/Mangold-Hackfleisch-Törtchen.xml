@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-807781184658421">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-807781184658421">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-807781184658421 - Mangold-Hackfleisch-Törtchen</fr:recipeName>
+  <fr:recipeName>Mangold-Hackfleisch-Törtchen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,75 +11,75 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>225 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Wasser, eiskaltes</fr:igdtName>
+        <fr:igdtName ref="">Wasser, eiskaltes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, geputzt und grobe Stiele entfernt</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, geputzt und grobe Stiele entfernt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Hackfleisch</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Hackfleisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), gepresst</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Cocktailtomaten</fr:igdtName>
+        <fr:igdtName ref="tomate">Cocktailtomaten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Ricotta</fr:igdtName>
+        <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Muskat, gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName>Tomatenmark bei Bedarf</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark bei Bedarf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Mandeln, gemahlene</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandeln, gemahlene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName>Butterflöckchen bei Bedarf</fr:igdtName>
+        <fr:igdtName ref="butter">Butterflöckchen bei Bedarf</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

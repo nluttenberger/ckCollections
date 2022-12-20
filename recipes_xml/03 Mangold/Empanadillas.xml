@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2070091334693974">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2070091334693974">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2070091334693974 - Empanadillas</fr:recipeName>
+  <fr:recipeName>Empanadillas</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,187 +11,187 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Weißwein</fr:igdtName>
+        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Eigelb</fr:igdtName>
+        <fr:igdtName ref="ei">Eigelb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Joghurt</fr:igdtName>
+        <fr:igdtName ref="joghurt">Joghurt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Kochschinken, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schinken">Kochschinken, fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, Manchego, fein gerieben</fr:igdtName>
+        <fr:igdtName ref="käse">Käse, Manchego, fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Aprikose(n), (Soft-Aprikosen), oder getrocknete Tomaten, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="aprikose">Aprikose(n), (Soft-Aprikosen), oder getrocknete Tomaten, fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz, Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Kräuter</fr:igdtName>
+        <fr:igdtName ref="kräuter">Kräuter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Hähnchenfleisch, in kleinen Würfeln</fr:igdtName>
+        <fr:igdtName ref="huhn">Hähnchenfleisch, in kleinen Würfeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Paprikaschote(n), rote, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), rote, fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Chilischote(n),entkernt, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n),entkernt, fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), gehackt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Mandel(n), gehackte</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandel(n), gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Paprikapulver</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Honig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Hackfleisch, Rind oder Lamm</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, Rind oder Lamm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Peperoni, entkernt und fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="peperoni">Peperoni, entkernt und fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Zimtpulver</fr:igdtName>
+        <fr:igdtName ref="zimt">Zimtpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Tomatenmark</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sesam</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Honig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Pinienkerne</fr:igdtName>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), gehackt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Zitronenschale, frischer Abrieb</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronenschale, frischer Abrieb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, (Manchego), fein gerieben</fr:igdtName>
+        <fr:igdtName ref="käse">Käse, (Manchego), fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

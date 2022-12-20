@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1068971212473092">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1068971212473092">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1068971212473092 - Kokoshühnchen auf Chinakohl</fr:recipeName>
+  <fr:recipeName>Kokoshühnchen auf Chinakohl</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,103 +11,103 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
-        <fr:igdtName>Chinakohl (oder gleiche Menge Pak Choi bzw. Mangold)</fr:igdtName>
+        <fr:igdtName ref="chinakohl">Chinakohl (oder gleiche Menge Pak Choi bzw. Mangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
-        <fr:igdtName>Staudensellerie</fr:igdtName>
+        <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName>Ingwer, ca. 20 g</fr:igdtName>
+        <fr:igdtName ref="ingwer">Ingwer, ca. 20 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Chilischote(n), scharfe</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), scharfe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Austernsauce</fr:igdtName>
+        <fr:igdtName ref="austernsauce">Austernsauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
-        <fr:igdtName>Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Sojasauce, helle</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce, helle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Öl (Sesamöl, aus gerösteter Saat)</fr:igdtName>
+        <fr:igdtName ref="sesamöl">Öl (Sesamöl, aus gerösteter Saat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
-        <fr:igdtName>Kurkuma</fr:igdtName>
+        <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
-        <fr:igdtName>Piment, gemahlener</fr:igdtName>
+        <fr:igdtName ref="piment">Piment, gemahlener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName>Gewürzmischung (Chinagewürz)</fr:igdtName>
+        <fr:igdtName ref="gewürz">Gewürzmischung (Chinagewürz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Kokosraspel</fr:igdtName>
+        <fr:igdtName ref="kokosraspel">Kokosraspel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Öl (Sonnenblumenöl oder Sojaöl) zum Ausbacken</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenöl">Öl (Sonnenblumenöl oder Sojaöl) zum Ausbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Speisestärke</fr:igdtName>
+        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Wasser, kaltes</fr:igdtName>
+        <fr:igdtName ref="">Wasser, kaltes</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

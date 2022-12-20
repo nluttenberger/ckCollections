@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-78961030279305">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-78961030279305">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-78961030279305 - Reisnudeln mit süßen Sprossen</fr:recipeName>
+  <fr:recipeName>Reisnudeln mit süßen Sprossen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,63 +11,63 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Reisnudeln, dünne</fr:igdtName>
+        <fr:igdtName ref="reisnudeln">Reisnudeln, dünne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Paprikaschote(n)</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zucchini</fr:igdtName>
+        <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold-Blätter,</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold-Blätter,</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Öl (Sesamöl)</fr:igdtName>
+        <fr:igdtName ref="sesamöl">Öl (Sesamöl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Fünf-Gewürz-Pulver</fr:igdtName>
+        <fr:igdtName ref="gewürz">Fünf-Gewürz-Pulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Honig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Hoisinsoße</fr:igdtName>
+        <fr:igdtName ref="hoisinsauce">Hoisinsoße</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Zuckerschote(n)</fr:igdtName>
+        <fr:igdtName ref="zucker">Zuckerschote(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Sojasprossen</fr:igdtName>
+        <fr:igdtName ref="sprossen">Sojasprossen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Reiswein</fr:igdtName>
+        <fr:igdtName ref="reiswein">Reiswein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Sojasauce</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

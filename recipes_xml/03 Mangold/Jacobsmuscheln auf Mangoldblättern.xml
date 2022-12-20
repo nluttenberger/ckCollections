@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-901301195482591">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-901301195482591">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-901301195482591 - Jacobsmuscheln auf Mangoldblättern</fr:recipeName>
+  <fr:recipeName>Jacobsmuscheln auf Mangoldblättern</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Jakobsmuschel(n), TK</fr:igdtName>
+        <fr:igdtName ref="jakobsmuschel">Jakobsmuschel(n), TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Safran</fr:igdtName>
+        <fr:igdtName ref="safran">Safran</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n), gehäutet, entkernt und geviertelt</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), gehäutet, entkernt und geviertelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Weinbrand oder Cognac</fr:igdtName>
+        <fr:igdtName ref="weinbrand">Weinbrand oder Cognac</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sherry</fr:igdtName>
+        <fr:igdtName ref="sherry">Sherry</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 ml</fr:igdtQuantity>
-        <fr:igdtName>Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Baguette(s)</fr:igdtName>
+        <fr:igdtName ref="weißbrot">Baguette(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1497121255084616">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1497121255084616">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1497121255084616 - Weihnachtliche Lachsroulade</fr:recipeName>
+  <fr:recipeName>Weihnachtliche Lachsroulade</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName>Lachs -Carpaccio oder geräucherter Lachs</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachs -Carpaccio oder geräucherter Lachs</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>450 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, frischer (ohne Stiele) oder Blattspinat</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, frischer (ohne Stiele) oder Blattspinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Muskat</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName>Frischkäse, mit Meerrettich</fr:igdtName>
+        <fr:igdtName ref="meerrettich">Frischkäse, mit Meerrettich</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer, bunter, zerstoßen</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, bunter, zerstoßen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Fenchelsamen, zerstoßen</fr:igdtName>
+        <fr:igdtName ref="fenchelsamen">Fenchelsamen, zerstoßen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Macis</fr:igdtName>
+        <fr:igdtName ref="muskat">Macis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Olivenöl, extra vergine</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl, extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zitrone(n) - Spalten</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n) - Spalten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Dill</fr:igdtName>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Toastbrot</fr:igdtName>
+        <fr:igdtName ref="brot">Toastbrot</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

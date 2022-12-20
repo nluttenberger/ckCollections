@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2826151434657429">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2826151434657429">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2826151434657429 - Gefüllte Mangoldblätter</fr:recipeName>
+  <fr:recipeName>Gefüllte Mangoldblätter</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,23 +11,23 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Mangold, größere Blätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, größere Blätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Dip (Schafskäsecreme) oder Dip nach Wunsch oder Vorrat</fr:igdtName>
+        <fr:igdtName ref="schafskäse">Dip (Schafskäsecreme) oder Dip nach Wunsch oder Vorrat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Salz für das Kochwasser</fr:igdtName>
+        <fr:igdtName ref="">Salz für das Kochwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Öl (Kräuteröl)</fr:igdtName>
+        <fr:igdtName ref="kräuter">Öl (Kräuteröl)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

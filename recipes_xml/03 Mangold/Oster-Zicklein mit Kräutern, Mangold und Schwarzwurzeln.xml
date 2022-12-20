@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-987651204103243">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-987651204103243">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-987651204103243 - Oster - Zicklein mit Kräutern, Mangold und Schwarzwurzeln</fr:recipeName>
+  <fr:recipeName>Oster-Zicklein mit Kräutern, Mangold und Schwarzwurzeln</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,87 +11,87 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kg</fr:igdtQuantity>
-        <fr:igdtName>Zicklein, Keule, Rücken und Schulter</fr:igdtName>
+        <fr:igdtName ref="zicklein">Zicklein, Keule, Rücken und Schulter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n), gehackt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), gehackt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Thymian, gehackt</fr:igdtName>
+        <fr:igdtName ref="thymian">Thymian, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Rosmarin, gehackt</fr:igdtName>
+        <fr:igdtName ref="rosmarin">Rosmarin, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
-        <fr:igdtName>Essig (Estragonessig)</fr:igdtName>
+        <fr:igdtName ref="estragon">Essig (Estragonessig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName>Weißwein, trocken</fr:igdtName>
+        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName>Fond, heller</fr:igdtName>
+        <fr:igdtName ref="brühe">Fond, heller</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Kerbel, gehackt</fr:igdtName>
+        <fr:igdtName ref="kerbel">Kerbel, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Petersilie, gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Schnittlauch, Röllchen</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, Röllchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Basilikum, gehackt</fr:igdtName>
+        <fr:igdtName ref="basilikum">Basilikum, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n), Saft davon</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n), Saft davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Sahne, geschlagen</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne, geschlagen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Schwarzwurzel(n) (ca. 6 Stangen)</fr:igdtName>
+        <fr:igdtName ref="schwarzwurzel">Schwarzwurzel(n) (ca. 6 Stangen)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName>Milch</fr:igdtName>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold oder Spinat</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold oder Spinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Butter für das Gemüse</fr:igdtName>
+        <fr:igdtName ref="butter">Butter für das Gemüse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Kartoffelmehl</fr:igdtName>
+        <fr:igdtName ref="stärke">Kartoffelmehl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-744411177021755">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-744411177021755">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-744411177021755 - Mangoldpudding mit Fisch</fr:recipeName>
+  <fr:recipeName>Mangoldpudding mit Fisch</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,39 +11,39 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName>Fischfilet(s) (Seezunge)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s) (Seezunge)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Bohnen, dick, geschält</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, dick, geschält</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 cl</fr:igdtQuantity>
-        <fr:igdtName>Milch</fr:igdtName>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName>Pinienkerne</fr:igdtName>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

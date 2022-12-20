@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3939011603034787">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3939011603034787">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3939011603034787 - Vegetarische Capuns</fr:recipeName>
+  <fr:recipeName>Vegetarische Capuns</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,67 +11,67 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Stiel/e</fr:igdtQuantity>
-        <fr:igdtName>Mangold, großblättrig</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, großblättrig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl (Knöpflimehl)</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl (Knöpflimehl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ¼ dl</fr:igdtQuantity>
-        <fr:igdtName>Flüssigkeit (1/2 Milch / 1/2 Wasser)</fr:igdtName>
+        <fr:igdtName ref="">Flüssigkeit (1/2 Milch / 1/2 Wasser)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Räuchertofu</fr:igdtName>
+        <fr:igdtName ref="tofu">Räuchertofu</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName>Bergkäse (Bündner Bergkäse) oder rezenter Hartkäse</fr:igdtName>
+        <fr:igdtName ref="bergkäse">Bergkäse (Bündner Bergkäse) oder rezenter Hartkäse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Stängel</fr:igdtQuantity>
-        <fr:igdtName>Petersilie</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Stängel</fr:igdtQuantity>
-        <fr:igdtName>Pfefferminze, Blätter davon</fr:igdtName>
+        <fr:igdtName ref="minze">Pfefferminze, Blätter davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½ dl</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebouillon</fr:igdtName>
+        <fr:igdtName ref="fleischbrühe">Gemüsebouillon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dl</fr:igdtQuantity>
-        <fr:igdtName>Vollrahm</fr:igdtName>
+        <fr:igdtName ref="sahne">Vollrahm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ dl</fr:igdtQuantity>
-        <fr:igdtName>Weißwein</fr:igdtName>
+        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName>Gewürzmischung, ayurvedisch (Agni Plus)</fr:igdtName>
+        <fr:igdtName ref="gewürz">Gewürzmischung, ayurvedisch (Agni Plus)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Fett zum Braten</fr:igdtName>
+        <fr:igdtName ref="">Fett zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

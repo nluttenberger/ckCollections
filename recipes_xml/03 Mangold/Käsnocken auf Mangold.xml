@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1989561322421114">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1989561322421114">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1989561322421114 - Käsnocken auf Mangold</fr:recipeName>
+  <fr:recipeName>Käsnocken auf Mangold</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Milch</fr:igdtName>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName>Backpulver</fr:igdtName>
+        <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Bergkäse, fein gerieben</fr:igdtName>
+        <fr:igdtName ref="bergkäse">Bergkäse, fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Käse (Emmentaler), fein gerieben</fr:igdtName>
+        <fr:igdtName ref="emmentaler">Käse (Emmentaler), fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

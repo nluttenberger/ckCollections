@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3202491476647889">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3202491476647889">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3202491476647889 - Schnelle Mangold-Kapuzinerkresse-Suppe mit Kräuterseitlingen</fr:recipeName>
+  <fr:recipeName>Schnelle Mangold-Kapuzinerkresse-Suppe mit Kräuterseitlingen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,35 +11,35 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 große</fr:igdtQuantity>
-        <fr:igdtName>Mangoldblätter, mit Stielen, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldblätter, mit Stielen, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 große</fr:igdtQuantity>
-        <fr:igdtName>Kapuzinerkresseblätter, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
+        <fr:igdtName ref="kapuzinerkresse">Kapuzinerkresseblätter, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName>Crème fraîche mit Kräutern</fr:igdtName>
+        <fr:igdtName ref="crème_fraîche">Crème fraîche mit Kräutern</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName>Wasser, heißes</fr:igdtName>
+        <fr:igdtName ref="">Wasser, heißes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName>Brühe, gekörnte</fr:igdtName>
+        <fr:igdtName ref="brühe">Brühe, gekörnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 kleine</fr:igdtQuantity>
-        <fr:igdtName>Kräuterseitling(e), geputzte</fr:igdtName>
+        <fr:igdtName ref="kräuter">Kräuterseitling(e), geputzte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

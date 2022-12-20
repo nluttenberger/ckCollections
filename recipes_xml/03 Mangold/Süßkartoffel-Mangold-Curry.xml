@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4064721632845058">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4064721632845058">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-4064721632845058 - Süßkartoffel-Mangold-Curry</fr:recipeName>
+  <fr:recipeName>Süßkartoffel-Mangold-Curry</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,59 +11,59 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Süßkartoffel(n), fertig geputzt und geschält</fr:igdtName>
+        <fr:igdtName ref="süßkartoffel">Süßkartoffel(n), fertig geputzt und geschält</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Paprikaschote(n)</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n)</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Kokosöl</fr:igdtName>
+        <fr:igdtName ref="kokosöl">Kokosöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName>Kokosmilch</fr:igdtName>
+        <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n)</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Kurkumapulver</fr:igdtName>
+        <fr:igdtName ref="curcuma">Kurkumapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmelpulver</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmelpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Currypaste, rot</fr:igdtName>
+        <fr:igdtName ref="curry">Currypaste, rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName>Sweet Chili Sauce</fr:igdtName>
+        <fr:igdtName ref="chili">Sweet Chili Sauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Petersilie</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

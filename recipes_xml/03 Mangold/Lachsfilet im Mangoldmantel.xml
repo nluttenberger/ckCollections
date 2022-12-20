@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1657871273776936">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1657871273776936">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1657871273776936 - Lachsfilet im Mangoldmantel</fr:recipeName>
+  <fr:recipeName>Lachsfilet im Mangoldmantel</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,35 +11,35 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 großer</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Port.</fr:igdtQuantity>
-        <fr:igdtName>Lachsfilet(s), ohne Gräten, ohne Haut, je ca. 150-200 g</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachsfilet(s), ohne Gräten, ohne Haut, je ca. 150-200 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch, fein gehackt, oder Knoblauchgranulat</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, fein gehackt, oder Knoblauchgranulat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer, oder Zitronenpfeffer</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, oder Zitronenpfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gehackt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

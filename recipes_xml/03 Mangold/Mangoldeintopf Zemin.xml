@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3382501503232638">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3382501503232638">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3382501503232638 - Mangoldeintopf "Zemin"</fr:recipeName>
+  <fr:recipeName>Mangoldeintopf &quot;Zemin&quot;</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,59 +11,59 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Kichererbsen</fr:igdtName>
+        <fr:igdtName ref="kichererbsen">Kichererbsen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
-        <fr:igdtName>Sellerie</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Sellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), rote</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
-        <fr:igdtName>Tomaten, passierte</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomaten, passierte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
-        <fr:igdtName>Rosmarin</fr:igdtName>
+        <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Salbeiblätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Wein</fr:igdtName>
+        <fr:igdtName ref="wein">Wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Peperoncino</fr:igdtName>
+        <fr:igdtName ref="chilischote">Peperoncino</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

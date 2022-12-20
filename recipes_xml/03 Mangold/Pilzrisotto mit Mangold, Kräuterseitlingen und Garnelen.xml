@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3296541489439960">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3296541489439960">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3296541489439960 - Pilzrisotto mit Mangold, Kräuterseitlingen und Garnelen</fr:recipeName>
+  <fr:recipeName>Pilzrisotto mit Mangold, Kräuterseitlingen und Garnelen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,39 +11,39 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Kräuterseitling(e)</fr:igdtName>
+        <fr:igdtName ref="kräuter">Kräuterseitling(e)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName>Risottoreis</fr:igdtName>
+        <fr:igdtName ref="reis">Risottoreis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName>Weißwein</fr:igdtName>
+        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Parmesan</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName>Gemüsefond</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsefond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>225 g</fr:igdtQuantity>
-        <fr:igdtName>Garnele(n)</fr:igdtName>
+        <fr:igdtName ref="garnele">Garnele(n)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

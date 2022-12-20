@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-894231194942454">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-894231194942454">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-894231194942454 - Geschmortes Kaninchen bretonische Art</fr:recipeName>
+  <fr:recipeName>Geschmortes Kaninchen bretonische Art</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,83 +11,83 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Kaninchen, in 6 Stücke geteilt</fr:igdtName>
+        <fr:igdtName ref="kaninchen">Kaninchen, in 6 Stücke geteilt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Flasche</fr:igdtQuantity>
-        <fr:igdtName>Wein, weiß, trocken</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, weiß, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName>Backpflaume(n)</fr:igdtName>
+        <fr:igdtName ref="backpflaume">Backpflaume(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Stange/n</fr:igdtQuantity>
-        <fr:igdtName>Staudensellerie</fr:igdtName>
+        <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Wurzel/n</fr:igdtQuantity>
-        <fr:igdtName>Petersilie</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Stange/n</fr:igdtQuantity>
-        <fr:igdtName>Lauch</fr:igdtName>
+        <fr:igdtName ref="lauch">Lauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Körner</fr:igdtQuantity>
-        <fr:igdtName>Piment</fr:igdtName>
+        <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Körner</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Körner</fr:igdtQuantity>
-        <fr:igdtName>Koriander</fr:igdtName>
+        <fr:igdtName ref="koriander">Koriander</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zweig/e</fr:igdtQuantity>
-        <fr:igdtName>Thymian</fr:igdtName>
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Muskat</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n), Saft davon</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n), Saft davon</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

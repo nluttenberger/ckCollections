@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3133441466723039">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3133441466723039">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3133441466723039 - Kalter Udon-Nudelsalat mit Hühnchen und Miso</fr:recipeName>
+  <fr:recipeName>Kalter Udon-Nudelsalat mit Hühnchen und Miso</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,71 +11,71 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Hühnerkeule(n)</fr:igdtName>
+        <fr:igdtName ref="huhn">Hühnerkeule(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Knollensellerie, ca. handtellergroß und 2 cm dick</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Knollensellerie, ca. handtellergroß und 2 cm dick</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Frühlingszwiebel(n), weiße Bäuche und grüne Spitzen</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), weiße Bäuche und grüne Spitzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Blatt</fr:igdtQuantity>
-        <fr:igdtName>Liebstöckel</fr:igdtName>
+        <fr:igdtName ref="liebstöckel">Liebstöckel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Baby-Spinat oder anderes grünes Gemüse, z. B. Pak Choi, blanchierter Brokkoli, Mangold, Kaiserschoten, etc.</fr:igdtName>
+        <fr:igdtName ref="spinat">Baby-Spinat oder anderes grünes Gemüse, z. B. Pak Choi, blanchierter Brokkoli, Mangold, Kaiserschoten, etc.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Udon-Nudeln, getrocknet</fr:igdtName>
+        <fr:igdtName ref="nudeln">Udon-Nudeln, getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Frühlingszwiebel(n), der mittlere Teil</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), der mittlere Teil</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Fleisch von zwei gekochten Hühnerkeulen</fr:igdtName>
+        <fr:igdtName ref="huhn">Fleisch von zwei gekochten Hühnerkeulen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Misopaste, dunkle</fr:igdtName>
+        <fr:igdtName ref="miso">Misopaste, dunkle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
-        <fr:igdtName>Mirin (ca. 1 EL), im Notfall geht eine Prise Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Mirin (ca. 1 EL), im Notfall geht eine Prise Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Reisessig oder milder Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="reisessig">Reisessig oder milder Weißweinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Sesamöl oder Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sesamöl">Sesamöl oder Sonnenblumenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Sesam, geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, geröstet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Sojasauce nach Geschmack</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

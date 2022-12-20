@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-173651075893901">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-173651075893901">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-173651075893901 - Mangold - Hackfleisch - Rolle</fr:recipeName>
+  <fr:recipeName>Mangold-Hackfleisch-Rolle</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Hackfleisch</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Hackfleisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName>Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Blätterteig</fr:igdtName>
+        <fr:igdtName ref="blätterteig">Blätterteig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Tomatenmark</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Käse, geriebener</fr:igdtName>
+        <fr:igdtName ref="käse">Käse, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Paprikapulver</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1981491321451439">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1981491321451439">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1981491321451439 - Mangold-Gemüse mit Bulgur-Linsen-Pilaw</fr:recipeName>
+  <fr:recipeName>Mangold-Gemüse mit Bulgur-Linsen-Pilaw</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,91 +11,91 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, junger</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, junger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n), den Saft davon</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n), den Saft davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Tasse</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Petersilie, frisch gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, frisch gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Granatapfel</fr:igdtName>
+        <fr:igdtName ref="granatapfel">Granatapfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName>Linsen, grüne</fr:igdtName>
+        <fr:igdtName ref="linsen">Linsen, grüne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName>Bulgur</fr:igdtName>
+        <fr:igdtName ref="bulgur">Bulgur</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Wasser, kaltes zum Einweichen</fr:igdtName>
+        <fr:igdtName ref="">Wasser, kaltes zum Einweichen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Korianderpulver</fr:igdtName>
+        <fr:igdtName ref="koriander">Korianderpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Zimtpulver</fr:igdtName>
+        <fr:igdtName ref="zimt">Zimtpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), rot, klein gehackt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rot, klein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n), in Stifte geschnitten</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n), in Stifte geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Petersilie, gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

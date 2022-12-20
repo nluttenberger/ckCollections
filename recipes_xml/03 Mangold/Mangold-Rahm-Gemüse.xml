@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3042801456934675">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3042801456934675">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3042801456934675 - Mangold-Rahm-Gemüse</fr:recipeName>
+  <fr:recipeName>Mangold-Rahm-Gemüse</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,47 +11,47 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName>Bauchspeck (Gelderländer Zwilling)</fr:igdtName>
+        <fr:igdtName ref="speck">Bauchspeck (Gelderländer Zwilling)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer, schwarzer, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, schwarzer, aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebrühe (ich nehme Wasser und mein eigenes Brühpulver)</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe (ich nehme Wasser und mein eigenes Brühpulver)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName>Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3175961472658328">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3175961472658328">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3175961472658328 - Dinkelfrikadellen mit Mangold</fr:recipeName>
+  <fr:recipeName>Dinkelfrikadellen mit Mangold</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,67 +11,67 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Dinkelschrot</fr:igdtName>
+        <fr:igdtName ref="dinkel">Dinkelschrot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Gouda, gerieben</fr:igdtName>
+        <fr:igdtName ref="gouda">Gouda, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Mehl</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n), getrocknet und in Öl eingelegt</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknet und in Öl eingelegt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Sojasauce</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch, gepresst</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Senf</fr:igdtName>
+        <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Paprikapulver</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Chilipulver</fr:igdtName>
+        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Paniermehl</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Paniermehl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

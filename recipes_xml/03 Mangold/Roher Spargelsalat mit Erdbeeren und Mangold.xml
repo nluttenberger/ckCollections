@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-659921167819464">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-659921167819464">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-659921167819464 - Roher Spargelsalat mit Erdbeeren und Mangold</fr:recipeName>
+  <fr:recipeName>Roher Spargelsalat mit Erdbeeren und Mangold</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,39 +11,39 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Spargel, grüner</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, grüner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Spargel, weißer</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, weißer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Erdbeeren</fr:igdtName>
+        <fr:igdtName ref="erdbeeren">Erdbeeren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, junger (oder Rucola)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, junger (oder Rucola)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 ml</fr:igdtQuantity>
-        <fr:igdtName>Essig (Himbeeressig)</fr:igdtName>
+        <fr:igdtName ref="essig">Essig (Himbeeressig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL</fr:igdtQuantity>
-        <fr:igdtName>Schnittlauch, in Röllchen geschnitten</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, in Röllchen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Pinienkerne</fr:igdtName>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

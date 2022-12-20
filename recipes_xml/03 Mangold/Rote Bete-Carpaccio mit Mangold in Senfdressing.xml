@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3190291474822465">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3190291474822465">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3190291474822465 - Rote Bete-Carpaccio mit Mangold in Senfdressing</fr:recipeName>
+  <fr:recipeName>Rote Bete-Carpaccio mit Mangold in Senfdressing</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,39 +11,39 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Knolle/n</fr:igdtQuantity>
-        <fr:igdtName>Rote Bete, groß, gegart</fr:igdtName>
+        <fr:igdtName ref="rote_bete">Rote Bete, groß, gegart</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Mangold (Babymangold)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold (Babymangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Petersilie oder Schnittlauch, gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie oder Schnittlauch, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sonnenblumenkerne, vorzugsweise geröstet</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenkerne">Sonnenblumenkerne, vorzugsweise geröstet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Essig</fr:igdtName>
+        <fr:igdtName ref="essig">Essig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Senf</fr:igdtName>
+        <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Süßstoff oder Zucker</fr:igdtName>
+        <fr:igdtName ref="süßstoff">Süßstoff oder Zucker</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

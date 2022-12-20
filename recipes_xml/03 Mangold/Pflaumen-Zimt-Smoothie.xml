@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3648451549200537">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3648451549200537">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3648451549200537 - Pflaumen-Zimt-Smoothie</fr:recipeName>
+  <fr:recipeName>Pflaumen-Zimt-Smoothie</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Pflaume(n), blau, entsteint</fr:igdtName>
+        <fr:igdtName ref="pflaume">Pflaume(n), blau, entsteint</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Avocado(s), reif, entsteint</fr:igdtName>
+        <fr:igdtName ref="avocado">Avocado(s), reif, entsteint</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¼</fr:igdtQuantity>
-        <fr:igdtName>Bio-Zitrone(n)</fr:igdtName>
+        <fr:igdtName ref="zitrone">Bio-Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
-        <fr:igdtName>Spinat, Rucola, Mangold oder Salat</fr:igdtName>
+        <fr:igdtName ref="mangold">Spinat, Rucola, Mangold oder Salat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Minze</fr:igdtName>
+        <fr:igdtName ref="minze">Minze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Zimt</fr:igdtName>
+        <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Kefir</fr:igdtName>
+        <fr:igdtName ref="kefir">Kefir</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Süßungsmittel</fr:igdtName>
+        <fr:igdtName ref="süßstoff">Süßungsmittel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Eiweißpulver</fr:igdtName>
+        <fr:igdtName ref="ei">Eiweißpulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

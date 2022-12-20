@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1021541207378794">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1021541207378794">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1021541207378794 - Ananas - Erdbeer - Konfitüre</fr:recipeName>
+  <fr:recipeName>Ananas-Erdbeer-Konfitüre</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,31 +11,31 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Ananas, vollreif</fr:igdtName>
+        <fr:igdtName ref="ananas">Ananas, vollreif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName>Erdbeeren</fr:igdtName>
+        <fr:igdtName ref="erdbeeren">Erdbeeren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Maracujasaft oder Mangodirektsaft nach Bedarf</fr:igdtName>
+        <fr:igdtName ref="maracujasaft">Maracujasaft oder Mangodirektsaft nach Bedarf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName>Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Beutel</fr:igdtQuantity>
-        <fr:igdtName>Gelfix 3 zu 1 (Tütchen à 25g)</fr:igdtName>
+        <fr:igdtName ref="gelatine">Gelfix 3 zu 1 (Tütchen à 25g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Ascorbinsäure (Vitamin C - Pulver); ersatzweise: Zitronensäure</fr:igdtName>
+        <fr:igdtName ref="zitrone">Ascorbinsäure (Vitamin C-Pulver); ersatzweise: Zitronensäure</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 ml</fr:igdtQuantity>
-        <fr:igdtName>Cointreau oder Grand Marnier (2 Likörgläser voll)</fr:igdtName>
+        <fr:igdtName ref="orangenlikör">Cointreau oder Grand Marnier (2 Likörgläser voll)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-600471159793892">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-600471159793892">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-600471159793892 - Caldo dos pobres</fr:recipeName>
+  <fr:recipeName>Caldo dos pobres</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Speck, geräuchert, mager, in Würfel geschnitten oder 1 Schinkenknochen</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, geräuchert, mager, in Würfel geschnitten oder 1 Schinkenknochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n), geschabt und in dickere Scheiben geschnitten</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n), geschabt und in dickere Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer, ganz</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, ganz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Lorbeerblatt</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Bohnen, eingeweicht oder frische Fava-Bohnen</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, eingeweicht oder frische Fava-Bohnen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Reis, Langkornreis</fr:igdtName>
+        <fr:igdtName ref="reis">Reis, Langkornreis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Gemüse (Kohl, Mangold oder Steckrübenkraut), zerkleinert</fr:igdtName>
+        <fr:igdtName ref="mangold">Gemüse (Kohl, Mangold oder Steckrübenkraut), zerkleinert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Penne oder Hörnchennudeln</fr:igdtName>
+        <fr:igdtName ref="nudeln">Penne oder Hörnchennudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

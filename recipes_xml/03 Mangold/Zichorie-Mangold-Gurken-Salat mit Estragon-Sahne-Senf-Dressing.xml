@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3190201474819103">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3190201474819103">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3190201474819103 - Zichorie-Mangold-Gurken-Salat mit Estragon-Sahne-Senf-Dressing</fr:recipeName>
+  <fr:recipeName>Zichorie-Mangold-Gurken-Salat mit Estragon-Sahne-Senf-Dressing</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
-        <fr:igdtName>Zichorie(n)</fr:igdtName>
+        <fr:igdtName ref="zichorie">Zichorie(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName>Mangold, junge Blätter, 500 g</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, junge Blätter, 500 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Salatgurke(n)</fr:igdtName>
+        <fr:igdtName ref="gurke">Salatgurke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName>Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Essig</fr:igdtName>
+        <fr:igdtName ref="essig">Essig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Senf, nach Geschmack mehr</fr:igdtName>
+        <fr:igdtName ref="senf">Senf, nach Geschmack mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Wasser oder Milch</fr:igdtName>
+        <fr:igdtName ref="">Wasser oder Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Estragon, frisch, gehackt</fr:igdtName>
+        <fr:igdtName ref="estragon">Estragon, frisch, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zucker oder Süßstoff</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker oder Süßstoff</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

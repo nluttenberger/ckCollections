@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1860181301342734">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1860181301342734">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1860181301342734 - Tortellini und Blattspinat überbacken</fr:recipeName>
+  <fr:recipeName>Tortellini und Blattspinat überbacken</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,47 +11,47 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Tortellini</fr:igdtName>
+        <fr:igdtName ref="nudeln">Tortellini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Öl</fr:igdtName>
+        <fr:igdtName ref="">Öl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salzwasser mit Meersalz</fr:igdtName>
+        <fr:igdtName ref="">Salzwasser mit Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName>Blattspinat (TK)</fr:igdtName>
+        <fr:igdtName ref="spinat">Blattspinat (TK)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prisen</fr:igdtQuantity>
-        <fr:igdtName>Muskat</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Meersalz</fr:igdtName>
+        <fr:igdtName ref="">Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Butter für die Form</fr:igdtName>
+        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, geraspelt oder Stifte</fr:igdtName>
+        <fr:igdtName ref="käse">Käse, geraspelt oder Stifte</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

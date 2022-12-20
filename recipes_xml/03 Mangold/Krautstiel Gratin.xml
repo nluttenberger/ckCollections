@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-498661144595522">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-498661144595522">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-498661144595522 - Krautstiel Gratin</fr:recipeName>
+  <fr:recipeName>Krautstiel Gratin</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,31 +11,31 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName>Mangold (Krautstiel)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold (Krautstiel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gehackt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>180 g</fr:igdtQuantity>
-        <fr:igdtName>Sauerrahm</fr:igdtName>
+        <fr:igdtName ref="saure_sahne">Sauerrahm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Käse (Greyerer oder Sbrinz), gerieben</fr:igdtName>
+        <fr:igdtName ref="käse">Käse (Greyerer oder Sbrinz), gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Muskat</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

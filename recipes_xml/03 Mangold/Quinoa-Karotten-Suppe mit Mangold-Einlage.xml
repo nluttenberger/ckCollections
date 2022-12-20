@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1135271219822109">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1135271219822109">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1135271219822109 - Quinoa - Karotten - Suppe mit Mangold Einlage</fr:recipeName>
+  <fr:recipeName>Quinoa-Karotten-Suppe mit Mangold-Einlage</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,31 +11,31 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Amarant</fr:igdtName>
+        <fr:igdtName ref="amarant">Amarant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Hefe - Extrakt</fr:igdtName>
+        <fr:igdtName ref="hefe">Hefe-Extrakt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Mangold, kleine</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, kleine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName>Quinoa</fr:igdtName>
+        <fr:igdtName ref="quinoa">Quinoa</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

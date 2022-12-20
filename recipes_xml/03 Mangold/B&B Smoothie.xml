@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2573711403108938">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2573711403108938">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2573711403108938 - B&amp;B Smoothie</fr:recipeName>
+  <fr:recipeName>B&amp;B Smoothie</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,31 +11,31 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Becher</fr:igdtQuantity>
-        <fr:igdtName>Mangold oder Vogelmiere</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold oder Vogelmiere</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½ Becher</fr:igdtQuantity>
-        <fr:igdtName>Mandelmilch (Mandeldrink), Sojamilch oder Kuhmilch</fr:igdtName>
+        <fr:igdtName ref="mandelmilch">Mandelmilch (Mandeldrink), Sojamilch oder Kuhmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>Becher</fr:igdtQuantity>
-        <fr:igdtName>Heidelbeeren, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="beeren">Heidelbeeren, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Knolle/n</fr:igdtQuantity>
-        <fr:igdtName>Rote Bete, (gekocht)</fr:igdtName>
+        <fr:igdtName ref="rote_bete">Rote Bete, (gekocht)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Banane(n), reif, gefroren</fr:igdtName>
+        <fr:igdtName ref="banane">Banane(n), reif, gefroren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Birne(n), reif und süß</fr:igdtName>
+        <fr:igdtName ref="birne">Birne(n), reif und süß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Mandelmus oder Cashewbutter oder Erdnussbutter</fr:igdtName>
+        <fr:igdtName ref="mandelmus">Mandelmus oder Cashewbutter oder Erdnussbutter</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

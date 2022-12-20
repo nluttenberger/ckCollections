@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4014691616889882">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4014691616889882">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-4014691616889882 - Indonesische Gemüsesuppe - Cap Cay Kuah</fr:recipeName>
+  <fr:recipeName>Indonesische Gemüsesuppe-Cap Cay Kuah</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,47 +11,47 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Kartoffel(n), festkochend</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), festkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 g</fr:igdtQuantity>
-        <fr:igdtName>Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
-        <fr:igdtName>Brokkoli</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Brokkoli</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Blatt</fr:igdtQuantity>
-        <fr:igdtName>Weißkohl</fr:igdtName>
+        <fr:igdtName ref="weißkohl">Weißkohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName>Kailan (Chinesischer Brokkoli), ersatzweise Mangold oder Spinat</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), ersatzweise Mangold oder Spinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
-        <fr:igdtName>Ingwer</fr:igdtName>
+        <fr:igdtName ref="ingwer">Ingwer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sojasauce, light</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce, light</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

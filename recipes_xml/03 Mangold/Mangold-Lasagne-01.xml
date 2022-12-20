@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-47761016274852">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-47761016274852">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-47761016274852 - Mangold - Lasagne</fr:recipeName>
+  <fr:recipeName>Mangold-Lasagne</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,63 +11,63 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Köpfe</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n)</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n)</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Tomatenmark</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Butter für Bechamel</fr:igdtName>
+        <fr:igdtName ref="butter">Butter für Bechamel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>¾ Tasse/n</fr:igdtQuantity>
-        <fr:igdtName>Mehl für Bechamel</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl für Bechamel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Sahne für Bechamel</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne für Bechamel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Mehl für den Teig</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl für den Teig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Ei(er) für den Teig</fr:igdtName>
+        <fr:igdtName ref="teig">Ei(er) für den Teig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Oregano</fr:igdtName>
+        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Muskat, gerieben, für Bechamel</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat, gerieben, für Bechamel</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-99251039679069">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-99251039679069">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-99251039679069 - Gedünsteter Mangold</fr:recipeName>
+  <fr:recipeName>Gedünsteter Mangold</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,27 +11,27 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
-        <fr:igdtName>Mangold, frischer</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName>Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Ananassaft, naturtrüber</fr:igdtName>
+        <fr:igdtName ref="ananassaft">Ananassaft, naturtrüber</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Mehl (Vollkornmehl)</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl (Vollkornmehl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Mandel(n) - Mus</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandel(n) - Mus</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

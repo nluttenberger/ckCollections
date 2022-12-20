@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-848251190282118">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-848251190282118">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-848251190282118 - Ofen - Folien - Fisch</fr:recipeName>
+  <fr:recipeName>Ofen-Folien-Fisch</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,55 +11,55 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Port.</fr:igdtQuantity>
-        <fr:igdtName>Fischfilet(s) (Wolfsbarsch oder anderer Fisch)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s) (Wolfsbarsch oder anderer Fisch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Champignons</fr:igdtName>
+        <fr:igdtName ref="champignon">Champignons</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Steinpilze oder andere Pilze</fr:igdtName>
+        <fr:igdtName ref="steinpilz">Steinpilze oder andere Pilze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Mangold, gold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, gold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Mangold, rot oder weiß</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, rot oder weiß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Rosmarin, frischer</fr:igdtName>
+        <fr:igdtName ref="rosmarin">Rosmarin, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Thymian, frischer</fr:igdtName>
+        <fr:igdtName ref="thymian">Thymian, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName>Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Garnele(n) (ohne Schale)</fr:igdtName>
+        <fr:igdtName ref="garnele">Garnele(n) (ohne Schale)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Meersalz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Meersalz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Chilischote(n)</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

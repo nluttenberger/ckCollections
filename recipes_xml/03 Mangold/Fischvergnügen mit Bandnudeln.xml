@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3571581536057421">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3571581536057421">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3571581536057421 - Fischvergnügen mit Bandnudeln</fr:recipeName>
+  <fr:recipeName>Fischvergnügen mit Bandnudeln</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,63 +11,63 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Champignons</fr:igdtName>
+        <fr:igdtName ref="champignon">Champignons</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName>Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Pflücksalat, Mix, alternativ Blattspinat oder Mangold</fr:igdtName>
+        <fr:igdtName ref="spinat">Pflücksalat, Mix, alternativ Blattspinat oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Becher</fr:igdtQuantity>
-        <fr:igdtName>Schmand</fr:igdtName>
+        <fr:igdtName ref="schmand">Schmand</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Kräuterfrischkäse</fr:igdtName>
+        <fr:igdtName ref="frischkäse">Kräuterfrischkäse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Seelachsfilet(s), TK</fr:igdtName>
+        <fr:igdtName ref="lachs">Seelachsfilet(s), TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName>Bandnudeln</fr:igdtName>
+        <fr:igdtName ref="nudeln">Bandnudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName>Cranberries</fr:igdtName>
+        <fr:igdtName ref="cranberry">Cranberries</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Bund</fr:igdtQuantity>
-        <fr:igdtName>Dill</fr:igdtName>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Tomatenmark</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Senf</fr:igdtName>
+        <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Honig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3299251489922678">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3299251489922678">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3299251489922678 - Frischer Mangolassi</fr:recipeName>
+  <fr:recipeName>Frischer Mangolassi</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,23 +11,23 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName>Mangofruchtfleisch, TK</fr:igdtName>
+        <fr:igdtName ref="mango">Mangofruchtfleisch, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName>Naturjoghurt</fr:igdtName>
+        <fr:igdtName ref="joghurt">Naturjoghurt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Süßstoff oder Zucker, nach Geschmack</fr:igdtName>
+        <fr:igdtName ref="süßstoff">Süßstoff oder Zucker, nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Milch nach Belieben</fr:igdtName>
+        <fr:igdtName ref="milch">Milch nach Belieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName>Himbeeren und Minzeblättchen</fr:igdtName>
+        <fr:igdtName ref="himbeeren">Himbeeren und Minzeblättchen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

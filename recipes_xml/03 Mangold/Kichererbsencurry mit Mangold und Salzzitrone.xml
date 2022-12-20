@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2535771397222238">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2535771397222238">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2535771397222238 - Kichererbsencurry mit Mangold und Salzzitrone</fr:recipeName>
+  <fr:recipeName>Kichererbsencurry mit Mangold und Salzzitrone</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,59 +11,59 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName>Kichererbsen, getrocknete, alternativ 250 g gekochte aus der Dose</fr:igdtName>
+        <fr:igdtName ref="kichererbsen">Kichererbsen, getrocknete, alternativ 250 g gekochte aus der Dose</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½ TL</fr:igdtQuantity>
-        <fr:igdtName>Koriander</fr:igdtName>
+        <fr:igdtName ref="koriander">Koriander</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½ TL</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Tomatenmark</fr:igdtName>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName>Tomaten, stückige, 400 g</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomaten, stückige, 400 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Salzzitrone(n), und/oder Schale und Saft von 0.5 unbehandelten Zitrone</fr:igdtName>
+        <fr:igdtName ref="salzzitrone">Salzzitrone(n), und/oder Schale und Saft von 0.5 unbehandelten Zitrone</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName>Wasser, n.b. auch mehr</fr:igdtName>
+        <fr:igdtName ref="">Wasser, n.b. auch mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Petersilie, glatte</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, glatte</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

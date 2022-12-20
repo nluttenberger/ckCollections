@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3119711465052233">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3119711465052233">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3119711465052233 - Mangold-Kohlrabi-Frühlingscurry mit Pseudogetreide</fr:recipeName>
+  <fr:recipeName>Mangold-Kohlrabi-Frühlingscurry mit Pseudogetreide</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName>Mangoldblätter, bunte</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldblätter, bunte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
-        <fr:igdtName>Kohlrabi</fr:igdtName>
+        <fr:igdtName ref="kohlrabi">Kohlrabi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch, junger (ajo tjerno) oder 1 Knoblauchzehe, zerdrückt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, junger (ajo tjerno) oder 1 Knoblauchzehe, zerdrückt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), fein gehackt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Kokosöl</fr:igdtName>
+        <fr:igdtName ref="kokosöl">Kokosöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Currykraut</fr:igdtName>
+        <fr:igdtName ref="curry">Currykraut</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Bohnenkraut</fr:igdtName>
+        <fr:igdtName ref="bohnenkraut">Bohnenkraut</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Kokosmilch</fr:igdtName>
+        <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Sesam</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Pseudogetreidemischung (Quinoa, Amaranth, Bulgur, Hirse, ...)</fr:igdtName>
+        <fr:igdtName ref="amarant">Pseudogetreidemischung (Quinoa, Amaranth, Bulgur, Hirse, ...)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Sprossen nach Wahl, selbst gezogen</fr:igdtName>
+        <fr:igdtName ref="sprossen">Sprossen nach Wahl, selbst gezogen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1568031264320713">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1568031264320713">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1568031264320713 - Ente mit Pak Choy aus dem Wok</fr:recipeName>
+  <fr:recipeName>Ente mit Pak Choy aus dem Wok</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Zitronengras, frisches, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="zitronengras">Zitronengras, frisches, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName>Minze, frische, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="minze">Minze, frische, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), gehackt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Pfeffer, (Szechuanpfeffer)</fr:igdtName>
+        <fr:igdtName ref="szechuanpfeffer">Pfeffer, (Szechuanpfeffer)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Limettenschale, abgeriebene</fr:igdtName>
+        <fr:igdtName ref="limette">Limettenschale, abgeriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName>Paprikapulver, scharf</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, scharf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Maisstärke</fr:igdtName>
+        <fr:igdtName ref="stärke">Maisstärke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName>Entenbrust, ohne Haut, in feinen Streifen</fr:igdtName>
+        <fr:igdtName ref="ente">Entenbrust, ohne Haut, in feinen Streifen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Öl, (Erdnussöl)</fr:igdtName>
+        <fr:igdtName ref="erdnussöl">Öl, (Erdnussöl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
-        <fr:igdtName>Sojasprossen</fr:igdtName>
+        <fr:igdtName ref="sprossen">Sojasprossen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 ml</fr:igdtQuantity>
-        <fr:igdtName>Chilisauce, süße</fr:igdtName>
+        <fr:igdtName ref="chili">Chilisauce, süße</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Pak Choi, geputzt, die Blätter abgezupft (alternativ: Mangold)</fr:igdtName>
+        <fr:igdtName ref="pak_choi">Pak Choi, geputzt, die Blätter abgezupft (alternativ: Mangold)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

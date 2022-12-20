@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3570321535798131">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3570321535798131">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3570321535798131 - Fruchtiger Mirabellen-Mangold-Salat</fr:recipeName>
+  <fr:recipeName>Fruchtiger Mirabellen-Mangold-Salat</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,27 +11,27 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 große</fr:igdtQuantity>
-        <fr:igdtName>Mangoldblätter (kein Babymangold)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldblätter (kein Babymangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName>Mirabellen</fr:igdtName>
+        <fr:igdtName ref="mirabelle">Mirabellen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Fruchtessig (Mirabellenessig)</fr:igdtName>
+        <fr:igdtName ref="mirabelle">Fruchtessig (Mirabellenessig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Walnussöl oder Olivenöl</fr:igdtName>
+        <fr:igdtName ref="walnussöl">Walnussöl oder Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Zucker</fr:igdtName>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

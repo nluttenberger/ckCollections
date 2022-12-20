@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2930901445428526">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2930901445428526">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2930901445428526 - Mangold-Möhren-Kartoffel-Suppe</fr:recipeName>
+  <fr:recipeName>Mangold-Möhren-Kartoffel-Suppe</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,43 +11,43 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
-        <fr:igdtName>Mangold ohne Stiele</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold ohne Stiele</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName>Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Kartoffel(n), fest- bis mehligkochend</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), fest- bis mehligkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName>Chili</fr:igdtName>
+        <fr:igdtName ref="chili">Chili</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName>Speck, bei einer vegetarischen Variante, geräucherten Tofu</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, bei einer vegetarischen Variante, geräucherten Tofu</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Becher</fr:igdtQuantity>
-        <fr:igdtName>Schlagsahne, oder eine Tasse Sojamilch oder Joghurt pur</fr:igdtName>
+        <fr:igdtName ref="sahne">Schlagsahne, oder eine Tasse Sojamilch oder Joghurt pur</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
-        <fr:igdtName>Kerne, gemischt</fr:igdtName>
+        <fr:igdtName ref="kerne">Kerne, gemischt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Stiel/e</fr:igdtQuantity>
-        <fr:igdtName>Staudensellerie</fr:igdtName>
+        <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

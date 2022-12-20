@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1915351312102664">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1915351312102664">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1915351312102664 - Gefüllte Hackfleischroulade</fr:recipeName>
+  <fr:recipeName>Gefüllte Hackfleischroulade</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName>Hackfleisch, gemischtes</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Ei(er)</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Brötchen</fr:igdtName>
+        <fr:igdtName ref="brot">Brötchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Petersilie, frisch oder getrocknet</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, frisch oder getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), in kleine Würfel schneiden</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), in kleine Würfel schneiden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
-        <fr:igdtName>Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Paprikapulver</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Mangold, (ersatzweise Blattspinat frisch oder gefroren)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, (ersatzweise Blattspinat frisch oder gefroren)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName>Tomate(n), reife</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), reife</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, Gouda oder geriebener</fr:igdtName>
+        <fr:igdtName ref="gouda">Käse, Gouda oder geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
-        <fr:igdtName>Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

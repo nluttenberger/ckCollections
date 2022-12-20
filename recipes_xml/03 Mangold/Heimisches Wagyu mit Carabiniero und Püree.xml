@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4027001619699115">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4027001619699115">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-4027001619699115 - Heimisches Wagyu mit Carabiniero und Püree</fr:recipeName>
+  <fr:recipeName>Heimisches Wagyu mit Carabiniero und Püree</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,99 +11,99 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName>Rinderlende vom Wagyu-Rind, dry aged</fr:igdtName>
+        <fr:igdtName ref="rindfleisch">Rinderlende vom Wagyu-Rind, dry aged</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 ml</fr:igdtQuantity>
-        <fr:igdtName>Rinderfond (Wagyu Beef Tea)</fr:igdtName>
+        <fr:igdtName ref="fleischbrühe">Rinderfond (Wagyu Beef Tea)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Fett (Wagyu Rinderfett)</fr:igdtName>
+        <fr:igdtName ref="rindfleisch">Fett (Wagyu Rinderfett)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Meersalzflocken (Flor de Sal aus dem Naturschutzgebiet Ria Formosa in Portugal)</fr:igdtName>
+        <fr:igdtName ref="">Meersalzflocken (Flor de Sal aus dem Naturschutzgebiet Ria Formosa in Portugal)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName>Riesengarnelen (Carabineros)</fr:igdtName>
+        <fr:igdtName ref="garnele">Riesengarnelen (Carabineros)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 ml</fr:igdtQuantity>
-        <fr:igdtName>Weißwein</fr:igdtName>
+        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Krustentierfond</fr:igdtName>
+        <fr:igdtName ref="brühe">Krustentierfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n), fein gehackt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Knoblauch, gehackt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige Stiele</fr:igdtQuantity>
-        <fr:igdtName>Thymian, frischer</fr:igdtName>
+        <fr:igdtName ref="thymian">Thymian, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Meersalzflocken und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Meersalzflocken und Pfeffer aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName>Puntarelle (Vulkanspargel)</fr:igdtName>
+        <fr:igdtName ref="spargel">Puntarelle (Vulkanspargel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName>Kartoffeln, mehligkochende</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffeln, mehligkochende</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Trüffel, schwarzer</fr:igdtName>
+        <fr:igdtName ref="trüffel">Trüffel, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Trüffelpaste (weiße Trüffelcreme)</fr:igdtName>
+        <fr:igdtName ref="trüffel">Trüffelpaste (weiße Trüffelcreme)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName>Milch</fr:igdtName>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName>Edamame</fr:igdtName>
+        <fr:igdtName ref="edamame">Edamame</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige Stiele</fr:igdtQuantity>
-        <fr:igdtName>Koriandergrün</fr:igdtName>
+        <fr:igdtName ref="koriandergrün">Koriandergrün</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Limettensaft, frisch gepresst</fr:igdtName>
+        <fr:igdtName ref="limette">Limettensaft, frisch gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n), geröstet, 5 - 6 Stück</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), geröstet, 5 - 6 Stück</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

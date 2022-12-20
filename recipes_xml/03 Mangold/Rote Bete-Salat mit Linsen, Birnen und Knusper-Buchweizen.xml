@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4153771662552111">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-4153771662552111">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-4153771662552111 - Rote Bete-Salat mit Linsen, Birnen und Knusper-Buchweizen</fr:recipeName>
+  <fr:recipeName>Rote Bete-Salat mit Linsen, Birnen und Knusper-Buchweizen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,83 +11,83 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName>Rote Bete, mittelgroß</fr:igdtName>
+        <fr:igdtName ref="rote_bete">Rote Bete, mittelgroß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName>Rote Bete, mittelgroß</fr:igdtName>
+        <fr:igdtName ref="rote_bete">Rote Bete, mittelgroß</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName>Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Knoblauchzehe(n)</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Berglinsen, braun</fr:igdtName>
+        <fr:igdtName ref="linsen">Berglinsen, braun</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName>Wasser, kochend</fr:igdtName>
+        <fr:igdtName ref="">Wasser, kochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Zwiebel(n), rote (80 g)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rote (80 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName>Dijonsenf</fr:igdtName>
+        <fr:igdtName ref="dijonsenf">Dijonsenf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Wasser</fr:igdtName>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Rotweinessig</fr:igdtName>
+        <fr:igdtName ref="weinessig">Rotweinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Baby-Mangold, rot</fr:igdtName>
+        <fr:igdtName ref="mangold">Baby-Mangold, rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName>Buchweizen</fr:igdtName>
+        <fr:igdtName ref="buchweizen">Buchweizen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 ½</fr:igdtQuantity>
-        <fr:igdtName>Birne(n), reif</fr:igdtName>
+        <fr:igdtName ref="birne">Birne(n), reif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Feta-Käse, cremig</fr:igdtName>
+        <fr:igdtName ref="schafskäse">Feta-Käse, cremig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

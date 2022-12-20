@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3473931517573849">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-3473931517573849">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-3473931517573849 - Lauwarmer bunter Karottensalat</fr:recipeName>
+  <fr:recipeName>Lauwarmer bunter Karottensalat</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,55 +11,55 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName>Karotte(n), gelb, orange, violett</fr:igdtName>
+        <fr:igdtName ref="karotte">Karotte(n), gelb, orange, violett</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl extra vergine</fr:igdtName>
+        <fr:igdtName ref="olivenöl">Olivenöl extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName>Safranfäden</fr:igdtName>
+        <fr:igdtName ref="safran">Safranfäden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Frühlingszwiebel(n), fein geschnitten oder eine kleine Schalotte</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), fein geschnitten oder eine kleine Schalotte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Balsamessig, weiß oder Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="essig">Balsamessig, weiß oder Weißweinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Dijonsenf</fr:igdtName>
+        <fr:igdtName ref="dijonsenf">Dijonsenf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Honig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName>Kurkuma</fr:igdtName>
+        <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="">Salz aus der Mühle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName>Kampot Pfeffer, rot, geschrotet (nicht gemahlen!)</fr:igdtName>
+        <fr:igdtName ref="">Kampot Pfeffer, rot, geschrotet (nicht gemahlen!)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
-        <fr:igdtName>Estragon, fein geschnitten</fr:igdtName>
+        <fr:igdtName ref="estragon">Estragon, fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n), Bio bzw. unbehandelt</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitrone(n), Bio bzw. unbehandelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName>Mangoldblätter, kleine</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldblätter, kleine</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

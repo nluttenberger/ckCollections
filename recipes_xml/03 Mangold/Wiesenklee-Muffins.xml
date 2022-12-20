@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-385461125159435">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-385461125159435">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-385461125159435 - Wiesenklee - Muffins</fr:recipeName>
+  <fr:recipeName>Wiesenklee-Muffins</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,51 +11,51 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Blätterteig, TK</fr:igdtName>
+        <fr:igdtName ref="blätterteig">Blätterteig, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold, geputzt ,blanchiert und fein gehackt</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, geputzt ,blanchiert und fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName>Schalotte(n), fein gehackt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName>Butter</fr:igdtName>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName>Schinken (Schwarzwälder), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken (Schwarzwälder), gewürfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz</fr:igdtName>
+        <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Pfeffer, weiß, gemörsert</fr:igdtName>
+        <fr:igdtName ref="">Pfeffer, weiß, gemörsert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Muskat, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName>Ei(er), verschlagen</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), verschlagen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName>Butterkäse, gerieben</fr:igdtName>
+        <fr:igdtName ref="butterkäse">Butterkäse, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Wiesenkleeblätter, blanchiert und gehackt</fr:igdtName>
+        <fr:igdtName ref="wiesenklee">Wiesenkleeblätter, blanchiert und gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Grieß</fr:igdtName>
+        <fr:igdtName ref="grieß">Grieß</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

@@ -1,74 +1,73 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1034301208531650">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-1034301208531650">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-1034301208531650 - 'Wildkräutersalat' a la Xainti</fr:recipeName>
+  <fr:recipeName>'Wildkräutersalat' a la Xainti</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
     <fr:igdtList>
       <fr:igdtListName/>
       <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Löwenzahn</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Brennnessel</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Gänseblümchen</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Fenchelgrün</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Radieschengrün</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Sauerampfer</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Bärlauch</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity></fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName>Olivenöl</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName>Zitronensaft</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName>Zitrone(n), (zur Garnitur)</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
-        <fr:igdtName>Wasser, gesalzen, kochendes</fr:igdtName>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="löwenzahn">Löwenzahn</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Eiswasser</fr:igdtName>
+        <fr:igdtName ref="brennnessel">Brennnessel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="gänseblümchen">Gänseblümchen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="fenchelgrün">Fenchelgrün</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="radieschengrün">Radieschengrün</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="sauerampfer">Sauerampfer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="bärlauch">Bärlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitrone(n), (zur Garnitur)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser, gesalzen, kochendes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Eiswasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName>Feta-Käse, in Würfel geschnitten</fr:igdtName>
+        <fr:igdtName ref="schafskäse">Feta-Käse, in Würfel geschnitten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>

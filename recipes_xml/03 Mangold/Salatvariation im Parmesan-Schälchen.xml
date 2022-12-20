@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2379171377204456">
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="recipe-2379171377204456">
   <fr:meta>
     <fr:book>ckCollections</fr:book>
     <fr:chapter>03 Mangold</fr:chapter>
   </fr:meta>
-  <fr:recipeName>recipe-2379171377204456 - Salatvariation im Parmesan-Schälchen</fr:recipeName>
+  <fr:recipeName>Salatvariation im Parmesan-Schälchen</fr:recipeName>
   <fr:recipeKeywords/>
   <fr:recipeIntro/>
   <fr:recipeIngredients>
@@ -12,59 +11,59 @@
       <fr:igdtListName/>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName>Käse, (Grana Padano o. ä.)</fr:igdtName>
+        <fr:igdtName ref="grana_padano">Käse, (Grana Padano o. ä.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName>Rucola</fr:igdtName>
+        <fr:igdtName ref="rucola">Rucola</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName>Spinat - Blätter, frische</fr:igdtName>
+        <fr:igdtName ref="spinat">Spinat-Blätter, frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName>Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>45 g</fr:igdtQuantity>
-        <fr:igdtName>Friséesalat</fr:igdtName>
+        <fr:igdtName ref="friséesalat">Friséesalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Stängel</fr:igdtQuantity>
-        <fr:igdtName>Kleiner Wiesenknopf</fr:igdtName>
+        <fr:igdtName ref="ei">Kleiner Wiesenknopf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Stängel</fr:igdtQuantity>
-        <fr:igdtName>Kerbel</fr:igdtName>
+        <fr:igdtName ref="kerbel">Kerbel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Stängel</fr:igdtQuantity>
-        <fr:igdtName>Minze</fr:igdtName>
+        <fr:igdtName ref="minze">Minze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Stängel</fr:igdtQuantity>
-        <fr:igdtName>Dill</fr:igdtName>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName>Blüten, essbare</fr:igdtName>
+        <fr:igdtName ref="blüten">Blüten, essbare</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName>Cherrytomate(n)</fr:igdtName>
+        <fr:igdtName ref="tomate">Cherrytomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName>Essig, Himbeer-</fr:igdtName>
+        <fr:igdtName ref="essig">Essig, Himbeer-</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 EL</fr:igdtQuantity>
-        <fr:igdtName>Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Rapsöl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity/>
-        <fr:igdtName>Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
