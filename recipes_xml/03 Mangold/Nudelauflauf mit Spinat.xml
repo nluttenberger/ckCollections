@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="greyerzer">Käse (Greyerzer oder Emmentaler), gerieben</fr:igdtName>
+        <fr:igdtName ref="gruyère">Käse (Greyerzer oder Emmentaler), gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
