@@ -1,0 +1,71 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b05c927b-cb3a-42f6-87cd-533689f7bce4">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Minestrone mit Gr&#252;nkohl &#224; la Gabi 002</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="karotte">M&#246;hre(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 Stange/n</ns0:igdtQuantity>
+        <ns0:igdtName ref="staudensellerie">Staudensellerie</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="oliven&#246;l">Oliven&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer aus der M&#252;hle</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 Dose</ns0:igdtQuantity>
+        <ns0:igdtName ref="bohnen">Bohnen, wei&#223;e, 500 g Abtropfgewicht</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="mettwurst">Cabanossi, je 100 g</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1.500 ml</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 EL, geh&#228;uft</ns0:igdtQuantity>
+        <ns0:igdtName ref="parmesan">Parmesan, geriebener</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die Zwiebel sch&#228;len und fein w&#252;rfeln. Die M&#246;hren sch&#228;len und fein w&#252;rfeln. Den Staudensellerie fein w&#252;rfeln. Die Knoblauchzehen sch&#228;len und mit einem Messerr&#252;cken grob zerdr&#252;cken. Den Gr&#252;nkohl in Bl&#228;tter zerlegen, Mittelrippen entfernen, in kochendem Wasser 2 bis 3 Minuten vorgaren, abgie&#223;en, ausdr&#252;cken und in kleine St&#252;cke zupfen. Die Bohnen in einem Sieb unter flie&#223;endem Wasser absp&#252;len. Die Cabanossi in Scheiben schneiden.
+Oliven&#246;l in einem gro&#223;en Topf erhitzen, Zwiebel, M&#246;hren, Staudensellerie, Knoblauch und 1 Teel&#246;ffel Salz zugeben und unter gelegentlichem Umr&#252;hren 8 bis 10 Minuten d&#252;nsten.
+Wei&#223;e Bohnen, Cabanossi und Gem&#252;sebr&#252;he zuf&#252;gen und alles etwa 10 Minuten k&#246;cheln lassen. Den Gr&#252;nkohl unterheben, kurz aufkochen, mit Salz und Pfeffer w&#252;rzig abschmecken.
+Den Eintopf mit Parmesan bestreut servieren.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

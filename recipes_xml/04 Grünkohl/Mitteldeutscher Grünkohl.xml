@@ -1,0 +1,53 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ac282a1d-5f43-4565-a849-bc5d0c251318">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Mitteldeutscher Gr&#252;nkohl</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, frisch oder TK</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>50 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="speck">Speck, fetter, kein Bauchspeck</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 gro&#223;e</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="weizenmehl">Mehl</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>250 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="schinken">Schinkenw&#252;rfel</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="br&#252;he">Br&#252;hepulver</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Zuerst die Bl&#228;tter des frischen Gr&#252;nkohls vom Mittelstiel rei&#223;en und waschen. Danach die Bl&#228;tter mit kochendem Wasser &#252;bergie&#223;en. Dieses wieder abgie&#223;en und die Bl&#228;tter in klarem Wasser kochen lassen, bis sie zusammenfallen. Dabei den Kohl nicht zu lange zu kochen lassen. Wenn der "Gr&#252;n"kohl erst braun ist, schmeckt er nicht mehr! Das Kochwasser auffangen. Den gekochten Gr&#252;nkohl mit den H&#228;nden ausdr&#252;cken und nicht zu fein hacken.
+Bei Verwendung von TK-Gr&#252;nkohl diesen in einen Topf geben, mit klarem Wasser bedecken und bis zum Auftauen kochen lassen.
+Den Speck fein w&#252;rfeln und auf kleiner Flamme in einem Topf langsam auslassen, bis keine glasigen W&#252;rfel mehr zu sehen sind. Die gehackte Zwiebel im ausgelassenen Speck glasig d&#252;nsten, nicht braun werden lassen.
+Das Mehl in die Speck-Zwiebel-Masse geben, kurz anbraten und mit dem aufgefangenen Gem&#252;sewasser abl&#246;schen. Die Masse sollte breiig und nicht fl&#252;ssig sein. Diese zum Gr&#252;nkohl geben. Die Schinkenw&#252;rfel hinzuf&#252;gen. Alles gut verr&#252;hren und mit Br&#252;hepulver nach Geschmack w&#252;rzen.
+Anmerkung:
+Ich wei&#223;, dass die Norddeutschen ihre Zubereitungsweise des leckeren Gem&#252;ses f&#252;r die einzig wahre und zul&#228;ssige Rezeptur halten. Nix dagegen zu sagen! Ich biete hiermit aber eine sehr leckere und auch von Niedersachsen akzeptierte Rezeptvariante an!</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>

@@ -1,0 +1,66 @@
+<ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-47469a70-0c3b-49c1-8ec3-90bf3698a619">
+  <ns0:meta>
+    <ns0:book />
+    <ns0:chapter />
+  </ns0:meta>
+  <ns0:recipeName>Gr&#252;nkohl-S&#252;&#223;kartoffel-Eintopf</ns0:recipeName>
+  <ns0:recipeKeywords />
+  <ns0:recipeIntro />
+  <ns0:recipeIngredients>
+    <ns0:igdtList>
+      <ns0:igdtListName />
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1 kg</ns0:igdtQuantity>
+        <ns0:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2</ns0:igdtQuantity>
+        <ns0:igdtName ref="zwiebel">Zwiebel(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1</ns0:igdtQuantity>
+        <ns0:igdtName ref="knoblauch">Knoblauchzehe(n)</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>500 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, TK oder frisch</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>40 g</ns0:igdtQuantity>
+        <ns0:igdtName ref="apfel">Apfelringe, getrocknete</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>3</ns0:igdtQuantity>
+        <ns0:igdtName ref="kasseler">W&#252;rste (Kohlw&#252;rste) ersatzweise Kasseler</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>4 EL</ns0:igdtQuantity>
+        <ns0:igdtName ref="">Raps&#246;l</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>1,2 Liter</ns0:igdtQuantity>
+        <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity />
+        <ns0:igdtName ref="pfeffer">Salz und Pfeffer</ns0:igdtName>
+      </ns0:igdtListLine>
+      <ns0:igdtListLine>
+        <ns0:igdtQuantity>2 TL</ns0:igdtQuantity>
+        <ns0:igdtName ref="majoran">Majoran</ns0:igdtName>
+      </ns0:igdtListLine>
+    </ns0:igdtList>
+  </ns0:recipeIngredients>
+  <ns0:recipeInstructions>
+    <ns0:instruction>
+      <ns0:instrStepName />
+      <ns0:instrStepText>Die S&#252;&#223;kartoffeln sch&#228;len und in 1 cm gro&#223;e W&#252;rfel schneiden. Zwiebeln und Knoblauch sch&#228;len und w&#252;rfeln. Gefrorenen Gr&#252;nkohl ggf. hacken, frischen Gr&#252;nkohl von den dicken Blattrippen streifen, waschen, in mundgerechte St&#252;cke zupfen. Apfelringe in 2 cm gro&#223;e St&#252;cke schneiden. Kohlw&#252;rste bzw. Kasseler w&#252;rfeln.
+&#214;l in einem Topf erhitzen, die S&#252;&#223;kartoffeln rundherum anbraten. Zwiebeln zugeben und glasig braten, dann den Knoblauch noch kurz mit anbraten. Mit der Br&#252;he aufgie&#223;en. Apfelst&#252;cke zugeben und mit den Gew&#252;rzen w&#252;rzen. Kohlwurst- bzw. Kasselerw&#252;rfel zuf&#252;gen. Aufkochen und zugedeckt bei mittlerer Hitze 15 Minuten k&#246;cheln. Den Gr&#252;nkohl zugeben und weitere 15 Minuten kochen. Mit Salz und Pfeffer abschmecken.
+Tipp: Wenn nicht alle Fleisch essen wollen, koche ich die Kohlwurst im Ganzen, bzw. den Kasseler in Scheiben auf dem Eintopf mit oder separat in Wasser und serviere sie in W&#252;rfel geschnitten in einer Sch&#252;ssel dazu.</ns0:instrStepText>
+    </ns0:instruction>
+  </ns0:recipeInstructions>
+  <ns0:recipeSideDish />
+  <ns0:recipeOrigin />
+  <ns0:recipeSeeAlso />
+  <ns0:recipeLicense />
+</ns0:recipe>
