@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3544801530075009">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f075cdf0-72ee-411d-b283-1de9568f7bb6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Tamie goreng Cap Cay Seafood ala Taman Griya</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="früchte">Meeresfrüchte, gemischt, TK</fr:igdtName>
+        <fr:igdtName ref="fr&#252;chte">Meeresfr&#252;chte, gemischt, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="">Frittieröl, frisch</fr:igdtName>
+        <fr:igdtName ref="">Frittier&#246;l, frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Palmöl</fr:igdtName>
+        <fr:igdtName ref="">Palm&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Blattspinat, frisch, ersatzweise Mangold oder Pak Choi</fr:igdtName>
+        <fr:igdtName ref="pak_choi">Blattspinat, frisch, ersatzweise Mangold oder Pak Choi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), weiß, Heilbutt o. ä.</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), wei&#223;, Heilbutt o. &#228;.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -50,20 +50,20 @@
         <fr:igdtName ref="glutamat">Glutamat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, weißer, fein gemahlen</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;er, fein gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser, eiskalt</fr:igdtName>
+        <fr:igdtName ref="ei">Wasser, eiskalt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -71,14 +71,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl (Sagomehl)</fr:igdtName>
+        <fr:igdtName ref="sago">Mehl (Sagomehl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Weizenmehl Type 405</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser, zum Kochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -103,7 +103,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="arak">Reiswein, ersatzweise Arak Masak</fr:igdtName>
+        <fr:igdtName ref="reiswein">Reiswein, ersatzweise Arak Masak</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -111,11 +111,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, instant, zum Abschmecken</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he, instant, zum Abschmecken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sojasauce">Sojasauce, süß</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce, s&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -125,12 +125,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die B&#228;llchen das Fischfilet anfrieren. Die Meeresfr&#252;chte auftauen. Das Gem&#252;se waschen und mundgerecht zerkleinern. Den Knoblauch sch&#228;len und auspressen. Das Fischfilet in St&#252;cke schneiden und mit dem Knoblauch, dem Limonensaft, dem Eiwei&#223; und dem Pfeffer im Blender mit der H&#228;lfte vom Eiswasser fein p&#252;rieren. In eine Sch&#252;ssel geben, das Sago- und das Weizenmehl sowie 1 EL vom Palm&#246;l zuf&#252;gen und zu einem homogenen Teig mischen. Bedarfsweise vom restlichen Eiswasser zuf&#252;gen. Abgedeckt im K&#252;hlschrank 30 Minuten reifen lassen.
+F&#252;r das optionale Sambal den Chili waschen und in d&#252;nne Ringe schneiden, den Stiel verwerfen. Die Ringe mit den K&#246;rnern unter die Sojasauce mischen.
+Das Wasser erhitzen, das Salz und 2 EL vom Palm&#246;l zuf&#252;gen. Aus der Fischmasse kleine Kn&#246;del formen und ins simmernde Wasser gleiten lassen. Wenn sie oben schwimmen, mit einem Schauml&#246;ffel heraus heben und in kaltem Wasser abschrecken. Acht Bakso in dicke Scheiben schneiden. Nicht gebrauchte Bakso einfrieren und f&#252;r viele andere Rezepte mit Baksi-Ikan verwenden.
+Die Zutaten f&#252;r die Sauce mischen, abschmecken und bereit stellen. Den restlichen Fischfond in einer Eisw&#252;rfelform tieffrieren. Die Nudeln im kalten Wasser eine Minute w&#228;ssern. Mit einem Sieb herausnehmen und gut abtropfen lassen. Das Frittier&#246;l auf 200 Grad erhitzen. Die Karotten und den Blumenkohl mit 1 EL Palm&#246;l in einer hei&#223;en Pfanne f&#252;r drei Minuten pfannenr&#252;hren, die Meeresfr&#252;chte und die Bakso-Scheiben zuf&#252;gen, kurz pfannenr&#252;hren, dann mit der Sauce abl&#246;schen und den Spinat untermischen. Das Cap Cay Seafood mit einem Deckel gut warm halten.
+Die Nudeln im Sieb ins hei&#223;e Frittier&#246;l geben und in wenigen Sekunden hellbraun-knusprig frittieren.
+Auf die Servierteller verteilen. Das Cap Cay Seafood mit seiner Sauce &#252;ber die Nudeln geben und hei&#223; (optional mit dem Sambal) servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

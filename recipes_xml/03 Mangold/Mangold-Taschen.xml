@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-731741175858063">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b27ffe71-1dc4-4589-a466-27d55cd51ec3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Taschen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
         <fr:igdtName ref="quark">Quark</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,7 +26,7 @@
         <fr:igdtName ref="butter">Butter, kalte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="weizenmehl">Mehl, zum Ausrollen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -50,11 +50,11 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -73,12 +73,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Quark in einem Tuch gut auspressen. Dann mit Mehl, Salz und klein gew&#252;rfelter Butter mischen. Mit einem gro&#223;en K&#252;chenmesser durchkacken, dann mit den H&#228;nden zu einem geschmeidigen Teig kneten. Zugedeckt ca. 1 Std. kalt stellen.
+Den Teig dritteln und portionsweise in d&#252;nne gleichm&#228;&#223;ige Rechtecke ausrollen. Die Teigplatten aufeinander legen und von allen vier Seiten einschlagen. Zugedeckt weitere 2 Std. kalt stellen.
+F&#252;r die F&#252;llung den Schinken in einer Pfanne glasig braten. Schalotten und durchgepressten Knoblauch zuf&#252;gen und kurz mitd&#252;nsten. Gewaschen und gut geputzten Mangold zuf&#252;gen und unter Wenden zusammenfallen lassen. Mit Salz, Pfeffer und Muskat w&#252;rzen und abk&#252;hlen lassen.
+Die Mangoldmasse in einem Tuch auspressen und grob hacken. Mit 1 verquirlten Ei, der Sahne und dem geriebenen K&#228;se mischen. Den Teig ca. 3 mm dick ausrollen und Kreise von ca. 10 cm Durchmesser ausstechen. Je 1 EL F&#252;llung in d die Mitte geben. Die Teigkreise zu Halbmonden formen und die R&#228;nder gut festdr&#252;cken. Die Taschen mit dem zweiten verquirlten Ei bepinseln und auf ein kalt abgesp&#252;ltes Backblech legen. Die Taschen im vorgeheizten Backofen bei 220&#176; ca. 20 Min. backen. Warm servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,33 +1,33 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1160661222179659">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e1291e56-086a-4915-b836-edd7cb52612f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fisch unter der Wiese</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Öl, (Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l, (Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="lachs">Lachsfilet(s), á 175g</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachsfilet(s), &#225; 175g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="dill">Dill-Spitzen</fr:igdtName>
+        <fr:igdtName ref="dill">Dill - Spitzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -35,34 +35,43 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, (oder Blattspinat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräuter">Kräuterling(e)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uterling(e)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Sauce Cr&#233;me fra&#237;che in eine schwere Pfanne geben und sanft erhitzen. Sie darf Bl&#228;schen werfen, aber nicht kochen. Vom Herd nehmen, dann den Dill zugeben, verr&#252;hren und beiseite stellen.
+Den Ofen auf 160&#176;C vorheizen.
+Die Butter in einer schweren Pfanne mit dem &#214;l schmelzen, die Lachsfilets einlegen und bei mittlerer Hitze auf beiden Seiten ca. 5 Minuten braten.
+Den Lachs nach dem Braten aus der Pfanne nehmen und abgedeckt im Backofen warm halten.
+Den Knoblauch 1 Minute in der Pfanne unter r&#252;hren anbraten, Wein angie&#223;en aufkochen und einreduzieren lassen. Die Cr&#233;me-fra&#237;che-Mischung dazugeben und alles ca. 3 Minuten eink&#246;cheln.
+Den gewaschenen Mangold (in gef&#228;llige Streifen schneiden) einr&#252;hren und zusammenfallen lassen. Mit Salz, Pfeffer und Kr&#228;uterlingen abschmecken.
+Die Lachsfilets auf vorgew&#228;rmte Teller anrichten und die Sauce mit dem Mangold dar&#252;ber verteilen.
+Pro Teller eine Scheibe Zitrone dekorativ anrichten und evtl. mit weiteren Dillzweigchen garnieren.
+Ich reiche frisches Wei&#223;brot/Baguette oder Reis und Salat dazu, sowie einen guten, trockenen Wei&#223;wein (evtl. den, den man zum Kochen verwendet hat).
+Statt Mangold kann man auch super Brunnenkresse, oder wie oben angegeben, Blattspinat, verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

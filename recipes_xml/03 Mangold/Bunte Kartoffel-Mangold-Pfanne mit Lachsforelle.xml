@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3369041501076765">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-861cdea7-4ad7-485e-b753-b49931026a2d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Bunte Kartoffel-Mangold-Pfanne mit Lachsforelle</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n), unbehandelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="lachsforelle">Lachsforelle(n), ca. 400 g, küchenfertig</fr:igdtName>
+        <fr:igdtName ref="lachsforelle">Lachsforelle(n), ca. 400 g, k&#252;chenfertig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -43,34 +43,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig, flüssig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, heiß</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, hei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer, weiß oder schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223; oder schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, bunt oder schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, bunt oder schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zitrone in Scheiben schneiden. Die Lachsforelle mit etwas Salz sowie einigen Umdrehungen wei&#223;em oder schwarzem Pfeffer aus der M&#252;hle w&#252;rzen und mit den Zitronenscheiben und dem Dill f&#252;llen.
+Anschlie&#223;end auf ein mit Backpapier ausgelegtes Backblech legen und im vorgeheizten Backofen (E-Herd: 225 &#176;C, Umluft: 200 &#176;C) etwa 15 Minuten backen.
+Die Kartoffeln sch&#228;len, waschen und w&#252;rfeln. In einer gro&#223;en Pfanne oder einem Bratentopf das Raps&#246;l erhitzen und die Kartoffelw&#252;rfel darin unter Wenden etwa 6 bis 8 Minuten braten.
+Die Paprikaschoten halbieren, putzen, absp&#252;len und w&#252;rfeln. Den Mangold waschen, gut abtropfen lassen und die Mangoldbl&#228;tter sowie auch die Stiele klein schneiden. Beides zu den Kartoffelw&#252;rfeln in die Pfanne bzw. den Bratentopf geben und mit etwas edels&#252;&#223;em Paprikapulver, etwas Salz sowie einigen Umdrehungen buntem oder schwarzem Pfeffer aus der M&#252;hle w&#252;rzen. Anschlie&#223;end den Honig und die Gem&#252;sebr&#252;he zugeben und kurz k&#246;cheln lassen.
+Die Lachsforelle filetieren und dabei die Haut entfernen, dann in St&#252;cke teilen und auf der Kartoffel-Mangold-Pfanne verteilen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

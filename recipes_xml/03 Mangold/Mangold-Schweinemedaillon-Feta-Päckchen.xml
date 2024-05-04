@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2117241340997449">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ee76f9ad-beb7-4f04-b5f4-f6e9ab0d03e3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Schweinemedaillon-Feta-Päckchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Schweinemedaillon-Feta-P&#228;ckchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="wein">Schweinemedaillons</fr:igdtName>
@@ -19,46 +19,48 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="herbes_de_provence">Kräuter, (Kräuter der Provence)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="herbes_de_provence">Kr&#228;uter, (Kr&#228;uter der Provence)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter in kochendem Salzwasser blanchieren und mit K&#252;chenpapier abtupfen. Schweinemedaillons in Oliven&#246;l von beiden Seiten anbraten, mit Salz, Pfeffer und Paprika w&#252;rzen und aus der Pfanne nehmen.
+Feta mit Knoblauch (klein geschnitten oder gepresst) Paprikapulver, Salz, Pfeffer und Kr&#228;utern der Provence mit einer Gabel vermengen, auf die Medaillons verteilen und in die Mangoldbl&#228;tter einpacken. Zwiebel in etwas Oliven&#246;l in der Pfanne anschwitzen, die Mangoldp&#228;ckchen dazugeben, mit etwas Milch aufgie&#223;en und ca. 5-10 Min. k&#246;cheln lassen.
+Dazu passen Sp&#228;tzle oder Reis.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

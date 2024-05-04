@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3183301473811289">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a5a5573d-4c0e-43b2-99da-0871bc4086fc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Mangoldknödel à la Gabi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Mangoldkn&#246;del &#224; la Gabi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot, altbacken, in kleine Würfel geschnitten</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot, altbacken, in kleine W&#252;rfel geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -39,14 +39,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken, gekocht, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken, gekocht, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="liebstöckel">Liebstöckel, sehr fein gehackt</fr:igdtName>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="liebst&#246;ckel">Liebst&#246;ckel, sehr fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie, glatt, sehr fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -58,24 +58,24 @@
         <fr:igdtName ref="thymian">Thymian, sehr fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter, Stiele herausgeschnitten</fr:igdtName>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter, Stiele herausgeschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -87,18 +87,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsefond, Fertigprodukt aus dem Glas</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond, Fertigprodukt aus dem Glas</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Milch mit 30 g Butter erhitzen, &#252;ber die Wei&#223;brotw&#252;rfel gie&#223;en, ausquellen lassen, abk&#252;hlen und gut ausdr&#252;cken.
+20 g Butter in einer Pfanne erhitzen, Schalotten, Knoblauch, Rinder- und Putenhack und Schinken hierin anbraten und in eine Sch&#252;ssel geben. Die Brotmasse, Liebst&#246;ckel, Petersilie, Rosmarin, Thymian und Ei zuf&#252;gen, vermischen und mit Salz, Pfeffer und Muskat w&#252;rzig abschmecken. Hieraus 4 Kn&#246;del formen.
+Die Stiele vom Mangold herausschneiden und die Bl&#228;tter auf einem Teller in der Microwelle bei 1000 Watt ca. 4 Min. garen, herausnehmen und mit Salz und Pfeffer w&#252;rzen. Auf jedes Blatt einen Kn&#246;del legen, diese um den Kn&#246;del formen und einzeln mit Schweinenetz umh&#252;llen. Ringsum mit Salz und Pfeffer w&#252;rzen.
+Das Butterschmalz in einem Br&#228;ter erhitzen, die Kn&#246;del mit den &#252;berlappten Schweinenetzen nach unten hineingeben und im vorgeheizten Backofen bei 175 Grad offen ca. 6 - 8 Min. braten. Wenden, weitere 6 - 8 Min. braten, mit einem Schauml&#246;ffel herausnehmen und warm stellen. Den Gem&#252;sefond im Br&#228;ter auf dem Herd um die H&#228;lfte reduzieren, vom Herd nehmen, die kalte restliche Butter unterschlagen und mit Salz und Pfeffer w&#252;rzen.
+Die Mangoldkn&#246;del auf vorgew&#228;rmten Tellern mit der So&#223;e umgossen servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

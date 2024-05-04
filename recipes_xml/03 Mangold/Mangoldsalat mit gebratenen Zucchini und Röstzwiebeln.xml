@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2882831440528442">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7d2dcc22-4da3-4d87-8985-d7086840543a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldsalat mit gebratenen Zucchini und Röstzwiebeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldsalat mit gebratenen Zucchini und R&#246;stzwiebeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große Blätter</fr:igdtName>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kleine</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kleine</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,42 +27,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="salbei">Salbei</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="majoran">Majoran</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="rosmarin">Kr&#228;uter, italienische, frisch, Salbei, Thymian, Majoran, Oregano, Rosmarin</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, den Strunk entfernen und die Bl&#228;tter in Streifen schneiden. Die Zucchini waschen und in Scheiben schneiden. Die Zwiebel sch&#228;len und in W&#252;rfel schneiden. Die Zwiebel und die Zucchini scharf anbraten, bis sie R&#246;staromen haben.
+F&#252;r das Dressing die Zutaten zuammenr&#252;hren und die Sauce ggf. abschmecken. Den Mangold, die Zucchini und die Zwiebeln und das Dressing auf Teller oder in Sch&#228;lchen geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

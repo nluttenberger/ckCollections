@@ -1,0 +1,68 @@
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3359651499587409">
+  <fr:meta>
+    <fr:book>ckCollections</fr:book>
+    <fr:chapter>03 Mangold</fr:chapter>
+  </fr:meta>
+  <fr:recipeName>Seeteufelbäckchen im Mangoldblatt</fr:recipeName>
+  <fr:recipeKeywords/>
+  <fr:recipeIntro/>
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="seeteufel">Seeteufelbäckchen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 große</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="bockshornklee">Bockshornkleesamen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="reis">Schnaps (Reisschnaps)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldstiel(e)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchflocken, getrocknet</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), getrocknet</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, instant</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName/>
+      <fr:instrStepText/>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish/>
+  <fr:recipeOrigin/>
+  <fr:recipeSeeAlso/>
+  <fr:recipeLicense/>
+</fr:recipe>

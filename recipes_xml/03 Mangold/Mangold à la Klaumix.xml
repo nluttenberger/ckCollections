@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2708011423731623">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-951a1707-161b-4dff-a04c-a696a634d061">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold à la Klaumix</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold &#224; la Klaumix</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 EL, gehäuft</fr:igdtQuantity>
+        <fr:igdtQuantity>2 EL, geh&#228;uft</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chili, rot, in Scheiben</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chili, rot, in Scheiben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -51,18 +51,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold gr&#252;ndlich waschen. Das Wei&#223;e vom Mangold in sehr feine Streifen und das Gr&#252;ne in gr&#246;&#223;ere St&#252;cke schneiden. Die getrocknete Zwiebel und das Wasser in einem Topf erhitzen.
+Zuerst das Wei&#223;e vom Mangold d&#228;mpfen, zum Schluss das Gr&#252;ne zugeben und beiseite stellen.
+Den Ingwer, die Chili, den Knoblauch und die Birnen in Scheiben schneiden. Das &#214;l in einem Topf erhitzen und Ingwer, Chili und den Knoblauch anschwitzen. Die Birnenstreifen zugeben und mit Br&#252;he und Sojaso&#223;e abl&#246;schen. Alles auf die H&#228;lfte einkochen lassen und dann das Mangoldgem&#252;se unterheben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

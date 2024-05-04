@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-419831132621000">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8d36484a-1602-421f-a868-e1de4d35bcd3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldblätter</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldbl&#228;tter</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="butterschmalz">Butterschmalz (Ghee)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="senfsamen">Senfkörner</fr:igdtName>
+        <fr:igdtName ref="senfsamen">Senfk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="asafoetida">Asafoetida</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rz(e) (Asaf&#246;etida)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prisen</fr:igdtQuantity>
@@ -39,34 +39,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prisen</fr:igdtQuantity>
-        <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+        <fr:igdtName ref="k&#252;mmel">K&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräuter">Kräuter (Oregano, Majoran oder Thymian)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter (Oregano, Majoran oder Thymian)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, klein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Sahne oder 100 g Creme fraiche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Sahne oder 100 g Creme fraiche</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ghee in einem Topf erhitzen und die Senfk&#246;rner dazugeben. Sobald sie spritzen, die anderen Gew&#252;rze und K&#252;chenkr&#228;uter hinzuf&#252;gen. Bei kleiner Flamme Mangoldbl&#228;tter dazugeben. Unter st&#228;ndigem R&#252;hren etwa 20 Minuten k&#246;cheln lassen. Mit Salz abschmecken und Sahne oder Cr&#232;me fra&#238;che unterr&#252;hren.
+Mit Safranreis und Schmelzkohlrabi servieren, ein Fr&#252;chtechutney und Lassi anbieten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

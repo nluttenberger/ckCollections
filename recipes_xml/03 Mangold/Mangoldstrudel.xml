@@ -1,0 +1,75 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-405fef6e-a7d5-4bab-b2d7-ceb308e50be9">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldstrudel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig aus dem K&#252;hlregal (Rolle)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="quark">Magerquark</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se nach Wahl, fettreduziert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="emmentaler">Bergk&#228;se oder Emmentaler</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kl. Glas</fr:igdtQuantity>
+        <fr:igdtName ref="champignon">Champignons</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 Stiele</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Bl&#228;tterteig aufrollen und ca. 2 EL Semmelbr&#246;sel darauf streuen. Den Mangold waschen, in feine Streifen schneiden und ca. 6 Min. blanchieren. Mit kaltem Wasser abschrecken, abtropfen lassen.
+Den Quark mit Frischk&#228;se, Ei, Gew&#252;rzen und Kr&#228;uter vermengen. Die Champignons, klein geschnittene Zwiebel und geriebenen K&#228;se unterheben und zum Schluss den gut abgetropften Mangold zugeben. Sollte die Masse etwas fl&#252;ssig sein, etwas Semmelbr&#246;sel einarbeiten.
+Die Masse auf den Bl&#228;tterteig streichen, aufrollen mit Ei oder Milch bestreichen und ca. 45. Min. bei 200&#176;C backen.
+Wenn ich den Strudel auf Vorrat mache und gefroren aufs Backblech setze, so dauert es 1 Std., bis er fertig ist.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4014691616889882">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-30afacc4-1721-40ce-8324-38479d06cbe6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Indonesische Gemüsesuppe-Cap Cay Kuah</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Indonesische Gem&#252;sesuppe-Cap Cay Kuah</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), festkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 g</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Blatt</fr:igdtQuantity>
-        <fr:igdtName ref="weißkohl">Weißkohl</fr:igdtName>
+        <fr:igdtName ref="wei&#223;kohl">Wei&#223;kohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
@@ -43,26 +43,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="sojasauce">Sojasauce, light</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffel waschen, sch&#228;len, mundgerecht zerkleinern. Das Wasser erhitzen, die Gem&#252;sebr&#252;he darin aufl&#246;sen und die Kartoffelst&#252;cke in 20 Minuten bissfest kochen. Abseihen und die Br&#252;he behalten.
+In der Zwischenzeit das restliche Gem&#252;se waschen, putzen und mundgerecht zerkleinern. Das Sonnenblumen&#246;l im Wok erhitzen. Alle Gem&#252;sezutaten zugeben und 3 Minuten pfannenr&#252;hren. Mit der Gem&#252;sebr&#252;he abl&#246;schen. Die Sojasauce untermischen, mit Salz und schwarzem Pfeffer, frisch aus der M&#252;hle, abschmecken. Auf die Servierschalen verteilen, gut warm servieren und genie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

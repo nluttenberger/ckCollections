@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1187221224669581">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5467d9cc-1bef-4195-a47b-a6beeaa9349b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Grisous Caillettes</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="hackfleisch">Hackfleisch vom Schwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, ungeräuchert, klein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, unger&#228;uchert, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, nur das Grüne</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, nur das Gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Spritzer</fr:igdtQuantity>
@@ -47,30 +47,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Caillettes sind - wie so viele s&#252;dfranz&#246;sische Rezepte - Resteverwertung, es gibt daher unendlich viele Variationen. Oft wird statt Hackfleisch fertig gew&#252;rztes Schweinemett genommen, das allerdings sehr fett und auch stark &#252;berw&#252;rzt ist. Ich ziehe daher Schweinehack vor oder auch Hackfleisch gemischt mit durchgedrehten Bratenresten. Auch Reste von Karotten oder Sellerie, fein geraspelt, k&#246;nnen mit verarbeitet werden.
+Den gr&#252;nen Teil des Mangolds sorgf&#228;ltig von den Blattrispen entfernen (die St&#228;ngel lassen sich wunderbar anderweitig verwenden), fein hacken  und in wenig Oliven&#246;l leicht and&#252;nsten.
+Hackfleisch, Speck, Leber, Ei, Petersilie (damit sollte man nicht sparen), Zwiebel, Knoblauch und abgek&#252;hltem Mangold gut vermischen, mit Salz, Pfeffer und Muskat kr&#228;ftig w&#252;rzen, Portwein nach Geschmack dazugeben.
+Aus der Masse ca. 8 Ballen formen und in das vorher gut abgesp&#252;lte und passend zurechtgeschnittene Schweinenetz wickeln.
+In eine Gratinform setzen, mit Wei&#223;wein angie&#223;en und bei 180&#176; C ca 40 Minuten im Ofen backen.
+Gegessen werden die Caillettes meistens kalt, als Vorspeise oder als Snack - sie sind aber auch warm sehr lecker - und den Saft, der sich in der Backform bildet, sollte man unbedingt mit Brot auftunken!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

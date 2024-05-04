@@ -1,0 +1,54 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-882ede5e-9040-423b-8f00-03b4c4a8f333">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Kartoffel-Mangold-Gratin 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Kopf</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, nur die gr&#252;nen Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="joghurt">Joghurt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln sch&#228;len und in ca. 1 cm dicke Scheiben schneiden. In Salzwasser gar kochen. Das Gr&#252;ne vom Mangold von den Stielen abtrennen und sehr fein hacken (geht sehr gut mit einem Wiegemesser). Die Knoblauchzehen zerdr&#252;cken und mit dem gehackten Mangold mischen. Den Mangold in wenig Wasser and&#252;nsten. Die Eier mit Joghurt und Milch verr&#252;hren.
+In eine Auflaufform ganz unten die Kartoffeln legen, darauf die H&#228;lfte vom Schafk&#228;se geben und darauf den Mangold schichten. Auf den Mangold den restlichen Schafsk&#228;se geben und alles mit der Eier-Joghurt-Milch &#252;bergie&#223;en.
+Bei 225&#176;C 20 Minuten backen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

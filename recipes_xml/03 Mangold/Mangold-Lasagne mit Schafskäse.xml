@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-585511157717791">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4cbd331d-3282-4335-aaca-1b5c979a8407">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Lasagne mit Schafskäse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Lasagne mit Schafsk&#228;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold (mittelgroßer Kopf)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold (mittelgro&#223;er Kopf)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), gelb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomatenpüree</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomatenp&#252;ree</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -58,27 +58,32 @@
         <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Tomatenso&#223;e 3 EL Oliven&#246;l erhitzen, das Tomatenmark darin anbraten und ca. die H&#228;lfte der Knoblauchw&#252;rfel dazugeben. Kurz mitbraten und mit den passierten Tomaten aufgie&#223;en. Hitze auf kleinste Stufe stellen und mindestens 20 Min. k&#246;cheln lassen. Mit Salz, Pfeffer und Zucker abschmecken.
+Inzwischen f&#252;r die Mangold-Schafsk&#228;se-Masse den Mangold waschen und putzen. Zuerst die wei&#223;en Stiele in kochendem Salzwasser 5 Min. blanchieren und dann die gr&#252;nen Mangoldbl&#228;tter dazugeben. Alles weitere 3 Min. blanchieren, dann abgie&#223;en und mit kaltem Wasser abschrecken. Gut ausdr&#252;cken und klein hacken.
+Schafsk&#228;se zerbr&#246;seln, Paprikaschote in kleine W&#252;rfel schneiden, Pinienkerne anr&#246;sten. 3 EL Oliven&#246;l erhitzen und die Zwiebeln und den restlichen Knoblauch darin anbraten. Dann die Paprikaw&#252;rfel, den Mangold und den Schafsk&#228;se dazugeben. Mit Salz, Pfeffer, Muskat und Thymian w&#252;rzen. Pinienkerne dazugeben und alles gut vermengen.
+Nun 2 EL Oliven&#246;l in einer Auflaufform verteilen und deren Boden mit Lasagneplatten auslegen. Etwas Tomatenso&#223;e darauf verteilen. Nun abwechselnd Lasagnebl&#228;tter und Mangold-Schafsk&#228;se-Masse darauf schichten. Mit Lasagneplatten abschlie&#223;en. Auf das Ganze die Tomatenso&#223;e gro&#223;z&#252;gig verteilen.
+Im vorgeheizten Backofen bei 180 &#176;C Umluft ca. 30 Min. im Rohr lassen. Dann mit dem Parmesan bestreuen und weitere 10 Min. &#252;berbacken.
+Dazu passt ein frischer gr&#252;ner Salat mit der restlichen halben gelben Paprikaschote.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

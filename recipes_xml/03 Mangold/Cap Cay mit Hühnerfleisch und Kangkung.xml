@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3778271575917253">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e7daf8af-e4df-456b-80f1-831e90be430c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Cap Cay mit Hühnerfleisch und Kangkung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Cap Cay mit H&#252;hnerfleisch und Kangkung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>160 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrust, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbrust, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,8 +38,8 @@
         <fr:igdtName ref="blumenkohl">Blumenkohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="weißkohl">Weißkohl</fr:igdtName>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;kohl">Wei&#223;kohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>160 g</fr:igdtQuantity>
@@ -59,19 +59,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="arak">Arak Masak</fr:igdtName>
+        <fr:igdtName ref="reiswein">Arak Masak</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl, hell</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, hell</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gurke">Gurke(n) (Gurkenstücke, kantonesisch süß-sauer eingelegt), siehe Anhang</fr:igdtName>
+        <fr:igdtName ref="gurke">Gurke(n) (Gurkenst&#252;cke, kantonesisch s&#252;&#223;-sauer eingelegt), siehe Anhang</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -81,12 +81,24 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die H&#252;hnerbrust quer zur Faser in ca. 1 cm dicke Scheiben schneiden. Diese dann in ca. 2 cm gro&#223;e St&#252;cke zerkleinern und mit Kecap Tim Ikan 15 Minuten bei Zimmertemperatur marinieren.
+Die Zwiebelchen und die Knoblauchzehen an beiden Enden kappen, sch&#228;len und grob in St&#252;cke schneiden. Den frischen Ingwer waschen, sch&#228;len, quer in ca. 4 cm lange St&#252;cke teilen. Die St&#252;cke l&#228;ngs in d&#252;nne Scheiben schneiden und diese zu Streifen zerkleinern. Die Streifen quer zu kleinen W&#252;rfelchen verarbeiten. Nicht gebrauchte W&#252;rfelchen tieffrieren. TK-Ware abwiegen und auftauen lassen. Die Karotte waschen, an beiden Enden kappen, sch&#228;len und diagonal in ca. 3 mm dicke Scheiben hobeln. Den Blumenkohl waschen, vom Strunkende befreien, in kleine R&#246;schen zerteilen und diese nochmals absp&#252;len. Beim Wei&#223;kohl nur makellose Bl&#228;tter verwenden. Die Bl&#228;tter waschen. Die mittlere Rippe nur verwenden, wenn diese nicht bitter schmeckt. Die Rippe heraustrennen und quer in d&#252;nne Scheiben schneiden. Die Bl&#228;tter in ca. 2 x 3 cm gro&#223;e St&#252;cke zerkleinern. Den Kangkung waschen, von den h&#246;lzernen Stielteilen befreien und die zarten Stiele in ca. 4 cm lange St&#252;cke schneiden. Die Bl&#228;tter als Ganzes verwenden. Bei Spinat ebenso verfahren, bei Mangold die Bl&#228;tter grob zerkleinern.
+In kochendem, leicht gesalzenem Wasser den Kangkung bzw. Spinat oder Mangold 1 Minute blanchieren.
+Die Zutaten f&#252;r die Sauce homogen mischen.
+In einem Wok 2 EL vom Sonnenblumen&#246;l erhitzen. Die H&#252;hnerst&#252;cke zugeben und 2 Minuten pfannenr&#252;hren. Mit einem Schauml&#246;ffel herausnehmen und bereitstellen. Das restliche &#214;l zuf&#252;gen und hei&#223; werden lassen.
+Alle Zutaten von Zwiebelchen bis Blumenkohl zuf&#252;gen und 2 Minuten pfannenr&#252;hren, dann den Wei&#223;kohl zuf&#252;gen und eine weitere Minute pfannenr&#252;hren. Mit der Sauce abl&#246;schen und 1 Minute k&#246;cheln lassen. Die restlichen Zutaten zuf&#252;gen und kurz durchmischen.
+Auf die Servierteller verteilen, garnieren und als Beilage zu Reis servieren.
+Anmerkung:
+Ein chinesisches Rezept, das f&#252;r die &#246;rtlichen Vorlieben auf Lombok, Kangkung (Wasserspinat) und Sambal, angepasst wurde. Kangkung w&#228;chst in flachen Gew&#228;ssern mit relativ langen Stielen. Auf Lombok ist dieses Gem&#252;se sehr begehrt. Die Stiele werden, soweit sie nicht verholzt sind, verwendet. Die Kochzeiten sind wie bei Spinat sehr kurz.
+Verwendete Rezepte:
+Kecap Tim Ikan: https://www.chefkoch.de/rezepte/3483691519091669/Milde-dunkle-malzig-wuerzige-Sojasauce-Kecap-Tim-Ikan.html
+Gurkenst&#252;cke, kantonesisch s&#252;&#223;-sauer eingelegt: https://www.chefkoch.de/rezepte/3314971492403501/Gurkenstuecke-kantonesisch-suess-sauer-eingelegt.html
+Mildes Piraten-Sambal: https://www.chefkoch.de/rezepte/3142611467848019/Piraten-Sambal-bajak-laut-kurang-pedas1.html</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

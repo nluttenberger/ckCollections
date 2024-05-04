@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3104441463346399">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c772296b-2771-4acd-ba6a-9db5785c0ddc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Knuspriger Tofu mit grünen Bohnen, Shiitake und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Knuspriger Tofu mit gr&#252;nen Bohnen, Shiitake und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="tofu">Tofu, fest</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, grün</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -35,15 +35,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver oder Gewürzsalz</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver oder Gew&#252;rzsalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl oder Stärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Mehl oder St&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -55,11 +55,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Fünf-Gewürz-Pulver</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">F&#252;nf-Gew&#252;rz-Pulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -67,11 +67,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilisauce, süße</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilisauce, s&#252;&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -81,12 +81,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Wasser f&#252;r die Nudeln oder den Reis aufsetzen.
+Den Tofu in breite Streifen schneiden und in einem tiefen Teller mit Sojasauce, s&#252;&#223;er Chilisauce und etwas F&#252;nf-Gew&#252;rz-Pulver marinieren.
+Das Gem&#252;se waschen, die Bohnen halbieren und die Pilze in grobe St&#252;cke schneiden. Den Ingwer und den Knoblauch fein w&#252;rfeln. Die Erdn&#252;sse hacken.
+Das &#214;l in einer Pfanne erhitzen und die Bohnen 2 Minuten anbraten. Die Pilze und die H&#228;lfte vom Ingwer und den Knoblauch hinzugeben und eine weitere Minute braten. Die Bohnen sollten noch knackig sein. Mit Paprika, Bohnenkraut und Pfeffer w&#252;rzen. In einem gro&#223;en Glas hei&#223;em Wasser mit Mehl und Gem&#252;sebr&#252;he verr&#252;hren und das Gem&#252;se damit abl&#246;schen. Die Hitze reduzieren und die Sauce einkochen lassen. Gelegentlich r&#252;hren und ggf. mit Sojasauce abschmecken.
+In einer separaten Pfanne &#214;l erhitzen und die Tofustreifen zusammen mit der Marinade darin von beiden Seiten goldbraun anbraten. Kurz vor Ende der Garzeit den restlichen Ingwer und Knoblauch dazugeben und kurz mitbraten, ohne dass diese anbrennen. Den Mangold nur kurz in einem Topf mit wenig hei&#223;em Wasser blanchieren und herausnehmen.
+Die Nudeln oder Reis abgie&#223;en.
+Alles in einer Sch&#252;ssel oder tiefem Teller schichten. Oben drauf den Tofu geben und mit Erdn&#252;ssen bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

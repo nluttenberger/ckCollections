@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3193751475403859">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4d35e390-38b5-4285-bb86-c93a60633230">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kartoffelgratin mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), festkochende</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,30 +35,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Hartkäse, z. B. Parmesan oder Pecorino</fr:igdtName>
+        <fr:igdtName ref="parmesan">Hartk&#228;se, z. B. Parmesan oder Pecorino</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und Stiele und Bl&#228;tter getrennt voneinander in St&#252;cke schneiden. Zuerst die Stiele und danach die Bl&#228;tter in gesalzenem Wasser weich kochen, danach das Wasser abgie&#223;en und den Mangold abk&#252;hlen lassen. Den ausgek&#252;hlten Mangold fein hacken und mit Salz und Pfeffer abschmecken.
+Das Backrohr auf 200 &#176;C (Ober-/Unterhitze) vorheizen. Die Kartoffeln sch&#228;len und in 2 mm dicke Scheiben schneiden. Die Knoblauchzehen pressen und zusammen mit der s&#252;&#223;en Sahne und der Milch zum Kochen bringen.
+Die Kartoffelscheiben in die Mischung legen, mit Muskatnuss, Salz und Pfeffer w&#252;rzen und ungef&#228;hr 8 Minuten zugedeckt kochen. In der Zwischenzeit eine Auflaufform mit Butter ausstreichen und den Hartk&#228;se fein reiben.
+Als unterste Schicht eine Lage Kartoffelscheiben in die Auflaufform legen, darauf kommt der Mangold und als oberste Schicht wieder Kartoffelscheiben. Die Sahne-Milchmischung &#252;ber den Auflauf gie&#223;en und alles mit dem Hartk&#228;se bestreuen.
+Im Backrohr ca. 25 Minuten knusprig goldbraun backen. Die Fl&#252;ssigkeit sollte fast zur G&#228;nze eingedickt sein.
+Eignet sich hervorragend als Beilage zu gebratenem Fisch und Fleisch. Schmeckt aber auch als einfaches Hauptgericht.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

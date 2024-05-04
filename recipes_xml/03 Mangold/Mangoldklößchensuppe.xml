@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-913651196670665">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cce6a6b0-524d-4e3c-bdfa-0774d7050fe4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldklößchensuppe</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldkl&#246;&#223;chensuppe</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Brötchen, altbacken</fr:igdtName>
+        <fr:igdtName ref="brot">Br&#246;tchen, altbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse (Gouda), gerieben</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda), gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -39,30 +39,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="paniermehl">Paniermehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold waschen und in Streifen schneiden. Kurz in Salzwasser blanchieren und anschlie&#223;end p&#252;rieren. Br&#246;tchen einweichen und ausdr&#252;cken.
+Alles mit 3 Eiern, 100 g Paniermehl und Gouda vermengen. Petersilie waschen, fein hacken und unter die Masse heben. Aus der Masse Kl&#246;&#223;chen formen. Kl&#246;&#223;chen in der Br&#252;he ca. 7 Min. bei milder Hitze ziehen lassen.
+Kapern unter die Suppe r&#252;hren. Einige Spritzer Worcestersauce dazugeben. Salz, Pfeffer und Chilipulver w&#252;rzen. Suppe zu einem ger&#246;steten Baguette servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

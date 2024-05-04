@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3460261515492902">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a35e3a96-c100-4a10-b294-85860e3f36b1">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Fontina-Tortellini mit Blattspinat, Parmesan-Schaum und Trüffel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Fontina-Tortellini mit Blattspinat, Parmesan-Schaum und Tr&#252;ffel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Hartweizengrieß</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse (Fontina) oder anderer weicher, aromatischer Käse</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se (Fontina) oder anderer weicher, aromatischer K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
@@ -46,16 +46,16 @@
         <fr:igdtName ref="weizenmehl">Weizenmehl Type 405</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Baby-Spinat, ggf. auch Mangold oder Pak Choi</fr:igdtName>
+        <fr:igdtName ref="pak_choi">Baby-Spinat, ggf. auch Mangold oder Pak Choi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -70,16 +70,16 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -95,18 +95,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Knolle/n</fr:igdtQuantity>
-        <fr:igdtName ref="trüffel">Trüffel, schwarze Wintertrüffel, noch besser weißer Alba-Trüffel</fr:igdtName>
+        <fr:igdtName ref="tr&#252;ffel">Tr&#252;ffel, schwarze Wintertr&#252;ffel, noch besser wei&#223;er Alba-Tr&#252;ffel</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Nudelteig Mehl, Eier und Oliven&#246;l in einer Sch&#252;ssel oder gleich mit den H&#228;nden auf dem Nudelbrett miteinander vermengen und gut kneten. Der Teig sollte z&#228;h sein. Den Teig anschlie&#223;end in eine Klarsichtfolie wickeln und mind. 1 Stunde ruhen lassen (ich lasse ihn gerne &#252;ber Nacht im K&#252;hlschrank ruhen).
+F&#252;r die K&#228;sef&#252;llung die Butter schmelzen und das Mehl einr&#252;hren. Die Milch und die Sahne unter st&#228;ndigem R&#252;hren zugeben. Sobald die Masse dick wird, bei schwacher Hitze 4 Minuten kochen lassen. Den Fontina oder anderen K&#228;se in W&#252;rfelchen schneiden und unterr&#252;hren. Sobald sich der K&#228;se aufgel&#246;st hat, den Topf vom Herd nehmen und die Masse abk&#252;hlen lassen. Verarbeitet sich kalt leichter (kann auch vorbereitet werden).
+F&#252;r die Tortellini den Nudelteig d&#252;nn ausrollen. Kreise mit einem Durchmesser von ca. 7- 8 cm ausstechen. Auf jeden Kreis, mittig einen kleinen L&#246;ffel der K&#228;sef&#252;llung geben. Den Teigrand mit etwas Wasser bestreichen und die Teigbl&#228;tter zusammenklappen. Die nun halbmondf&#246;rmigen Teigtaschen am Rand gut zusammendr&#252;cken und beide Ecken zur Mitte hin biegen und zusammen kleben. Die Tortellini auf ein, mit Hartweizenmehl bestreutes, Blech oder Gitter mit einem Tuch bedeckt legen.
+In einem Topf mit kochendem Salzwasser 4 - 6 Minuten kochen lassen (h&#228;ngt von Gr&#246;&#223;e und Dicke ab).
+Den Babyspinat waschen und trocken schleudern. Die Schalotten und den Knoblauch abziehen und w&#252;rfeln. Das Oliven&#246;l in einem Topf erhitzen und die Schalotten und den Knoblauch darin glasig angehen lassen, dann den Spinat zuf&#252;gen und kurz zusammenfallen lassen. Mit Salz, Pfeffer und Muskatnuss abschmecken und abschlie&#223;end einen Schuss Sahne dazugeben. Das fertige Gem&#252;se noch einmal kurz aufkochen lassen. Anstelle von Spinat kann auch Mangold oder Pak Choi verwendet werden.
+F&#252;r den Parmesanschaum die Milch und die Sahne kurz aufkochen lassen und vom Herd nehmen. Den geriebenen Parmesan und die kalte Butter dazugeben. Die Sauce mit einem Stabmixer aufsch&#228;umen.
+Zum Anrichten die Tortellini auf dem Blattspinat anrichten. Den Parmesanschaum und die gehobelte Tr&#252;ffel dazugeben und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

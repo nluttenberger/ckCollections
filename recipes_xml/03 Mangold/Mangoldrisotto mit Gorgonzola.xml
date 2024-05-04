@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2831571435075551">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-052c6283-53b8-4b0a-8033-f781dbe4c9e5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldrisotto mit Gorgonzola</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>130 g</fr:igdtQuantity>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 mg</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein oder Apfelwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein oder Apfelwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, kräftig</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, kr&#228;ftig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
@@ -47,22 +47,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenkerne">Kürbiskerne und Sonnenblumenkerne</fr:igdtName>
+        <fr:igdtName ref="sonnenblumenkerne">K&#252;rbiskerne und Sonnenblumenkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zuerst die Kerne in einer Pfanne ohne Fett leicht anr&#246;sten.
+Danach die Mangoldbl&#228;tter von den St&#228;ngeln trennen und die St&#228;ngel in kleine 1 cm St&#252;ckchen schneiden.
+Die Zwiebel sehr fein schneiden und mit den Mangoldst&#252;ckchen in dem Oliven&#246;l etwa 3 &#8211; 4 Min. anschwitzen, dabei viel r&#252;hren. Dann den Reis dazugeben, kurz mit anschwitzen und mit dem Wein abl&#246;schen. Wenn die Fl&#252;ssigkeit verkocht ist, mit der hei&#223;en Gem&#252;sebr&#252;he aufgie&#223;en, sodass der Reis gerade bedeckt ist. Diesen Vorgang wiederholen, bis der Reis nach 20 &#8211; 30 Min. gar ist. Dabei aufpassen, mancher Reis braucht etwas weniger Br&#252;he der andere etwas mehr.
+Die Mangoldbl&#228;tter in feine Streifen schneiden, dann blanchieren, kalt abschrecken und leicht ausdr&#252;cken. Nun den Risottotopf vom Herd nehmen, die geschnittenen Mangoldbl&#228;tter, den Gorgonzola und die Butter untermischen.
+Auf einem Teller anrichten, mit Parmesank&#228;se bestreuen und die Kerne dar&#252;bergeben. Mit ein paar essbaren Bl&#252;ten (Senfbl&#252;ten, Kapuzinerkresse etc.) garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

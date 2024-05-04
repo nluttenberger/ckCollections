@@ -1,0 +1,47 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8fc83f01-1c53-4144-a704-c74921d6fa22">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gef&#252;llte Mangoldbl&#228;tter 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gr&#246;&#223;ere Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Dip (Schafsk&#228;secreme) oder Dip nach Wunsch oder Vorrat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz f&#252;r das Kochwasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;uter">&#214;l (Kr&#228;uter&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter gut waschen und dann im Salzwasser nicht zu weich kochen lassen. Abgie&#223;en und die Bl&#228;tter auf einem Brett ausbreiten, den dicken Strunk herausschneiden.
+Das Blatt halbieren oder vierteln, wie jeder mag. Dann mit dem Dip bestreichen und einrollen. Ich habe sie noch von innen mit Kr&#228;uteroliven&#246;l schwach eingepinselt.
+Auf einen Teller legen und von au&#223;en auch mit wenig Oliven&#246;l einpinseln. So bleiben sie l&#228;nger frisch. Bis zum Servieren im K&#252;hlschrank aufbewahren.
+Das ist eine schnelle Zubereitung und schmeckt mal anders, als die gekauften Weinbl&#228;tter. Mit der F&#252;llung kann man immer variieren. Sie schmecken auch mit angemachtem Frischk&#228;se.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

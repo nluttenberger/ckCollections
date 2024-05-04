@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2127511342192654">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9acd9268-ab3f-4109-8c75-37fc9fb6d676">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fischfilet mit Mangold und Pinienkernen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s)</fr:igdtName>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -42,19 +42,22 @@
         <fr:igdtName ref="zitrone">Zitronenscheibe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Fischfilets s&#228;ubern, s&#228;uern, salzen und pfeffern.
+Die Zwiebel klein schneiden und in 1 EL Butter glasig anschwitzen, dann Sahne und Wei&#223;wein dazugeben. Die Stiele des klein geschnittenen Mangolds zuf&#252;gen und ca. 5 Min. d&#252;nsten. Dann die Mangoldbl&#228;tter dazugeben und weitere 5 - 8 Min. d&#252;nsten.
+In der Zwischenzeit 1 EL Butter in einer Pfanne zerlassen und das Fischfilet darin kurz anbraten und ca. 10 Minuten d&#252;nsten, bis der Fisch gar ist.
+Die Pinienkerne in einer Pfanne anr&#246;sten und je einen halben EL beim Anrichten auf dem Teller &#252;ber den Mangold geben und je eine Zitronenscheibe auf das Fischfilet geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2524351395783483">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-074b5001-ef03-40e7-ba52-a364e4b85f63">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Limetten-Nudeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="limette">Limette(n)</fr:igdtName>
@@ -38,8 +38,8 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="zitrone">Zitronenpfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Zitronenpfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -47,10 +47,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -61,12 +61,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold vom Wurzelst&#252;ck befreien, gut waschen, die Bl&#228;tter von den Stielen trennen und beides in kleine St&#252;cke schneiden.
+Die Knoblauchzehe pellen und ebenfalls klein schneiden/hacken. Die Limette mit einem Zestenrei&#223;er oder &#228;hnlichem sch&#228;len, Schale nicht wegwerfen! Limette auspressen und den Saft beiseitestellen.
+Die Nudeln nach Packungsanweisung kochen.
+1 EL &#214;l in einer beschichteten Pfanne auf mittlerer Stufe erhitzen, Stiele und Knoblauch zugeben, etwas anbraten lassen. Derweil Wasser, Milch und Sahne mischen, 6 EL abnehmen und das Mehl damit anr&#252;hren. Restliche Mischung zu den Stielen geben und weiterd&#252;nsten lassen, bis die Stiele etwas glasig werden. Das anger&#252;hrte Mehl zugeben und die So&#223;e damit andicken. Dann die Bl&#228;tter oben drauflegen und zusammenfallen lassen (dauert ca. 5-7 Minuten). Limettenschale zugeben, umr&#252;hren. Wenn die Bl&#228;tter ausreichend zusammengefallen sind, Limettensaft und Parmesan zugeben. Mit Salz und Pfeffer abschmecken und zu den Nudeln servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

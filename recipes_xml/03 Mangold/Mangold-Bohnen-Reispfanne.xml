@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3927601600541820">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e0ca697e-2459-46b9-a452-cec237727e52">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Bohnen-Reispfanne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="reis">Reis</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="grüne_bohnen">Stangenbohnen</fr:igdtName>
+        <fr:igdtName ref="stangenbohnen">Stangenbohnen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -34,23 +34,29 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis nach Packungsanleitung kochen.
+Mangold waschen, von den Stielen befreien. Die Bl&#228;tter in grobe Streifen und die Stiele in W&#252;rfel schneiden. Die Stiele beiseitestellen.
+Die Mangoldbl&#228;tter kurz in Salzwasser blanchieren. Abgie&#223;en und ebenfalls beiseitestellen.
+Die Enden der Bohnen abschneiden, Bohnen halbieren oder dritteln (je nach Gr&#246;&#223;e) und ca. 12 Minuten in Salzwasser kochen.
+W&#228;hrenddessen die Zwiebel sch&#228;len, w&#252;rfeln und mit den Mangoldstielen in einer tiefen Pfanne oder einem Wok braten, bis die Zwiebeln glasig sind. Den Reis dazugeben und kurz mitbraten. Die Mangoldbl&#228;tter und die Bohnen unterheben.
+Die Tomaten in W&#252;rfel schneiden und mit dem klein gehackten Knoblauch in die Pfanne geben, noch mal kurz erhitzen und alles mit ordentlich Salz, Pfeffer sowie Gem&#252;sebr&#252;hepulver abschmecken.
+Das Ergebnis ist eine sch&#246;ne bunte Reispfanne.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

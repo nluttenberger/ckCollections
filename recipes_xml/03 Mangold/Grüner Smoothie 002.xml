@@ -1,0 +1,44 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0bd43abd-f64e-40f3-a0f0-bf2e49beabce">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gr&#252;ner Smoothie 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="erdbeeren">Erdbeeren</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, davon das Blattgr&#252;n</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="sauerkirschen">Sauerkirschen, entsteint</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Pfefferminze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Erdbeeren und die entsteinten Sauerkirschen in einen Mixer geben. Das Gr&#252;n von den Mangoldbl&#228;ttern und die Pfefferminzbl&#228;tter hinzuf&#252;gen. Mit Wasser bis zur 1-Liter-Marke auff&#252;llen und den Mixer mindestens 2 Minuten lang auf h&#246;chster Stufe laufen lassen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

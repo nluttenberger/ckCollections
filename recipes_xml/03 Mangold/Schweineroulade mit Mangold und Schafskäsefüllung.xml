@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1201401225969168">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-11b34347-1ad7-4c02-b613-0727245d54fe">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Schweineroulade mit Mangold und Schafskäsefüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Schweineroulade mit Mangold und Schafsk&#228;sef&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Roulade(n) vom Schwein, à ca. 180 g</fr:igdtName>
+        <fr:igdtName ref="wein">Roulade(n) vom Schwein, &#224; ca. 180 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>180 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse oder Ziegenkäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se oder Ziegenk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Fleischbrühe oder Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he oder H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -38,12 +38,12 @@
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -65,12 +65,20 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Strunk vom Mangold entfernen und die Stiele abschneiden. 6 gro&#223;e Bl&#228;tter f&#252;r 1 Minute in kochendem Wasser blanchieren und anschlie&#223;end auf K&#252;chenpapier legen und trocken tupfen. Den restlichen Mangold waschen, klein schneiden und zur sp&#228;teren Verarbeitung wegstellen.
+Die Rouladen mit Salz, Pfeffer und Cayennepfeffer gut w&#252;rzen. Je 2 Mangoldbl&#228;tter auf jede Roulade legen. 2/3 vom Schafsk&#228;se gleichm&#228;&#223;ig auf die Rouladen verteilen. Die beiden Seiten des Fleisches etwas nach innen klappen, damit sich die Roulade besser einrollen l&#228;sst. Mit Spie&#223;en feststecken.
+Den Backofen auf 180&#176; Ober- Unterhitze vorheizen.
+4 EL Oliven&#246;l in einer Pfanne erhitzen und die Rouladen von allen Seiten gut anbraten. Herausnehmen und in eine feuerfeste Form mit Deckel geben.
+Die fein gehackte Schalotte im hei&#223;en Bratensatz kurz anbr&#228;unen. Den Wein angie&#223;en und kurz aufkochen lassen. Wer keinen Wein verwenden m&#246;chte, nimmt stattdessen 250 ml Br&#252;he. Den Saft einer halben Zitrone und die Sahne dazugeben. Den restlichen Schafsk&#228;se in der So&#223;e schmelzen lassen und mit einem Schneebesen gut verr&#252;hren. Die So&#223;e mit Zucker, etwas Pfeffer und wer mag mit Cayennepfeffer abschmecken. Die fertige So&#223;e &#252;ber die Rouladen gie&#223;en. Mit geschlossenem Deckel f&#252;r 25 - 30 Minuten im Backofen fertig garen.
+Den restlichen Mangold in einer Pfanne mit Oliven&#246;l bei mittlerer Hitze etwa 10 Minuten d&#252;nsten. Mit Salz und Pfeffer w&#252;rzen.
+Fertigstellung: Ich gebe die So&#223;e direkt aus dem Ofen auf dem Teller. Wer es feiner m&#246;chte kann diese vorher durch ein Sieb streichen. Auf vorgew&#228;rmte Teller etwas So&#223;e und die Roulade geben. Den Mangold dazu anrichten.
+Dazu passen Salzkartoffeln oder Bandnudeln.
+Statt Mangold kann selbstverst&#228;ndlich auch frischer Blatt- oder Babyspinat verwendet werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

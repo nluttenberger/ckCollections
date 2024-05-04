@@ -1,0 +1,72 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-22da312a-becd-4327-8496-67ba3ce8cc49">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Rouladen 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="brot">Br&#246;tchen, altbacken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>16 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (mittelgro&#223;e Bl&#228;tter)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="speck">Bauchspeck, ger&#228;uchert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Rouladen das Br&#246;tchen in Milch oder Wasser einweichen, ausdr&#252;cken. Zusammen mit dem Hack, der feingehackten Zwiebel, dem Ei, Salz und Pfeffer in einer Sch&#252;ssel kr&#228;ftig zu einem homogenen Hackteig kneten, in 4 Portionen teilen.
+Mangoldbl&#228;tter gut waschen und trocken tupfen. Den Strunk entweder entfernen oder ab einem Drittel von oben durchschneiden. Jeweils 4 Bl&#228;tter geschichtet hintereinander legen, den zu einer Rolle geformten Hackteig darauflegen und mit den Bl&#228;ttern zusammenrollen, dabei die &#252;berstehenden Blattteile mit einrollen.
+Tipp: Falls sie danach nicht so dolle aussehen, kann man sie noch mit K&#252;chengarn zurecht binden.
+F&#252;r die Sauce den Speck (kann auch fetter R&#252;ckenspeck sein, dann das &#214;l weglassen) w&#252;rfeln. Die Zwiebel abziehen und hacken. Zusammen im &#214;l anbraten, mit Mehl &#252;berst&#228;uben und gut anbr&#228;unen lassen. Mit dem Wasser abl&#246;schen, den Braten/Mehl-Satz zu einer s&#228;migen Sauce aufr&#252;hren. Mit Salz und Pfeffer w&#252;rzen und kr&#228;ftig aufkochen lassen. Nun die Mangold-Rouladen hinein setzen. Zugedeckt ca. 1 Stunde bei kleiner Hitze k&#246;cheln lassen.
+Mit Salzkartoffeln oder Kartoffelbrei servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

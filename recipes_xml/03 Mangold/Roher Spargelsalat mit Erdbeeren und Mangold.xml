@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-659921167819464">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-06a96f74-fe01-40ad-bd1e-10343c7326b0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Roher Spargelsalat mit Erdbeeren und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, grüner</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;ner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, weißer</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 ml</fr:igdtQuantity>
@@ -35,26 +35,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL</fr:igdtQuantity>
-        <fr:igdtName ref="schnittlauch">Schnittlauch, in Röllchen geschnitten</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, in R&#246;llchen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Himbeeressig, Salz, Pfeffer, Oliven&#246;l und den Schnittlauch zu einem Dressing verr&#252;hren.
+Die beiden Spargelsorten sch&#228;len (beim gr&#252;nen Spargel nur das untere Drittel sch&#228;len), die holzigen Enden abschneiden  und schr&#228;g in d&#252;nne Scheibchen schneiden. Mit dem Dressing mischen.
+Die Erdbeeren putzen und in Scheiben schneiden. Die Pinienkerne in einer Pfanne leicht br&#228;unen. Mangold oder Rucola waschen, anschlie&#223;end trocknen.
+Mangold bzw. Rucola auf Tellern verteilen. Spargel und Erdbeeren darauf anrichten. Mit Pinienkernen bestreuen und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

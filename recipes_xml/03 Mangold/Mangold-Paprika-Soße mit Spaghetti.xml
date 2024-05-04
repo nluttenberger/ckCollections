@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-449871137441821">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-99d61dcb-4484-4fae-8848-fe77d63601cf">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Paprika-Soße mit Spaghetti</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Paprika-So&#223;e mit Spaghetti</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), rot</fr:igdtName>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -49,12 +49,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold kurz in hei&#223;em Wasser blanchieren und anschlie&#223;end klein schneiden. Knoblauch und Paprika w&#252;rfeln und in Oliven&#246;l kurz anbraten (nicht zu lange, sodass der Paprika noch Biss hat). Die Br&#252;he und Mangold zugeben und ebenfalls kurz mitgaren. Zur Seite stellen und abk&#252;hlen lassen. In der Zwischenzeit Spaghetti al dente kochen.
+Die abgek&#252;hlte Masse in den Mixer und ganz kurz durchp&#252;rieren (je nachdem, wie fein man die So&#223;e haben m&#246;chte). Dann zur&#252;ck in die Pfanne geben, mit Salz und Pfeffer abschmecken und mit Sahne oder Schmand zu einer s&#228;migen So&#223;e aufkochen lassen. Parmesan oder Schafsk&#228;se zugeben.
+Das Gr&#252;n vom Mangold und das Rot der Paprika sehen sehr sch&#246;n aus und die So&#223;e ist mit der nur kurz gebratenen Paprika noch sch&#246;n knackig.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

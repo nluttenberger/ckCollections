@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3648451549200537">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-40af855c-d86b-44d1-8d8f-0eb1a6ae0af3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Pflaumen-Zimt-Smoothie</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="pflaume">Pflaume(n), blau, entsteint</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="avocado">Avocado(s), reif, entsteint</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Bio-Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,11 +26,11 @@
         <fr:igdtName ref="mangold">Spinat, Rucola, Mangold oder Salat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="minze">Minze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,22 +43,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="süßstoff">Süßungsmittel</fr:igdtName>
+        <fr:igdtName ref="s&#252;&#223;stoff">S&#252;&#223;ungsmittel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweißpulver</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;pulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Zutaten in den Mixer geben und cremig p&#252;rieren.
+Ergibt 2 Portionen &#224; 300 ml</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

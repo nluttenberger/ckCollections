@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-986061204017754">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fbcc8eee-9459-4f3f-8e74-a2ba903a3c41">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Hecht mit Salbei auf Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -22,15 +22,15 @@
         <fr:igdtName ref="hecht">Hecht, 5 cm dick (800 - 1000 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>12 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="salbei">Salbei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,23 +46,27 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName ref="walnuss">Walnüsse</fr:igdtName>
+        <fr:igdtName ref="walnuss">Waln&#252;sse</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Vom Mangold den Staudenansatz abschneiden, grobe oder besch&#228;digte Bl&#228;tter entfernen. Dann das Gem&#252;se gr&#252;ndlich waschen. Stiele in schmale Streifen, Bl&#228;tter grob schneiden. Die Knoblauchzehe sch&#228;len. Die Hechtscheiben waschen und mit K&#252;chenpapier trocknen. Jedes St&#252;ck rechts und links der R&#252;ckengr&#228;te einschneiden. Die Scheiben mit Salz und Pfeffer bestreuen, mit einigen Tropfen Zitronensaft betr&#228;ufeln. Je ein Salbeibl&#228;ttchen in die beiden Einschnitte und in die Innenseite der Scheiben legen. Die Bauchlappenst&#252;cke &#252;bereinander schlagen, so dass Rollen entstehen. Diese mit je 1 Speckstreifen umwickeln und alles mit K&#252;chengarn befestigen.
+In einem gro&#223;en Topf die H&#228;lfte der Butter erhitzen und die ganze Knoblauchzehe sowie den nassen Mangold hineingeben. Bei guter Mittelhitze 3-5 Minuten d&#252;nsten, bis die Fl&#252;ssigkeit verdampft ist und die Mangoldstiele weich, jedoch noch knackig sind. Den Mangold warm stellen.
+In einem Br&#228;ter die &#252;brige Butter erhitzen und bei guter Mittelhitze die Hechtst&#252;cke rundum 6-7 Minuten braten.
+In der Zwischenzeit den Mangold erneut erhitzen, Sahne unterr&#252;hren, mit Salz, Pfeffer und Muskat abschmecken.
+Auf vorgew&#228;rmte Teller etwas Mangold geben, mit den grob gehackten Waln&#252;ssen bestreuen, den Hecht daneben anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

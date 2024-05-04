@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2646511415869250">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2035494a-3ebe-4b94-aaec-f11b51bb2b69">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Pizzoccheri</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="buchweizenmehl">Buchweizenmehl</fr:igdtName>
@@ -26,12 +26,12 @@
         <fr:igdtName ref="kartoffel">Kartoffel(n), fest kochende</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben (Fontina oder Raclettekäse)</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben (Fontina oder Raclettek&#228;se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="salbei">Salbei-Blätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbei - Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
@@ -55,15 +55,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -73,12 +73,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl mit Ei, Oliven&#246;l, Salz und Wasser zu einem glatten Teig verarbeiten. Nach kurzer Ruhezeit in 4 mm dicke und 7 - 10 cm lange Streifen ausrollen und mit dem Messer in 4 mm breite Nudeln schneiden.
+Den Mangold und die Kartoffeln in grobe W&#252;rfel, den Knoblauch in d&#252;nne Scheiben und die Salbeibl&#228;tter in d&#252;nne Streifen schneiden.
+Kartoffeln und Mangold nacheinander in kochendes Salzwasser geben. Nach 5 Minuten die Nudeln dazugeben und nach weiteren 10 Minuten probieren.
+Das Wasser abgie&#223;en und die Pizzoccheri schichtweise mit dem geriebenen K&#228;se auf einer gro&#223;en Platte anrichten. Butter, Knoblauch und Salbei in einer Bratpfanne goldbraun braten und &#252;ber die Pizzoccheri geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

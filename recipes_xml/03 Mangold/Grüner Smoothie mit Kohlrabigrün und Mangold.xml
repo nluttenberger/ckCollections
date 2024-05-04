@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2609651409925953">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e43b8344-32a4-4841-a2eb-548ecc1183c3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Grüner Smoothie mit Kohlrabigrün und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gr&#252;ner Smoothie mit Kohlrabigr&#252;n und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="kohlrabi">Kohlrabi-Blätter</fr:igdtName>
+        <fr:igdtName ref="kohlrabi">Kohlrabi - Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -45,12 +45,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Trockenpflaumen ca. 2 Stunden im Wasser einweichen.
+Die Kiwi sch&#228;len. Die Nektarine entsteinen. Die Bl&#228;tter waschen. Die Himbeeren verlesen.
+Alle Zutaten im Thermomix oder Mixer fein p&#252;rieren und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

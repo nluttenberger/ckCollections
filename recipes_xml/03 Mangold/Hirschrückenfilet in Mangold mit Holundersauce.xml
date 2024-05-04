@@ -1,37 +1,37 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-106461044803575">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4061f707-1123-4753-a284-693ec7a3051f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hirschrückenfilet in Mangold mit Holundersauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Hirschr&#252;ckenfilet in Mangold mit Holundersauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName ref="rehundhirsch">Hirschrückenfilet</fr:igdtName>
+        <fr:igdtName ref="rehundhirsch">Hirschfleisch (Hirschr&#252;ckenfilet)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="wildfarce">Wild-Farce</fr:igdtName>
+        <fr:igdtName ref="wildfarce">Wild - Farce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>6 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Wildfond</fr:igdtName>
+        <fr:igdtName ref="wildfond">Fond (Wildfond)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="rotwein">Rotwein</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -42,23 +42,26 @@
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>kleines Stück</fr:igdtQuantity>
-        <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="knollensellerie">Sellerie, kleines St&#252;ck</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="holunder">Holundersirup</fr:igdtName>
+        <fr:igdtName ref="holunder">Sirup (Holundersirup)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Hirschr&#252;ckenfilet vollkommen von Sehnen und Haut befreien, salzen und ganz kurz anbraten. Die Mangoldbl&#228;tter blanchieren, die dicken, wei&#223;en Stiele abschneiden.
+Das gebratene Hirschfilet rundherum mit der Wildfarce einreiben und in den Mangold wickeln. Auf die Fettpfanne legen, die in W&#252;rfel geschnittene Zwiebel, Karotten und Sellerie herum legen und bei 180&#176; in den Ofen schieben. 20 - 30 Minuten braten, herausnehmen.
+Das Gem&#252;se mit dem Fond und dem Wein abl&#246;schen und etwas reduzieren lassen. Durch ein Sieb passieren und dann den Sirup zugeben, abschmecken.
+Dazu passen Rosenkohl oder Rotkohl.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

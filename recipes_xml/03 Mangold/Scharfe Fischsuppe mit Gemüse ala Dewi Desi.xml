@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3720981563409293">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f0bc7201-bb62-4685-b7e5-c18ea548cc26">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Scharfe Fischsuppe mit Gemüse ala Dewi Desi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Scharfe Fischsuppe mit Gem&#252;se ala Dewi Desi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="tintenfisch">Meeresfrüchte, TK (Mischung aus Shrimps, Fisch und Tintenfisch)</fr:igdtName>
+        <fr:igdtName ref="tintenfisch">Meeresfr&#252;chte, TK (Mischung aus Shrimps, Fisch und Tintenfisch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
         <fr:igdtName ref="fischfond">Fischfond, im Glas oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,7 +26,7 @@
         <fr:igdtName ref="rettich">Rettich(e)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,7 +38,7 @@
         <fr:igdtName ref="chilischote">Chilischote(n), rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), ersatzweise Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,18 +51,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Meeresfr&#252;chte auftauen lassen. Das Gem&#252;se waschen und putzen. Den Rettich und die Karotte sch&#228;len und quer in ca. 2 mm dicke Scheiben hobeln. Die Tomaten waschen, den Stiel entfernen, h&#228;uten, l&#228;ngs vierteln, den gr&#252;nen Strunk und die K&#246;rner entfernen. Die Viertel l&#228;ngs halbieren. Die Peperoni diagonal in ca. 8 mm dicke Scheiben schneiden. Die K&#246;rner belassen und den Stiel verwerfen. Den kleinen, roten Chili waschen, quer in d&#252;nne Ringe schneiden, die K&#246;rner belassen und den Stiel verwerfen. Die Blattstiele von den Kailanbl&#228;ttern abtrennen und quer in d&#252;nne R&#246;llchen schneiden. Die gr&#252;nen Bl&#228;tter fingernagelgro&#223; zerkleinern.
+Den Fischfond mit 100 g Wasser verd&#252;nnen und die Fisch- und Austernsauce dazumischen.
+Einen Wok erhitzen, 2 EL vom Sonnenblumen&#246;l zugeben und hei&#223; werden lassen. Karotten, Rettich, Peperoni und Kailanr&#246;llchen zugeben und 2 Minuten pfannenr&#252;hren. Die Tomaten zugeben und weiter 1 Minute pfannenr&#252;hren. Aus der Pfanne nehmen und das restliche Sonnenblumen&#246;l zugeben und stark erhitzen. Die Meeresfr&#252;chte zugeben und 1 Minute pfannenr&#252;hren. Mit dem Fischfondgemisch abl&#246;schen und das Gem&#252;se und die Kailanbl&#228;tter zugeben und untermischen. Mit Fischsauce salzig abschmecken und gut warm servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

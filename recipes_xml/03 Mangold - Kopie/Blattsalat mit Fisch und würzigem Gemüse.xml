@@ -1,0 +1,72 @@
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-945721200142908">
+  <fr:meta>
+    <fr:book>ckCollections</fr:book>
+    <fr:chapter>03 Mangold</fr:chapter>
+  </fr:meta>
+  <fr:recipeName>Blattsalat mit Fisch und würzigem Gemüse</fr:recipeName>
+  <fr:recipeKeywords/>
+  <fr:recipeIntro/>
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="fisch">Fischfilet(s), (Steinbutt o.ä.)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="feldsalat">Salat, gemischter (Feldsalat, junger Mangold, Batavia)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Öl, (Distel- oder Sonnenblumenöl)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtName ref="senfsamen">Senfkörner, schwarze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker, feiner</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName/>
+      <fr:instrStepText/>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish/>
+  <fr:recipeOrigin/>
+  <fr:recipeSeeAlso/>
+  <fr:recipeLicense/>
+</fr:recipe>

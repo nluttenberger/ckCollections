@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-837021188485696">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2a4800fe-c14c-428f-ac93-4149b594b1c9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldröllchen mit Hackfleisch im Tomaten-Paprikabett</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldr&#246;llchen mit Hackfleisch im Tomaten-Paprikabett</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="reis">Reis</fr:igdtName>
@@ -18,12 +18,12 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>20 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>20 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -73,12 +73,20 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis mit dem Wasser und dem Salz aufkochen, die Hitze auf die allerkleinste Stufe zur&#252;ckdrehen und den Reis ca. 20 min. ausquellen und dann abk&#252;hlen lassen.
+Den Mangold waschen und ein paar Sekunden in Salzwasser blanchieren, beiseite stellen.
+Die Zwiebel und eine Knoblauchzehe ganz fein w&#252;rfeln und in einer Pfanne mit Oliven&#246;l anschwitzen. Das Hackfleisch dazugeben und kr&#252;melig braten. 4 EL Ajvar, Cr&#232;me fra&#238;che und den gekochten Reis dazugeben und die Hackmasse mit Salz und Pfeffer abschmecken.
+Den Rest des Ajvars mit den Pizzatomaten verr&#252;hren, die zweite Knoblauchzehe dazupressen und die Tomatensauce mit Salz, Pfeffer, Zucker und Cayenne abschmecken und in eine ofenfeste Form geben.
+Jeweils ein Mangoldblatt mit einem guten Essl&#246;ffel der Hackmasse f&#252;llen, zu einer Roulade rollen und die R&#246;llchen nebeneinander auf der Tomatensauce anordnen. Den Mozzarella in Scheiben schneiden und auf jedes R&#246;llchen eine Scheibe K&#228;se legen.
+Inzwischen den Backofen auf 200&#176;C vorheizen und die R&#246;llchen ca. 20-25 min. &#252;berbacken.
+Dazu gibt es Reis oder einfach Wei&#223;brot.
+TIPP:
+Ich verwende zu diesem Rezept den sog. Blattmangold mit den schmalen Stielen. Sollte man Stiel- oder Staudenmangold verwenden, kann man die Stiele fein gehackt in der F&#252;llung mit verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

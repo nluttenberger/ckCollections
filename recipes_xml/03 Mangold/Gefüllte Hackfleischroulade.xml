@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1915351312102664">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9751f552-2035-4b35-9efd-f8ed666ec26c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Hackfleischroulade</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Hackfleischroulade</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Brötchen</fr:igdtName>
+        <fr:igdtName ref="brot">Br&#246;tchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -27,18 +27,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), in kleine Würfel schneiden</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), in kleine W&#252;rfel schneiden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="lauchzwiebel">Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,22 +51,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, Gouda oder geriebener</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, Gouda oder geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="lauchzwiebel">Lauchzwiebel(n), komplett fein schneiden</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Backofen auf 200&#176; vorheizen.
+Vorbereitung f&#252;r die F&#252;llung:
+Mangold waschen, die gr&#252;nen Bl&#228;tter von der Rippe trennen, in Streifen schneiden und ca. 2 Minuten blanchieren.
+Tomaten kreuzweise einschneiden, kurz in kochendes Wasser legen. Schale entfernen, Tomaten in kleine W&#252;rfel schneiden.
+Fleischteig herstellen:
+Br&#246;tchen kurz im kalten Wasser einweichen, kr&#228;ftig ausdr&#252;cken und mit den H&#228;nden zerbr&#246;seln. Petersilie fein hacken.
+Hackfleisch, Br&#246;tchen, Eier Zwiebel, Lauchzwiebel, Petersilie und Gew&#252;rze in eine Sch&#252;ssel geben und vermengen.
+Backpapier 40x38cm (Backblechgr&#246;&#223;e) auf die Arbeitsplatte legen und mit &#214;l bestreichen. Den Hackteig darauf verteilen, ca. 1 cm Rand freilassen und etwas festdr&#252;cken.
+Den blanchierten Mangold und die Lauchzwiebeln auf dem Hackteig verteilen. K&#228;se dar&#252;ber streuen und zum Schluss die Tomatenw&#252;rfel darauf geben.
+Mit Hilfe des Backpapiers den Fleischteig von einer Seite her bis zur H&#228;lfte aufrollen. Danach die gegen&#252;berliegende Seite aufrollen, so dass eine doppelte Roulade entsteht. Geht ganz einfach dadurch, dass sich der Fleischteig durch das Be&#246;len des Backpapiers gut abl&#246;st. Nun halte ich das Backpapier von beiden Seiten mittig &#252;ber der Roulade zusammen und kann die Roulade mit dem Backpapier in eine Auflaufform oder Fettpfanne umsetzen. Einfetten der Auflaufform ist nicht n&#246;tig, da die Roulade auf dem Backpapier ausgebacken wird.
+50-60 Minuten bei 200&#176; backen. 10 Minuten nach Backzeitende im warmen Ofen ruhen lassen.
+Wir essen dazu sehr gerne einen Tomatensalat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

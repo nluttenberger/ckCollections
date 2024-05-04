@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-525901148996219">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-11e74968-1938-4ec7-96fe-cd22e22dd0a2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hähnchen-Cordon bleu im Mangoldmantel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>H&#228;hnchen-Cordon bleu im Mangoldmantel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Staude(n)</fr:igdtQuantity>
@@ -42,19 +42,23 @@
         <fr:igdtName ref="dijonsenf">Dijonsenf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>In jede H&#228;hnchenbrust eine Tasche schneiden. H&#228;hnchenbrust mit Senf bestreichen, mit je 1 Tomatenscheibe, 1 Zehe Knoblauch (in Scheiben) und 1 Scheibe Gouda belegen, zuklappen, mit Zahnstocher befestigen.
+Mangoldbl&#228;tter ca. 5 Minuten in kochendem Wasser garen, die dicken Stielteile auf der R&#252;ckseite vorsichtig mit einem Messer d&#252;nner schneiden, die Mangoldstiele in ca. 1 cm d&#252;nne Scheiben schneiden, ca. 15 Minuten in kochendem Wasser garen.
+H&#228;hnchenbrust je nach Gr&#246;&#223;e in 2-3 Bl&#228;tter Mangold einwickeln, mit einer Tomatenscheibe abdecken, mit d&#252;nnen Mozzarella-Scheiben belegen.
+Die H&#228;hnchen-P&#228;ckchen auf ein Bett aus den Mangoldstielen, fein gehackten Zwiebeln und gew&#252;rfelten Tomaten in eine Auflaufform legen. Bei 200 Grad ca. 25 Minuten im Backofen garen.
+Mit Bandnudeln servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

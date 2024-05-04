@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3038971456518959">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4454ad00-a8c5-400f-a0e1-7d91f5be368c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Paprika-Quiche</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="quark">Quark</fr:igdtName>
@@ -19,14 +19,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Pck.</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Pck.</fr:igdtQuantity>
         <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -50,27 +50,30 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl für die Pfanne</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l f&#252;r die Pfanne</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig den Quark abtropfen lassen und dann mit &#214;l, Milch und einer Prise Salz verr&#252;hren. Das Mehl mit dem Backpulver mischen und nach und nach in die Quarkmischung einarbeiten. Den Teig in eine Springform dr&#252;cken.
+Das Backrohr auf 200 Grad vorheizen.
+Die Zwiebel klein schneiden und in etwas &#214;l braten. Den Mangold grob hacken und etwas d&#252;nsten. Die Paprika in W&#252;rfel schneiden, unter die Zwiebel-Mangoldmischung geben und ebenfalls etwas d&#252;nsten. Abk&#252;hlen lassen. Den Ricotta und die Eier untermischen und w&#252;rzen.
+Die Masse auf den Teig geben und bei 200 Grad ca. 45 Minuten im Rohr backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

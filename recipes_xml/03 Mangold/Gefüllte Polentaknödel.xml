@@ -1,28 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-909451196152096">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d2faec54-0579-422b-8dfa-3fa77543db6f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Polentaknödel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Polentakn&#246;del</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Geflügelfond</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="polenta">Maisgrieß (Polenta)</fr:igdtName>
+        <fr:igdtName ref="polenta">Maisgrie&#223; (Polenta)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,7 +34,7 @@
         <fr:igdtName ref="olive">Oliven, schwarze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,34 +43,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="polenta">Maisgrieß (Polenta) zum Wälzen</fr:igdtName>
+        <fr:igdtName ref="polenta">Maisgrie&#223; (Polenta) zum W&#228;lzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Ausbacken</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Ausbacken</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Gefl&#252;gelfond aufkochen lassen und die Polenta einr&#252;hren, dann Oliven&#246;l und Butter zugeben. Unter R&#252;hren ca. 5&#8211;7 Minuten schwach k&#246;cheln. Mit Salz, Pfeffer und Muskat abschmecken.
+F&#252;r die F&#252;lle Schalotten abziehen und zusammen mit den Oliven klein schneiden. Mangold putzen und in feine Streifen schneiden.
+Schalotten, Oliven und Mangold in Oliven&#246;l weich d&#252;nsten. Mit Salz, Pfeffer und Muskat abschmecken und ausk&#252;hlen lassen. Mozzarella reiben und mit der kalten Mangoldmasse vermischen.
+Die Polenta in 8 Portionen teilen, mit der Masse f&#252;llen und Kn&#246;del daraus formen. Die Kn&#246;del dann in Polenta w&#228;lzen und anschlie&#223;end in hei&#223;em &#214;l ca. 6 Minuten backen. Auf K&#252;chenpapier abtropfen lassen.
+Passt hervorragend zur Weihnachtsgans oder als kleine Mahlzeit mit gr&#252;nem Salat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

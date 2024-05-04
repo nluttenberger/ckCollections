@@ -1,0 +1,128 @@
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2180121350041224">
+  <fr:meta>
+    <fr:book>ckCollections</fr:book>
+    <fr:chapter>03 Mangold</fr:chapter>
+  </fr:meta>
+  <fr:recipeName>Feine Gemüselasagne</fr:recipeName>
+  <fr:recipeKeywords/>
+  <fr:recipeIntro/>
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName ref="rotwein">Rotwein, guter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 gr. Dose/n</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), (Pizzatomaten)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknete, klein geschnippelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n), ganz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikum, frische Blätter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Stück(e)</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Würfelzucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="spinat">Spinat, frischer oder (1/2 Pck. TK)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="ricotta">Ricotta, oder selbst gemachter Frischkäse</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 TL, gehäuft</fr:igdtQuantity>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, selbst gemacht oder Instant</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="muskat">Muskat, nach Geschmack</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Paket</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Lasagneplatte(n) oder Maultaschenteig aus dem Kühlregal</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="mozzarella">Mozzarella, (Büffel-)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="parmesan">Parmesan, einige blättrig geschnittene Scheibchen</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName/>
+      <fr:instrStepText/>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish/>
+  <fr:recipeOrigin/>
+  <fr:recipeSeeAlso/>
+  <fr:recipeLicense/>
+</fr:recipe>

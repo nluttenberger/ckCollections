@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3154541469556655">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-80061574-5ff2-457b-825d-e74c020071c6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lachsfilet mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="lachs">Lachsfilet(s) à ca. 125 g</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachsfilet(s) &#224; ca. 125 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,18 +35,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, die dicken Stiele herausschneiden und die Bl&#228;tter in kochendem
+Salzwasser 30 Sekunden blanchieren, abgie&#223;en und mit kaltem Wasser abschrecken. Die
+Bl&#228;tter abtropfen lassen und mit K&#252;chenkrepp trocken tupfen.
+Den Lachs waschen, trocken tupfen, salzen und pfeffern. Zwei Mangoldbl&#228;tter f&#228;cherf&#246;rmig
+neben-oder untereinander legen, ein St&#252;ck Lachs darauf legen und beides zu einem P&#228;ckchen
+zusammen rollen. Ggf. mit K&#252;chenband binden.
+Die P&#228;ckchen in den Dampfeinsatz &#252;ber leicht kochendes Salzwasser geben und zugedeckt
+ca. 20 Minuten d&#228;mpfen.
+Die Br&#252;he erw&#228;rmen, das Eigelb mit der Br&#252;he, dem Senf und Salz und Pfeffer aufschlagen.
+Den Joghurt l&#246;ffelweise dazugeben und bei kleiner Temperatur immer wieder r&#252;hren. Nicht mehr kochen lassen da das Ei sonst stockt.  Abschmecken und eventuell noch nachw&#252;rzen.
+Dazu schmeckt prima Reis.
+Ist nicht gerade eine M&#228;nnerportion nach einem langen Arbeitstag, also lieber etwas gro&#223;z&#252;giger planen. F&#252;r mich pers&#246;nlich, die lieber mehrere kleine Portionen am Tag isst, aber prima.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

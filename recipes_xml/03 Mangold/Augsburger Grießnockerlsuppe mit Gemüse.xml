@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4000401613905193">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5d10e510-5af6-4fc9-8369-c717dbca7e35">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Augsburger Grießnockerlsuppe mit Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Augsburger Grie&#223;nockerlsuppe mit Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Hühnerklein, TK</fr:igdtName>
+        <fr:igdtName ref="ei">H&#252;hnerklein, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
@@ -26,15 +26,15 @@
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="knollensellerie">Sellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="lauch">Lauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,15 +43,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="nelke">Gewürznelke(n)</fr:igdtName>
+        <fr:igdtName ref="nelke">Gew&#252;rznelke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName ref="piment">Pimentkörner</fr:igdtName>
+        <fr:igdtName ref="piment">Pimentk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -59,11 +59,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
-        <fr:igdtName ref="grieß">Grieß</fr:igdtName>
+        <fr:igdtName ref="grie&#223;">Grie&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="räucherspeck">Räucherspeck, mager</fr:igdtName>
+        <fr:igdtName ref="r&#228;ucherspeck">R&#228;ucherspeck, mager</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
@@ -71,15 +71,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, weißer, frisch aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;er, frisch aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -94,19 +94,22 @@
         <fr:igdtName ref="mangold">Blattspinat, ersatzweise Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="">Frittieröl, frisch</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="">Frittier&#246;l, frisch</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das H&#252;hnerklein auftauen lassen, abbrausen und mit reichlich Wasser 3 Minuten kochen lassen. Abgie&#223;en und nochmals abbrausen. F&#252;r das Mirepoix das Gem&#252;se waschen oder sch&#228;len und klein schneiden. F&#252;r das Bouquet garni den Knoblauch an beiden Enden kappen und in der Schale etwas zerquetschen. Die Pimentk&#246;rner ebenfalls zerquetschen. Das Mirepoix zusammen mit dem Wasser, dem Salz, dem H&#252;hnerklein und dem Bouquet garni 1 Stunde mit Deckel k&#246;cheln lassen.
+In der Zwischenzeit die Milch zum Kochen bringen und den Grie&#223; unter R&#252;hren einflie&#223;en lassen. Weiter r&#252;hren, bis sich ein Kloss gebildet hat. Den Topf vom Herd nehmen und den Grie&#223;klo&#223; in einer Sch&#252;ssel abk&#252;hlen lassen. Den Speck sehr fein w&#252;rfeln und in der Butter braten, bis er duftet.
+Eier, Speckw&#252;rfelchen samt der Butter, Pfeffer, Muskatnuss und Backpulver in den Teig arbeiten. Den Teig 20 Minuten reifen lassen. Das Frittier&#246;l auf 160 Grad erhitzen. Mit 2 Teel&#246;ffeln kleine Nockerl formen und auf einen ge&#246;lten Teller platzieren. Die Nockerl in 2 Portionen ins hei&#223;e Frittier&#246;l geben und in ca. 15 - 20 Minuten hellgelb frittieren. Mit einem Schauml&#246;ffel herausnehmen, gut abtropfen lassen und in simmerndes, leicht gesalzenes Wasser geben. In ca. 30 Minuten weich kochen (Probe entnehmen!).
+In der Zwischenzeit die Br&#252;he abseihen und die festen Bestandteile verwerfen. Die Br&#252;he mit Salz und Pfeffer abschmecken. Den Spinat waschen, die Stiele von den Bl&#228;ttern trennen und mitverwenden. Die Bl&#228;tter l&#228;ngs und quer halbieren. Ein ca. 40 mm langes St&#252;ck von einer Karotte abschneiden, waschen, sch&#228;len und mit dem Sparsch&#228;ler in Streifen zerlegen. Die Br&#252;he zum Kochen bringen, das Gem&#252;se zugeben. 3 Minuten weiter k&#246;cheln lassen. Zusammen mit den weichen, abgetropften Nockerln servieren und genie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4002731614387807">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2b935c2a-66ef-4c1a-9c1b-37bf7598aeae">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Würzig-gebratene Nudeln mit Ei und Erdnüssen ala Taman Grija</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>W&#252;rzig-gebratene Nudeln mit Ei und Erdn&#252;ssen ala Taman Grija</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">chinesische Eiernudeln</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühepulver</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe S</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e S</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -35,27 +35,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Palmöl, ersatzweise neutrales Pflanzenöl</fr:igdtName>
+        <fr:igdtName ref="ei">Palm&#246;l, ersatzweise neutrales Pflanzen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stängel</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Wasserspinat, ersatzweise Spinat, Mangold oder Frühlingszwiebel</fr:igdtName>
+        <fr:igdtQuantity>2 St&#228;ngel</fr:igdtQuantity>
+        <fr:igdtName ref="lauchzwiebel">Wasserspinat, ersatzweise Spinat, Mangold oder Fr&#252;hlingszwiebel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hühnerfleisch, gebraten</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#252;hnerfleisch, gebraten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -63,26 +63,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sojasauce">Sojasauce, süß</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce, s&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl, hell</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, hell</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="">Kochwasser von den Nudeln</fr:igdtName>
+        <fr:igdtName ref="nudeln">Kochwasser von den Nudeln</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Wasser zum Kochen bringen, die H&#252;hnerbr&#252;he darin aufl&#246;sen und die Nudeln zugeben. Nach Packungsangabe (2 &#8211; 3 Minuten) al dente kochen. Abseihen und bereit halten. Die Zutaten zum W&#252;rzen zusammenmischen. Die Eier mit dem Salz und dem Zitronensaft verquirlen und mit 1 EL vom &#214;l zu R&#252;hrei braten und bereit halten. Das frische H&#252;hnerfleisch in kleine St&#252;cke schneiden und mit 1 EL vom &#214;l im Wok kurz braten, bis sie die Farbe gewechselt haben. Nicht zu lange braten!
+Den Spinat waschen, die St&#228;ngel abtrennen und Bl&#228;tter grob klein schneiden. Die Zwiebelchen und die Knoblauchzehen an beiden Enden kappen, sch&#228;len und grob in St&#252;cke schneiden. Das restliche &#214;l im Wok erhitzen, Zwiebelchen und Knoblauch zugeben und pfannenr&#252;hren, bis die Zwiebeln glasig sind. Die Nudeln mit einer Schere etwas k&#252;rzen, dazugeben und 1 Minute pfannenr&#252;hren. Spinat, Erdn&#252;sse und H&#252;hnerfleisch zugeben und nochmals 1 Minute pfannenr&#252;hren.
+Mit der W&#252;rze abl&#246;schen und weiter pfannenr&#252;hren bis die Fl&#252;ssigkeit aufgesogen und verdampft ist.
+Auf die Servierteller verteilen und genie&#223;en.
+Anmerkung:
+Die gebratenen Nudeln &#8211; Mie Goreng, auf Indonesisch - sind ein typisches, preisg&#252;nstiges Streetfood mit Wasserspinat als Gem&#252;sebeilage. Im Restaurant "Taman Grija" mit Eier, Erdn&#252;ssen und ein paar St&#252;ckchen H&#252;hnerfleisch verfeinert. Beim Stra&#223;enh&#228;ndler sind die Nudeln vorgekocht und der Wasserspinat steht im Eimer vorgeschnitten bereit. Man sagt, wie viel Portionen man m&#246;chte. Er gibt eine EL Palm&#246;l in den Wok und dreht die Gasflamme auf (10 KW). Schmei&#223;t die Nudeln dazu und den Wasserspinat. Nach einer halben Minute pfannenr&#252;hren, spritzt der Meister des Woks aus 3 verschiedenen Flaschen seine Sojasaucen zu, gibt etwas &#8211; sagen wir es mal so &#8211; etwas Nudelbr&#252;he zu und pfannenr&#252;hrt bis die Fl&#252;ssigkeit aufgesogen und verdampft ist. Eine kurze Frage zum Schluss "pdas"? Wenn man nicht nickt, ist es weniger scharf, ansonsten bekommt man 2 ml Sambal im Minit&#252;tchen und 1 oder 2 gr&#252;ne Chilis dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1604281267612395">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9b24b40a-832b-4730-a59b-753e7b651e8d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spanischer Gemüsekuchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Spanischer Gem&#252;sekuchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Würfel</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; W&#252;rfel</fr:igdtQuantity>
         <fr:igdtName ref="hefe">Hefe, frisch ( 20g )</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,50 +27,59 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Öl, (Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l, (Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprikapulver">Salz, Paprika edelsüß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Salz, Paprika edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, oder Pak-Choi</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, oder Pak - Choi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsezwiebel">Gemüsezwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne,150 g</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne,150 g</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig das Mehl in eine Sch&#252;ssel sieben, in die Mitte eine Vertiefung dr&#252;cken. Die zerbr&#246;selte Hefe mit Wasser und Zucker verr&#252;hren und in die Vertiefung gie&#223;en. Die &#252;brigen Zutaten an den Rand des Mehls geben und mit dem Handr&#252;hrger&#228;t (Knethaken) erst auf niedriger und dann auf h&#246;chster Stufe in etwa 3 Minuten zu einem glatten Teig verkneten (evtl. noch etwas Wasser zugeben). Den Teig an einem warmen Ort so lange abgedeckt stehen lassen, bis er sich sichtbar vergr&#246;&#223;ert hat.
+F&#252;r den Belag die Paprikaschoten unter dem Grill runderum r&#246;sten, bis die Haut dunkel/schwarz wird. Die Paprikaschoten mit einem feuchten Tuch abdecken, kurz ruhen lassen und dann die Haut abziehen. Die Paprika halbieren, gr&#252;ndlich putzen und in Streifen schneiden.
+Den Mangold oder Pak-Choi putzen, waschen, in Streifen schneiden und in 2 El Oliven&#246;l etwa 10 Minuten d&#252;nsten, mit Salz und Pfeffer w&#252;rzen.
+Die Zwiebel abziehen, in St&#252;cke schneiden und in 1 - 2 El Oliven&#246;l leicht br&#228;unen.
+Den gegangenen Teig kurz durchkneten und auf einem gefetteten Backblech ausrollen. Den Teig mit der sauren Sahne bestreichen, und das Gem&#252;se mit den Zwiebelst&#252;cken darauf verteilen. Mit Salz und Pfeffer w&#252;rzen und mit etwas Oliven&#246;l betr&#228;ufeln. Den Teig gehen lassen, bis er sichtbar aufgegangen ist. Das Backblech in den Ofen schieben.
+Ober/Unterhitze: etwa 200 &#176;C( vorgeheizt)
+Hei&#223;luft: etwa 180&#176;C( nicht vorgeheizt )
+Gas: Stufe 3 - 4 ( vorgeheizt )
+Backzeit : etwa 25 Minuten
+F&#252;r ganz eilige geht auch fertiger Pizzateig. Ebenso kann man den Teig mit Artischockenherzen, Oliven, Tomaten usw. belegen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

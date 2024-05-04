@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1066581212131047">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-86703d3b-8861-48a9-9403-17f354fa0062">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Champignons, mit Mangold gefüllt</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Champignons, mit Mangold gef&#252;llt</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 große</fr:igdtQuantity>
+        <fr:igdtQuantity>12 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="champignon">Champignons</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
@@ -46,23 +46,27 @@
         <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, roter</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, roter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Champignons putzen. Die Stiele herausdrehen und klein schneiden. Die Zwiebeln fein w&#252;rfeln. Den Mangold putzen, gr&#252;ndlich waschen, abtropfen lassen und klein schneiden. Die Pinienkerne in einer Pfanne ohne &#214;l hellbraun r&#246;sten. Die Tomaten waschen, vierteln, entkernen und in kleine W&#252;rfel schneiden. Knoblauch abziehen und klein w&#252;rfeln.
+Das &#214;l in einer Pfanne erhitzen, Knoblauch und Pilze einr&#252;hren und anbraten.
+Butter in einer zweiten Pfanne zerlassen und die Zwiebeln glasig anbraten. Mangold und die zerkleinerten Champignonstiele zuf&#252;gen und 5 Minuten d&#252;nsten. Mit Salz, Pfeffer und Muskat w&#252;rzen. Das &#214;l von den angebratenen Champignons unterr&#252;hren.
+Die Champignonk&#246;pfe mit Salz und Pfeffer w&#252;rzen und mit dem Gem&#252;se f&#252;llen. Die gef&#252;llten Champignons in eine Auflaufform setzen, Tomatenw&#252;rfel und Pinienkerne darauf verteilen, den K&#228;se dar&#252;ber streuen und alles bei 200&#176; etwa 15 Minuten &#252;berbacken.
+Schmeckt super mit ger&#246;stetem Baguette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

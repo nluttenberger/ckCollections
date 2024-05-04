@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3388691504204520">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b649a230-b464-4075-b88f-49b409bf7535">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold mit Kürbispüree und Spiegelei</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold mit K&#252;rbisp&#252;ree und Spiegelei</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se)</fr:igdtName>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig, flüssig</fr:igdtName>
+        <fr:igdtName ref="honig">Honig, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trockener</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, instant</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -42,8 +42,8 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, bunter, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, bunter, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -55,26 +55,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl oder Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Raps&#246;l oder Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß oder rosenscharf, nach Geschmack</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es oder rosenscharf, nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Hokkaidok&#252;rbis halbieren, entkernen und das Fruchtfleisch ungesch&#228;lt grob w&#252;rfeln. 2 Zwiebeln abziehen und ebenfalls grob w&#252;rfeln.
+In einem Topf 1 bis 2 EL Butter schmelzen und die K&#252;rbisw&#252;rfel zusammen mit den Zwiebelw&#252;rfeln darin and&#252;nsten. Dabei sollten die Zwiebelw&#252;rfel nicht braun, sondern glasig sein. Dann den Honig zugeben und unterr&#252;hren. Anschlie&#223;end mit dem Wei&#223;wein abl&#246;schen, mit der Gem&#252;sebr&#252;he auff&#252;llen und leicht salzen. Die K&#252;rbisw&#252;rfel bei kleiner bis mittlerer Hitze offen in etwa 20 Minuten unter gelegentlichem R&#252;hren weich schmoren.
+Den Mangold waschen, putzen und in kochendem, leicht gesalzenem Wasser etwa 2 Minuten blanchieren. Anschlie&#223;end abgie&#223;en, in Eiswasser abschrecken und abtropfen lassen.
+Die &#252;brige Zwiebel sowie auch die Knoblauchzehe abziehen. Die Zwiebel fein w&#252;rfeln und die Knoblauchzehe in feine Scheiben schneiden.
+In einem Topf 1 EL Butter schmelzen und die Zwiebelw&#252;rfel zusammen mit den Knoblauchscheiben darin glasig d&#252;nsten. Den Mangold gut ausdr&#252;cken und unterr&#252;hren. Mit etwas Salz, einigen Umdrehungen buntem Pfeffer aus der M&#252;hle, 1 Prise Zucker und einigen Chiliflocken w&#252;rzen und den Mangold bei kleiner Hitze offen etwa 2 bis 3 Minuten d&#252;nsten.
+Die K&#252;rbisw&#252;rfel mit einem Kartoffelstampfer zu grobem P&#252;ree verarbeiten und dann mit etwas Salz abschmecken.
+In einer Pfanne das Raps- oder Sonnenblumen&#246;l erhitzen, die Eier hineinschlagen und zu Spiegeleiern braten.
+Das K&#252;rbisp&#252;ree zusammen mit dem Mangold und den Spiegeleiern auf Tellern anrichten und die Spiegeleier mit einigen Umdrehungen buntem Pfeffer aus der M&#252;hle sowie etwas Paprikapulver bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2882621440521703">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8ad84468-fb80-4c2b-825d-94fdfd228ae2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Gnocchi mit Mangold und Rosinen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName ref="gnocchi">Gnocchi aus dem Kühlregal</fr:igdtName>
+        <fr:igdtName ref="gnocchi">Gnocchi aus dem K&#252;hlregal</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -22,11 +22,11 @@
         <fr:igdtName ref="mangold">Mangoldstiel(e)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,26 +47,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="chili">Pul Biber</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldstiele putzen, in ca. 1 cm breite St&#252;cke schneiden und in kochendem Wasser mit etwas Salz etwa 4 Min. blanchieren. Danach abgie&#223;en und mit kaltem Wasser abschrecken.
+Die Zwiebeln halbieren, in d&#252;nnere Scheiben schneiden. Den Knoblauch fein hacken. Nun die Pinienkerne in einer Pfanne ohne Fett ein wenig anr&#246;sten und dann beiseite stellen.
+In einem etwas gr&#246;&#223;eren Topf Zwiebel und Knoblauch in Oliven&#246;l anschwitzen, die Mangoldst&#252;cke und die Rosinen dazugeben und unter R&#252;hren 8 &#8211; 10 Min. garen. Evtl. etwas Fl&#252;ssigkeit dazugeben. Jetzt den Pul Biber einstreuen und mit Salz und Pfeffer w&#252;rzen.
+Die Gnocchi in Butterschmalz anbraten, bis sie goldbraun sind. Auch etwas w&#252;rzen. Die Gnocchi mit dem Mangoldgem&#252;se mischen und mit den Pinienkernen und Ricotta servieren.
+Tipp: Roter Mangold schmeckt ebenso gut wie gr&#252;ner, sieht aber besser aus.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

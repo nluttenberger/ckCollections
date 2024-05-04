@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-600471159793892">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b8f8ddbe-f334-4a79-b151-c4e8b850ab1e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Caldo dos pobres</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, geräuchert, mager, in Würfel geschnitten oder 1 Schinkenknochen</fr:igdtName>
+        <fr:igdtName ref="schinken">Speck, ger&#228;uchert, mager, in W&#252;rfel geschnitten oder 1 Schinkenknochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n), geschabt und in dickere Scheiben geschnitten</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n), geschabt und in dickere Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, ganz</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, ganz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,30 +35,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Gemüse (Kohl, Mangold oder Steckrübenkraut), zerkleinert</fr:igdtName>
+        <fr:igdtName ref="steckr&#252;be">Gem&#252;se (Kohl, Mangold oder Steckr&#252;benkraut), zerkleinert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Penne oder Hörnchennudeln</fr:igdtName>
+        <fr:igdtName ref="nudeln">Penne oder H&#246;rnchennudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Speck, M&#246;hren, Pfefferk&#246;rner und Lorbeerblatt in einen Topf geben und 2 l Wasser zugie&#223;en. Zum Kochen bringen und 1 Std. k&#246;cheln lassen, bis die Br&#252;he w&#252;rzig schmeckt. Die Bohnen hinzuf&#252;gen und 1 Std. weiter k&#246;cheln lassen, bis sie weich sind. (Falls verwendet, Schinkenknochen entfernen.)
+Den Reis zugeben und 10 Min. garen. Gem&#252;sebl&#228;tter und Nudeln unterr&#252;hren. Die Suppe nochmals zum Kochen bringen und weitere 15 Min. garen, bis die Nudeln weich und die Br&#252;he etwas eingedickt ist. Mit Salz abschmecken. Die Suppe in tiefe Teller f&#252;llen und etwas Oliven&#246;l einr&#252;hren.
+Frisch gebackenes &#187;broa&#171; und f&#252;r alle, die es scharf m&#246;gen, selbst hergestellt Piri-Piri-Sauce dazu reichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

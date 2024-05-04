@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3077191460369470">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4cb72ceb-3721-4a13-854a-0ac88a92e82a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Kartoffeln mit Hack</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Bund</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>5 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,26 +31,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Beim Mangold Stiele und Bl&#228;tter trennen, die Stiele in kleine Streifen und die Bl&#228;tter in kleine St&#252;cke schneiden - getrennt beiseitestellen.
+Zwiebel und Kartoffeln sch&#228;len und in kleine W&#252;rfel schneiden.
+In einer  Pfanne das Hackfleisch in etwas &#214;l grob kr&#252;melig braten, salzen, pfeffern. Das Hackfleisch aus der Pfanne nehmen und in dem Bratfett die Kartoffelw&#252;rfel anbraten, mit etwas Wasser abl&#246;schen und unter R&#252;hren d&#252;nsten, bis sie gar sind.
+In einer zweiten Pfanne zeitgleich in etwas &#214;l die Zwiebel anbraten, dann die Mangoldstiele dazugeben, salzen, pfeffern und ca. 15 Minuten unter h&#228;ufigem R&#252;hren weich d&#252;nsten, gegen Ende die klein geschnittenen Knoblauchzehen dazugeben und mitd&#252;nsten.
+Die Mangoldbl&#228;tter zu den Stielen geben und ein paar Minuten weiter d&#252;nsten, bis sie zusammenfallen.
+Die Kartoffeln und das Hackfleisch mit zum Mangoldgem&#252;se geben, alles gut durchmischen und am Ende die Cr&#232;me fra&#238;che unterheben. Mit Salz und Pfeffer abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

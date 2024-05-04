@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3571581536057421">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-546968d2-4897-4950-a42c-50ca7371e319">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Fischvergnügen mit Bandnudeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Fischvergn&#252;gen mit Bandnudeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="champignon">Champignons</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Pflücksalat, Mix, alternativ Blattspinat oder Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Pfl&#252;cksalat(e), Mix, alternativ Blattspinat oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Becher</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Kräuterfrischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Kr&#228;uterfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -42,43 +42,48 @@
         <fr:igdtName ref="nudeln">Bandnudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="cranberry">Cranberries</fr:igdtName>
+        <fr:igdtName ref="cranberry">Cranberrys</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Bund</fr:igdtQuantity>
         <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Fischfilets auftauen, dann mit kaltem Wasser s&#228;ubern und mit etwas Zitrone betr&#228;ufeln. Salzen und pfeffern. In einer Pfanne Butter schmelzen und die Fischfilets vorsichtig braten, aus der Pfanne nehmen und beiseite stellen.
+Das Wasser f&#252;r die Nudeln aufsetzen und die Nudeln nach Packungsanleitung kochen.
+Die Champions putzen, die Gem&#252;sezwiebeln waschen und beides in Scheiben schneiden. Den Knoblauch in kleine W&#252;rfel schneiden. Eine gro&#223;e Pfanne erhitzen und die Butter darin schmelzen.
+Die Champions anbraten. Wenn sie eine sch&#246;ne Farbe haben, die Fr&#252;hlingszwiebeln und den Knoblauch hinzugeben. Salzen und pfeffern und die Temperatur reduzieren.
+Den Pfl&#252;cksalat-Mix s&#228;ubern, etwas zerrupfen und mit in die Pfanne geben. Warten, bis er etwas zusammenf&#228;llt. Dann den Fisch etwas zerkleinern und ebenfalls mit in die Pfanne geben. Die beiden Becher Schmand, 2 EL Kr&#228;uterfrischk&#228;se, etwas Tomatenmark f&#252;r die Farbe, 2 TL Senf und etwa 1 - 2 EL Honig zur So&#223;e geben und verr&#252;hren. Den Dill hacken und mit in die Pfanne geben. Nochmal salzen und pfeffern.
+Die Nudeln zusammen mit der Sauce servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

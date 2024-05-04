@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2950081447263274">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-42c44f8e-93c3-456c-a33b-fcf6f09e986b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldcannelloni auf Tomatensauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,22 +43,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName ref="hackfleisch">Brät</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Br&#228;t</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="chiliflocken">Chiliflocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitronenabrieb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskatnuss</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -66,8 +66,8 @@
         <fr:igdtName ref="tomate">Tomate(n), aus der Dose</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -81,12 +81,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zutaten f&#252;r die Cannelloni zu einem glatten Teig verkneten und den Teig 30 Minuten k&#252;hl stellen.
+Den Mangold putzen, waschen und die Stiele entfernen. Die Bl&#228;tter in kochendem Salzwasser 1 Minute blanchieren, in ein Sieb abgie&#223;en, kalt abschrecken, abtropfen lassen, ausdr&#252;cken und fein hacken. Die Schalotten und den Knoblauch sch&#228;len, fein hacken und in einer Pfanne in der Butter and&#252;nsten. Den Mangold dazugeben, kurz d&#252;nsten und mit Salz und Pfeffer w&#252;rzen.
+Das Br&#228;t mit der Sahne verr&#252;hren und mit Salz, Pfeffer, Zitronenabrieb, Chili und Muskat w&#252;rzen.
+Den Teig in 5 Portionen teilen und d&#252;nn ausrollen. D&#252;nn mit dem Br&#228;t bestreichen, den Mangold darauf geben und aufrollen.
+Den Backofen auf 200 &#176;C vorheizen.
+Die Tomaten mit Salz und Pfeffer w&#252;rzen und in eine Auflaufform geben. Die Cannelloni darauf setzen. Den Mozzarella in Scheiben  schneiden und darauf verteilen. Den geriebenen Parmesan dar&#252;ber geben. Auf der mittleren Schiene etwa 20 Minuten backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

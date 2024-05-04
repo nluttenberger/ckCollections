@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3372661501613660">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e157f512-4ed0-4a5f-b138-e842e2d2be9b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hirschkalbsrücken mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Hirschkalbsr&#252;cken mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName ref="rehundhirsch">Hirschkalbsrücken, küchenfertig</fr:igdtName>
+        <fr:igdtName ref="rehundhirsch">Hirschkalbsr&#252;cken, k&#252;chenfertig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15</fr:igdtQuantity>
@@ -26,8 +26,8 @@
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
@@ -42,8 +42,8 @@
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Wildfond</fr:igdtName>
+        <fr:igdtName ref="wildfond">Wildfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -78,24 +78,24 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="kümmel">Kümmelpulver</fr:igdtName>
+        <fr:igdtName ref="k&#252;mmel">K&#252;mmelpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="cranberry">Cranberries, frische</fr:igdtName>
+        <fr:igdtName ref="cranberry">Cranberrys, frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -107,18 +107,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 180 Grad Ober-/Unterhitze vorheizen.
+Das Fleisch mit Salz und Pfeffer w&#252;rzen. Ein paar Wacholderbeeren andr&#252;cken. Den Thymian waschen und abtupfen. Das Raps&#246;l erhitzen und das Fleisch mit den Wacholderbeeren und dem Thymian rundum ca. 4 Minuten goldbraun anbraten. Die restlichen Wacholderbeeren mahlen und sieben. Mit Honig, Limettensaft und -schale verr&#252;hren. Aufs Fleisch geben und einreiben. In eine ofenfeste Form setzen und auf die mittlere Schiene in den Ofen schieben. Ca. 20 Minuten braten.
+F&#252;r die Rotweinsauce die Schalotten sch&#228;len, w&#252;rfeln und im Oliven&#246;l anbraten. Das Tomatenmark zugeben und kurz anr&#246;sten. Alles mit dem Rotwein und dem Wildfond abl&#246;schen. Den Bratensatz zugeben und offen bei starker Hitze reduzieren lassen. Die Sauce passieren und mit der kalten Butter unter R&#252;hren binden.
+F&#252;r das Gem&#252;se den Mangold vorbereiten und in feine Streifen schneiden. Die Kartoffel pellen und in Scheiben schneiden. Beides in der Butter braten. Die Sahne angie&#223;en und bei mittlerer Hitze aufkochen lassen. Mit Salz, Pfeffer, 1 EL Cr&#232;me fra&#238;che, K&#252;mmel und Muskatnuss abschmecken.
+F&#252;r das Cranberry-Mus die Cranberries waschen. Den Zucker karamellisieren lassen und mit dem Cranberrysaft abl&#246;schen. Die Cranberries dazugeben.
+Auf vier Tellern den Mangold anrichten. Auf jede Portion etwas Muskat reiben, darauf kommt je ein halber TL Cr&#232;me fra&#238;che und daneben je 2 EL Cranberry-Mus. Vom Hirschkalbsr&#252;cken acht d&#252;nne Scheiben schneiden und und je 2 dazulegen.
+Eventuell mit frittieren Zwiebelringen garnieren und mit der Sauce betr&#228;ufeln.
+Ca. 835 Kcal pro Portion.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

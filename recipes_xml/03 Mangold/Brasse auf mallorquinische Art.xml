@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-954341200997551">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d8eeaa33-0a9d-4413-a34d-feeaf717ee68">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Brasse auf mallorquinische Art</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="brasse">Fisch (Brasse), ca. 3-4 kg</fr:igdtName>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n), mittelgroß</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), mittelgro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -54,31 +54,36 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver, rosenscharf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zun&#228;chst die Brasse mit Salz und Pfeffer einreiben und mit dem Saft der vier Zitronen betr&#228;ufeln. Etwas Petersilie in den Bauch stopfen. Den Fisch &#252;ppig mit Oliven&#246;l &#252;bergie&#223;en und ruhen lassen.
+Die Fr&#252;hlingszwiebeln und den Mangold s&#228;ubern und zerkleinern. Die restliche Petersilie grob hacken und dem Gem&#252;se beif&#252;gen. Dies wird nun mit Salz, Pfeffer, Paprikapulver bestreut und mit Oliven&#246;l begossen. Nur der Knoblauch fehlt noch. Die ungesch&#228;lten Zehen nehmen, vier oder f&#252;nf, und zerdr&#252;cken. Dann alles vermischen.
+Die Kartoffeln nun f&#252;r das Gem&#252;sebett der Brasse in Scheiben schneiden, ebenso die Tomaten.
+Jetzt die Brasse auf jeder Seite drei bis vier Mal einschneiden, damit der Fisch besser garen und sich sein Aroma gut mit dem Gem&#252;searoma verbinden kann.
+Aus den Kartoffelscheiben und dem Gem&#252;se wird ein Bett f&#252;r die Brasse gemacht. Das Gericht mit Rosinen und Pinienkernen bestreuen. Zuletzt den Fisch mit Tomatenscheiben bedecken, salzen und pfeffern.
+Der Fisch ist jetzt fertig vorbereitet und kommt in den Ofen. Er muss bei m&#228;&#223;iger Temperatur (etwa 180 Grad) ungef&#228;hr anderthalb Stunden garen. Erst jetzt den Wei&#223;wein dar&#252;ber gie&#223;en. Das ist wichtig, sonst w&#252;rde der Garprozess unterbrochen werden und die Kartoffeln blieben hart. Schlie&#223;lich den Fisch noch einmal f&#252;r f&#252;nf Minuten in den Ofen schieben, damit sich das Aroma des Weines mit dem Gem&#252;se verbindet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

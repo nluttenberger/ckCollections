@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-305901110884724">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-28950d0e-bc53-4c71-a9c0-8d2a5d8b0757">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hackbraten im Blätterteig</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Hackbraten im Bl&#228;tterteig</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, (ersatzweise ca. 200g Blattspinat TK)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -23,19 +23,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig-Boden (aus dem Kühlregal)</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig - Boden (aus dem K&#252;hlregal)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -43,18 +43,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Sahne oder Kondensmilch</fr:igdtName>
+        <fr:igdtName ref="kondensmilch">Sahne oder Kondensmilch</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>4 Eier 8 Min. kochen, abschrecken und pellen. Die Mangoldbl&#228;tter mit hei&#223;em Wasser &#252;berbr&#252;hen, abschrecken, die harten Mittelrippen herausschneiden und die Bl&#228;tter auf einem K&#252;chentuch ausbreiten (den Spinat auftauen und m&#246;glichst die Bl&#228;tter vereinzelt ausbreiten)
+Hack, Br&#246;sel, 2 Eier und Senf verkneten mit Salz und Pfeffer w&#252;rzen.
+Den Bl&#228;tterteigboden ausbreiten. Hackmasse gleichm&#228;&#223;ig darauf verteilen, 2 cm Rand lassen. Mit den Mangoldbl&#228;ttern bzw. dem Spinat fl&#228;chig belegen und die gekochten Eier in einer Reihe auf die Mitte verteilen. Eigelb und Sahne verquirlen, die Teigr&#228;nder damit bestreichen und den Strudel aufrollen, an den R&#228;ndern festdr&#252;cken. Den Strudel mit der restl. Eigelbsahne bestreichen und auf ein Backblech (Backpapier) legen. Im vorgeheizten Ofen bei 200&#176; (Umluft 180&#176;) auf der 2. Schiene von unten 20 min backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

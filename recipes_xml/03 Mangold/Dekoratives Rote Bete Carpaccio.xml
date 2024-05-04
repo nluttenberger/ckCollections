@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1314341236160211">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b009a25a-100b-4872-95ff-1b75bac4c534">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Dekoratives Rote Bete Carpaccio</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dicke</fr:igdtQuantity>
         <fr:igdtName ref="rote_bete">Rote Bete</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Port.</fr:igdtQuantity>
-        <fr:igdtName ref="roter_mangold">Salat, kräftiger z.B. roter Mangoldsalat, Feldsalat oder wilde Rauke</fr:igdtName>
+        <fr:igdtName ref="roter_mangold">Salat, kr&#228;ftiger z.B. roter Mangoldsalat, Feldsalat oder wilde Rauke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -23,10 +23,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, gutes oder anderes kräftiges und hochwertiges Öl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, gutes oder anderes kr&#228;ftiges und hochwertiges &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Meersalz, grobes, normales geht auch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,19 +34,21 @@
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Rote Bete sch&#228;len, dabei am besten Einweghandschuhe tragen (Verf&#228;rbungen lassen sich mit Zitronensaft entfernen). Die Knolle auf einem m&#246;glichst breiten Hobel in d&#252;nne Scheiben schneiden. Oftmals haben rohe Rote Beten sch&#246;ne Muster, wer es also dekorativ mag, hobelt am besten parallel zum Blattansatz. Dabei darauf achten, dass der Durchmesser m&#246;glichst gro&#223; bleibt. Dann auf einem Schneidebrett die Scheiben mit Weihnachtsausstechern oder anderen sch&#246;nen Formen wie z. B. Herzen  in Form bringen. Die geformten Scheiben dekorativ auf 2 Tellern so auslegen, dass in der Mitte noch Platz f&#252;r den Salat bleibt.
+Aus Oliven&#246;l, Zitronensaft, Salz, Pfeffer und nach Geschmack auch einer Prise Zucker eine Vinaigrette anr&#252;hren und die Rote Beten damit betr&#228;ufeln. Den Salat putzen, in der Mitte der Teller anrichten und ebenfalls mit der Vinaigrette betr&#228;ufeln.
+Erweitern kann man das Rezept durch ger&#246;stete K&#252;rbiskerne oder Sonnenblumenkerne, K&#228;se- oder Apfelw&#252;rfel. Die Ausstechreste lassen sich noch in einer Suppe oder einem normalen Salat verarbeiten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2972121449761490">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4cb3b261-431e-4db4-9ad7-2d2b63c417ab">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Ziegenkäsequiche mit Pekannüssen und Thymian</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Ziegenk&#228;sequiche mit Pekann&#252;ssen und Thymian</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl Type 405</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Weizenmehl Type 405</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -27,15 +27,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenfrischkäse">Ziegenfrischkäse</fr:igdtName>
+        <fr:igdtName ref="ziegenfrischk&#228;se">Ziegenfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Weichkäse (Ziegenweichkäse), in rollenform</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">Weichk&#228;se (Ziegenweichk&#228;se), in rollenform</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Schlagsahne oder Cremefine</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Schlagsahne oder Cremefine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -46,7 +46,7 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="pekannuss">Pekannüsse</fr:igdtName>
+        <fr:igdtName ref="pekannuss">Pekann&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
@@ -66,23 +66,30 @@
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl oder Butter zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">&#214;l oder Butter zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Butter in ca. 2 cm gro&#223;e St&#252;cke zerteilen, anschlie&#223;end zusammen mit dem Mehl, einem Ei und einer guten Prise Salz ordentlich durchkneten. Ich mache das immer mit der Hand, damit sich der Teig sch&#246;n verbindet, das kann man aber sicher auch mit dem Knethaken machen. Wenn der Teig sch&#246;n geschmeidig ist, zu einer Kugel formen, etwas flachdr&#252;cken und in Frischhaltefolie wickeln. Den Teig anschlie&#223;end f&#252;r ca. 1 Stunde in den K&#252;hlschrank stellen.
+W&#228;hrend der Teig ruht ist gen&#252;gend Zeit, um die F&#252;llung vorzubereiten. Daf&#252;r zuerst den Mangold waschen und in schmale Streifen schneiden. Als N&#228;chstes die Zwiebel w&#252;rfeln und die Pekann&#252;sse grob hacken. Alle drei Zutaten zusammen mit etwas &#214;l oder Butter bei mittlerer Hitze f&#252;r ca. 5 Minuten in einer Pfanne anschwitzen. Wenn die Mischung fertig ist, die Pfanne vom Herd nehmen und etwas abk&#252;hlen lassen.
+Im n&#228;chsten Schritt werden der Ziegenfrischk&#228;se, die Schlagsahne, 3 Eier und der Parmesan cremig miteinander verr&#252;hrt und mit ordentlich Salz und Pfeffer gew&#252;rzt. Im Anschluss daran die Mangold-Zwiebel-Pekannuss-Mischung zur K&#228;se-Masse hinzugeben und verr&#252;hren.
+Nun werden schon einmal die Kirschtomaten und der Thymian gewaschen sowie die Ziegenrolle in ca. 5 mm dicke Schreiben geschnitten und bereitgestellt. Eine Springform, 26 cm Durchmesser, einfetten und den Ofen schon einmal auf 180&#176; C vorheizen.
+Den Teig aus dem K&#252;hlschrank nehmen, ausrollen und in die Springform passen. Dabei einen ca. 2 cm hohen Rand einplanen und den Teig mit einer Gabel einstechen. Anschlie&#223;end den Teig ohne F&#252;llung f&#252;r 5 - 10 Minuten auf mittlerer Schiene vorbacken.
+Den Boden aus dem Ofen nehmen und die Ziegenk&#228;se-Mischung darin verteilen. Die Tomaten in den Belag dr&#252;cken und die Quiche erneut f&#252;r ca. 20 Minuten in den Ofen stellen. Sobald der Belag leicht br&#228;unt, die Ziegenk&#228;se-Scheiben und den Thymian auf den Belag legen und weitere 10 Minuten backen. Anschlie&#223;end ausk&#252;hlen lassen und z. B. mit einem leckeren Salat servieren. Der Mangold kann auch gut durch z. B. Rucola oder Spinat ersetzt werden.
+Da jeder Ofen anders funktioniert, m&#252;sst ihr ein wenig nach Gef&#252;hl gehen. Ich backe insgesamt immer ca. 30 - 40 Minuten. Es hilft aber auch der St&#228;bchentest: Daf&#252;r einfach einen Zahnstocher in den Belag stecken, wenn kein Belag daran h&#228;ngen bleibt, ist die Quiche gestockt und fertig.
+Es h&#246;rt sich nach viel Arbeit an, aber hier kann man Vieles schon vorbereiten, wenn der Teig im K&#252;hlschrank ist - also halb so wild.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

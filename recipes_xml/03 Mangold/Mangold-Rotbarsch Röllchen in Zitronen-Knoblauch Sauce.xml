@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-218471091017807">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a7e89d90-8ca0-48c2-8fcb-76ae04c04910">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Rotbarsch Röllchen in Zitronen-Knoblauch Sauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Rotbarsch R&#246;llchen in Zitronen-Knoblauch Sauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 großer</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;er</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,8 +22,8 @@
         <fr:igdtName ref="barsch">Rotbarschfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
@@ -50,8 +50,8 @@
         <fr:igdtName ref="zitrone">Zitrone(n), unbehandelte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -59,18 +59,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_double">Crème double</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me double</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>12 sch&#246;ne Mangoldbl&#228;tter abtrennen, waschen und abtrocknen. Die wei&#223;en Stiele ab- und die dicken Rippen flach schneiden. Die Zitrone waschen und in d&#252;nne Scheiben schneiden, mit 750 ml Wasser in einen Topf geben.
+Rotbarschfilet in 12 St&#252;cke teilen. Mit Zitronensaft betr&#228;ufeln und mit Salz und Pfeffer kr&#228;ftig w&#252;rzen. Je ein Filetst&#252;ck in ein Mangoldblatt wickeln, dabei die Seiten einschlagen, so dass kleine R&#246;llchen entstehen. Mit der Nahtstelle nach unten in einen Siebeinsatz &#252;ber das Zitronenwasser setzen und 10 Minuten bei guter Mittelhitze d&#228;mpfen.
+Die Mangoldr&#246;llchen auf eine Platte legen, mit der geschmolzenen Butter betr&#228;ufeln und bei 75 Grad in der R&#246;hre warm halten.
+Die Fr&#252;hlingszwiebel in feine Ringe schneiden, Knoblauch fein hacken. Butter in einer Pfanne erhitzen, Fr&#252;hlingszwiebel und Knoblauch darin anbraten. Mit Zitronensaft und 300ml D&#228;mpffl&#252;ssigkeit abl&#246;schen und bei hoher Hitze etwas einkochen lassen. Tomate mit kochendem Wasser &#252;berbr&#252;hen, sch&#228;len, entkernen und in kleine W&#252;rfel schneiden. Die Zitronenschale in feine Juliennestreifen schneiden. Die Sauce mit Salz, Pfeffer und Honig abschmecken, die Creme double und die Tomatenw&#252;rfel unterr&#252;hren. Mit den Zitronenschalenstreifen garniert zu den Mangoldr&#246;llchen servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

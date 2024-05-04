@@ -1,0 +1,63 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-88fcbe0e-fd15-4d0b-bf73-92401c640fdd">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Pasta mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Pasta, nach Wahl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, frisch, ohne Stiele</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="joghurt">Joghurt, griechischer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="suppengem&#252;se">Gem&#252;sebr&#252;he, oder selbst eingesalzenes geraspeltes Suppengem&#252;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan, frisch</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Pasta knapp al dente kochen und kalt abschrecken, beiseite stellen.
+Das &#214;l erhitzen, die klein gehackte Zwiebel darin anschwitzen, wenn die Zwiebel glasig ist, den gehackten Knoblauch zugeben und unter R&#252;hren mitr&#246;sten. Wenn die Zwiebeln und der Knoblauch Farbe genommen haben, den geputzten und in Streifen geschnittenen Mangold zugeben und mit etwas Wasser abl&#246;schen. Den Mangold zusammenfallen lassen, dann die Gem&#252;sebr&#252;he oder wer hat, selbst eingesalzenes geraspeltes Suppengem&#252;se und das Joghurt zugeben und gut umr&#252;hren. Einige Minuten k&#246;cheln lassen und mit Salz und Pfeffer abschmecken. Wenn die So&#223;e zu dick wird, nochmals etwas Wasser nachgeben.
+Zum Schluss die Pasta in die Sauce geben und nochmal eine Minute k&#246;cheln lassen.
+Nach Belieben Parmesan dar&#252;ber hobeln und servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

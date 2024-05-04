@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-880311193405291">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-450fe60a-96de-483d-8608-a69035928a9f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lammfilet mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuterbutter">Kräuterbutter</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uterbutter">Kr&#228;uterbutter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -31,11 +31,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName ref="lammfleisch">Lamm, (Lammrückenfilet)</fr:igdtName>
+        <fr:igdtName ref="lammfleisch">Lamm, (Lammr&#252;ckenfilet)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -55,22 +55,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="senf">Senf, körniger</fr:igdtName>
+        <fr:igdtName ref="senf">Senf, k&#246;rniger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Lammfilet abbrausen, trocken tupfen, salzen, pfeffern und im erhitzten Butterschmalz ca. 8 Min. braten. Herausnehmen, in Alufolie wickeln.
+Eigelbe mit Wei&#223;wein im warmen Wasserbad schaumig aufschlagen. Butter zerlassen und unterziehen. Mit Salz, Pfeffer und Senf abschmecken.
+Die Zwiebel in Kr&#228;uterbutter and&#252;nsten, Mangold hinzugeben und weich werden lassen. Cr&#232;me fra&#238;che unterr&#252;hren und mit Salz, Pfeffer und Muskat abschmecken.
+Aus der Mangoldmasse Nocken abstechen, Filet in Scheiben schneiden und beides anrichten, Sauce dar&#252;ber geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2526211396035647">
+  <fr:meta>
+    <fr:book>ckCollections</fr:book>
+    <fr:chapter>03 Mangold</fr:chapter>
+  </fr:meta>
+  <fr:recipeName>Gnocchi-Pfanne mit Mangold und Putenschnitzel</fr:recipeName>
+  <fr:recipeKeywords/>
+  <fr:recipeIntro/>
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="paprika">Paprikaschote(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>160 g</fr:igdtQuantity>
+        <fr:igdtName ref="pute">Putenschnitzel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="">Pflanzenöl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="gnocchi">Gnocchi</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="schmelzkäse">Schmelzkäse (20 % Fett i.Tr)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName/>
+      <fr:instrStepText/>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish/>
+  <fr:recipeOrigin/>
+  <fr:recipeSeeAlso/>
+  <fr:recipeLicense/>
+</fr:recipe>

@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1385891243673594">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-739f1df1-a5d3-4b06-be42-aac15d081706">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Eier-Mangold Tortilla</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>8 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er), ganz frisch und zimmerwarm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, gewaschen, Blätter in feine Streifen geschnitten, Stiele in 2 cm lange Stücke</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, gewaschen, Bl&#228;tter in feine Streifen geschnitten, Stiele in 2 cm lange St&#252;cke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), geschält und fein gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gesch&#228;lt und fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, geschält und fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, gesch&#228;lt und fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -49,12 +49,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die geschnittenen Mangoldstiele mit den Zwiebeln und dem Knoblauch etwa 3 Minuten auf mittlerer Flamme in einer ofenfesten Pfanne glasieren. Die Mangoldbl&#228;tterstreifen dazu geben und weitere 2 Minuten braten.
+Die Eier mit der Milch verquirlen und etwas Muskat, Salz und Pfeffer dazu geben. In die Pfanne einr&#252;hren. Kurz anstocken lassen und danach 20 Minuten in einem auf 200&#176;C vorgeheiztem Ofen ausbacken.
+Vierteln und mit frischem Baguette oder Pain de Campagne servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

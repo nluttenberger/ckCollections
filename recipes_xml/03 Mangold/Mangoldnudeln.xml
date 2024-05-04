@@ -1,0 +1,50 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-48bb6607-6a69-4c9c-b91f-e1e9aafc4b83">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldnudeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Nudeln</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">Hartk&#228;se, italienischer</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold in Streifen schneiden  und mit den ganzen, gesch&#228;lten  Knoblauchzehen in die Gem&#252;sebr&#252;he geben. Die Br&#252;he mit dem Mangold zum Kochen bringen. Die Nudeln hineingeben und nach Packungsanleitung al dente kochen.
+Das Gem&#252;sewasser abgie&#223;en. Die Nudeln mit dem Mangold auf Teller geben. Mit Oliven&#246;l und geriebenem Hartk&#228;se abschmecken.
+Die Nudeln schmecken auch am n&#228;chsten Tag aufgew&#228;rmt sehr lecker.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

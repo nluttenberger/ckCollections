@@ -1,44 +1,44 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2506121393339034">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fcd14310-e1ae-4525-b93f-1eeb72dd8ce1">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Mischpilze-Auflauf à la Gabi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Mischpilze-Auflauf &#224; la Gabi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kl. Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="pilze">Pilze (à 230 g), gemischt, abgetropft</fr:igdtName>
+        <fr:igdtName ref="pilze">Pilze (&#224; 230 g), gemischt, abgetropft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,18 +47,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, geriebenen Gouda</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, geriebenen Gouda</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter vom St&#228;ngel abl&#246;sen und klein zupfen. Die St&#228;ngel in mundgerechte St&#252;cke schneiden.
+Das &#214;l in einem Topf erhitzen, Pilze, Mangoldst&#228;ngel, Zwiebeln und Knoblauch hierin ca. 8 Min. braten, dann mit Salz und Pfeffer pikant w&#252;rzen, herausnehmen und in eine gefettete Auflaufform geben. Im verbliebenen Fond die Mangoldbl&#228;tterst&#252;cke zusammenfallen lassen, mit Salz, Pfeffer und Muskat ebenfalls pikant w&#252;rzen, herausnehmen und unter Gem&#252;semasse mischen. Sahne zugie&#223;en und untermischen, den Gouda dar&#252;berstreuen und im vorgeheizten Backofen bei 200 Grad ca. 30 Min. backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2910821443368375">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-986297b6-fb77-44f9-ad4a-22a393a84d1e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Artischocken-Mangold-Dip</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
         <fr:igdtName ref="artischocke">Artischockenherzen</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, fettarmer, Zimmertemperatur</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, fettarmer, Zimmertemperatur</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -27,10 +27,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, (Old Amsterdam) oder Gouda mind. 16 Mon. gereift</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, (Old Amsterdam) oder Gouda mind. 16 Mon. gereift</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,22 +43,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chili</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chili</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold gut absp&#252;len St&#228;ngel entfernen. Die Artischocken abtropfen lassen und sehr klein schneiden. Die Zwiebel fein hacken und in der Butter in einer gut beschichteten Pfanne bei kleiner Hitze anschwitzen. Knoblauch dazupressen und den Mangold dazugeben. Den Topf vom Herd nehmen, Artischocken, K&#228;se und Frischk&#228;se dazugeben und mit Geduld r&#252;hren, bis es fluffig und cremig ist. Mit schwarzem Pfeffer und Chili abschmecken.
+Der Dip kann sofort serviert werden.
+Wer mag, kann den Dip auch noch mal mit geriebenem K&#228;se, Tomaten,- oder Paprikaw&#252;rfelchen bestreuen und bei 160 - 180 &#176;Grad im Ofen ca. 20. Min. &#252;berbacken.
+Dazu passen im Ofen erw&#228;rmte Tortilla-Chips, frisches Brot, Grissini oder Cracker.
+Reste vom Dip kann man, wenn sie kalt sind, einfach noch mal auf dem Herd kurz w&#228;rmen und wieder fluffig r&#252;hren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

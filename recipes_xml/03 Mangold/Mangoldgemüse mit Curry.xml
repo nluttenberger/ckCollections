@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-696051172142002">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1ec6127b-78dc-4e5a-b616-1e77709974ba">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldgemüse mit Curry</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldgem&#252;se mit Curry</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,22 +31,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="schmand">Schmand oder Crème fraiche</fr:igdtName>
+        <fr:igdtName ref="schmand">Schmand oder Cr&#232;me fraiche</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trockener oder Brühe</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener oder Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Schalotten sch&#228;len und w&#252;rfeln. Den Knoblauch sch&#228;len und hacken. Den Mangold waschen und in Bl&#228;tter und Stiele trennen. Die Stiele in kleine St&#252;cke und die Bl&#228;tter in d&#252;nne Streifen schneiden.
+Butter in einem Topf zerlassen, gew&#252;rfelte Schalotten und gehackten Knoblauch glasig werden lassen. Mit trockenem Wei&#223;wein oder Br&#252;he nach Bedarf abl&#246;schen. Nun die Mangoldstiele zugeben und ca. 5 Minuten d&#252;nsten. Dann die Bl&#228;tter zugeben und weitere 5 Minuten d&#252;nsten. Dabei ab und zu umr&#252;hren. Nach Belieben Currypulver zugeben und den Schmand unterheben. Mit Salz und Pfeffer abschmecken. Hei&#223; servieren.
+Passt gut zu Fisch, aber auch zu Fleisch.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

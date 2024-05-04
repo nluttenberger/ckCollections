@@ -1,0 +1,96 @@
+<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4140291658318195">
+  <fr:meta>
+    <fr:book>ckCollections</fr:book>
+    <fr:chapter>03 Mangold</fr:chapter>
+  </fr:meta>
+  <fr:recipeName>Geschmorte Möhren mit Mangold und Salzzitrone</fr:recipeName>
+  <fr:recipeKeywords/>
+  <fr:recipeIntro/>
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName/>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="orange">Möhre(n), bio (gelb, orange und lila gemischt)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Staude(n)</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (geputzt 200 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="orange">Möhre(n), bio (gelb, orange und lila gemischt)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity/>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Staude(n)</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (geputzt 200 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rote (à 60 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="sesamöl">Sesamöl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="cranberry">Cranberries, getrocknete</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="kichererbsen">Kichererbsen (400 g Füllmenge)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8</fr:igdtQuantity>
+        <fr:igdtName ref="kardamom">Kardamomkapsel(n), grüne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8</fr:igdtQuantity>
+        <fr:igdtName ref="pekannuss">Pekannüsse</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="orangensaft">Orangensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>0,33 TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, geräuchert, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>0,33 TL</fr:igdtQuantity>
+        <fr:igdtName ref="baharat">Baharat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="salzzitrone">Salzzitrone(n)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName/>
+      <fr:instrStepText/>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish/>
+  <fr:recipeOrigin/>
+  <fr:recipeSeeAlso/>
+  <fr:recipeLicense/>
+</fr:recipe>

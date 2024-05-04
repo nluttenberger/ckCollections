@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3202491476647889">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-be383719-8e1c-4f24-a7c2-4253d9c6e177">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Schnelle Mangold-Kapuzinerkresse-Suppe mit Kräuterseitlingen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Schnelle Mangold-Kapuzinerkresse-Suppe mit Kr&#228;uterseitlingen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>15 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter, mit Stielen, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
+        <fr:igdtQuantity>15 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter, mit Stielen, bei kleinen Bl&#228;ttern 20 St&#252;ck verwenden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>15 große</fr:igdtQuantity>
-        <fr:igdtName ref="kapuzinerkresse">Kapuzinerkresseblätter, bei kleinen Blättern 20 Stück verwenden</fr:igdtName>
+        <fr:igdtQuantity>15 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="kapuzinerkresse">Kapuzinerkressebl&#228;tter, bei kleinen Bl&#228;ttern 20 St&#252;ck verwenden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -23,34 +23,36 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche mit Kräutern</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Cr&#232;me fra&#238;che mit Kr&#228;utern</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser, heißes</fr:igdtName>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Wasser, hei&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe, gekörnte</fr:igdtName>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuterseitling(e), geputzte</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uterseitling(e), geputzte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold und Kapuzinerkresse waschen und grob zerschneiden. Die Pilze in Scheiben schneiden. Die Br&#252;he ins hei&#223;e Wasser r&#252;hren.
+2 EL Butter im Topf schmelzen. Die Pilzscheiben darin goldbraun braten und dann bei Seite stellen. Die restliche Butter in den Topf geben, den Ofen ausstellen, Mangold und Kresse in der Resthitze kurz durchschwenken, bis der Mangold zusammen gefallen ist. Mit der Br&#252;he abl&#246;schen.
+Mit einem Mixstab 5 Minuten fein p&#252;rieren. Die Cr&#232;me fra&#238;che hinzugeben, weitere 2 - 3 Minuten p&#252;rieren und leicht aufsch&#228;umen. Ggf. etwas salzen und pfeffern. Auf Suppenteller oder Schalen verteilen und die gebratenen Pilzscheiben darauf verteilen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

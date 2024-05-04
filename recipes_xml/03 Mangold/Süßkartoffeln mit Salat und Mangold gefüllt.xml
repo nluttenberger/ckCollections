@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3648881549227053">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-41696cd4-6187-4020-a1de-6e426e8ecf68">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Süßkartoffeln mit Salat und Mangold gefüllt</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>S&#252;&#223;kartoffeln mit Salat und Mangold gef&#252;llt</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 große</fr:igdtQuantity>
-        <fr:igdtName ref="süßkartoffel">Süßkartoffel(n) je ca. 250 g</fr:igdtName>
+        <fr:igdtQuantity>6 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="s&#252;&#223;kartoffel">S&#252;&#223;kartoffel(n) je ca. 250 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, flüssig</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -31,10 +31,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), grün</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -59,23 +59,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="weißweinessig">Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="senf">Senf, mittelscharfer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig, flüssig</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="honig">Honig, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -83,22 +83,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 160 &#176;C Ober-/Unterhitze vorheizen. Dann 6 - 8 St&#252;cke Alufolie vorbereiten. S&#252;&#223;kartoffeln waschen, trocken reiben, dann Folienst&#252;cke mit Butter bepinseln. Folie mit Salz bestreuen und die S&#252;&#223;kartoffeln darin einwickeln. Im Ofen 30 - 40 Minuten garen.
+F&#252;r die Mangoldf&#252;llung Schalotte und Knoblauch sch&#228;len, hacken. Mangold putzen, waschen und in 2 cm breite Streifen schneiden. Das &#214;l erhitzen, Knoblauch und Schalotten darin and&#252;nsten. Mangoldstiele zugeben, 2 - 3 Minuten mitd&#252;nsten. Mangoldbl&#228;tter kurz mitd&#252;nsten, dann mit Salz, Pfeffer und Muskat w&#252;rzen.
+F&#252;r die Salatf&#252;llung die Tomaten waschen, in Spalten schneiden. Zwiebel sch&#228;len und in Streifen schneiden. Chili entkernen und in schmale Ringe schneiden. Spitzpaprika waschen, putzen und in St&#252;cke schneiden. Avocado halbieren, entkernen, Fruchtfleisch aus der Schale l&#246;sen und w&#252;rfeln. Essig, Zitronensaft, Senf, Salz, Pfeffer, Honig und &#214;l verquirlen. Mit Salatzutaten vermischen.
+Die S&#252;&#223;kartoffeln in der Folie ca. 10 Minuten rund um die Glut eines Grills platzieren, ab und zu drehen.
+Schmand mit Cr&#232;me fra&#238;che verr&#252;hren, mit Salz und Pfeffer w&#252;rzen. Alufolie &#246;ffnen, Kartoffeln einschneiden und leicht auseinanderdr&#252;cken. Mit dem Salat beziehungsweise dem Mangold f&#252;llen. Die Schmandcreme dar&#252;ber verteilen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

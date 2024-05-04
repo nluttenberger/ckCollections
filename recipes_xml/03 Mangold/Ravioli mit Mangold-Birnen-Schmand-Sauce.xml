@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-656021167291552">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-12f9c56e-6e5f-4559-b596-0d64188b6a0c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ravioli mit Mangold-Birnen-Schmand-Sauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Köpfe</fr:igdtQuantity>
+        <fr:igdtQuantity>2 K&#246;pfe</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName ref="ravioli">Ravioli, vorzugsweise mit Pilzfüllung</fr:igdtName>
+        <fr:igdtName ref="ravioli">Ravioli, vorzugsweise mit Pilzf&#252;llung</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -26,7 +26,7 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="speck">Speck (Bauchspeck, Wammerl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,38 +47,44 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="mettwurst">Cabanossi oder ähnliche Wurst</fr:igdtName>
+        <fr:igdtName ref="mettwurst">Cabanossi oder &#228;hnliche Wurst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, gekörnte</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="petersilie">Petersilie, glatte, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse (Pecorino)</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se (Pecorino)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zun&#228;chst die W&#252;rste in Ringe schneiden und zusammen mit dem Bauchspeck in der Pfanne anbraten. Zwiebeln und Knoblauch kleinschneiden und dazu geben. Eine Weile schmurgeln lassen, dann den Bauchspeck entfernen.
+Den Mangold waschen, die Stiele kleiner schneiden als das Gr&#252;ne, weil sie dicker sind. In kochendem Wasser 1-2 Minuten blanchieren, damit die gr&#252;ne Farbe erhalten bleibt &#8211; abgie&#223;en. Die Birnen sch&#228;len, Kernhaus entfernen und in St&#252;ckchen schneiden.
+Je nachdem, ob es eher weiche oder sehr feste sind, entsprechend fr&#252;her oder sp&#228;ter dazugeben. Den Mangold und die Birnen zun&#228;chst mit der Wurst anbraten, dann etwas gek&#246;rnte Br&#252;he und Wasser dazugeben und k&#246;cheln lassen.
+Parallel die Ravioli - oder andere Nudeln - kochen.
+Dann den Schmand und nach Geschmack etwas Tomatenmark, das Salz und den Pfeffer mit in die Sauce r&#252;hren. Weiter k&#246;cheln lassen und am Schluss etwas Petersilie dazugeben.
+Abschmecken und &#8211; fertig!
+Wer Lust hat, kann sich noch geriebenen Pecorino dar&#252;berstreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

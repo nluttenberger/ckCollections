@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3712981561767798">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c846d93d-46d6-43d5-a4d4-bb7d3c4e52f5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hühnerbrust im Mangoldmantel mit hausgemachten Pappardelle in Tomaten-Mangold-Sahne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>H&#252;hnerbrust im Mangoldmantel mit hausgemachten Pappardelle in Tomaten-Mangold-Sahne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrüste</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbr&#252;ste</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtQuantity>6 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -31,19 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="majoran">Majoran</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="estragon">Estragon</fr:igdtName>
+        <fr:igdtName ref="petersilie">Kr&#228;uter, gemischte, frisch gehackte n. B. (z. B. Thymian, Majoran, Petersilie, Estragon etc.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -62,24 +50,24 @@
         <fr:igdtName ref="senf">Senf, mittelscharfer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Hartweizengrieß</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Hartweizengrieß, doppelt gemahlen (Semola di grano duro rimacianta)</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;, doppelt gemahlen (Semola di grano duro rimacianta)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -87,26 +75,34 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Farce Hack und Salz anfrieren. Restliche Zutaten und der Cutter sollten sehr kalt sein. Hack und Salz im Cutter fein hacken. Eigelb dazugeben und cuttern. Nun nach und nach die Sahne zugeben und so lange untermixen, bis eine homogene Masse entstanden ist. Nun wie gew&#252;nscht mit Kr&#228;utern, Salz und Pfeffer abschmecken.
+Mangoldbl&#228;tter in Salzwasser blanchieren und gut trocken tupfen. Frischhaltefolie auslegen. Die Mangoldbl&#228;tter auf die Folie legen und mit der Farce bestreichen. Die H&#252;hnerbrust gut mit Salz und Pfeffer w&#252;rzen und auf die mit Farce bestrichenen Mangoldbl&#228;tter legen. Nun alles zu einer Rolle wickeln und wie ein Bonbon verdrehen. Dies noch weitere zweimal wiederholen, wobei die letzte Schichte dann Alufolie sein sollte.
+Ca. 20 - 25 Min pochieren (bei unter 100 &#176;C im Wasserbad gar ziehen).
+W&#228;hrenddessen die Pappardelle im Pastamaker zubereiten. Grie&#223; und Semola in den Pastamaker geben. Aus Ei, Oliven&#246;l und Wasser nach Bedarf insgesamt 190 ml verquirlte Fl&#252;ssigkeit herstellen und w&#228;hrend des Mischvorgangs eingie&#223;en. Einmal mit einer beiliegenden Pastamaker-Matrize ausgeben und wieder zur&#252;ck in den Teigbeh&#228;lter geben. 20 Min. ruhen lassen. Die Matrize idealerweise wechseln (z. B. Pappardelle 8 mm von Pastidea), nochmals kneten und ausgeben lassen. Unter Umst&#228;nden die Ausgabe wiederholen. In reichlich gesalzenem und kochendem Wasser ca. 3 Min kochen.
+F&#252;r die Mangold-Sahne-So&#223;e 2 Kellen vom Pastawasser zur&#252;ckbehalten.
+Die Mangoldbl&#228;tter vom Stiel abschneiden. Die Bl&#228;tter in Streifen schneiden, die Stiele w&#252;rfeln. Die Stielw&#252;rfel in der H&#228;lfte der Butter goldgelb anschwitzen und etwa 5 - 10 Min zugedeckt bei niedriger Temperatur ziehen lassen.
+Sahne und Senf vermengen.
+Nun die Blattstreifen, Tomatenw&#252;rfel mit der restlichen Butter dazugeben und nochmal ein paar Minuten verschlossen simmern lassen. Mit der Senf-Sahne aufgie&#223;en, Parmesan dazugeben und mit dem Pastawasser nochmal 5 Min. ziehen lassen. Mit Salz, Pfeffer und Muskat abschmecken und unter die fertige Pasta r&#252;hren.
+Anmerkung: Nat&#252;rlich k&#246;nnen auch 500 g gekaufte Pappardelle verwendet werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

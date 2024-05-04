@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3135231466956669">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-eb61c669-6a41-4e4a-8cc0-617401545ce7">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Paprika-Feta-Tarte mit Strudelteig</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="teig">Strudelteig (Dinkelstrudelteig), 2 Blätter</fr:igdtName>
+        <fr:igdtName ref="teig">Strudelteig (Dinkelstrudelteig), 2 Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote(n), rote, gewaschene und in Stücke geschnittene</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), rote, gewaschene und in St&#252;cke geschnittene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), geschälte und fein gehackte</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gesch&#228;lte und fein gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, geschälte und fein gehackte</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, gesch&#228;lte und fein gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="liebstöckel">Kräuter, frische, z. B. Salbei, Thymian, Basilikum, Orgeano, Liebstöckel oder Petersilie, fein gehackte</fr:igdtName>
+        <fr:igdtName ref="liebst&#246;ckel">Kr&#228;uter, frische, z. B. Salbei, Thymian, Basilikum, Orgeano, Liebst&#246;ckel oder Petersilie, fein gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -43,26 +43,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel und Knoblauch in einer Pfanne mit etwas &#214;l glasig d&#252;nsten. Paprika und Mangoldstile dazugeben und etwa 3 Minuten anbraten. Die Mangoldbl&#228;tterstreifen dazugeben und anbraten, bis diese zusammen fallen. W&#252;rzen und mit den Kr&#228;utern abschmecken.
+Das Ei mit Milch verquirlen. Ein Strudelteigblatt in eine Tarteform legen und mit &#214;l bepinseln. &#220;berstehenden Teig in die Form klappen. Das zweite Strudelteigblatt &#252;ber das erste legen, wieder mit &#214;l bepinseln und einklappen.
+Die Mangoldmasse auf dem Teig verteilen. Mit dem Eigemisch begie&#223;en und die Fetaw&#252;rfel dar&#252;ber streuen. Die Tarte bei 220 &#176;C 20 - 30 Minuten im Ofen backen.
+Wer mag, kann die Tarte mit ger&#246;steten Pinien- oder Sonnenblumenkernen vor dem Servieren bestreuen.
+Reicht f&#252;r 2 Portionen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

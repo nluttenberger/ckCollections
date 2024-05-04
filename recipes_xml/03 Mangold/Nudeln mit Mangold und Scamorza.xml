@@ -1,0 +1,78 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2749a993-d659-4935-a3e5-90f23bd68a66">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Nudeln mit Mangold und Scamorza</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfefferschote(n), rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">Scamorza (ger&#228;ucherter italienischer K&#228;se)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Kirschtomate(n), rote und gelbe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Rigatoni</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>12</fr:igdtQuantity>
+        <fr:igdtName ref="salbei">Salbeibl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>1. Knoblauchzehe andr&#252;cken, fein hacken. Zwiebeln halbieren und in feine Halbringe schneiden. Pfefferschote putzen, waschen, l&#228;ngs halbieren und quer in feine Streifen schneiden. Mangoldbl&#228;tter von den Stielen schneiden. Bl&#228;tter halbieren, dabei die Mittelrippe entfernen. Bl&#228;tter waschen, abtropfen lassen und quer in ca. 2&#8239;cm breite Streifen schneiden. Mangoldstiele waschen, abtropfen lassen, dann quer in 5 mm breite St&#252;cke schneiden. K&#228;se fein reiben, beiseitestellen. Kirschtomaten putzen, waschen.
+2. Nudeln nach Packungsanweisung in reichlich kochendem Salzwasser bissfest garen.
+3. Inzwischen Oliven&#246;l in einem gro&#223;en flachen Topf erhitzen. Knoblauch, Zwiebeln, Pfefferschote und Mangoldstiele darin 3&#8239;Minuten bei mittlerer bis starker Hitze d&#252;nsten. Mit Salz und Pfeffer w&#252;rzen. Mit dem Wei&#223;wein abl&#246;schen und bei mittlerer Hitze weitere 5&#8239;Minuten d&#252;nsten. Nach 3 Minuten die Mangoldbl&#228;tter unterheben.
+4. Butter in einer Pfanne erhitzen. Salbeibl&#228;tter und Kirschtomaten darin bei mittlerer bis starker Hitze 2 - 3&#8239;Minuten braten, bis die Tomaten leicht aufplatzen.
+5. Nudeln in ein Sieb abgie&#223;en, dabei 200&#8239;ml Nudelwasser auffangen. Nudeln mit Nudelwasser zum Mangold geben und bei mittlerer Hitze 2 - 3 Minuten s&#228;mig einkochen lassen, anschlie&#223;end vom K&#228;se unterheben.
+6. Nudeln in vorgew&#228;rmten tiefen Tellern anrichten. Kirschtomaten mit Salbei und Butter darauf verteilen. Mit restlichem K&#228;se und Pfeffer bestreuen und sofort servieren.
+Pro Portion 24 g E, 34 g F, 74 g KH = 732 kcal (3067 kJ)</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

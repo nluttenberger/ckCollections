@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3425621510307626">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b53dff97-22a2-4041-a801-a3253c7a0920">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gebratene Mangoldküchlein</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gebratene Mangoldk&#252;chlein</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -30,7 +30,7 @@
         <fr:igdtName ref="muskat">Muskatnuss</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,15 +47,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -65,12 +65,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Gesalzenes Wasser in einem Topf zum Kochen bringen und darin zuerst die Stiele und Blattrippen des Mangolds 2 Minuten blanchieren, anschlie&#223;end darauf die Mangoldbl&#228;tter geben und noch weitere 4 Minuten blanchieren. Den Mangold abgie&#223;en und auspressen, bis er fast keine Feuchtigkeit mehr enth&#228;lt.
+Den Mangold in einer Sch&#252;ssel mit gehackter Petersilie, Koriander, Dill, nicht zu viel Muskatnuss, Zucker, Mehl, Eiern, gepressten Knoblauchzehen, zerbr&#246;seltem Fetak&#228;se, ganz wenig Salz und etwas mehr Pfeffer vermengen.
+Aus der Masse K&#252;chlein formen und diese in einer Bratpfanne mit etwas Oliven&#246;l beidseitig goldbraun braten. Die gebratenen K&#252;chlein auf einem Haushaltspapier abtropfen lassen. Zum Schluss noch etwas Zitronensaft dar&#252;bertr&#228;ufeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

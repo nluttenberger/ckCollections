@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-685811171102173">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7f10e819-7db0-465b-931f-94594df810fc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Riesentomaten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Riesentomaten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Fleischtomate(n), reife</fr:igdtName>
@@ -22,16 +22,16 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck oder Schinken, gewürfelter</fr:igdtName>
+        <fr:igdtName ref="schinken">Speck oder Schinken, gew&#252;rfelter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -45,12 +45,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Tomaten waschen, einen Deckel abschneiden und das Fruchtfleisch ausl&#246;ffeln. Deckel und Fruchtfleisch in W&#252;rfel schneiden. Mangold gr&#252;ndlich waschen. Zwiebel sch&#228;len und in W&#252;rfel schneiden.
+In einem Topf das Oliven&#246;l erhitzen und die Zwiebelw&#252;rfel drin and&#252;nsten, Mangold zugeben und ca. 5 Minuten k&#246;cheln lassen. Mit Salz und Pfeffer abschmecken. In einer Pfanne 1 EL Oliven&#246;l erhitzen und die Speck- oder Schinkenw&#252;rfel darin knusprig anbraten.
+Gew&#252;rfelte Tomaten mit Mangold, Zwiebel und Speck zu einer glatten Masse vermengen. Paniermehl und Parmesan zugeben und alles nochmals gut vermengen. Die Masse in die ausgeh&#246;hlten Tomaten f&#252;llen.
+Alufolie in 8 ausreichend gro&#223;e St&#252;cke schneiden und mit &#214;l bestreichen. Die gef&#252;llten Tomaten darauf setzen, in die Folie wickeln und ca. 10- 15 Minuten grillen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

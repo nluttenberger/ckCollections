@@ -1,0 +1,90 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-89f95901-1e84-4961-ab8c-092aeac103e4">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldwickerl mit Brotkruste</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>16</fr:igdtQuantity>
+        <fr:igdtName ref="olive">Oliven, schwarze, entsteinte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="paprika">Paprikaschote(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="curry">Currypaste, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomaten, gesch&#228;lte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
+        <fr:igdtName ref="kichererbsen">Kichererbsen, ca. 250 g</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="thunfisch">Thunfisch, ca. 150 g z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="tomatenmark">Tomatenmark mit W&#252;rzgem&#252;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he oder Universalw&#252;rze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="garam_masala">Garam Masala</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 Scheibe/n</fr:igdtQuantity>
+        <fr:igdtName ref="sesam">Kn&#228;ckebrot mit Sesam</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebeln, Oliven, Paprika und Knoblauch klein schneiden und in Oliven&#246;l und Currypaste anbraten. Tomaten, Kichererbsen, Thunfisch und Tomatenmark hinzuf&#252;gen und mit den Gew&#252;rzen abschmecken. Die Mischung zu einer s&#228;migen Sauce einkochen.
+Mangoldbl&#228;tter kurz blanchieren und die dicken Stiele flachklopfen. Je 1/8 der Masse auf jedem Blatt verstreichen und vom Stiel her aufrollen. In eine ofenfeste Form legen.
+Den Feta-K&#228;se und das Kn&#228;ckebrot zerbr&#246;seln und mit der Petersilie vermischen. &#220;ber die Mangoldr&#246;llchen streuen. Bei 180 &#176;C Umluft auf der unteren Schiene 20 - 25 Minuten &#252;berbacken.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

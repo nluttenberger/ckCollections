@@ -1,57 +1,53 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-288471107612917">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-13f954ad-f71d-4488-9e5e-6f9280ddb3ba">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Tortelloni mit grünem Spargel und Kräuterbutter</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Tortelloni mit gr&#252;nem Spargel und Kr&#228;uterbutter</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Grieß (Hartweizengrieß), fein ausgemahlen</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Grie&#223; (Hartweizengrie&#223;), fein ausgemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold (oder Spinat)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, (oder Spinat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Pancetta (luftgetrockneter ital. Speck)</fr:igdtName>
+        <fr:igdtName ref="speck">Speck (Pancetta, luftgetrockneter ital. Speck)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
@@ -82,8 +78,8 @@
         <fr:igdtName ref="butter">Butter, zimmerwarm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -91,10 +87,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, grüner</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;ner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -107,22 +103,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="pinienkerne">Pinienkerne, geröstet</fr:igdtName>
+        <fr:igdtName ref="pinienkerne">Pinienkerne, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mehl, Grie&#223;,  Eier, Salz und &#214;l zu einem geschmeidigen Nudelteig verkneten. In Folie gewickelt 1 Std. ruhen lassen.
+F&#252;r die F&#252;llung Mangold putzen, waschen, abtropfen lassen und sehr fein hacken. Den Speck sehr fein w&#252;rfeln. Oliven&#246;l und Butter in einer Pfanne erhitzen und den Speck und Mangold 5 min. bei milder Hitze anschwitzen. Mit Salz, Pfeffer und Muskat w&#252;rzen und abk&#252;hlen lassen. Ricotta abtropfen lassen, die Amaretti grob zerbr&#246;seln. Mangold mit Ricotta, Amaretti und Eigelb vermischen und mit Salz und Pfeffer abschmecken.
+F&#252;r die Kr&#228;uterbutter Petersilie, Minze und Salbei sehr fein hacken. Die Butter schaumig r&#252;hren, die Kr&#228;uter unterr&#252;hren, mit Salz, Pfeffer und Zitronensaft w&#252;rzen und kalt stellen. Den Spargel putzen, das untere Drittel sch&#228;len und in kochendem Salzwasser 4 min garen, abschrecken und abtropfen lassen.
+Den Knoblauch sch&#228;len und fein w&#252;rfeln. Den Nudelteig halbieren und in der Nudelmaschine auf bemehlter Arbeitsfl&#228;che von Stufe 1-6 zu einer ca. 90 cm langen und 14 cm breiten Bahn ausrollen. Die Bahn mit dem restlichen verquirlten Ei bestreichen.
+Die H&#228;lfte der F&#252;llung in kleinen Portionen in ca. 5 cm zueinander Abstand auf der H&#228;lfte der Nudelbahn verteilen. Die andere H&#228;lfte dar&#252;ber klappen und vorsichtig andr&#252;cken.
+Mit einem Ausstecher oder einem Teigr&#228;dchen Tortelloni ausstechen / ausr&#228;deln, auf ein bemehltes Brett nebeneinander setzen und abdecken. Den Vorgang solange wiederholen, bis Teig und F&#252;llung aufgebraucht sind.
+Die Tortelloni in einem gro&#223;en Topf mit kochendem Salzwasser in ca. 10 min. garen.
+Spargel in Butter mit dem Knoblauch bei milder Hitze anbraten und salzen, mit Semmelbr&#246;seln bestreuen. Die Kr&#228;uterbutter in einer Pfanne zerlassen. Die Tortelloni aus dem Wasser heben, abtropfen lassen und in der Kr&#228;uterbutter schwenken.
+Mit dem gebratenen Spargel und den ger&#246;steten Pinienkernen bestreut servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

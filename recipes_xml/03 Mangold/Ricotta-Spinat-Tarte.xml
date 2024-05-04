@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2637281414306133">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e402e79b-4618-4df0-93b5-b3d4e2527cd9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ricotta-Spinat-Tarte</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>380 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Weizenmehl, Type 405</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 ml</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -46,12 +46,12 @@
         <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -63,11 +63,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan oder Grana Padano, gerieben</fr:igdtName>
+        <fr:igdtName ref="grana_padano">Parmesan oder Grana Padano, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, flüssig</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -77,12 +77,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus den ersten 4 Zutaten einen glatten Teig kneten, sodass er nicht mehr am Sch&#252;sselrand klebt. Dann in Frischhaltefolie wickeln und mindestens 30 Minuten in den K&#252;hlschrank stellen.
+W&#228;hrenddessen die F&#252;llung zubereiten. Den Spinat verlesen und waschen und in feine Streifen schneiden. Dann in Salzwasser ca. 5 Minuten blanchieren. In einem Sieb abtropfen lassen und, nachdem er etwas abgek&#252;hlt ist, gut ausdr&#252;cken. Die Zwiebel- und Knoblauchst&#252;ckchen in hei&#223;er Butter goldbraun anschwitzen. Dann den Spinat dazugeben und ca. 5 Minuten mitbraten lassen. Alles etwas abk&#252;hlen lassen. Den Ricotta mit dem Ei gut verquirlen. Dann mit der Spinatmasse vermischen. Mit Pfeffer, Salz, Zucker und den Kr&#228;utern abschmecken.
+Den Teig nochmal durchkneten und in 6 gleich gro&#223;e St&#252;cke teilen. Auf einer bemehlten Fl&#228;che 4 der St&#252;cke rund ausrollen (wie eine Pizza) mit einem Durchmesser von ca. 25 cm. Das 5. und 6. St&#252;ck wieder zu EINEM St&#252;ck zusammenkneten und auch rund ausrollen mit einem Durchmesser von ungef&#228;hr 35cm und bis zum Schluss zur Seite legen.
+Das erste St&#252;ck mit Butter bestreichen und mit etwas geriebenem K&#228;se bestreuen. Dann das zweite St&#252;ck darauflegen. Auf dieses St&#252;ck kommt nun die Spinat-Ricotta-Masse (Achtung, dabei einen kleinen Rand von ca. 1 cm freilassen). Auf die Spinatmasse das dritte Teigst&#252;ck legen. Dieses wiederum mit Butter einstreichen und K&#228;se bestreuen. Das vierte St&#252;ck als Deckel drauflegen. Das gro&#223;e Teigst&#252;ck auch mit Butter bestreichen und K&#228;se bestreuen. Dabei wieder einen Rand von ca. 2-3cm freilassen. Dann den "Turm" der 4 Teigst&#252;cke mittig auf das gro&#223;e Teigst&#252;ck setzen. Am besten geht das mit einem Tortenblech. Die &#252;berstehenden Kanten des gro&#223;en Teigst&#252;ckes nach oben klappen, sodass sie die offenen Kanten des Stapels einschlie&#223;en und oben drauf etwas andr&#252;cken. Man kann auch etwas Wasser zum Einstreichen der Kante nehmen, sodass sie besser anhaften. Dann alles umdrehen, sodass die eingeschlagene Kante unten liegt, und auf ein gefettetes Backblech legen. Dann mit einer Gabel etwas einstechen und mit Eigelb bepinseln.
+Bei 200 Grad auf der mittleren Schiene ca. 30 Minuten backen.
+Die Tarte schmeckt sehr gut lauwarm oder auch kalt.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

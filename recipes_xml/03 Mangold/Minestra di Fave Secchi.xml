@@ -1,40 +1,45 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3114511464416569">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0629ee1e-2093-4d1b-9206-8b2926f0ec2b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Minestra di Fave Secchi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="ackerbohne">Bohnen (Ackerbohnen), dicke Bohnen, getrocknete</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Bündel</fr:igdtQuantity>
+        <fr:igdtQuantity>2 B&#252;ndel</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, gekocht und fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Baguette(s), in Scheiben geschnitten</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Baguette(s), in Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Bohnen &#252;ber Nacht einweichen.
+Im Salzwasser ca. 1 Stunde kochen, abgie&#223;en und mit einer Gabel zerdr&#252;cken.
+Mangold im Salzwasser ca. 15 Minuten kochen.
+In einem Topf die fein gehackte Zwiebel r&#246;sten, die Ackerbohnen und den gehackten Mangold  hinzuf&#252;gen, alles gut verquirlen.
+Mit Salz und Pfeffer abschmecken und mit Oliven&#246;l betr&#228;ufeln.
+35 Kcal pro Portion.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

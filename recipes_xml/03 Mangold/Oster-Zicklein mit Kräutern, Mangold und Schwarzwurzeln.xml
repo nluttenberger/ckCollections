@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-987651204103243">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-db3aaeb6-3c01-4b46-a7d6-ee256b03cbdb">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Oster-Zicklein mit Kräutern, Mangold und Schwarzwurzeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Oster-Zicklein mit Kr&#228;utern, Mangold und Schwarzwurzeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kg</fr:igdtQuantity>
-        <fr:igdtName ref="zicklein">Zicklein, Keule, Rücken und Schulter</fr:igdtName>
+        <fr:igdtName ref="zicklein">Zicklein, Keule, R&#252;cken und Schulter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -30,11 +30,11 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="thymian">Thymian, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="rosmarin">Rosmarin, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -42,12 +42,12 @@
         <fr:igdtName ref="estragon">Essig (Estragonessig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Fond, heller</fr:igdtName>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="br&#252;he">Fond, heller</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -59,14 +59,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="schnittlauch">Schnittlauch, Röllchen</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, R&#246;llchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Basilikum, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n), Saft davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -87,22 +87,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter für das Gemüse</fr:igdtName>
+        <fr:igdtName ref="butter">Butter f&#252;r das Gem&#252;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="stärke">Kartoffelmehl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="st&#228;rke">Kartoffelmehl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Keulen und Schultern vom Knochen l&#246;sen und in gleichm&#228;&#223;ig gro&#223;e St&#252;cke schneiden. Der R&#252;cken wird ausgel&#246;st. Knochen und Bauchlappen werden zur Zubereitung von hellem Fond verwendet.
+Man w&#252;rzt die Fleischst&#252;cke mit Salz und Pfeffer und wendet sie ein wenig in Mehl. In einer flachen Kasserolle etwa 2/3 der Butter erhitzen, Schalotten und Knoblauch dazugeben und das Fleisch kurz anbraten. Thymian und Rosmarin beigeben, mit einem Spritzer Estragonessig abl&#246;schen und mit Wei&#223;wein und hellem Fond aufgie&#223;en.
+Bei m&#228;&#223;iger Hitze (120 bis 140&#176;C) ca. 50 bis 60 Minuten zugedeckt im Ofen schmoren. W&#228;hrend der Garzeit das Fleisch &#246;fter kontrollieren, da der R&#252;cken fr&#252;her als die Keulen fertig ist. Dann das Fleisch herausnehmen und warmhalten.
+Den Fond reduzieren, die Sahne dazu geben und etwa zehn Minuten auf kleiner Flamme weiterkochen lassen. Kartoffelmehl mit Wasser anr&#252;hren und ebenfalls in die Sauce geben. Anschlie&#223;end wird die Sauce passiert und im Mixer mit der restlichen Butter aufgeschlagen. Fleischst&#252;cke, gehackte Kr&#228;uter und Zitronensaft dazugeben, abschmecken und die geschlagene Sahne unterziehen.
+Vom Mangold werden die gr&#252;nen Bl&#228;tter  wie Blattspinat zubereitet, das hei&#223;t blanchiert und in leicht gesalzener Butter geschwenkt. Von den Mangoldstielen zieht man die F&#228;den ab und kocht die Stiele in Salzwasser. In schr&#228;ge St&#252;cke schneiden und ebenfalls in Butter schwenken.
+Die Schwarzwurzeln werden gesch&#228;lt, in Wasser mit Milch gekocht, in drei Zentimeter lange St&#252;cke geschnitten und in Butter geschwenkt.
+Als weitere Beilage eignen sich kleine neue Kartoffeln.
+Wichtig! Ziegenfleisch ist ein Niedertemperaturfleisch - das hei&#223;t, es muss bei niedriger Temperatur sehr lange gegart werden. So erh&#228;lt man wunderbar zartes Fleisch.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

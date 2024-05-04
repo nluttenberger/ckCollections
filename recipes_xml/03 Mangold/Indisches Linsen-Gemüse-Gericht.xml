@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3204681476997479">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5b518647-efb4-41c9-bff7-55dfb5102dc1">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Indisches Linsen-Gemüse-Gericht</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Indisches Linsen-Gem&#252;se-Gericht</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="linsen">Linsen, rote</fr:igdtName>
@@ -18,8 +18,8 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Ingwer, frisch, knoblauchzehengroß</fr:igdtName>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Ingwer, frisch, knoblauchzehengro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -39,18 +39,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Dose</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Dose</fr:igdtQuantity>
         <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -62,35 +62,39 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 EL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="kokosöl">Kokosöl</fr:igdtName>
+        <fr:igdtQuantity>2 EL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="kokos&#246;l">Kokos&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curcuma">Kurkumapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="koriander">Korianderpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, bio</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, bio</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chili</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chili</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Gem&#252;se waschen, putzen und sch&#228;len. Knoblauch und Ingwer fein hacken. Mangold in grobe Streifen schneiden. Die Fr&#252;hlingszwiebeln klein hacken. Das restliche Gem&#252;se in kleine W&#252;rfel schneiden.
+Wasser, Knoblauch, Ingwer und Kurkuma in einen kleinen Topf geben und aufkochen. Linsen, Kartoffel- und M&#246;hrenw&#252;rfeln dazugeben. So viel Wasser auff&#252;llen, dass das Gem&#252;se gut bedeckt ist und ca. 20 Minuten leicht sprudelnd weich kochen. Dabei immer wieder umr&#252;hren. Wenn n&#246;tig, mit ein wenig Wasser auff&#252;llen. Nach dem Kochen sollten die Linsen mit dem Gem&#252;se ganz weich sein und eine pampige aber noch sehr feuchte Konsistenz haben. Umr&#252;hren, salzen und beiseite stellen.
+In einer gro&#223;en, hohen Pfanne das Kokos&#246;l erhitzen und die Zwiebel darin anbraten, bis sie glasig aber auf keinen Fall braun ist. Salzen oder mit Gem&#252;sebr&#252;hpulver best&#228;uben. Das restliche Gem&#252;se dazugeben und kurz and&#252;nsten, bis der Mangold zusammenf&#228;llt. Die Kokosmilch hinzugeben, umr&#252;hren und mit geschlossenem Deckel so lange d&#252;nsten, bis das Gem&#252;se gar ist, aber noch nicht zerf&#228;llt.
+Das Linsengem&#252;se und einen guten Schuss Sojasahne dazugeben, umr&#252;hren und evtl. mit den Gew&#252;rzen abschmecken. Sollte zu wenig Sauce entstanden sein, mehr Kokosmilch nehmen und ggf. nochmal abschmecken.
+Die Suppe schmeckt aufgew&#228;rmt am besten. Dazu schmecken Naan-Brot oder Basmatireis.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

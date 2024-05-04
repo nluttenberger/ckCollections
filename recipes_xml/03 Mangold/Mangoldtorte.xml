@@ -1,0 +1,62 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0266fac0-ff56-49d4-b0c7-6635432f676b">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldtorte</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Paket</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK, 300 g</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>750 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schinken">Kochschinken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda), mittelalt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl, f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Bl&#228;tterteig auftauen lassen. Den Boden und den Rand einer mit Wasser ausgesp&#252;lten und bemehlten Springform (26 cm) auslegen. Mangold putzen, waschen, in Streifen schneiden und kurz blanchieren.
+In Streifen geschnittenen Schinken abwechselnd mit dem Gem&#252;se in die mit Teig ausgelegte Springform geben. K&#228;se mit Eiern, Sahne und Gew&#252;rzen verr&#252;hren und dar&#252;ber gie&#223;en.
+Im vorgeheizten Backofen bei 200 Grad 30 Minuten backen, bis der Guss fest geworden ist.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

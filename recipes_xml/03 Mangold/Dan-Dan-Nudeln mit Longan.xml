@@ -1,0 +1,117 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4dcd30c4-c920-4c1e-ac4e-60c187284c00">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Dan-Dan-Nudeln mit Longan</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Bl&#228;tter (Kailanbl&#228;tter), ersatzweise Spinat oder Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10 g</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer, frisch oder TK</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Peperoni, rote, lang, mittelscharf</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="fr&#252;chte">Longanfr&#252;chte (Dose, Abtropfgewicht)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Bl&#252;te (Peperonibl&#252;te)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="fr&#252;chte">Longanfr&#252;chte, frische (falls verf&#252;gbar)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#252;ten">Bl&#252;ten und Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="fleischbr&#252;he">Pilzpulver (Bouillon, Granulat)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 TL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker, fein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="szechuanpfeffer">Szechuanpfeffer, frisch aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 g</fr:igdtQuantity>
+        <fr:igdtName ref="fleischbr&#252;he">Pilzpulver (Bouillon, Granulat)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">chinesische Eiernudeln, in Tafeln getrocknet</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="reisessig">Reisessig, dunkel, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, dunkel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="fruchtsaft">Fruchtsaft, aufgefangener (Longansaft)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Kochwasser (von den Nudeln)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l zum Braten</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Gem&#252;se vorbereiten:
+Alle Zutaten waschen, gegebenenfalls sch&#228;len und sehr klein hacken. Die Peperoni f&#252;r das Gem&#252;se l&#228;ngs halbieren, K&#246;rner und Trennw&#228;nde entfernen und quer in d&#252;nne F&#228;den schneiden. Die abgetropften Longanfr&#252;chte vierteln.
+Zum Garnieren:
+Die Peperoni waschen. Ca. 1,5 cm nach dem Stiel l&#228;ngs vierteln. K&#246;rner und Scheidew&#228;nde entfernen und jedes Viertel dann l&#228;ngs vorsichtig halbieren. Die Peperoni bis zum Gebrauch in reichlich kaltem Wasser schwimmen lassen. Dabei geht sie bl&#252;tenartig auf.
+F&#252;r die Gew&#252;rze:
+Die Bouillon, den Zucker und den Szechuanpfeffer in eine Sch&#252;ssel geben und das kleingehackte Gem&#252;se dazumischen.
+Nudeln kochen:
+Im kochendem Wasser die Pilzbouillon aufl&#246;sen und die Nudeln darin in 2 Minuten al dente kochen. Abseihen und die entsprechende Menge der Br&#252;he behalten.
+Die fl&#252;ssigen Gew&#252;rze:
+Den Reisessig zusammen mit dem Sesam&#246;l, dem aufgefangenen Longansaft und der Nudelkochbr&#252;he in einer kleinen Sch&#252;ssel bereithalten.
+Nudeln braten:
+Das Sonnenblumen&#246;l in den Wok geben, moderat erhitzen. Das gehackte Gem&#252;se mit den Gew&#252;rzen zugeben und 1 Minute pfannenr&#252;hren. Die Nudeln dazumischen und kurz pfannenr&#252;hren. Dann die fl&#252;ssigen Gew&#252;rze untermischen und das fertige Dan-Dan vom Herd nehmen.
+Servieren:
+Die Nudeln in die Servierschalen verteilen. Peperonibl&#252;te, Longanfr&#252;chte und nach Belieben mit Bl&#252;ten und Bl&#228;tter garnieren, gut warm servieren und genie&#223;en.
+Anmerkungen:
+In Europa ist die Longanfrucht de facto unbekannt und nur in gut sortierten Asial&#228;den oder per Internet als Dosenware (ohne Kerne) zu bekommen. Sie ist eine relativ preiswerte Frucht und als Dosenware preiswerter als Litschi oder Rambutan. In Indonesien wird sie zur Reifezeit als Sch&#252;ttware, inklusive ihrer Zweige, angeboten.
+Die Longan ist wie die Litschi und die Rambutan eine &#8222;Spring in den Mund&#8220;-Frucht, d.h. die umgebende Haut wird mit beiden Daumenn&#228;geln aufgebrochen und die Frucht mit dem Kern in den Mund gedr&#252;ckt. Das Fruchtfleisch wird, wie bei einer Kirsche, per Zunge und Z&#228;hne vom Kern getrennt, und dieser ausgespuckt.
+Die Longan, auch Lengkeng genannt, ist die kleinste der nach Litchi schmeckenden Fr&#252;chte. Dann kommt die Litchi, die Rambutan, die Mangostin, die Srikaya und die Sirsak, die bis zu 1 Kilogramm wiegen kann.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

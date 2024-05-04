@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1024421207631133">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-07be0fe2-38ab-4ea6-ab8a-5c53f11105a4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Strudel vom Rehbock auf Rotwein-Schalottenkompott</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2.200 g</fr:igdtQuantity>
-        <fr:igdtName ref="rehundhirsch">Rehrücken mit Knochen</fr:igdtName>
+        <fr:igdtName ref="rehundhirsch">Rehr&#252;cken mit Knochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1.300 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 ml</fr:igdtQuantity>
@@ -39,47 +39,43 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Karotte</fr:igdtName>
+        <fr:igdtName ref="petersilienwurzel">Gem&#252;se, gemischtes (Karotte und Petersilienwurzel), gew&#252;rfelt, blanchiert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="petersilienwurzel">Petersilienwurzel</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>16 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>16 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, blanchierter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="teigblätter">Strudelblätter</fr:igdtName>
+        <fr:igdtName ref="teigbl&#228;tter">Strudelbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er) zum Bestreichen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gewürzmischung (Wildgewürz)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Wildgew&#252;rz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, flüssige, zum Bestreichen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, fl&#252;ssige, zum Bestreichen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -91,7 +87,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="suppengemüse">Gemüse (Wurzelgemüse), geröstetes</fr:igdtName>
+        <fr:igdtName ref="suppengem&#252;se">Gem&#252;se (Wurzelgem&#252;se), ger&#246;stetes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -99,11 +95,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Wildfond</fr:igdtName>
+        <fr:igdtName ref="wildfond">Wildfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -119,7 +115,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Anbraten</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Anbraten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -129,12 +125,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Strudel aus dem gewolften Rehfleisch, Eiwei&#223;, Sahne und dem Weinbrand im K&#252;chenkutter eine feine Farce herstellen. Mit Salz, Pfeffer, Piment, Muskat und dem Wildgew&#252;rz abschmecken. Die blanchierten Gem&#252;sew&#252;rfel, die Pinienkerne und die Pistazien untermischen.
+Den Rehr&#252;cken ausl&#246;sen und die R&#252;ckenfilets fein parieren (d.h. von allen Sehnen befreien). Die Knochen und die Abschnitte f&#252;r die Sauce aufbewahren. Die R&#252;ckenfilets mit Salz und Pfeffer w&#252;rzen und kurz scharf von allen Seiten anbraten.
+Den Strudelteig auslegen und mit der Farce bestreichen. Dann die Mangoldbl&#228;tter auflegen und die R&#252;ckenfilets einlegen. Anschlie&#223;end einrollen, auf ein vorbereitetes Backblech legen und mit fl&#252;ssiger Butter bestreichen.
+Im vorgeheizten Backofen bei 220&#176;C ca. 8 &#8211; 10 Minuten backen. Das Fleisch sollte unbedingt noch rosa sein.
+F&#252;r das Rotwein-Schalottenkompott die Abschnitte und die Knochen vom Rehr&#252;cken in kleine St&#252;cke hacken und in wenig &#214;l anbraten. Wenn die Knochen Farbe genommen haben, das gew&#252;rfelte Wurzelgem&#252;se zugeben und nochmals so lange braten, bis auch das Gem&#252;se sch&#246;n braun ist. Nun etwas Tomatenmark zugeben, verr&#252;hren und weiter anbraten. Mit etwas Rotwein abl&#246;schen. So lange reduzieren, bis der Rotwein verdunstet ist. Nun mit dem Wildfond und mit etwas Wasser aufgie&#223;en. Ca. 1 Std. leise kochen lassen. Die Sauce dann absieben und um die H&#228;lfte reduzieren. Ein Thymianstr&#228;u&#223;chen einlegen.
+Die Schalotten sch&#228;len und halbieren. Mit dem restlichen Rotwein und etwas Honig gar kochen. Die Schalotten absieben und den aufgefangenen Rotwein mit der Wildsauce vermischen. Wenn n&#246;tig, nochmals reduzieren. Mit kalter Butter montieren. Die Schalotten in der Sauce erhitzen und unter dem Strudel anrichten. Hei&#223; servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

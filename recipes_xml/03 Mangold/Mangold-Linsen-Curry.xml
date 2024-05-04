@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3422081509791363">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7a1901ba-7781-4da5-bb65-190f062678db">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Linsen-Curry</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>320 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -19,50 +19,53 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
         <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
         <fr:igdtName ref="curry">Currypulver, scharfes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="koriander">Koriander</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Knoblauch und Schalotte sch&#228;len und fein hacken. Die Stiele vom Mangold trennen und beides fein schneiden. Etwas &#214;l in einem Topf erhitzen und darin 3 - 4 Minuten bei mittlerer Temperatur anbraten.
+Den Kreuzk&#252;mmel im M&#246;rser zerkleinern. Falls ihr frischen Kurkuma verwendet, diesen hacken. Kurkuma f&#228;rbt ziemlich ab. Kurkuma, Curry und Kreuzk&#252;mmel mit in den Topf geben und 1 - 2 Minuten braten. Die Linsen kurz mit kaltem Wasser abwaschen.
+Die hei&#223;e Gem&#252;sebr&#252;he und die Kokosmilch hinzugeben und vermengen. Linsen und Mangoldstiele dazugeben. Leicht salzen, umr&#252;hren, einen Deckel auflegen und 10 Minuten k&#246;cheln lassen. 5 Minuten vor Ende die fein geschnittenen Bl&#228;tter dazugeben, vermengen und k&#246;cheln lassen. Mit Salz abschmecken und mit etwas Reis servieren.
+Den frischen Koriander fein geschnitten auf das Curry geben. Wer Koriander nicht mag, der l&#228;sst ihn weg.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

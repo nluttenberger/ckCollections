@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2244611359553299">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c5c1d503-19bd-40dc-bddf-61c0f75e58b7">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Cannelloni gefüllt mit Sommergemüse al forno</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Cannelloni gef&#252;llt mit Sommergem&#252;se al forno</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Cannelloni</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="auberginen">Aubergine(n)</fr:igdtName>
+        <fr:igdtName ref="gin">Aubergine(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -43,27 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Kr&#228;uter, mediterriane (Oregano, Basilikum, Thymian, Rosmarin, Schnittlauch, Petersilie ), frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
@@ -87,7 +67,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 ml</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
@@ -103,7 +83,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="nelke">Gewürznelke(n)</fr:igdtName>
+        <fr:igdtName ref="nelke">Gew&#252;rznelke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
@@ -123,38 +103,46 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenfrischkäse">Ziegenfrischkäse oder anderen Frischkäse</fr:igdtName>
+        <fr:igdtName ref="ziegenfrischk&#228;se">Ziegenfrischk&#228;se oder anderen Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n) (Party- oder Datteltomaten)</fr:igdtName>
+        <fr:igdtName ref="dattel">Tomate(n) (Party- oder Datteltomaten)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>1 Zwiebel und 3 Knoblauchzehen sehr fein schneiden. Die Zucchini und Auberginen sehr fein w&#252;rfeln, 1/3 der Mangoldstiele sehr fein schneiden, den Mangold und die restlichen Mangoldstiele in feine Streifen schneiden.
+F&#252;r die Bechamelso&#223;e das &#214;l erhitzen, das Mehl dazugeben, weiter erhitzen, die Masse darf nicht braun werden. Von der Flamme nehmen und mit 1/3 der Milch abl&#246;schen. Mit dem Schneebesen verr&#252;hren, zur&#252;ck auf die Flamme, die restliche Milch dazu.
+Die gesch&#228;lte Zwiebel mit Gew&#252;rznelken spicken und zur Bechamelso&#223;e geben. Rosmarin, Thymian, Oregano fein hacken und zur So&#223;e geben, das Lorbeerblatt und den Muskat dazu. 30 Minuten k&#246;cheln lassen.
+In der Zwischenzeit die Zwiebel und den Knoblauch glasig anschwitzen, Zucchini und Auberginen dazugeben, 2 - 3 Minuten anbraten, dann den Mangold hinzuf&#252;gen. Die fein geschnittenen Kr&#228;uter dazugeben und weitere 2 - 3 Minuten braten. Zum Schluss 1 fein geschnittene Chili (ohne K&#246;rner) dazugeben. Mit Salz, Pfeffer und Muskat abschmecken, zum Abk&#252;hlen zur Seite stellen.
+2 Zwiebeln und 3 Knoblauchzehen sehr fein w&#252;rfeln, in wenig &#214;l anschwitzen, das Hackfleisch beigeben und br&#246;selig anbraten. Das Tomatenmark zum Hackfleisch geben, mit etwas Rotwein (2 cl) abl&#246;schen. 1 fein geschnittene Peperoni dazugeben und mit Salz, Pfeffer und Muskat w&#252;rzen. Abk&#252;hlen lassen.
+Aus der Bechamelso&#223;e die Zwiebel und das Lorbeerblatt herausnehmen, den Frischk&#228;se dazugeben und mit Salz und Pfeffer w&#252;rzen, abk&#252;hlen lassen.
+1/3 der Gem&#252;semasse p&#252;rieren, zum restlichen Gem&#252;se zur&#252;ckgeben, den Parmesan und die Eier zugeben und gut vermischen, w&#252;rzig abschmecken. Den Backofen auf 180&#176;C vorheizen. Eine Auflaufform mit Oliven&#246;l ausstreichen.
+Die Cannelloni mit der Gem&#252;semischung f&#252;llen und in einer Schicht in die Auflaufform legen. Die restliche Gem&#252;semasse auf den Cannelloni verteilen. Darauf die Hackfleischmasse f&#252;llen und verteilen. Schnittlauch, Petersilie, sowie 2 fein gehackte Lauchzwiebeln zur Bechamelso&#223;e geben, kurz ziehen lassen, &#252;ber das Hackfleisch gie&#223;en und glatt streichen.
+Auf dem Auflauf die geviertelten Partytomaten verteilen, etwas mediterrane Kr&#228;uter verteilen (nur wegen der Optik) und mit reichlich geriebenem Parmesan bestreuen. 40 Min. bei 180&#176;C backen. 20 Min. ruhen lassen. Am besten passt Ciabatta dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

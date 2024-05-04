@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1522161257432892">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9aecf35a-c283-4b3a-b77a-93e6310cf5da">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sopes mallorquines</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="brot">Brot(e), (Landbrot)</fr:igdtName>
@@ -19,22 +19,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Kopf</fr:igdtQuantity>
-        <fr:igdtName ref="weißkohl">Weißkohl</fr:igdtName>
+        <fr:igdtName ref="wei&#223;kohl">Wei&#223;kohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), klein gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), geschält, gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), gesch&#228;lt, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -49,12 +49,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das &#214;l in eine ofenfeste Form geben und auf der Herdplatte erhitzen. Dann die Zwiebel und den in W&#252;rfel geschnittenen Paprika zugeben und braten.
+Die Tomaten und das in nicht zu kleine St&#252;cke geschnittene Gem&#252;se zugeben. Das Paprikapulver zuf&#252;gen und umr&#252;hren. Wenn das Gem&#252;se gar ist, das Wasser dazugie&#223;en und einige Minuten kochen lassen.
+Mit Salz und eventuell noch ein wenig Paprikapulver abschmecken und das Gem&#252;se aus der Suppe nehmen.
+Die Brotst&#252;cke in die Suppe legen und das Gem&#252;se darauf schichten. 15 Minuten bei ca. 80 Grad im Ofen ruhen lassen, bis das Brot die Suppe aufgesaugt hat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

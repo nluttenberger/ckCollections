@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3118241464808079">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9b91c43f-f22c-4515-815a-996a2af85777">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gebratene Mangoldnocken auf Schnittlauchsoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gebratene Mangoldnocken auf Schnittlauchso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, gewaschen und in feine Streifen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, junger (ajo tierno) , gewaschen und in feine Ringe geschnitten-Alternative: 2 Zehen gepresster K</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, junger (ajo tierno) , gewaschen und in feine Ringe geschnitten - Alternative: 2 Zehen gepresster K</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Knödelbrot oder 250 g altbackene Brötchen</fr:igdtName>
+        <fr:igdtName ref="brot">Kn&#246;delbrot oder 250 g altbackene Br&#246;tchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
@@ -30,28 +30,28 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="kokosöl">Fett für die Pfanne (Butter, Kokosöl, etc)</fr:igdtName>
+        <fr:igdtName ref="kokos&#246;l">Fett f&#252;r die Pfanne (Butter, Kokos&#246;l, etc)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, geriebener</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -73,12 +73,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>In einer Pfanne den Knoblauch and&#252;nsten. Mangold dazugeben, mit Salz, Pfeffer und Muskatnuss w&#252;rzen und r&#252;hren, bis der Mangold zusammenf&#228;llt.
+Das Kn&#246;delbrot mit Milch &#252;bergie&#223;en, die Eier dazugeben. Die Mangoldmasse, Dinkelflocken und evtl. geriebenen K&#228;se dazugeben und alles gut mischen. Die Masse 10 Minuten ziehen lassen.
+Inzwischen f&#252;r die Schnittlauchso&#223;e die Butter in einem Topf zerlassen, mit Mehl best&#228;uben und mit der Milch unter R&#252;hren mit dem Schneebesen aufgie&#223;en und zum Kochen bringen. Ca. 10 Minuten auf kleiner Flamme k&#246;cheln lassen. Mit Kr&#228;utersalz abschmecken Kr&#228;utersalz und den fein geschnittenen Schnittlauch einr&#252;hren.
+Aus der Mangoldmasse mit einem nassen Essl&#246;ffel Nocken formen und diese in der Pfanne in etwas Fett braun braten.
+Die Nocken auf der Schnittlauchso&#223;e servieren. Dazu schmeckt frischer Salat ausgezeichnet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

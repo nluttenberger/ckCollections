@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3361311499785126">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1c9d3de1-2aa7-4ba9-944b-98d57c688dab">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Kartoffeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Kartoffeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 große</fr:igdtQuantity>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter oder Öl</fr:igdtName>
+        <fr:igdtName ref="butter">Butter oder &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
@@ -34,35 +34,37 @@
         <fr:igdtName ref="pilze">Pilze, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräuter">Kräuter nach Geschmack</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln in der Schale weich kochen und danach pellen. In der Mitte teilen und vorsichtig etwas aush&#246;hlen. Salzen.
+Den Mangold waschen und mit Zwiebel, Knoblauch und Pilzen in Butter oder &#214;l anschwitzen und 5 Minuten d&#252;nsten. Salzen und pfeffern.
+Das Ausgeh&#246;hlte der Kartoffeln zerdr&#252;cken, die Mangoldmischung, das Ei und Kr&#228;uter nach Belieben dazugeben und die Masse mit Br&#246;seln oder geriebenem K&#228;se binden, damit sie nicht zu weich ist. Die Masse in die Vertiefungen der Kartoffeln f&#252;llen und mit K&#228;se bestreuen. Im Backofen bei 200 Grad  backen, bis der K&#228;se Farbe angenommen hat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

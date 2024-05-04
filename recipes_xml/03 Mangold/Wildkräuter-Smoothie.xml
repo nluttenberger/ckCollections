@@ -1,28 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2139511343825789">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2042d166-2adb-4c99-be6d-8a290bb9ffa9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Wildkräuter-Smoothie</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Wildkr&#228;uter-Smoothie</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="borretsch">Borretsch, mehrere Blätter</fr:igdtName>
+        <fr:igdtName ref="borretsch">Borretsch, mehrere Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="rettich">Rettich(e), schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="sauerampfer">Sauerampfer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,34 +31,34 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="brennnessel">Brennnesseln (Blätter)</fr:igdtName>
+        <fr:igdtName ref="brennnessel">Brennnesseln (Bl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="spitzwegerich">Spitzwegerich (Blätter)</fr:igdtName>
+        <fr:igdtName ref="spitzwegerich">Spitzwegerich (Bl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="löwenzahn">Löwenzahn, große</fr:igdtName>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="l&#246;wenzahn">L&#246;wenzahn, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="schafgarbe">Schafgarbe (Blätter und Blüten)</fr:igdtName>
+        <fr:igdtName ref="schafgarbe">Schafgarbe (Bl&#228;tter und Bl&#252;ten)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="taubnessel">Taubnessel (Blätter, verschiedene)</fr:igdtName>
+        <fr:igdtName ref="taubnessel">Taubnessel (Bl&#228;tter, verschiedene)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="gänsefuß">Gänsefuß-Gewächs Guter Heinrich</fr:igdtName>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="g&#228;nsefu&#223;">G&#228;nsefu&#223; - Gew&#228;chs Guter Heinrich</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="gundermann">Gundermann (Blätter)</fr:igdtName>
+        <fr:igdtName ref="gundermann">Gundermann (Bl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="kapuzinerkresse">Kapuzinerkresse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -67,18 +67,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Bl&#228;tter und Kr&#228;uter waschen und klein schneiden, dann mit dem Mixer p&#252;rieren und den Joghurt untermixen. In Glas abf&#252;llen und trinken. Mit einer Bl&#252;te der Saison dekorieren.
+Wer will, kann vorher die groben Bl&#228;tter blanchieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

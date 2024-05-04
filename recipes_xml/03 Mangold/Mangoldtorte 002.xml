@@ -1,0 +1,74 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-41915c15-a7db-41d0-8ac3-d92d22c647fc">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldtorte 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, frischer (z.B. K&#252;hlregal)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>700 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schinken">Kochschinken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se oder Feta-K&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda) zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chili</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Eine 26er Springform mit dem Bl&#228;tterteig auslegen - die Tr&#228;gerfolie dabei als Backpapier verwenden.
+Den Mangold putzen und waschen. Die Stiele in Streifen schneiden und die Bl&#228;tter grob hacken. Die Stiele in Salzwasser 5 Min. kochen, dann die Bl&#228;tter zugeben und weitere 3 Min. kochen. Abgie&#223;en, kalt abbrausen und gut ausdr&#252;cken. Den Kochschinken in W&#252;rfel schneiden, den Schafsk&#228;se zerbr&#246;seln. Zwiebel und Knoblauch abziehen, klein schneiden und in etwas Fett anschwitzen. Alle diese Zutaten dann miteinander vermengen und auf dem Bl&#228;tterteig verteilen. Den K&#228;se grob reiben und auf der F&#252;llung verteilen. Eier, Sahne, Gew&#252;rze verr&#252;hren und &#252;ber die Gem&#252;semasse gie&#223;en.
+Die Mangoldtorte im vorgeheizten Backofen bei 225&#176;C Ober-/Unterhitze (Gas: Stufe 4) ca. 30-40 Min. backen. Sofort servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

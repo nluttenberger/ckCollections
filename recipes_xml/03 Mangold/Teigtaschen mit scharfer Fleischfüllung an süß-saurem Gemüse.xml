@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1245391229433782">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-00b80ad1-9d07-456f-9770-533ab56a2f6c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Teigtaschen mit scharfer Fleischfüllung an süß-saurem Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Teigtaschen mit scharfer Fleischf&#252;llung an s&#252;&#223;-saurem Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="rohrzucker">Rohrzucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butterschmalz">Butterschmalz, oder Öl</fr:igdtName>
+        <fr:igdtName ref="butterschmalz">Butterschmalz, oder &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="fleisch">Kürbisfleisch (Muskat-), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="fleisch">K&#252;rbisfleisch (Muskat-), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Stiele, in Streifen geschnitten</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Stiele, in Streifen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="staudensellerie">Staudensellerie, sehr fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="staudensellerie">Staudensellerie, sehr fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -42,64 +42,72 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="salzorange">Salzorange oder Orangenschale, unbehandelt</fr:igdtName>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="orange">Salz - Orange (aus meinem Profil), klein geschnitten, alternativ:</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="orangenschale">Orangenschale, unbehandelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="orangensaft">Orangensaft, (oder Gemüsebrühe)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Orangensaft, (oder Gem&#252;sebr&#252;he)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="essig">Essig, (Cidreessig)</fr:igdtName>
+        <fr:igdtName ref="cidre">Essig, (Cidreessig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="teig">Teig-Taschen:</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="teig">Teig - Taschen:</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="hackfleisch">Hackfleisch vom Rind, nicht zu mager (mindestens 20% Fettanteil)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>2 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butterschmalz">Butterschmalz, oder Öl</fr:igdtName>
+        <fr:igdtName ref="butterschmalz">Butterschmalz, oder &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="schalotten">Schalotte(n), sehr fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, frische, gemischt, fein gehackt:</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
         <fr:igdtName ref="minze">Minze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="bohnenkraut">Bohnenkraut, frisches oder andere nach Vorrat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel, etwas zermörsert</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel, etwas zerm&#246;rsert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -114,43 +122,59 @@
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="kardamom">Kardamom, gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="harissa">Harissa oder Sambal Oelek</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="harissa">Harissa alternativ:</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sambal">Sambal Oelek</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Blatt</fr:igdtQuantity>
-        <fr:igdtName ref="teigblätter">Teig, Filoteig (oder Brik-Teig)</fr:igdtName>
+        <fr:igdtName ref="teigbl&#228;tter">Teig, Filoteig (oder Brik-Teig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="teigbl&#228;tter">Muskat, f&#252;r den Filoteig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl, zum Bepinseln</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l, zum Bepinseln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Puderzucker, zum Bestreuen der Teigtaschen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Hinweis:
+(Angaben nur als Anhaltspunkt, die Mischung kann je nach vorhandenen Resten angepasst werden)
+F&#252;r die F&#252;llung der Teigtaschen das Rinderhack mit allen Gew&#252;rzen, Kr&#228;utern und der klein geschnittenen Schalotte gut verkneten. 1 Stunde in den K&#252;hlschrank stellen.
+F&#252;r das Gem&#252;se den Zucker mit einem EL Butterschmalz leicht karamellisieren lassen, mit dem Essig abl&#246;schen, Schalottenw&#252;rfel, Gem&#252;sew&#252;rfel und Knoblauch dazugeben, unter R&#252;hren den Essig einkochen lassen, mit dem Orangensaft aufgie&#223;en. Lorbeerblatt, Cayennepfeffer und Salzorange hinzugeben, leicht pfeffern und salzen. Im geschlossenen Topf ca. 20 Minuten d&#252;nsten. Ggf. mit Salz, Pfeffer &amp; einem Schuss Essig nachw&#252;rzen.
+F&#252;r die Teigtaschenf&#252;llung (die Menge ergibt 6-8 Taschen):
+2 Eier leicht verquirlen. Die Hackfleischmischung abschmecken, ggf. nachsalzen und in einem EL Butterschmalz anbraten - dabei die Menge nach und nach in die Pfanne geben, damit das Hack keine Fl&#252;ssigkeit zieht. Sich eventuell bildende Fl&#252;ssigkeit komplett verdunsten lassen, erst dann die verquirlten Eier dar&#252;ber gie&#223;en, Hitze komplett abschalten und das Ei unter vorsichtigem R&#252;hren stocken lassen. Die Mischung vollst&#228;ndig abk&#252;hlen lassen. Die Mischung muss fast trocken sein und darf nicht warm auf die Bl&#228;tter gegeben werden, da diese sehr leicht rei&#223;en.
+Jeweils ein Filoblatt ausbreiten, etwas Muskat dar&#252;ber mahlen, von unten etwa zu einem Drittel einschlagen, F&#252;llung am linken Ende darauf geben, das Blatt von oben vollst&#228;ndig dar&#252;ber klappen und dann von links beginnend zu rechteckigen P&#228;ckchen einschlagen. Auf ein Backblech setzen und gro&#223;z&#252;gig mit &#214;l bepinseln.
+Im Backofen bei 180&#176; C ca. 10 Minuten backen - die Taschen  sollten sch&#246;n goldbraun, aber nicht dunkel werden.
+Die Taschen k&#246;nnen auch in der Pfanne in Fett ausgebraten werden, der Filoteig ist allerdings recht zerbrechlich - daher vorsichtig wenden.
+Normalerweise werden diese Taschen leicht mit Puderzucker bestreut - aber nicht alle m&#246;gen das, kann daher auch weggelassen werden.
+F&#252;r den kleineren Appetit reichen 2 Taschen mit Gem&#252;se pro Person, mit Reis als Beilage wird es zu einer reichlicheren Mahlzeit.
+Wer etwas zum "Dippen" braucht - einfach etwas Harissa mit etwas Honig mischen und mit &#214;l verd&#252;nnen - ergibt eine scharfe schnelle Dip-So&#223;e.
+Das Gem&#252;se sollte lauwarm, nicht hei&#223;, serviert werden - die Teigtaschen schmecken am besten frisch aus dem Ofen. Man kann sie sehr gut vorbereiten und erst kurz vor dem Essen in den Ofen schieben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

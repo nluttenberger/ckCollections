@@ -1,0 +1,105 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c813b78a-d76b-4cc4-bd4a-14fd5b44dea4">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Kohl-Rouladen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
+        <fr:igdtName ref="spitzkohl">Spitzkohl (500 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, kr&#228;ftige, ca.</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="ajvar">Ajvar, ca. 2 - 3 EL</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="saucenbinder">Saucenbinder, ca. 3 - 4 EL</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Beet/e</fr:igdtQuantity>
+        <fr:igdtName ref="kresse">Shiso-Kresse, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Beet/e</fr:igdtQuantity>
+        <fr:igdtName ref="kresse">Shiso-Kresse, gr&#252;ne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="brot">Br&#246;tchen vom Vortag</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Bio-Zitrone(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="hackfleisch">Kalbshackfleisch (am besten bio)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), bio</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 TL</fr:igdtQuantity>
+        <fr:igdtName ref="senf">Senf, mittelscharfer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Beim Spitzkohl den Strunk von unten keilf&#246;rmig herausschneiden und 6 - 7 gro&#223;e Bl&#228;tter vorsichtig vom Kohlkopf l&#246;sen. Mangold putzen und die Stiele mindestens zu 2/3 abschneiden. 6 - 7 gro&#223;e Mangoldbl&#228;tter und die abgel&#246;sten Spitzkohlbl&#228;tter in einem gro&#223;en Topf mit reichlich kochendem Salzwasser geben, kurz aufkochen. Mit einer Schaumkelle herausheben und in einem Durchschlag kalt absp&#252;len. Restlichen Spitzkohl anderweitig verwenden.
+Kohl- und Mangoldbl&#228;tter auf die Arbeitsfl&#228;che legen, trocken tupfen und die dicken Blattrippen flach schneiden.
+F&#252;r die F&#252;llung Br&#246;tchen in kaltem Wasser einweichen, eventuell einen kleinen Teller auf das Br&#246;tchen legen, damit es nicht nach oben schwimmt. Die Schalotten abziehen und fein w&#252;rfeln.
+Zitrone hei&#223; absp&#252;len, trocknen, Schale fein abreiben.
+Br&#246;tchen mit den H&#228;nden gut ausdr&#252;cken und etwas zerpfl&#252;cken. Br&#246;tchen, Schalottenw&#252;rfel, Zitronenschale Hackfleisch, Ei, Senf und Gew&#252;rze mit den Knethaken des Handr&#252;hrers zu einem glatten Fleischteig verarbeiten.
+Fleischteig in 12 - 14 Portionen teilen. Jede Portion zu einer kurzen Rolle formen, auf ein Blatt legen und darin einwickeln. Daf&#252;r die Bl&#228;tter seitlich &#252;ber die F&#252;llung schlagen und von der dicken Blattrippe aus aufrollen. Mit K&#252;chengarn zusammenbinden, damit die Rouladen in Form bleiben.
+Das Butterschmalz in einem Br&#228;ter erhitzen, Rouladen darin rundherum kr&#228;ftig braun anbraten. Br&#252;he dazugie&#223;en, alles bei mittlerer Hitze mit Deckel etwa 20 Minuten schmoren lassen.
+Rouladen herausnehmen und warm stellen. Sahne und Ajvar zum Schmorfond gie&#223;en und aufkochen lassen. So&#223;enbinder unter R&#252;hren in die kochende So&#223;e streuen. Nochmals kurz aufkochen und mit Salz, Pfeffer und Paprikapulver abschmecken.
+Rouladen wieder in die So&#223;e geben, nochmals kurz erhitzen, Kresse vom Beet schneiden und dar&#252;berstreuen.
+Pro Portion ca. 470 kcal, E 38 g, F 25 g, KH 23 g</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

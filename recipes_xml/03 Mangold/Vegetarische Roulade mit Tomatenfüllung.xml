@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1467281251614644">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6541d9ec-7cf2-4415-916b-6503928e6efe">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegetarische Roulade mit Tomatenfüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegetarische Roulade mit Tomatenf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
@@ -23,22 +23,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter oder Spinat</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter oder Spinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -54,7 +54,7 @@
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -65,12 +65,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Tomaten blanchieren, abschrecken, abziehen, Strunk und Samen entfernen. Das Fruchtfleisch klein w&#252;rfeln und in einem Sieb abtropfen lassen. Zwiebel und Knoblauch sch&#228;len, fein hacken und anschlie&#223;end im erhitzten Oliven&#246;l anschwitzen. Die Tomatenw&#252;rfel zuf&#252;gen, kurz mitbraten, salzen und pfeffern.
+Die Mangoldbl&#228;tter putzen und waschen. Im Salzwasser blanchieren und abschrecken. Nun gut ausdr&#252;cken und klein schneiden.
+Die Butter in einer Pfanne zerlassen, das Mehl einr&#252;hren, anschwitzen und die Milch zugie&#223;en. Alles unter R&#252;hren eink&#246;cheln lassen (die Masse l&#246;st sich vom Topf). Mit Pfeffer und Salz w&#252;rzen. Die Eier trennen und die Eigelbe vorsichtig unter die erkaltete Masse ziehen. Den Backofen auf 190&#176;C vorheizen. Jetzt den Mangold untermengen.
+Die Eiwei&#223;e mit einer Prise Salz steif schlagen unter ebenfalls unterziehen. Die Masse auf ein mit Backpapier belegtes Backblech streichen und ca. 15 Minuten backen. Nun das Blech aus dem Backofen nehmen eine zweite Lage Backpapier auf das Backgut legen.
+Ein  gen&#252;gend gro&#223;es Brett oder ein zweites Backblech mit der Unterseite auf das Papier legen und die ganze Sache einmal st&#252;rzen. Das obere Blech und das Backpapier entfernen. Die Tomatenmasse gleichm&#228;&#223;ig auf dem Backgut verteilen und mithilfe des Backpapiers vorsichtig aufrollen.
+Zum Servieren in ca. 3 - 4 cm gro&#223;e Scheiben schneiden. Dazu passen verschiedene Blattsalate mit Kr&#228;uterdressing.
+Tipp: Statt Mangold kann man ebenfalls gut Spinat oder Kr&#228;uter verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

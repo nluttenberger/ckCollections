@@ -1,28 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3574541536684634">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-736eaa13-f840-498e-96cb-4813d5749110">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Italienischer Mangold-Salat</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffeln, festkochende</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -42,27 +42,32 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln als Pellkartoffeln im Salzwasser ca. 20 Min. kochen, 2 Zwiebeln mit Schale mitkochen. Die Kartoffeln und Zwiebeln pellen. Die Kartoffeln in ca. 1 cm dicke Scheiben, die Zwiebeln in Spalten schneiden. Die Tomaten vierteln, alles beiseitestellen.
+Den Mangold waschen, die Bl&#228;tter von den Stielen trennen. Beides getrennt in grobe St&#252;cken hacken und blanchieren. Zuerst die Stiele kurz, danach die Bl&#228;tter zugeben. Stiele und Bl&#228;tter herausnehmen, mit kaltem Wasser abschrecken und gut ausdr&#252;cken.
+Eine rohe Zwiebel in feine W&#252;rfel, die Knoblauchzehe in feine Scheiben schneiden. Die Petersilie fein hacken.
+In einer Pfanne 4 EL Oliven&#246;l erhitzen. Die rohe Zwiebel und den Knoblauch darin anbraten. Die Pinienkerne hineingeben und mitr&#246;sten.
+Die Tomaten und Petersilie hinzuf&#252;gen und kurz mitbraten, bis sie weich werden, dann Temperatur reduzieren und den Mangold mit 4 EL &#214;l hineingeben und vermischen.
+Die Kartoffeln und die gegarte Zwiebeln in eine gro&#223;e Sch&#252;ssel geben und mit dem Pfannengem&#252;se mischen. Mit Salz und Pfeffer abschmecken. Der Salat kann lauwarm oder kalt gegessen werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

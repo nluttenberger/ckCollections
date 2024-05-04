@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2878791440163114">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5b697312-25da-4f51-9b38-70f613626bca">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Tomaten-Pfanne mit gebratenen Drillingen (Kartoffeln)</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, groß</fr:igdtName>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n) (Drillinge), kleine Frühkartoffeln</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n) (Drillinge), kleine Fr&#252;hkartoffeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, kalorienreduziert, 17 % Fett</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, kalorienreduziert, 17 % Fett</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -34,39 +34,45 @@
         <fr:igdtName ref="tomate">Cocktailtomaten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>0,3 TL</fr:igdtQuantity>
         <fr:igdtName ref="garam_masala">Garam Masala</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zuerst die Drillinge waschen und gut abb&#252;rsten, dann gar kochen. (Ich mache die Pellkartoffeln in einem geeigneten Beh&#228;lter in der Mikrowelle: Die Kartoffeln tropfnass ohne Wasser in den Beh&#228;lter geben und je 50 g Kartoffeln 1 Minute bei ca. 600 - 650 Watt garen. Gelingt immer!). Die Drillinge abk&#252;hlen lassen, dann halbieren und zur Seite stellen.
+Den Mangold waschen und von den Stielen befreien. Dann in etwa 2 cm breite Streifen schneiden. Die Tomaten waschen und je nach Gr&#246;&#223;e vierteln oder halbieren. Die Knoblauchzehe abziehen und fein w&#252;rfeln.
+2 beschichtete Pfannen auf den Herd stellen und erhitzen.
+In eine Pfanne 1 EL &#214;l geben, die Drillinge darin goldbraun braten. Dabei mit Pfeffer und Salz w&#252;rzen.
+W&#228;hrenddessen in der anderen Pfanne das restliche &#214;l erhitzen und den zerkleinerten Knoblauch etwa 1 Minute anbraten. Dann den tropfnassen Mangold und die H&#228;lfte des Wassers dazugeben und mit einem Deckel abdecken. Wenn der Mangold schrumpft, die Tomaten zugeben. Den Deckel wieder auf die Pfanne setzen. Das Gem&#252;se circa 3 Minuten weitergaren lassen. Den Frischk&#228;se und das restliche Wasser dazugeben. Es soll eine s&#228;mige So&#223;e entstehen. Ist sie zu fest, noch etwas mehr Wasser hinzuf&#252;gen.
+Mit Salz, Pfeffer, Paprikapulver, Garam Masala und Kurkuma pikant abschmecken.
+.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

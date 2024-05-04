@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-469261140527774">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f65ea732-fa39-488c-87c2-0b3f3cef8b86">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hähnchenbrust im Mantel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>H&#228;hnchenbrust im Mantel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -26,28 +26,28 @@
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 große</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, 5-6 Blätter, je nach Größe</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, 5-6 Bl&#228;tter, je nach Gr&#246;&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20</fr:igdtQuantity>
-        <fr:igdtName ref="salbei">Salbei, die Blättchen</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbei, die Bl&#228;ttchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="oregano">Oregano, frisch, die Blättchen, eine Handvoll</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oregano">Oregano, frisch, die Bl&#228;ttchen, eine Handvoll</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -67,7 +67,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="leberwurst">Kalbsleberwurst, geräuchert</fr:igdtName>
+        <fr:igdtName ref="leberwurst">Kalbsleberwurst, ger&#228;uchert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -75,22 +75,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="herbes_de_provence">Kräuter, Herbes de Provence</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, Herbes de Provence</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="worcester">Worcestersauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -101,12 +101,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Mehl mit Butter, Quark und Salz schnell und gr&#252;ndlich verkneten, zum Ruhen kaltstellen.
+Inzwischen von den Mangoldbl&#228;ttern die Stiele abschneiden, die Bl&#228;tter in Salzwasser blanchieren, abschrecken, abtropfen lassen und zum Trocknen auf K&#252;chenpapier ausbreiten.
+Die H&#228;hnchenbrustfilets an der nat&#252;rlichen "Nahtstelle" zwischen gro&#223;en und kleinen Filets vorsichtig ein wenig auseinanderziehen oder seitlich eine Tasche einschneiden. In die entstandenen &#214;ffnungen die Kr&#228;uter hineingeben. Die Filets beiseite stellen.
+F&#252;r die Farce Schweinefleisch, Champignons, Schalotten und Knoblauch durch den Wolf geben oder (gut gek&#252;hlt) im Blitzhacker oder Mixer portionsweise zerkleinern. Die Farce mit der Leberwurst, dem Ei und den Semmelbr&#246;seln verkneten und herzhaft abschmecken.
+Nun den Teig zu einem Rechteck in passender Gr&#246;&#223;e ausrollen. Darauf die Mangoldbl&#228;tter leicht &#252;berlappend und "gegenl&#228;ufig" darauf legen, so dass eine durchgehende Fl&#228;che entsteht. Einen Streifen der Farce in der Breite der H&#228;hnchenbr&#252;ste darauf streichen. Die H&#228;hnchenbr&#252;ste mit Salz und Pfeffer einreiben und m&#246;glichst dicht aneinander der L&#228;nge nach auf die Farce legen. Die restliche Farce auf den Seiten und oben verstreichen. Den Teig dar&#252;ber klappen und oben und an den Seiten die Nahtstellen gut zusammendr&#252;cken. Ein Backblech mit Backpapier belegen und das Paket mit der Nahtstelle nach unten darauf setzen.
+Mit Ei bestreichen. Bei 200&#176; 30 min. backen, evt. gegen Ende Alufolie darauf legen.
+Ich habe diese Rolle an einem hei&#223;en Sommerabend als Hauptgericht lauwarm serviert, als Beilage marinierte Zucchini. Genauso gut schmeckt es aber kalt - also auf einem kalten B&#252;ffet oder bei einem Picknick.
+Statt Mangold w&#228;re nat&#252;rlich auch Spinat oder auch Wirsing denkbar.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

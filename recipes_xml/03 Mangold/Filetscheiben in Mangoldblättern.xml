@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-870251192442746">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f6986db6-9435-4aab-be3d-8581bc72bc6f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Filetscheiben in Mangoldblättern</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Filetscheiben in Mangoldbl&#228;ttern</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Scheibe/n</fr:igdtQuantity>
         <fr:igdtName ref="rindfleisch">Rinderfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -39,26 +39,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Baguette(s)</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Baguette(s)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold in einzelne Bl&#228;tter zerlegen und gut waschen. Knoblauch, Schalotten und Ingwer sch&#228;len, alles in sehr kleine W&#252;rfel schneiden. Petersilie waschen und grob hacken. Kochendes Salzwasser in einem gro&#223;en Topf bereit halten.
+Filetscheiben mit dem Handballen flach dr&#252;cken, salzen, pfeffern. In einer Pfanne mit hei&#223;em Oliven&#246;l, von jeder Seite 1 - 2 Minuten braten. Herausnehmen, in Aluminiumfolie einwickeln und an einem warmen Ort ruhen lassen. Jetzt muss alles flott gehen.
+Mangold blanchieren, die Stiele sollen knackig bleiben, das dauert nicht l&#228;nger als 5 Minuten. In der hei&#223;en Fleischpfanne Schalotten, Petersilie, Knoblauch und Ingwer sehr kurz bei voller Hitze anschwenken, mit etwas Rotwein abl&#246;schen.
+Blanchierte Mangoldbl&#228;tter abtropfen lassen und auf flachen Tellern ausbreiten. Tournedos darauf anrichten. Den Fleischsaft aus der Folie zu dem Bratensatz in die Pfanne gie&#223;en und mit dem Rotweinsud verr&#252;hren. &#220;ber den Mangold und das Fleisch tr&#246;pfeln.
+Dazu schmeckt am Besten frisches Baguette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

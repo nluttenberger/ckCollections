@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-272531104316947">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-34ffd5cc-aa2c-4062-9487-904da3ef82ee">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Rouladen aus der Hähnchenkeule</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Rouladen aus der H&#228;hnchenkeule</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hähnchenschenkel</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#228;hnchenschenkel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -30,43 +30,48 @@
         <fr:igdtName ref="brot">Brot(e), dunkles</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Tasse/n</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtQuantity>&#189; Tasse/n</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="löwenzahn">Löwenzahn (Spinat, Mangold)</fr:igdtName>
+        <fr:igdtName ref="l&#246;wenzahn">L&#246;wenzahn (Spinat, Mangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="joghurt">Joghurt / Dickmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Bund</fr:igdtQuantity>
         <fr:igdtName ref="rosmarin">Rosmarin und Salbei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="herbes_de_provence">Kräuter der Provence</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="herbes_de_provence">Kr&#228;uter der Provence</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Schenkel waschen, abtupfen, am Gelenk teilen. Beim Unterschenkel den Knochen ohne das Fleisch zu teilen, ausl&#246;sen ( am unteren Gelenk das Gewebe bis auf den Knochen einschneiden, in Richtung oberes Knochenende schieben, dabei vorsichtig vom Knochen l&#246;sen, am oberen Knochenende von oben her vom Knochen l&#246;sen), beim Oberschenkel Knochen ausl&#246;sen ohne die Haut zu verletzen, die Fleischteile salzen und pfeffern, zur Seite stellen.
+Den Schinken, das Brot, Salbei, Rosmarin und Knoblauch fein hacken, mit dem Yoghurt/Dickmilch vermengen, pfeffern. Die Masse in die Unterschenkel stopfen, mit Spie&#223;chen zustecken.
+Die entbeinten Oberschenkel flach auflegen, mit L&#246;wenzahn (Mangold, Spinat) gut belegen, salzen, pfeffern, w&#252;rzen, zu Rouladen wickeln, mit Spie&#223;chen feststecken.
+Die Fleischteile im Butterschmalz scharf anbraten, zwischendrin die Tomaten hacken, die Karotten grob reiben. Gem&#252;se kurz mitschmoren lassen, mit der H&#252;hnerbr&#252;he abl&#246;schen und auf sanfter Hitze schmoren. Nach  Beendigung der Garzeit das Gem&#252;se ( nach Gusto) p&#252;rieren, sonst die Sauce etwas reduzieren. Getrennt servieren.
+Garnitur: kleiner Rosmarienzweig
+Beilagen: Reis, Kartoffelp&#252;ree. Salat der Saison</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

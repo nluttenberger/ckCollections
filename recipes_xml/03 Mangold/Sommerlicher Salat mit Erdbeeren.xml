@@ -1,33 +1,33 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3554141532206514">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4887add3-51ba-4c5b-9688-5f2387e76d85">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sommerlicher Salat mit Erdbeeren</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Port.</fr:igdtQuantity>
-        <fr:igdtName ref="blattsalat">Salat, ca. 150 g, z.B. roter Eichblattsalat, Mangold, Rucola oder Pflücksalat,</fr:igdtName>
+        <fr:igdtName ref="blattsalat">Salat, ca. 150 g, z.B. roter Eichblattsalat, Mangold, Rucola oder Pfl&#252;cksalat,</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="erdbeeren">Erdbeeren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 EL, gehäuft</fr:igdtQuantity>
+        <fr:igdtQuantity>1 EL, geh&#228;uft</fr:igdtQuantity>
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -38,27 +38,31 @@
         <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="bärlauch">Bärlauchpesto</fr:igdtName>
+        <fr:igdtName ref="b&#228;rlauch">B&#228;rlauchpesto</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Salat waschen, trocken schleudern und in eine Schale geben.
+Die Pinienkerne ohne Fettzugabe in einer Pfanne kurz r&#246;sten.
+In der Zwischenzeit das Dressing zubereiten. Daf&#252;r je nach Gr&#246;&#223;e 6 - 8 Erdbeeren kurz p&#252;rieren (ich mag es gerne nicht zu fein, sondern st&#252;ckig). Mit dem Himbeeressig und Senf vermischen. Das Oliven&#246;l unterr&#252;hren. Mit Pfeffer und Salz abschmecken, Thymian hinzuf&#252;gen und falls vorhanden, kann B&#228;rlauchpesto auch sch&#246;n harmonieren.
+Die Fr&#252;hlingszwiebeln in Ringe schneiden und die restlichen Erdbeeren in Scheiben schneiden und zum Salat geben. Mit dem Dressing vermischen.
+Als Beilage zum Burger, in Oliven&#246;l ger&#246;stetem Baguette oder zum Spargel sehr lecker.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

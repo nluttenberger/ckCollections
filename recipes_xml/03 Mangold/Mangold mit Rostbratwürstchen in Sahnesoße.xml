@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2575121403519022">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2fa4812c-713a-4d4a-b66f-ca18d97622d8">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold mit Rostbratwürstchen in Sahnesoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold mit Rostbratw&#252;rstchen in Sahneso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="bratwurst">Bratwürste, (Nürnberger Rostbratwürstchen)</fr:igdtName>
+        <fr:igdtName ref="bratwurst">Bratw&#252;rste, (N&#252;rnberger Rostbratw&#252;rstchen)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="mettwurst">Pfefferbeisser</fr:igdtName>
+        <fr:igdtName ref="mettwurst">W&#252;rste, (Pfefferbeisser)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
@@ -31,11 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Oliven&#246;l, mit Knoblauch ( selber herstellen:5-6 Zehen zerhacken in 200ml Oliven&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -45,12 +41,13 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Rostbratw&#252;rste und die Pfefferbei&#223;er in kleine St&#252;cke schneiden und in einem gro&#223;en Topf im Knoblaucholiven&#246;l ordentlich anbraten. Den frischen Mangold waschen, die Stiele in kleine St&#252;cke schneiden, die Bl&#228;tter nur grob zerschneiden. Den geschnittenen Mangold nach und nach zu den noch bratenden W&#252;rstchen geben und unter st&#228;ndigem R&#252;hren ca. 5 min. mit braten. Dann mit Sahne aufgie&#223;en und mit ca. 300 ml Wasser auff&#252;llen. Eventuell mit Salz und Pfeffer abschmecken aber normalerweise bringen die W&#252;rstchen genug W&#252;rze mit, sodass darauf verzichtet werden kann. Mit etwas hellem Saucenbinder andicken und 5-10 min kochen lassen.
+Die Spaghetti wie gewohnt kochen. Alles zusammen anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

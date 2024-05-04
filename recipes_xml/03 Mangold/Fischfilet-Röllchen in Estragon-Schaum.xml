@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-59301021648272">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1aa54939-1d0d-49ce-93f6-11ad90bbdc6b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Fischfilet-Röllchen in Estragon-Schaum</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Fischfilet-R&#246;llchen in Estragon-Schaum</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s), (Scholle, Seezunge, Rotzunge)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="estragon">Estragon, frischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, lieblich (Kabinett o.ä.)</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, lieblich (Kabinett o.&#228;.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
@@ -47,30 +47,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischbrühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Fischbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, weiß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="safran">Safran</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Karotte sch&#228;len und mit dem Sparsch&#228;ler in breite, d&#252;nne Streifen schneiden. Mangold in gro&#223;en St&#252;cken von den St&#228;ngeln schneiden oder zupfen und waschen. Mangoldbl&#228;tter 10 Sekunden in kochendem Wasser blanchieren, Karottenstreifen 1 Minute in kochendem Wasser blanchieren.
+Die Filets ausbreiten, jeweils mit dem Saft der Zitrone betr&#228;ufeln, mit Mangoldbl&#228;ttern und mit den Karottenstreifen bedecken. Zusammenrollen und die R&#246;llchen mit Staniolpapier fest einpacken, an den Enden gut verschlie&#223;en, damit kein Saft austreten kann. Die P&#228;ckchen f&#252;r 20 Minuten in sehr hei&#223;es, aber nicht kochendes Wasser legen.
+In der Zwischenzeit den Estragonschaum kochen.
+Die Schalotte fein hacken, Butter in einer tiefen Pfanne schmelzen, die Schalotte glasig d&#252;nsten. Mit Wei&#223;wein, Fischbr&#252;he und Sahne aufgie&#223;en. Falls keine Fischbr&#252;he vorhanden ist, evtl. nur Wasser oder je nach Geschmack etwas mehr Wein verwenden.
+Von f&#252;nf Estragonst&#228;ngeln die Bl&#228;tter abzupfen und in die Sauce geben. Mit wei&#223;em Pfeffer w&#252;rzen, Safranpulver oder eingeweichte Safranf&#228;den dazu geben. 20 Minuten sehr leise k&#246;cheln lassen, bis die Sauce eindickt. Die Sauce abseien, mit einem P&#252;rierstab aufschlagen und am Ende vorsichtig zwei EL geschlagene Sahne unterheben.
+Die Fischp&#228;ckchen vorsichtig auspacken, dabei den Saft auffangen und in die Sauce geben.
+Die R&#246;llchen auf Teller anrichten und einige EL Estragon-Schaum dar&#252;ber geben.
+Dieses Gericht reicht mit Reis f&#252;r zwei Personen als Hauptessen oder ohne Reis f&#252;r vier Personen als Vor- oder Zwischengericht.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

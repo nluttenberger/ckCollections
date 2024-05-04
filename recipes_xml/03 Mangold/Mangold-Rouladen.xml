@@ -1,0 +1,63 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-da684782-483d-4395-a67a-4bbc330a888f">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Rouladen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e (ca. 250 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
+        <fr:igdtName ref="schinken">Schinken, d&#252;nne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
+        <fr:igdtName ref="gouda">K&#228;se, junger Gouda, d&#252;nne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomatenp&#252;ree</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="fleischbr&#252;he">Fleischbr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, in R&#246;llchen</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter waschen, den Strunkansatz herausschneiden und jeweils 2 Bl&#228;tter &#252;bereinander legen. Darauf jeweils eine Scheibe Schinken und eine Scheibe K&#228;se legen. Vorsichtig aufrollen und mit Zahnstochern zusammenstecken.
+Butter in einem Topf zerlassen und die Rouladen bei milder Hitze kurz and&#252;nsten.
+Tomatenp&#252;ree und Br&#252;he verr&#252;hren, zugie&#223;en und zugedeckt ca. 10 Min. garen. Mit Salz, Pfeffer und Zucker w&#252;rzen.
+Die Sauce zu den Rouladen servieren und mit Schnittlauchr&#246;llchen bestreichen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

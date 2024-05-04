@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1573331264841829">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a60c9f16-9b52-4bdf-a2cd-85c300f8ebe9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Meerjungfrauen-Pasta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
         <fr:igdtName ref="shiitake">Pilze (Shiitake), getrocknet</fr:igdtName>
@@ -27,15 +27,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="pak_choi">Pak Choi (Baby Pak Choi)</fr:igdtName>
+        <fr:igdtName ref="pak_choi">Pak Choi (Baby Pak Choi) oder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="grünkohl">Grünkohl</fr:igdtName>
+        <fr:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl oder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold oder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="auberginen">Aubergine(n) (asiatische Eierfrüchte)</fr:igdtName>
+        <fr:igdtName ref="fr&#252;chte">Aubergine(n) (asiatische Eierfr&#252;chte) oder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -59,11 +59,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pflanzenöl, neutrales oder 4 EL Sesamöl</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Pflanzen&#246;l, neutrales oder 4 EL Sesam&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL</fr:igdtQuantity>
@@ -79,7 +79,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig oder Melasse</fr:igdtName>
+        <fr:igdtName ref="melasse">Honig oder Melasse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -87,23 +87,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferkörner, schwarze</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner, schwarze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Nudeln (vorzugsweise Seetangnudeln)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnussöl">Öl (Erdnussöl)</fr:igdtName>
+        <fr:igdtName ref="erdnuss&#246;l">&#214;l (Erdnuss&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Tropfen</fr:igdtQuantity>
-        <fr:igdtName ref="shrimpsauce">Shrimpsauce oder</fr:igdtName>
+        <fr:igdtName ref="shrimpsauce">Sauce (Shrimpsauce) oder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -114,23 +114,31 @@
         <fr:igdtName ref="shrimps">Shrimps, kleine, frisch oder aufgetaut</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="krabben">Krabbenfleisch, in Stücke geschnitten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="fleisch">Krabbenfleisch, in St&#252;cke geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="blüten">Blüten zum Garnieren</fr:igdtName>
+        <fr:igdtName ref="bl&#252;ten">Bl&#252;ten zum Garnieren</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Shiitakepilze und Algen separat in warmem Wasser einweichen. Die Pilze nach 20 Minuten abtropfen und herausnehmen, die Algen, wenn sie al dente sind.
+Pilze, Algen, Lauchzwiebeln, Paprika, Kohl, Karotte und die Eierfr&#252;chte mit einem sehr scharfen Messer in schmale, lange, sehr feine Streifen schneiden. Die Einweichwasser enthalten viel Aroma, wichtige Spurenelemente und Vitamine - zusammensch&#252;tten und als Basis f&#252;r eine asiatische Suppe (wie Dashi) zur Seite stellen.
+Sesam&#246;l (Sesam&#246;l mit Sonnenblumen&#246;l strecken ist sparsamer), erstklassiger Sojaso&#223;e, Limettensaft, durchgepresstem Knoblauch, kalt geschleudertem Nadelwaldhonig, zersto&#223;ene Pfefferk&#246;rner und die fein gehackte Chili mischen und die Gem&#252;semischung mindestens einige Stunden damit marinieren.
+Die Nudeln im Salzwasser al dente kochen. Die Gem&#252;semischung probieren (auf den Salzgehalt der Algen achten!) und evtl. nachw&#252;rzen, am besten mit einigen Tropfen Krabbenso&#223;e.
+Eine weite Pfanne sehr hei&#223; werden lassen und etwas Erdnuss&#246;l hineingeben. Wer dem Gericht eine bourgeoise Note geben will, gibt ein, zwei Handvoll kleiner Shrimps (gut abgetrocknet, sonst spritzt es!) in die Bratpfanne und 20 Sekunden darauf das Gem&#252;se. Die Gem&#252;semischung nicht mal eine Minute r&#252;hrbraten.
+Sofort auf den hei&#223;en Nudeln verteilen. Als Deko eignen sich, auf dem Gericht oder dem Tellerrand verteilte, frische Borretsch- und Basilikumbl&#252;ten. Als Getr&#228;nke runden Oolong-Tee oder ein Leffe (malziges, starkes Bier) das Aroma ab.
+Es gibt dutzende essbare Algenarten, die sehr verschieden aussehen und unterschiedlich schmecken. Sie werden getrocknet verkauft (manchmal zuvor mit S&#252;&#223;wasser gewaschen, also salzfrei). In Europa sind sie vor allem zum Aromatisieren bekannt, in Asien sind sie aber ein allgegenw&#228;rtiges Gem&#252;se (Sea vegetables).
+Manche Algenarten k&#246;nnen, wenn sie ganz verzehrt werden, einen empfindlichen Magen oder Darm reizen. Krabbenso&#223;e wird, &#228;hnlich wie Anchovis in der italienischen K&#252;che, zum W&#252;rzen verwendet, ohne dass im fertigen Gericht ein Fischgeruch erkennbar w&#228;re.
+Mit den Alternativen (vgl. Zutatenliste) l&#228;sst sich das Rezept auch in einer europ&#228;ischen K&#252;che preiswert zubereiten. Mit Melasse statt Honig ist das Rezept (unbeabsichtigt) vegan.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

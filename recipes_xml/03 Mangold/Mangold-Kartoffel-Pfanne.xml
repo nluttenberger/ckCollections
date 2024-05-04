@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-731491175822009">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-77ae1474-570e-4137-ba7d-14343bd15a17">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Kartoffel-Pfanne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n), geschält, in Würfeln</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), gesch&#228;lt, in W&#252;rfeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, durchwachsen, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, durchwachsen, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter oder Margarine</fr:igdtName>
+        <fr:igdtName ref="pflanzenfett">Butter oder Margarine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe, klar</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he, klar</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -41,12 +41,13 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, waschen, das Gr&#252;n von den Stielen streifen und hacken. Stiele in Streifen schneiden. Speckw&#252;rfel in Butter oder Margarine ausbraten. Kartoffelw&#252;rfel und Br&#252;he zugeben und zugedeckt ca. 10 Minuten garen.
+Mangoldstiele zugeben und weitere 10 Minuten garen. Mangoldgr&#252;n untermischen, mit Salz und Pfeffer w&#252;rzen. Das Gem&#252;se vom Rand etwas in die Mitte schieben und die Eier in die entstehenden L&#252;cken schlagen. Wenn die Eier gestockt sind, salzen und pfeffern. In der Pfanne servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

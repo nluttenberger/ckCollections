@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-744371177010041">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a6fe27d2-146b-4d36-a388-6b8ac5ea9df5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Ravioli in Muschelsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl und etwas Mehl, zum Bearbeiten</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter (von ca. 500 g Mangold, die Stiele anderweitig verwenden)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter (von ca. 500 g Mangold, die Stiele anderweitig verwenden)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -34,12 +34,12 @@
         <fr:igdtName ref="fisch">Fischfilet(s) (Kabeljau)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -50,7 +50,7 @@
         <fr:igdtName ref="ricotta">Ricotta oder Sahnequark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -59,11 +59,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -77,12 +77,20 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl in eine Sch&#252;ssel geben, in die Mitte eine Mulde dr&#252;cken, 200 ml kaltes Wasser zuf&#252;gen und von der Mitte aus zu einem Teig verkneten.
+Den Nudelteig mehrmals durch die Walzen der Nudelmaschine drehen oder mit dem Nudelholz sehr d&#252;nn ausrollen, bis er geschmeidig ist. Zwischendurch mit Mehl best&#228;uben. Die Teigplatten in Klarsichtfolie wickeln und 30-40 Minuten bei Zimmertemperatur ruhen lassen.
+Den Mangold waschen, mit dem Salz in eine Pfanne geben und d&#252;nsten, bis die Bl&#228;tter zusammenfallen. Dann ausk&#252;hlen lassen, gut ausdr&#252;cken und fein hacken.
+Das Fischfilet salzen, pfeffern und im Oliven&#246;l von beiden Seiten je 3 Minuten braten. Ebenfalls abk&#252;hlen lassen.
+Den Parmesan mit Ricotta und den Eiern glatt r&#252;hren. Den Fisch zerzupfen, mit dem Mangold unter die K&#228;semasse mischen, salzen, pfeffern und 30 Minuten kalt stellen.
+Den Nudelteig in 4 Portionen teilen, mit der Handnudelmaschine nach und nach von Stufe 1 auf Stufe 5 walzen. 2 Teigbl&#228;tter auf der bemehlten Arbeitsfl&#228;che ausbreiten und alle 5 cm 1 TL F&#252;llung daraufsetzen.
+Den Teig um die F&#252;llung herum d&#252;nn mit Wasser bepinseln. Die restlichen Teigplatten dar&#252;bergeben und andr&#252;cken. Mit dem Kuchenr&#228;dchen 5 x 5 cm gro&#223;e Quadrate ausschneiden. Die fertigen Ravioli auf der bemehlten Arbeitsfl&#228;che zugedeckt ruhen lassen.
+Inzwischen f&#252;r die Sauce die Muscheln in einer trockenen Pfanne erhitzen. Wenn sie sich ge&#246;ffnet haben, mit dem Wein abl&#246;schen. Die Ravioli in kochendem Salzwasser mit dem &#214;l in 8-10 Minuten garen.
+Knoblauch und Petersilie mit dem Oliven&#246;l zu den Muscheln geben und 1 Minute mitd&#252;nsten. Die Ravioli abgie&#223;en, die Muschelsauce dar&#252;bergie&#223;en und sofort servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

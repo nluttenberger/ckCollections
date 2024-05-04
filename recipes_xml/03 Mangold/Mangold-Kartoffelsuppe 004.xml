@@ -1,0 +1,81 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-96f4068e-7ec0-48b3-94f5-9dcf84e70402">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Kartoffelsuppe 004</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, in Streifen geschnitten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 St&#228;ngel</fr:igdtQuantity>
+        <fr:igdtName ref="zitronengras">Zitronengras</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch, gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n), rot, entkernt, fein gehackt, optional</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer, frischer, fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="curry">Currypaste, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 ml</fr:igdtQuantity>
+        <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, hei&#223;e (bei Bedarf mehr)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 TL</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker, (evtl. Palmzucker)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">&#214;l, (Erdnuss- oder Oliven&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Zitrone(n), oder Limette, den Saft davon</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>evtl.</fr:igdtQuantity>
+        <fr:igdtName ref="fischsauce">Sojasauce, alternativ Austern- oder Fischsauce</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln sch&#228;len und w&#252;rfeln, Mangold waschen, putzen, die wei&#223;en Stiele in 1 cm-St&#252;cke, die Bl&#228;tter grob in Streifen schneiden. Knoblauch, Ingwer und Chilis fein hacken, vom Zitronengras das helle, weiche Ende hauchd&#252;nn schneiden (kann, muss aber nicht).
+&#214;l im Topf erhitzen, die Currypaste dazu, etwa 1 Min. unter R&#252;hren anr&#246;sten. Knoblauch, Zitronengras (geschnittenes und Restst&#228;ngel) und Ingwer dazu geben, kurz anschmoren. Mit der Gem&#252;sebr&#252;he abl&#246;schen. Die Kartoffeln zuf&#252;gen und 5 Min kochen. Jetzt die Kokosmilch zugie&#223;en, die Mangoldstiele hinein und 15 Min. bei mittlerer Hitze k&#246;cheln lassen. Nun evtl. vorsichtig mit den Chilis die Sch&#228;rfe bestimmen. Das Mangoldgr&#252;n in die Suppe geben und weitere 8-10 Min. k&#246;cheln lassen. Mit dem Saft und (wenn gew&#252;nscht) mit Salz und Zucker abschmecken. Statt Salz k&#246;nnen auch die verschiedenen asiatischen W&#252;rzso&#223;en (Soja-, Austern-, Fischso&#223;e) zum Einsatz kommen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

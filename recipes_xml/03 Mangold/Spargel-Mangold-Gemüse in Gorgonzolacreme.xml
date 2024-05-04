@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3846031585860233">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e00f1bcd-af78-4685-ae96-90ee28916f6c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spargel-Mangold-Gemüse in Gorgonzolacreme</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Spargel-Mangold-Gem&#252;se in Gorgonzolacreme</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, weißer</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -27,26 +27,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter oder Kokosöl</fr:igdtName>
+        <fr:igdtName ref="kokos&#246;l">Butter oder Kokos&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel fein w&#252;rfeln. In einem Topf in der Butter oder dem Kokos&#246;l d&#252;nsten.
+Den Mangold waschen, Stiele herausschneiden und in St&#252;cke schneiden. Die Bl&#228;tter in Streifen schneiden. Spargel waschen, sch&#228;len und in mundgerechte St&#252;cke schneiden.
+Wenn die Zwiebeln anfangen, glasig zu werden, die Mangoldstiele und die Spargelst&#252;cke hinzugeben und ca. 8 bis 10 Minuten mitd&#252;nsten. Jetzt die Mangoldbl&#228;tter kurz mitd&#252;nsten und abschlie&#223;end den gew&#252;rfelten Gorgonzola und den Frischk&#228;se untermengen. Alles mit Pfeffer und Salz abschmecken. Je nach Spargelsorte ggf. eine Prise Zucker dazugeben.
+Passt toll zu Pasta oder einfach mit einem frischen Baguette servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

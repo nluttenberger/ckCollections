@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-107551045212835">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4670ff26-dbc0-4f86-9885-06d26d2c7c77">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Cannelloni mit Nusssoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Cannelloni mit Nussso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Ricotta, ( italienischer Frischkäse )</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Ricotta, ( italienischer Frischk&#228;se )</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
@@ -42,8 +42,8 @@
         <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, ( Instant )</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, ( Instant )</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Stiel/e</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName ref="walnuss">Walnüsse</fr:igdtName>
+        <fr:igdtName ref="walnuss">Waln&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -61,12 +61,12 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter vom Strunk schneiden. Bl&#228;tter und Strunk in mittelgro&#223;e St&#252;cke hacken. Knoblauch durch eine Presse dr&#252;cken. &#214;l erhitzen, Mangold darin and&#252;nsten. Knoblauch zuf&#252;gen, mit Salz, Pfeffer und Muskat w&#252;rzen. Mangold herausnehmen und mit Ricotta verr&#252;hren. Cannelloni mit der Mangold-Ricotta-Masse f&#252;llen. In eine ofenfeste Form ( 28 x 15 cm;1Liter Inhalt ) legen und mit Parmesan bestreuen. Br&#252;he angie&#223;en und im hei&#223;en Backofen bei 200 Grad ( Umluft 175 Grad ) ca. 30 Min. garen. Thymianbl&#228;tter abzupfen. N&#252;sse grob hacken. Butter erhitzen und leicht br&#228;unen. N&#252;sse und Thymian zuf&#252;gen. Cannelloni auf Tellern anrichten und mit der Nussbutter betr&#228;ufeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2995131452350924">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-371ba495-bb43-4749-8a21-72f862e18bc0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Fladenbrot mit Mangold überbacken</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Fladenbrot mit Mangold &#252;berbacken</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="brot">Fladenbrot(e) oder 2 kleine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse oder Mozzarella</fr:igdtName>
+        <fr:igdtName ref="mozzarella">Feta-K&#228;se oder Mozzarella</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
@@ -35,18 +35,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 200 &#176;C vorheizen.
+Das Brot durchschneiden und auf zwei Backbleche legen. Die Tomaten in Scheiben schneiden. Den Schmand mit dem zerdr&#252;cktem Knoblauch und Salz verr&#252;hren und auf dem Brot verstreichen. Mangold / Spinat kurz mit kochendem Wasser &#252;berbr&#252;hen und abtropfen lassen (bei Verwendung von Tiefk&#252;hlspinat: Spinat einfach in der Mikrowelle auftauen).
+Das Brot mit Spinat und Tomaten belegen und mit Salz und Pfeffer w&#252;rzen. Zum Schluss mit Feta- oder Mozzarellascheiben belegen.
+10 min im Ofen backen, bis der K&#228;se geschmolzen ist.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

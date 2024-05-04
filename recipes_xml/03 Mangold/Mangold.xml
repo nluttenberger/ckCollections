@@ -1,0 +1,47 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ab637e7c-4a6d-4adc-82c3-1d76d046c6a7">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Vom Mangold den Strunk wegschneiden, jedes Blatt einzeln abwaschen und die dickeren St&#228;ngel entfernen. Den Mangold in einem Topf mit wenig Wasser einige Minuten kochen. Er wird sehr eingehen, also lieber mehr als weniger Mangold nehmen. Nachdem er eingekocht ist, die Br&#252;he hinzugeben.
+Wenn der Mangold gar ist, eine Mehlschwitze zubereiten. Dazu ca. 15 g Butter in einem Topf erw&#228;rmen, das Mehl hinzugeben und mit einem Schneebesen r&#252;hren, bis keine Kl&#252;mpchen mehr &#252;brig sind. Nach und nach etwas Wasser hinzugeben und unter R&#252;hren zum Kochen bringen. Wenn sich Blasen bilden, die Hitze reduzieren und die Mehlschwitze 2 - 3 Minuten kochen.
+Die Mehlschwitze zum Mangold geben und die restliche Butter im Topf schmelzen lassen.
+Dazu koche ich immer Kartoffelp&#252;ree und Frikadellen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

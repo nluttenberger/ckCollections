@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-747381177255496">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c2347700-3650-4a07-8d72-b58076795d09">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Geschmortes Kaninchen mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="kaninchen">Kaninchen, küchenfertig</fr:igdtName>
+        <fr:igdtName ref="kaninchen">Kaninchen, k&#252;chenfertig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter, frisch</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter, frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -55,34 +55,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Geflügelfond</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
         <fr:igdtName ref="sherry">Sherry</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 180&#176; (Umluft 150&#176;C) vorheizen und eine gefettete feuerfeste Form hineinstellen. Das Kaninchen waschen, evtl. Innereien entfernen, trocken tupfen und in Portionsst&#252;cke zerlegen. Von allen Seiten mit Mehl best&#228;uben und leicht salzen.
+Den Mangold waschen, von den Str&#252;nken befreien und quer in fingerbreite Streifen schneiden. Die Tomaten entkernen und in Streifen schneiden. Zwiebel und Knoblauch sch&#228;len, Zwiebeln grob und Knoblauch fein hacken. Die Orange filetieren, die H&#228;ute ausdr&#252;cken und Saft auffangen.
+Das &#214;l in einer Pfanne erhitzen und die Kaninchenteile rundum gut anbraten. Lorbeerbl&#228;tter, Knoblauch, Zimt und Anis dazugeben und 1 Minute mitschmoren. Alles in die Form f&#252;llen.
+In der Pfanne Mangold und Tomaten in dem Orangensaft and&#252;nsten, salzen und pfeffern. Zu den Kaninchenteilen geben. Den Bratsatz mit Gefl&#252;gelfond und Sherry abl&#246;schen, unter kr&#228;ftigem R&#252;hren von der Pfanne l&#246;sen und &#252;ber das Kaninchen gie&#223;en. Butterflocken daraufgeben und zugedeckt im Ofen etwa 1 Stunde schmoren lassen.
+Wenn die Innereien vorhanden sind, 1 EL &#214;l erhitzen und sie auf allen Seiten schnell br&#228;unen, salzen und pfeffern. Auf den Kaninchenteilen anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

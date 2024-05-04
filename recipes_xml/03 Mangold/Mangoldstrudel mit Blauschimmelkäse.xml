@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3136061467043126">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-46768881-038a-4943-b7c3-a7135f332be3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldstrudel mit Blauschimmelkäse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldstrudel mit Blauschimmelk&#228;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Frühstücksspeck</fr:igdtName>
+        <fr:igdtName ref="speck">Fr&#252;hst&#252;cksspeck</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -35,15 +35,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 EL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtQuantity>1 EL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="blauschimmel">Blauschimmelkäse</fr:igdtName>
+        <fr:igdtName ref="blauschimmel">Blauschimmelk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -55,30 +55,34 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, flüssig</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Mehl, Wasser und &#214;l zu einem Strudelteig verarbeiten.
+F&#252;r die F&#252;llung den Mangold waschen, grob zerkleinern und gut abtrocknen lassen. Den Fr&#252;hst&#252;cksspeck, die Zwiebel und den Knoblauch w&#252;rfeln.
+Den Speck  anbraten und die Zwiebel und den Knoblauch darin glasig d&#252;nsten. Den Mangold dazugeben und unter R&#252;hren zusammenfallen lassen. Alles mit Salz, Pfeffer und Muskat kr&#228;ftig abschmecken. Die Eier mit St&#228;rke und saurer Sahne verr&#252;hren und zusammen mit dem geriebenen Bergk&#228;se unter den abgek&#252;hlten Mangold r&#252;hren.
+Den Strudelteig auf einem bemehlten Geschirrtuch zu einer sehr! d&#252;nnen Platte ausrollen und mit zerlassener Butter bestreichen. Die F&#252;llung daraufstreichen, dabei rundherum ca. 2 cm frei lassen. Den Blauschimmelk&#228;se w&#252;rfeln und gleichm&#228;&#223;ig auf der F&#252;llung verteilen. Die Teigplatte mit Hilfe des Geschirrtuchs zusammenrollen und mit der Naht nach unten auf ein mit Backpapier ausgelegtes Backblech legen. Den Strudel mit zerlassener Butter bestreichen.
+Den Strudel bei 175 Grad Umluft ca. 35 - 40 Minuten backen. Diesen nach der H&#228;lfte und nach dem Ende der Backzeit nochmal mit fl&#252;ssiger Butter bestreichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

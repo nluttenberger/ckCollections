@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-353151120642414">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-afda4eab-9063-4a33-8ee0-34363f230ced">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Nudel-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Nudeln, zum Beispiel Penne</fr:igdtName>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -35,38 +35,40 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, zum Anbraten und für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, zum Anbraten und f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, die dicken Stiele von hinten leicht einschneiden, damit sie schneller gar werden. Nudeln und Mangold zusammen in viel Salzwasser kochen, bis die Nudeln al dente sind, auch der Mangold ist dann durch.
+W&#228;hrenddessen die Zwiebel w&#252;rfeln und mit dem Speck mit etwas Butter in einer Pfanne anbraten. Die Nudeln und den Mangold abgie&#223;en und die H&#228;lfte in eine gefettete ofenfeste Auflaufform f&#252;llen. Dann Speck und Zwiebeln darauf und die zweite H&#228;lfte Nudeln und Mangold dar&#252;ber. Mit Pfeffer aus der M&#252;hle w&#252;rzen und die Pinienkerne dar&#252;ber streuen. Cr&#232;me fraiche mit der Milch glatt r&#252;hren und den geriebenen K&#228;se unterr&#252;hren. Mit Pfeffer und Muskat w&#252;rzen und auf der Auflaufform verteilen.
+Das Ganze bei 200&#176;C etwa 20 Minuten im Backofen &#252;berbacken, fertig.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

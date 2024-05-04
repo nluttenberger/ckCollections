@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2831441435073382">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e9e91dca-8f14-416b-b16c-1336edc7b614">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Maultaschenpfanne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="maultasche">Maultasche(n), vegane</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
@@ -34,51 +34,30 @@
         <fr:igdtName ref="pflanzenfett">Pflanzensahne (Pflanzencreme Cuisine), z.B. Hafersahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="sauerampfer">Sauerampfer</fr:igdtName>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="schnittknoblauch">Gartenkr&#228;uter (Sauerampfer, Brunnenkresse, Pimpinelle, Schnittknoblauch, Kantenlauch, Petersilie, W&#252;rzfenchel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="brunnenkresse">Brunnenkresse</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="pimpinelle">Pimpinelle</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="schnittknoblauch">Schnittknoblauch</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kantenlauch">Kantenlauch</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="würzfenchel">Würzfenchel</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Gem&#252;se klein schneiden. Die Maultaschen in Streifen schneiden.
+Die Maultaschenstreifen in etwas &#214;l knusprig anbraten, dann herausnehmen und beiseite stellen. Erst die M&#246;hren leicht anbraten, dann die Mangoldstiele dazugeben, danach den Brokkoli, dann die Zucchini dazugeben und zum Schluss die Mangoldbl&#228;tter. Das Gem&#252;se mit geschlossenem Deckel 5 - 7 Minuten braten.
+Die Pflanzensahne erhitzen und dann mit den klein gehackten Kr&#228;utern p&#252;rieren. Mit Salz und Pfeffer abschmecken.
+Die Maultaschen zum Gem&#252;se geben und vorsichtig unterheben. Die Gem&#252;sepfanne mit der Kr&#228;utersauce servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

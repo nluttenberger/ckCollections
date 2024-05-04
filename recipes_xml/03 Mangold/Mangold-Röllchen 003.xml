@@ -1,0 +1,85 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b1f0ab0b-7d1d-4e9c-8e5b-8d02d6bc7240">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-R&#246;llchen 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="bratwurst">Bratwurstbr&#228;t (Bratwurstmasse), frische, rohe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Bio-Zitrone(n), Schalenabrieb davon</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Spritzer</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen und die dicken Blattstiele bis zum Blattansatz entfernen, die Blattrippe flach schneiden. Bl&#228;tter ganz kurz in kochendem Wasser blanchieren, damit sie geschmeidig werden. Dann sofort kalt abschrecken und auf einem K&#252;chentuch abtropfen lassen.
+M&#246;hren und Zwiebel sch&#228;len und fein w&#252;rfeln, Mangoldstiele fein w&#252;rfeln. Zwiebel in 1 EL Butter weich d&#252;nsten. M&#246;hren und Mangoldstiele hinzuf&#252;gen und ebenfalls weich d&#252;nsten. Das Gem&#252;se abk&#252;hlen lassen.
+Aus der Bratwurstmasse, Hackfleisch, Cr&#232;me fra&#238;che, Eiern und Gem&#252;se einen Teig bereiten und mit Salz, Pfeffer und wenig abgeriebener Zitronenschale w&#252;rzen. Nun die Mangoldbl&#228;tter auf der Arbeitsfl&#228;che ausbreiten. Auf jedes Blatt einen EL der F&#252;llung geben und in das Mangoldblatt einwickeln. Mit einem festen Baumwollbindfaden zusammenbinden. Restliche Butter in einem Br&#228;ter erhitzen und die R&#246;llchen darin von allen Seiten anbraten. Mit Wei&#223;wein abl&#246;schen und die Sahne angie&#223;en. Mit einem feuerfesten Deckel oder Alufolie abdecken.
+Im vorgeheizten Backofen bei 200 &#176;C Ober-/Unterhitze ca. 30 Minuten garen. Die R&#246;llchen herausnehmen und auf einer vorgew&#228;rmten Platte anrichten.
+Die Sauce aufschlagen, mit Salz, Pfeffer, Zitronensaft und ganz wenig Cayennepfeffer abschmecken und getrennt zu den R&#246;llchen reichen.
+Als Beilage passen Reis, Butterkart&#246;ffelchen oder Bandnudeln</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

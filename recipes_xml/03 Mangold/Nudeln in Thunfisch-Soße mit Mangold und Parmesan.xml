@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1307201235598535">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4b61c045-4e9f-4822-80e7-e54c37575dea">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Nudeln in Thunfisch-Soße mit Mangold und Parmesan</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Nudeln in Thunfisch-So&#223;e mit Mangold und Parmesan</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName ref="thunfisch">Thunfisch, in Eigensaft</fr:igdtName>
+        <fr:igdtName ref="thunfisch">Thunfisch, in Eigensaft z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 kleines</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche (Kräuter)</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Cr&#232;me fra&#238;che (Kr&#228;uter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -57,12 +57,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter von den Stielen trennen. Stiele klein schneiden, Bl&#228;tter in Streifen schneiden, getrennt waschen. Zwiebel und Knoblauch in kleine W&#252;rfel schneiden. Oliven&#246;l in einer hohen Pfanne erhitzen, Zwiebel- und Knoblauchw&#252;rfel glasig and&#252;nsten, dann die Stiele zuf&#252;gen und kurz mitd&#252;nsten. Mit der Gem&#252;sebr&#252;he aufgie&#223;en und ca. 5 Minuten zugedeckt k&#246;cheln.
+In der Zwischenzeit die Nudeln kochen.
+Dann die Bl&#228;tterstreifen der So&#223;e beigeben, k&#246;cheln, bis diese zusammenfallen, dabei h&#228;ufig umr&#252;hren. Den Thunfisch mit der Schlagsahne und der Cr&#232;me fraiche unterr&#252;hren, mit Parmesan, Salz und Pfeffer abschmecken und auf kleiner Flamme zugedeckt weiter garen, dabei immer wieder umr&#252;hren.
+Der So&#223;e vor dem Servieren noch einen Spritzer Zitrone zuf&#252;gen, das Basilikum klein hacken und hinzuf&#252;gen. Dann noch mal kr&#228;ftig umr&#252;hren und mit den Nudeln servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

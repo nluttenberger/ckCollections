@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3569041535540470">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-78785d07-a21b-41a4-9a89-52cdb9df06a4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Hokkaido-Zucchini-Cremesuppe</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se), klein</fr:igdtName>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se), klein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -30,32 +30,32 @@
         <fr:igdtName ref="mangold">Mangold oder Blattspinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Becher</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Becher</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Becher</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Becher</fr:igdtQuantity>
         <fr:igdtName ref="schmand">Schmand</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, gekörnte</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräuter">Kräuter nach Geschmack</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Beutel</fr:igdtQuantity>
@@ -74,12 +74,12 @@
         <fr:igdtName ref="tomate">Cocktailtomaten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan am Stück</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan am St&#252;ck</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -89,12 +89,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den K&#252;rbis waschen, aush&#246;hlen und das Fruchtfleisch klein schneiden. Die Zucchini waschen und klein schneiden. Die zwei M&#246;hren und die Kartoffeln sch&#228;len und ebenfalls klein schneiden. Mangold oder Spinat etwas hacken.
+Das gesamte Gem&#252;se kurz in etwas Butter anbraten und etwas mit Salz, Pfeffer, Muskat, Gem&#252;sebr&#252;he und Kr&#228;utern w&#252;rzen. Alles mit der doppelten Menge Wasser kochen, bis man es gut mit dem Zauberstab p&#252;rieren kann. Einen halben Becher Schmand und einen halben Becher Sahne hinzugeben und noch etwas vor sich hin k&#246;cheln lassen. Regelm&#228;&#223;ig umr&#252;hren.
+In einer Pfanne ein bis zwei M&#246;hren in feine Scheiben geschnitten mit einer kleinen T&#252;te Pinienkerne in Butter etwas anbraten. Sp&#228;ter kleine Cocktailtomaten (am besten ganz lassen, das sieht netter aus) dazugeben und hei&#223; werden lassen.
+Den Parmesan oder einen anderen K&#228;se in kleinen Scheibchen mit frisch gehackter Petersilie vermengen.
+Die Teller mit Suppe anf&#252;llen, dann quer ein Streifen von der gebratenen Gem&#252;se-Pinienkernmischung dar&#252;ber geben und ganz am Schluss mit der Parmesan-Petersilien-Mischung bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

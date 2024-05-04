@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2314621369132886">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8e499cb6-7db1-4044-9a47-5e4ee79267a0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold und geröstete Paprika-Frittata</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold und ger&#246;stete Paprika-Frittata</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4 TL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,28 +22,28 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frisch (ca. 225g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>140 g</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprika, geröstete aus dem Glas, in Wasser</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprika, ger&#246;stete aus dem Glas, in Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>240 g</fr:igdtQuantity>
@@ -53,12 +53,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Grill im Ofen vorheizen.
+Das &#214;l in einer ofenfesten, antihaftbeschichteten Pfanne erhitzen und die Zwiebeln und den Knoblauch anbraten, bis die Zwiebeln weich werden. Dann den Mangold und die in St&#252;cke geschnittene Paprika zugeben und f&#252;r ca. 3 Minuten braten, bis der Mangold weich ist.
+In der Zwischenzeit die Eier, Eiwei&#223;, Salz und Pfeffer in einer Sch&#252;ssel mixen, den Mozzarella unterr&#252;hren. Das Ganze &#252;ber das Gem&#252;se geben und leicht verr&#252;hren. F&#252;r ca. 7 - 8 Minuten auf leichter Hitze kochen, dann f&#252;r ca. 2 Minuten in den Ofen unter den Grill geben. Aus dem Ofen holen und f&#252;r ca. 2 Minuten vor dem Servieren ruhen lassen.
+Pro Portion (1/4 von der Frittata) ca. 233 g - 206 Kcal.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

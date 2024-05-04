@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3734161566499346">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c56266a4-c20f-4722-b487-0bad0ade3b8f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold in Tamarindensauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="curry">Currypaste, grün</fr:igdtName>
+        <fr:igdtName ref="curry">Currypaste, gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
@@ -71,22 +71,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="sprossen">Sprossen, frische, z. B. Sojasprossen oder Mungobohnen</fr:igdtName>
+        <fr:igdtName ref="mungbohnen">Sprossen, frische, z. B. Sojasprossen oder Mungobohnen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="koriandergrün">Koriandergrün</fr:igdtName>
+        <fr:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Erdn&#252;sse und den Sesam in einer Pfanne r&#246;sten und auf die Seite stellen.
+Alle Gew&#252;rze, bis auf die Tamarindenpaste mit etwas &#214;l anbraten.
+Die Zwiebel und den Ingwer schneiden. Die Karotten w&#252;rfeln. Alles zu den Gew&#252;rzen geben und auf niedriger Flamme mind. 10 Minuten weiterbraten.
+Das Mangoldgem&#252;se in 1 cm breite Streifen schneiden.
+Tamarindenpaste, Tomaten, Tomatenmark, Mangold und eine Tasse Wasser dazugeben und auf niedriger Stufe weiter k&#246;cheln lassen.
+Den Reis nach Packungsanweisung kochen.
+Vor dem Servieren die Sauce vom Herd nehmen, den Knoblauch dazupressen und unterr&#252;hren.
+Gem&#252;sesauce, Koriander, Sprossen und Reis auf Tellern anrichten und mit den ger&#246;steten Erdn&#252;ssen und Sesam bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

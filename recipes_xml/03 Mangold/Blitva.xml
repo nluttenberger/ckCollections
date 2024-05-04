@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2411861380979806">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-743b6e4d-6afb-4768-a383-9a6a8e990cec">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Blitva</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1.000 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold mit Stielen</fr:igdtName>
@@ -18,39 +18,42 @@
         <fr:igdtName ref="kartoffel">Kartoffel(n), fest kochende</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ dl</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity>&#189; dl</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Zehe/n</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauch, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="pinienkerne">Pinienkerne oder Mandelblättchen oder Pistazien</fr:igdtName>
+        <fr:igdtName ref="pinienkerne">Pinienkerne oder Mandelbl&#228;ttchen oder Pistazien</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Einen gro&#223;en Topf mit Salzwasser (ca. 4 - 6 l) zum Kochen bringen. Die Kartoffeln sch&#228;len und (je nach Gr&#246;&#223;e) in Viertel, Sechstel oder Achtel schneiden und 6 Minuten kochen.
+Inzwischen den gewaschenen Mangold einmal der L&#228;nge nach halbieren, dann in ca. 3 cm breite Streifen schneiden und zu den Kartoffeln geben, beides zusammen noch 4 min. kochen, damit das Gem&#252;se weich wird.
+Die Zwiebel und den Knoblauch in kleine W&#252;rfel schneiden. In einer hohen Pfanne (oder im Wok) Oliven&#246;l erw&#228;rmen, die klein gehackten Zwiebel glasig anschwitzen. Bevor die Zwiebel beginnt zu br&#228;unen, das abgeseihte Gem&#252;se, den klein geschnittenen Knoblauch, Salz und frisch gemahlenen, schwarzen Pfeffer dazugeben. Unter Umr&#252;hren noch 2 - 3 min. anschwitzen.
+Eine ideale Beilage zu gebratenem oder gegrilltem Fisch. F&#252;r eine vegetarische Hauptspeise mit W&#252;rfeln von Feta-K&#228;se anrichten und mit Pinienkernen (oder Mandelbl&#228;ttchen oder grob gehackten Pistazien) bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

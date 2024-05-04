@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1474461252427507">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-35f8a16e-285f-4b1d-a2d7-5b4684e0e813">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldröllchen in Käsesoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldr&#246;llchen in K&#228;seso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
@@ -19,15 +19,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote(n), grün</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
@@ -43,30 +43,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Butter (Pfeffer-)</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Butter (Pfeffer-)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferkörner, rot, eingelegt</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner, rot, eingelegt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="schmelzkäse">Schmelzkäse (Kräuter-)</fr:igdtName>
+        <fr:igdtName ref="schmelzk&#228;se">Schmelzk&#228;se (Kr&#228;uter-)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel abziehen und hacken. Mit Reis im &#214;l and&#252;nsten. 600 ml Br&#252;he zugie&#223;en, salzen und pfeffern. Ca. 18 Minuten garen.
+Pinienkerne in einer Pfanne ohne Fettzugabe r&#246;sten. Paprika halbieren, entkernen, absp&#252;len und w&#252;rfeln. Zusammen mit den Pinienkernen nach ca. 14 Minuten Garzeit zum Reis geben.
+Mangold putzen, waschen und die Rippen flach schneiden. Bl&#228;tter in Salzwasser zwei Minuten kochen. Abtropfen lassen. Je zwei Bl&#228;tter &#252;bereinander legen. Reis darauf verteilen, aufrollen und feststecken. In Pfefferbutter and&#252;nsten. Restliche Br&#252;he, Wein und Pfeffer zugeben und 5 Minuten schmoren. Zum Schluss den K&#228;se einr&#252;hren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,79 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b66c20ed-b627-415c-89e3-21b00fffc1e1">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Spaghetti mit argentinischen Rotgarnelen &amp; gebratenem Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, roter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Stiele</fr:igdtQuantity>
+        <fr:igdtName ref="kerbel">Kerbel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Beutel</fr:igdtQuantity>
+        <fr:igdtName ref="garnelen">Rotgarnelen, argentinische (&#224; 275 g, mit Schale und aufgetaut)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Spaghetti</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer (frisch gemahlen)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen und absp&#252;len. Die groben Bl&#228;tter von den Stielen zupfen und in feine Streifen schneiden, feine Bl&#228;tter beiseitelegen. Die breiten roten Stiele in mundgerechte St&#252;cke schneiden. Schalotte und Knoblauch fein w&#252;rfeln. Kerbel eventuell absp&#252;len und trocken sch&#252;tteln. Kerbelbl&#228;tter abzupfen und beiseitestellen.
+Die Schale der Garnelen am R&#252;cken mit einer Schere aufschneiden und den dunklen Darm entfernen. Garnelen absp&#252;len und trocken tupfen.
+Spaghetti nach Packungsangabe in reichlich Salzwasser bissfest kochen.
+&#214;l in einer gro&#223;en Pfanne erhitzen. Garnelen und rote Mangoldstiele bei mittlerer Hitze etwa 4 Minuten braten. Garnelen nach der H&#228;lfte der Zeit wenden. Mit Salz und Pfeffer w&#252;rzen. Schalotte, Knoblauch und grobe Mangoldbl&#228;tter zugeben und 1 weitere Minute braten. Wei&#223;wein zugie&#223;en und einkochen lassen.
+Zitrone halbieren, eine H&#228;lfte in Spalten oder Scheiben schneiden. Den Saft der anderen H&#228;lfte auspressen. 1 EL Butter in einer zweiten Pfanne erhitzen. Die feinen Bl&#228;tter vom Mangold in die Pfanne geben und 2 Minuten bei kleiner Hitze d&#252;nsten. Mit Salz und Pfeffer abschmecken.
+Spaghetti abgie&#223;en und abtropfen lassen, dabei etwa 100 ml Nudelwasser auffangen. Spaghetti und Nudelwasser zu den Garnelen geben, kurz erhitzen. Restliche Butter nach und nach unter R&#252;hren in den kochenden Fond geben, bis er leicht bindet. Mit Salz, Pfeffer und Zitronensaft abschmecken.
+Spaghetti, Garnelen, Mangold und Kerbel anrichten. Die Zitronenspalten oder -scheiben dazu reichen.
+Pro Portion: E 41 g, F 27 g, KH 90 g = 795 kcal</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

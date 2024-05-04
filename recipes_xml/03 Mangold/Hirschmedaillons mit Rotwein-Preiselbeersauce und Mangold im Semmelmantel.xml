@@ -1,32 +1,32 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-790291182351927">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6f503fba-8b9f-47ad-a06c-64afbc81cca6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Hirschmedaillons mit Rotwein-Preiselbeersauce und Mangold im Semmelmantel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="fleisch">Hirschfleisch (Oberschale)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,19 +46,19 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -71,7 +71,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Wildfond</fr:igdtName>
+        <fr:igdtName ref="wildfond">Wildfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -83,18 +83,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="beeren">Preiselbeeren</fr:igdtName>
+        <fr:igdtName ref="preiselbeeren">Preiselbeeren</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Hirschmedaillons schneiden, salzen, pfeffern und in Butterschmalz braten. Im Backofen bei 80 Grad Celsius 30 Minuten ziehen lassen.
+W&#228;hrenddessen f&#252;r Semmelrolle Wei&#223;brot in kleine W&#252;rfel schneiden, in Butter schwenken. Eier, Sahne und Salz verquirlen, &#252;ber die W&#252;rfel gie&#223;en, vermengen und 15 Minuten ausquellen lassen.
+Mangold waschen, in St&#252;cke schneiden, in Butterfett d&#252;nsten, mit Salz, Pfeffer und Muskatnuss w&#252;rzen. Alufolie mit Butter bestreichen, Semmelteig darauf geben, in der Mitte den Mangold verteilen und zu einer Rolle aufrollen. Die Enden verdrehen und die Rolle im Wasserbad etwa 20-25 Minuten gar ziehen lassen.
+F&#252;r die Rotwein-Preiselbeersauce Schalotten klein schneiden, in Butter anschwitzen. Wildfond, Rotwein und Portwein angie&#223;en, auf ein Drittel reduzieren. Die Rotweinsauce sieben, die Preiselbeeren unterheben und nochmals erhitzen. Mit Butter aufmontieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

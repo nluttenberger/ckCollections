@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2124951341994726">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-06269b31-8efd-4c7c-bed1-f6d06c36c4f2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Quiche mit Champignons</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl, (Weizenvollkornmehl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Würfel</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; W&#252;rfel</fr:igdtQuantity>
         <fr:igdtName ref="hefe">Hefe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="haselnuss">Haselnüsse, gemahlen</fr:igdtName>
+        <fr:igdtName ref="haselnuss">Haseln&#252;sse, gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -67,30 +67,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse, geriebener, (Emmentaler)</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se, geriebener, (Emmentaler)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Weizenvollkonmehl und Hefe mischen. Mit Milch, Honig, Kr&#228;utersalz, Oregano, Haseln&#252;ssen und Oliven&#246;l zu einem geschmeidigen Teig verkneten. Evtl. noch etwas lauwarmes Wasser zugeben. An einem warmen Ort zugedeckt ca. 1 Stunde gehen lassen. Nochmals durchkneten und zwei Drittel des Teiges auf den Boden einer Quiche- oder Springform verteilen. Das restliche Drittel zu einer langen Schlange rollen und daraus den Rand formen.
+Die Champignons putzen und vierteln. Die Zwiebel sch&#228;len, fein hacken und mit den Pilzen in Butter anbraten. Den Mangold waschen, Bl&#228;tter und evtl. Stiele in feine Streifen bzw. W&#252;rfel schneiden. Mangold zu den Pilzen geben und einige Minuten and&#252;nsten. Alles auf den Quiche-Boden geben. Die Eier schaumig schlagen, Sahne und geriebenen Emmentaler unterr&#252;hren, mit Kr&#228;utersalz, Pfeffer und Muskatnuss kr&#228;ftig w&#252;rzen und &#252;ber das Gem&#252;se gie&#223;en. Bei 180&#176; - 200&#176;C ca. 40 Min. backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

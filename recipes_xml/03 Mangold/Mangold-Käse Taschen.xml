@@ -1,0 +1,71 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7e021388-bcaa-4ba4-ab47-3dff7efa73d7">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-K&#228;se Taschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Paket</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig oder Quark-&#214;l-Teig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sesam">Sesam zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="k&#252;mmel">K&#252;mmel zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rz(e) zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Bl&#228;tterteig auftauen lassen. Den Mangold waschen, putzen, die Stiele keilf&#246;rmig ausschneiden. Bl&#228;tter und Stiele in feine Streifen schneiden. Die Zwiebeln pellen und fein w&#252;rfeln.
+Zwiebeln und Stiele in der Butter anschwitzen und 10 Minuten garen. Dann die Bl&#228;tter zugeben und weitergaren, bis sie in sich zusammengefallen sind. Emmentaler grob reiben und mit dem Mangold mischen. Alles mit Pfeffer, Salz und Muskat w&#252;rzen.
+Vom Bl&#228;tterteig 10 x 5 cm gro&#223;e St&#252;cke ausrollen. Je 1 TL F&#252;llung daraufsetzen, die Teigst&#252;cke in der Mitte zusammenfalten und die Kanten fest mit den Zinken einer Gabel zusammendr&#252;cken.
+Taschen auf ein mit Backpapier ausgelegtes Blech legen und mit dem Eigelb einpinseln. Nach Belieben mit Sesam, K&#252;mmel oder anderen Gew&#252;rzen bestreuen. Im vorgeheizten Backofen bei 225&#176;C 15 &#8211; 20 Minuten backen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

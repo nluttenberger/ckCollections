@@ -1,41 +1,41 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-560751154178860">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-56a61054-8175-4d83-afb3-b23f1c8d8021">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ravioli auf Florentiner Art</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl, gehäufter</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl, geh&#228;ufter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kg</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="ravioli">Ravioli (Kühlregal)</fr:igdtName>
+        <fr:igdtName ref="ravioli">Ravioli (K&#252;hlregal)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -55,34 +55,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse (Emmentaler), geriebener</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler), geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Butter zerlaufen lassen und das Mehl darin unter R&#252;hren hellgelb darin anschwitzen lassen. Unter weiterem R&#252;hren Milch und Sahne zugie&#223;en. Salzen, pfeffern und bei sanfter Hitze unter gelegentlichem Umr&#252;hren cremig einkochen lassen.
+Den Mangold waschen, Stiele ausschneiden und in Streifen schneiden. Das &#214;l in einem Topf erhitzen, die fein gew&#252;rfelte Zwiebel darin glasig braten und den zerdr&#252;ckten Knoblauch zusammen mit dem tropfnassen Mangold hineingeben. Zugedeckt so lange d&#252;nsten, bis der Mangold zusammengefallen ist. Mit Salz, Pfeffer und Muskat w&#252;rzen.
+Die Ravioli kurz in hei&#223;em Wasser erhitzen und abtropfen lassen.
+Eigelb  mit geriebenem Emmentaler und Parmesan unter die Sauce r&#252;hren und eine feuerfeste Form mit Butter einfetten. Eine Lage Ravioli hineingeben, mit dem abgeschmeckten Spinat bedecken und die restlichen Ravioli dar&#252;ber verteilen. Alles mit der K&#228;sesauce &#252;berziehen und im vorgeheizten Ofen ca. 20 Min. bei 220&#176;C &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

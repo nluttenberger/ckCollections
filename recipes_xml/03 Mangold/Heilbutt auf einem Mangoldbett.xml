@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2822841434350242">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-233d0ba1-55f4-4ad6-9ddd-803e1d0c0ba3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Heilbutt auf einem Mangoldbett</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -18,15 +18,15 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsezwiebel">Gemüsezwiebel(n)</fr:igdtName>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,46 +35,50 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskatnuss</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s) (Heilbuttfilet), etwa 250 g pro Filet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Öl (Kräuteröl)</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">&#214;l (Kr&#228;uter&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Fisch waschen, salzen, s&#228;uern, mit dem gew&#252;rzten &#214;l betr&#228;ufeln und in den K&#252;hlschrank stellen.
+Den Mangold sehr gr&#252;ndlich waschen und die Stiele abschneiden. Zwiebel, Knoblauch und die Mangoldstiele klein schneiden. Die Bl&#228;tter grob schneiden.
+Nun zuerst die Zwiebeln in die Pfanne geben und mit wenig Butterschmalz oder &#214;l eine Weile schmoren lassen, die Stiele dazugeben und nicht ganz weich werden lassen. Dann den Mangold und den Knoblauch mit in die Pfanne geben. Salz und Zucker sowie die Sahne dazugeben und sanft garen lassen, etwa 25 Minuten.
+In der Zwischenzeit den Heilbutt aus dem K&#252;hlschrank nehmen, leicht mehlieren und im hei&#223;en Butterschmalz von jeder Seite gut anbraten und kurz weiter braten. Der Fisch braucht nicht lange, es kommt auf die St&#228;rke der Filets an. Er darf ruhig noch glasig sein. Meiner brauchte je Seite ca. 3 Minuten.
+Dann auf einem Teller den Mangold anrichten und den Heilbutt obendrauf legen. Bei uns gab es Salzkartoffeln dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

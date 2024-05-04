@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-479821141972678">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-be05b42b-10a2-461a-b6db-874fe1f5be99">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Tintenfisch mit Mangoldfüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Tintenfisch mit Mangoldf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="sardelle">Sardellenfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot, altbacken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot, altbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>12 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tintenfisch">Tintenfisch(e) (auch Tuben), ca. 600 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,7 +30,7 @@
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,34 +47,40 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Zweig/e</fr:igdtQuantity>
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken</fr:igdtName>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Kirschtomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Sardellenfilets absp&#252;len und ggf. w&#228;ssern. Wei&#223;brot entrinden und in 10 min. in lauwarmem Wasser einweichen.
+Tintenfische waschen und putzen. Die Mangoldbl&#228;tter in kochendem Salzwasser 2 - 3 Min. blanchieren, abtropfen lassen und sehr fein hacken. Pinienkerne in einer Pfanne anr&#246;sten, fein hacken. Knoblauch fein hacken. Oliven in feine Streifen schneiden. Sardellen fein hacken.
+Brot, Mangold, Ei, Sardellen, Pinienkerne, Knoblauch und Oliven vermischen, mit Salz und Chilipulver pikant abschmecken.
+Die Mischung in die Tintenfische f&#252;llen, wenn n&#246;tig, mit Zahnstochern zustecken.
+Tintenfische in Oliven&#246;l gut anbraten. Thymian kurz mitbraten. Wein angie&#223;en. Tintenfische zugedeckt ca. 15 Min. schmoren.
+Inzwischen die Tomaten halbieren und nach 15 Min. zu den Tintenfischen geben. Weitere 15 Min. schmoren, bis die Fische weich sind.
+Mit Reis oder Baguette servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

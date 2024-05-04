@@ -1,0 +1,76 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5f302b81-c5e0-4211-bf87-0c2798d8a926">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gemischtes Gem&#252;se mit Weizen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizen">Weizen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="brokkoli">Brokkoli</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Korianderpulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="curry">Currypulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Meersalz und Pfeffer, schwarzer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="kerbel">Kerbel</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Getreide mit der Gem&#252;sebr&#252;he einmal aufkochen lassen, vom Herd nehmen und zugedeckt in 12 Stunden ausquellen lassen.
+Am n&#228;chsten Tag die Weizenk&#246;rner erneut erhitzen und bei schwacher Hitze kochen lassen, bis das Gem&#252;se geputzt ist.
+Vom Lauch Wurzelans&#228;tze und dunkelgr&#252;ne Blattteile entfernen, die Stangen halbieren, gr&#252;ndlich waschen und in 3 cm lange St&#252;cke schneiden. Die Brokkolistiele d&#252;nn sch&#228;len und ebenfalls in St&#252;cke zerteilen, R&#246;schen abschneiden. M&#246;hren schaben, in Scheiben schneiden. Das Gr&#252;n von den Mangoldrippen abstreifen, die Rippen in St&#252;cke sowie das Blattgr&#252;n kleinschneiden.
+Das vorbereitete Gem&#252;se mit den Gew&#252;rzen zum Weizen geben und alles in 20 Minuten garen. Den Topf vom Herd nehmen. Den Zitronensaft mit der sauren Sahne verr&#252;hren. Den Kerbel waschen und kleinschneiden. Beides unter das Gem&#252;se mischen. Den Gem&#252;setopf nochmals abschmecken.
+Tipp: Probiert den Gem&#252;setopf auch einmal mit einer anderen Getreidesorte.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

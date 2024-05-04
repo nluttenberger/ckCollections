@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1314881236179494">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-72aff899-bc23-4817-a790-d156693c63cf">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldgemüse mit Koriandergrün</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldgem&#252;se mit Koriandergr&#252;n</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, ca. 600g</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
@@ -38,19 +38,22 @@
         <fr:igdtName ref="teriyaki">Sauce (Teriyaki-, alternativ Soja-)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
-        <fr:igdtName ref="koriandergrün">Koriandergrün, fein geschnitten</fr:igdtName>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n, fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold putzen: dabei die groben &#228;u&#223;eren Bl&#228;tter entfernen und die Stielenden abschneiden. Die Bl&#228;tter gr&#252;ndlich waschen und in einem Durchschlag gut abtropfen lassen. Die Stiele keilf&#246;rmig aus den Bl&#228;ttern herausschneiden.
+Stiele und Bl&#228;tter getrennt quer in Streifen schneiden.
+Die Tomaten auf der runden Seite einritzen, kurz in kochendem Wasser br&#252;hen, abschrecken und pellen. Die Tomaten dann vierteln, entkernen und in feine W&#252;rfel schneiden.
+Butter in einer Pfanne auslassen, die Mangoldstiele mit den Zwiebel- und Knoblauchw&#252;rfeln 4 Minuten and&#252;nsten. Mit einer guten Prise Zucker w&#252;rzen und die Teriyakisauce unterr&#252;hren. Die Bl&#228;tter dazugeben und kurz 2 Minuten d&#252;nsten. Schlie&#223;lich das Koriandergr&#252;n sowie die Tomatenst&#252;cke unterheben und kurz erw&#228;rmen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

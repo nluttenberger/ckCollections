@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1280271233394631">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e09db339-d992-4ef2-af3d-f0b1898c8901">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Geschmorte Tintenfischtuben mit Graupen-Mangold-Füllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Geschmorte Tintenfischtuben mit Graupen-Mangold-F&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="tintenfisch">Tintenfisch(e), küchenfertige Tuben, insg. 300-350 g</fr:igdtName>
+        <fr:igdtName ref="tintenfisch">Tintenfisch(e), k&#252;chenfertige Tuben, insg. 300-350 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
@@ -19,10 +19,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe, kräftige</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he, kr&#228;ftige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, ohne Stiele</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,26 +31,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), stückige (400 g)</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), st&#252;ckige (400 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Graupen in der Br&#252;he langsam gar kochen.
+Inzwischen die Tuben kalt absp&#252;len, gegebenenfalls das R&#252;ckgrat entfernen. Eine Tube w&#252;rfeln. Mangoldbl&#228;tter (nur das Gr&#252;ne) gut waschen, trocken tupfen und fein w&#252;rfeln. Knoblauch sch&#228;len und w&#252;rfeln.
+Die mittlerweile gekochten Graupen ausk&#252;hlen lassen und mit Mangold, Tintenfischw&#252;rfeln und Knoblauch vermengen. Mit Salz und Pfeffer w&#252;rzen und die Tuben damit f&#252;llen. Mit Zahnstochern und K&#252;chengarn verschlie&#223;en.
+Die Tomaten erhitzen und die gef&#252;llten Tuben darauf legen. Salzen, pfeffern und mit Zitronensaft betr&#228;ufeln. Bei schwacher Hitze zugedeckt in der Tomatensauce etwa 45 Minuten k&#246;cheln lassen, hin und wieder wenden.
+Die garen Tuben von Holzst&#228;bchen und Garn befreien und schr&#228;g halbiert oder in Scheiben servieren. Die Tomatensauce mit Salz und Pfeffer abschmecken und mit servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

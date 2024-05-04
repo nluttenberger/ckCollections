@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3539391528999116">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-24e0e721-e837-4724-917e-bad080b11562">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gemüse-Geschnetzeltes mit Reisbandnudeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gem&#252;se-Geschnetzeltes mit Reisbandnudeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="chilischote">Chilischote(n), rot</fr:igdtName>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="champignon">Champignons, braune, kleine bis mittelgroße</fr:igdtName>
+        <fr:igdtName ref="champignon">Champignons, braune, kleine bis mittelgro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
@@ -39,15 +39,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl oder Erdnussöl</fr:igdtName>
+        <fr:igdtName ref="erdnuss&#246;l">Oliven&#246;l oder Erdnuss&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl, geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, bunt oder schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, bunt oder schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -73,12 +73,13 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Chilischote absp&#252;len, putzen und in feine Ringe schneiden. Die Paprikaschoten halbieren, putzen und absp&#252;len. Die M&#246;hren putzen, sch&#228;len und absp&#252;len. Die Mangoldbl&#228;tter absp&#252;len und putzen. Die Fr&#252;hlingszwiebeln putzen und absp&#252;len. Alles in Streifen schneiden. Die Champignons putzen und in Scheiben schneiden. Die Reisbandnudeln mit kochendem Wasser &#252;bergie&#223;en und etwa 10 Minuten ziehen lassen.
+Einen Wok hei&#223; werden lassen, dann das Oliven- oder Erdnuss&#246;l zugeben und die Chiliringe darin and&#252;nsten. Das vorbereitete Gem&#252;se - bis auf die Champingnonscheiben - zugeben und unter R&#252;hren etwa 3 bis 5 Minuten braten. Die Reisbandnudeln abgie&#223;en und mit den Champignonscheiben zum Gem&#252;se in den Wok geben und kurz mitbraten. Mit der Gem&#252;sebr&#252;he abl&#246;schen und etwas eink&#246;cheln lassen. Das Gem&#252;se-Geschnetzelte mit Sesam&#246;l, Sojasauce sowie mit etwas Limettensaft und ggf. mit etwas Salz (dabei bitte beachten, dass die Br&#252;he und die Sojasauce auch Salz enthalten) und einigen Umdrehungen buntem oder schwarzen Pfeffer aus der M&#252;hle w&#252;rzig abschmecken. Nach Belieben mit etwas Basilikum oder Thai-Basilikum garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

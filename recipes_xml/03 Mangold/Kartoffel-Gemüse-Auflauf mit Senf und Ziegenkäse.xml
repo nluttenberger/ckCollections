@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3166071471293431">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-efe91db7-b64a-4960-b601-b0d85933fe3c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kartoffel-Gemüse-Auflauf mit Senf und Ziegenkäse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Kartoffel-Gem&#252;se-Auflauf mit Senf und Ziegenk&#228;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>5 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), in der Schale gegart</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="zucchini">Zucchini, gewürfelt, n.B. entkernt</fr:igdtName>
+        <fr:igdtName ref="zucchini">Zucchini, gew&#252;rfelt, n.B. entkernt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
@@ -31,15 +31,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenkäse">Ziegenkäse, mild, gerieben</fr:igdtName>
+        <fr:igdtName ref="ziegenk&#228;se">Ziegenk&#228;se, mild, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -51,30 +51,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="senf">Senf, grobkörnig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Senf, grobk&#246;rnig, z.B.Maille &#224; l'ancienne mit Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskatnuss</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln nach Belieben sch&#228;len oder in der Schale lassen und in etwa 1,5 bis 2 cm gro&#223;e W&#252;rfel schneiden.
+Oliven&#246;l in eine Auflaufform geben, Kartoffeln, Zucchini, Mangold, Oliven und Knoblauch dazugeben und alles mit Salz und Pfeffer w&#252;rzen. Gut vermischen.
+Eier in einer Sch&#252;ssel mit Sahne, dem Senf und der H&#228;lfte vom K&#228;se verquirlen, mit Salz, Pfeffer, Paprikapulver und frisch geriebener Muskatnuss w&#252;rzen.
+Tomatenscheiben gleichm&#228;&#223;ig &#252;ber die Kartoffel-Gem&#252;semischung verteilen, die Eier-Sahne-Mischung dar&#252;ber gie&#223;en und den Rest vom K&#228;se darauf verteilen.
+Im vorgeheizten Ofen bei 180&#176;C 20 bis 30 Minuten backen bis die Eiermasse komplett gestockt ist. Nach Belieben am Ende kurz den Grill zuschalten, damit der geschmolzene K&#228;se Farbe bekommt.
+Dazu passt gut ein kleiner Blattsalat und ein k&#252;hler trockener Wei&#223;wein. Und Senf... reichlich Senf!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

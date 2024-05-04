@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1770381287033336">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-080b6d16-edaa-4e10-8cfe-87e9f1ec8a0a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Mangoldtaschen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Mangoldtaschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold (Blattmangold), große Blätter</fr:igdtName>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (Blattmangold), gro&#223;e Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Öl (Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l (Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Scheibe/n</fr:igdtQuantity>
@@ -31,26 +31,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenfrischkäse">Ziegenfrischkäse-Taler je 20 g</fr:igdtName>
+        <fr:igdtName ref="ziegenfrischk&#228;se">Ziegenfrischk&#228;se - Taler je 20 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold in kochendem Salzwasser kurz blanchieren und abschrecken. Zwiebeln und Knoblauch sch&#228;len und fein w&#252;rfeln.
+1 EL &#214;l erhitzen, Zwiebeln und Knoblauch darin and&#252;nsten und Speck kurz mitd&#252;nsten.
+Danach den Ziegenfrischk&#228;se im Speck einwickeln. Mangoldbl&#228;tter ausbreiten und auf jedes Blatt einen Speck-Ziegenk&#228;setaler legen. Zwiebel-Knoblauchmasse dar&#252;ber geben, mit Pfeffer und Salz w&#252;rzen und im Mangoldblatt einschlagen.
+Die Mangoldtaschen im restlichen &#214;l von beiden Seiten je 2 Min. braten.
+Kartoffelbrei passt gut dazu oder einfach Baguette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,56 +1,56 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1497121255084616">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1fed87ee-e60e-413b-86a8-12892eb8a28d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Weihnachtliche Lachsroulade</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName ref="lachs">Lachs -Carpaccio oder geräucherter Lachs</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachs -Carpaccio oder ger&#228;ucherter Lachs</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>450 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frischer (ohne Stiele) oder Blattspinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName ref="meerrettich">Frischkäse, mit Meerrettich</fr:igdtName>
+        <fr:igdtName ref="meerrettich">Frischk&#228;se, mit Meerrettich</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, bunter, zerstoßen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, bunter, zersto&#223;en</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="fenchelsamen">Fenchelsamen, zerstoßen</fr:igdtName>
+        <fr:igdtName ref="fenchelsamen">Fenchelsamen, zersto&#223;en</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Macis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl, extra vergine</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitrone(n) - Spalten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -61,12 +61,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Am Vortag das Lachs-Carpaccio (resp. den R&#228;ucherlachs) mit Oliven&#246;l, Zitronensaft, buntem Pfeffer und Fenchelsamen marinieren.
+Spinat/Mangold verlesen, waschen und tropfnass in einem Topf mit etwas Butter und Muskatnuss d&#252;nsten. In einem Sieb abtropfen lassen.
+Frischk&#228;se mit etwas zersto&#223;enem bunten Pfeffer verr&#252;hren.
+Fisch sorgf&#228;ltig mit K&#252;chenkrepp abtrocknen. Auf Teflon-Backfolie oder auf Frischhaltefolie auslegen. Dar&#252;ber den Spinat/Mangold verstreichen. Eine Lage Frischk&#228;se darauf verstreichen (ungef&#228;hr 1/3 der Masse &#252;briglassen). Mit Hilfe der Folie zu einer Roulade aufrollen. Den Rest der Frischk&#228;secr&#232;me dar&#252;ber verteilen. Vorderes und hinteres Ende schr&#228;g abschneiden, und als "Ast" auf den Stamm setzen. Mit einer Gabel den Stamm rillenf&#246;rmig verzieren. Mit dem Dill und d&#252;nnen Zitronenspalten f&#228;cherf&#246;rmig dekorieren.
+Dazu ger&#246;steten Toast reichen.
+Pers&#246;nliche Weinempfehlung:
+einen trockenen Pinot Gris Grans Premier Cru (Grauburgunder) von der Luxemburger Mosel.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

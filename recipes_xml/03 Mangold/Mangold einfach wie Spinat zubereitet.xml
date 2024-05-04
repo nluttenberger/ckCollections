@@ -1,15 +1,14 @@
-<?xml version="1.0" ?>
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2370501376162135">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-167104ac-1700-4e96-bc18-f215ab2de85e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold einfach wie Spinat zubereitet</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frisch, mit Stiel</fr:igdtName>
@@ -23,11 +22,11 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, instant</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Becher</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Becher</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -36,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -48,18 +47,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, oder Wasser</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, oder Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zun&#228;chst den Mangold grob putzen und die Stiele soweit herausschneiden, dass der Rest vom Stiel nicht dicker ist als die Blattadern. Das dicke Ende der Stiele kann au&#223;en etwas faserig sein, also entweder Stiele k&#252;rzen oder - &#228;hnlich wie bei Rhabarber - Fasern entlang der Stiele abziehen (keine Angst, sind meist nur ein paar cm).
+Die Stiele l&#228;ngs halbieren und dann in kleine St&#252;cke (knapp 1 cm) schneiden. Alles in ein Sieb geben und gr&#252;ndlich abwaschen, da die Stiele etwas sandig sein k&#246;nnen.
+Nun die Zwiebeln fein w&#252;rfeln und den Knoblauch fein hacken.
+Etwas &#214;l in einem Topf erhitzen und die Zwiebeln, den Knoblauch und die St&#252;cke der Mangold-Stiele kr&#228;ftig anbraten. Die Zwiebeln d&#252;rfen dabei ganz leicht braun werden.
+Parallel dazu die Mangold-Bl&#228;tter halbieren, aufeinander legen und einrollen. Nun mit einem Messer in ca. 1 cm breite Streifen schneiden. Die in Streifen geschnittenen Mangold-Bl&#228;tter gr&#252;ndlich waschen.
+Sobald die Zwiebeln leicht Farbe haben, die Mangold-Bl&#228;tter nach und nach zugeben (die Blattstreifen d&#252;rfen ruhig nass sein) und kurz mit d&#252;nsten. Die Bl&#228;tter fallen sehr schnell zusammen. Nun etwas Wasser (oder Wei&#223;wein) angie&#223;en und die Br&#252;he zugeben. Kurz k&#246;cheln lassen und die Sahne (muss nicht die gesamte Menge sein, ist Geschmacksache) angie&#223;en. Mit Salz, Pfeffer und Muskatnuss w&#252;rzen und noch kurz k&#246;cheln lassen. Vom Herd nehmen, ein Spritzer Zitrone rundet das Ganze ab.
+Verwendet man Mangold mit roten Stielen, sieht das Ganze besonders toll aus und ist mal etwas anderes als eint&#246;nig gr&#252;ner Spinat. Da die Stiele etwas bissfester sind, ist das Ganze auch nicht so ein Einheitsbrei. Dazu schmeckt Mangold meiner Meinung nach edler.
+Das Ganze kann als Beilage genau wie Spinat serviert werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

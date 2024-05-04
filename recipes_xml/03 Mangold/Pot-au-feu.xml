@@ -1,0 +1,86 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-69741e72-438a-4eab-8661-af479ebc6725">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Pot-au-feu</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), bio</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="suppengem&#252;se">Suppengem&#252;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="knochen">Kalbsknochen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="tafelspitz">Kalbstafelspitz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner, schwarze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="nelke">Gew&#252;rznelke(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 &#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, bunter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="brokkoli">Brokkoli</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="pastinake">Pastinake(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="schnittlauch">Kr&#228;uter, gemischte der Saison (z. B. Petersilie, Dill, Basilikum, Kerbel, Schnittlauch, Pimpinelle)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Zubereitung ben&#246;tigte K&#252;chenutensilien: Fleischthermometer.
+1. F&#252;r die Br&#252;he Zwiebeln ungesch&#228;lt quer halbieren. Auf den Schnittfl&#228;chen in einer Pfanne bei mittlerer Hitze braun r&#246;sten. Suppengem&#252;se putzen, ggf. sch&#228;len und in grobe St&#252;cke schneiden. Knochen und Fleisch kalt waschen.
+2. Zwiebelh&#228;lften, Suppengem&#252;se, Lorbeerbl&#228;tter, Pfefferk&#246;rner und Gew&#252;rznelken in einen gro&#223;en Suppentopf geben. Knochen zugeben. Wasser angie&#223;en und sacht aufkochen. Dabei entstehenden Schaum &#246;fter gr&#252;ndlich absch&#246;pfen. Ansatz ca. 30 Minuten bei milder Hitze offen kochen.
+3. Dann die Temperatur so reduzieren, dass die Br&#252;he nur noch schwach siedet. Die Br&#252;he mit Salz abschmecken. Tafelspitz einlegen, sodass das Fleisch komplett mit Br&#252;he bedeckt ist (ggf. noch etwas Wasser nachgie&#223;en). Bei schwacher Hitze mit halb aufgelegtem Deckel bis zu einer Kerntemperatur von maximal 56 &#176;C gar ziehen lassen. Zun&#228;chst entstehenden Schaum gr&#252;ndlich absch&#246;pfen.
+4. F&#252;r die Einlage Gem&#252;se putzen, waschen und abtropfen lassen. Mangold in grobe Streifen schneiden. Brokkoli in R&#246;schen teilen. M&#246;hren in ca. 1 cm gro&#223;e W&#252;rfel schneiden. Pastinaken in feine Scheiben schneiden.
+5. Das fertig gegarte Fleisch aus der Br&#252;he heben, zugedeckt beiseitestellen. Br&#252;he durch ein feines Sieb in einen Suppentopf passieren und nochmals aufkochen. M&#246;hren und Mangoldstiele in die Br&#252;he geben, bei mittlerer Hitze etwa 5 Minuten kochen. Dann &#252;briges vorbereitetes Gem&#252;se (Mangoldbl&#228;tter, Pastinaken und Brokkoli) zugeben und alles weitere 10 - 15 Minuten bei kleiner Hitze kochen.
+6. Nach Belieben das Fett vom Tafelspitz entfernen. Fleisch quer zur Faser in d&#252;nne Scheiben schneiden. Kr&#228;uterbl&#228;tter abzupfen und grob schneiden. Tafelspitzscheiben in vorgew&#228;rmte Suppenteller verteilen. Suppe nochmals w&#252;rzig abschmecken, in die Teller verteilen. Kr&#228;uter &#252;berstreuen und servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2141251344059937">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9fd44302-f1ce-4c48-9bfd-949bf98a53a9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Krautstielgratin mit Bratwürsten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Krautstielgratin mit Bratw&#252;rsten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, (Krautstiel)</fr:igdtName>
@@ -23,19 +23,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dl</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dl</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
@@ -46,35 +46,39 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ dl</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; dl</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Rahm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="gruyère">Käse, (Greyerzer), gerieben</fr:igdtName>
+        <fr:igdtName ref="gruy&#232;re">K&#228;se, (Greyerzer), gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="bratwurst">Bratwürste</fr:igdtName>
+        <fr:igdtName ref="bratwurst">Bratw&#252;rste</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Bl&#228;tter von den St&#228;ngeln schneiden, in 2 cm breite Streifen schneiden, St&#228;ngel in ca. 2 cm lange St&#252;cke schneiden. Die Zwiebel sch&#228;len, fein schneiden. Die Knoblauchzehen sch&#228;len, fein wiegen.
+Zwiebel und Knoblauch in &#214;l and&#252;nsten. Krautstielst&#228;ngel dazugeben, salzen. Mit Wei&#223;wein und Bouillon abl&#246;schen und zugedeckt circa 5&#8211;10 Min. bissfest garen. Krautstielbl&#228;tter daruntermischen, abgie&#223;en, Kochsud auffangen.
+In einem kleinen Pf&#228;nnchen die Butter erhitzen, Mehl darin and&#252;nsten. Unter R&#252;hren 5 dl Kochsud dazu gie&#223;en, Sauce aufkochen und ca. 5 Min. unter R&#252;hren k&#246;cheln lassen. Den Rahm dazugeben. Sauce mit Pfeffer und Muskat abschmecken. Krautstiele in die Form geben, Sauce &#252;ber das Gem&#252;se gie&#223;en. Mit Greyerzer bestreuen.
+Im vorgeheizten Ofen bei 220&#176;C ca. 15 &#8211; 20 Min. (den Rost in die obere H&#228;lfte des Ofens schieben) &#252;berbacken. In der Zwischenzeit die Schweinsbratw&#252;rste braten.
+Das Gratin zusammen mit den Bratw&#252;rsten auf vorgew&#228;rmten Tellern anrichten, servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3832781583600068">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-33cd7e51-9816-404d-a8d7-25e59711be1d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold à la Toussaint</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold &#224; la Toussaint</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -34,11 +34,11 @@
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>20 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>20 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -53,12 +53,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebeln h&#228;uten und klein schneiden, Knoblauch ebenso. Paprika putzen und in W&#252;rfel schneiden, Tomaten waschen, den Stiel entfernen, w&#252;rfeln. Mangoldbl&#228;tter und -Stiele putzen und in mundgerechte St&#252;cke schneiden.
+In der Reihenfolge die Zutaten zugeben: Am besten in einem beschichteten Topf die Butter schmelzen, dann die Zwiebeln zugeben und glasig werden lassen, regelm&#228;&#223;ig umr&#252;hren, dann erst Oliven&#246;l zugeben und die Knoblauchst&#252;cke kurz angaren. Wenn es hei&#223; wird, Mangold zugeben und alles mit dem Wei&#223;wein abl&#246;schen. 10 min k&#246;cheln lassen, regelm&#228;&#223;ig umr&#252;hren. Zuletzt die Paprika- und Tomatenw&#252;rfel dazugeben. Gelegentlich sanft wenden. Nach 15 Min. Gew&#252;rze untermengen und fertig k&#246;cheln. Das Gem&#252;se wird so nicht matschig.
+Als Beilage zu Braten und Kroketten oder vegetarisch mit Wei&#223;brot und dem restlichen Wei&#223;wein sehr lecker.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

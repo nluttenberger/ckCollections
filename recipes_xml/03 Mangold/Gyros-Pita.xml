@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2535331397167248">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e255ae64-78ee-4291-ab51-cd525fcd19a8">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Gyros-Pita</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Pita-Brot(e), (Pita-Taschen für den Toaster)</fr:igdtName>
+        <fr:igdtName ref="brot">Pita-Brot(e), (Pita-Taschen f&#252;r den Toaster)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="joghurt">Sojajoghurt (Joghurtalternative), ungesüßt (500 ml)</fr:igdtName>
+        <fr:igdtName ref="joghurt">Sojajoghurt (Joghurtalternative), unges&#252;&#223;t (500 ml)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -30,40 +30,24 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="gurke">Gurke(n), Bio</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Becher, 250 g</fr:igdtQuantity>
-        <fr:igdtName ref="krautsalat">Krautsalat, evtl. selbstgemacht</fr:igdtName>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="krautsalat">Krautsalat, evtl. selbstgemacht, ca. 250 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="rucola">Rauke</fr:igdtName>
+        <fr:igdtQuantity>1 Beutel</fr:igdtQuantity>
+        <fr:igdtName ref="roter_mangold">Blattsalat, gemischt (z. B. Rauke, roter Mangold, Babyspinat, Lollo Rossa, rotes Eichblatt)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="roter_mangold">roter Mangold</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="babyspinat">Babyspinat</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="lollo_rosso">Lollo Rosso</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="ei">rotes Eichblatt</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gyrosgewürz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gyrosgew&#252;rz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Spritzer</fr:igdtQuantity>
@@ -71,22 +55,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Vorbereitung beginnt am Vortag!
+Sojajoghurt in ein mit einem Mull- oder Geschirrtuch ausgekleidetes Sieb geben und &#252;ber Nacht (am besten f&#252;r mindestens 12 - 18 Std.) abtropfen lassen. Den so vorbereiteten Quark mit gehackter Petersilie, geraspelter Gurke, durchgepresster oder fein gehackter Knoblauchzehe, Salz, Pfeffer und Zitronensaft verr&#252;hren und mindestens 1 Std. k&#252;hl ziehen lassen.
+Das Lupinenfilet in d&#252;nne Scheiben schneiden. Oliven&#246;l mit Gyrosgew&#252;rz (mindestens 4 TL, nach Geschmack auch mehr) vermengen und das Lupinenfilet mindestens 1 Std. damit marinieren. Danach kurz abtropfen lassen und in einer hei&#223;en Pfanne knusprig braten.
+Die Pita-Taschen toasten und dann mit dem Tsatsiki, dem Salat, in Scheiben geschnittener Tomate, Krautsalat und Lupinen-Gyros bef&#252;llen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2726051425138806">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bd1ea47b-212f-42f4-9c6d-d4245730361e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Möhren-Mangold-Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>M&#246;hren-Mangold-Lasagne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Lasagneplatte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="nudeln">Salzwasser zum Kochen der Lasagneplatten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -47,26 +47,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Lasagneplatten in Salzwasser f&#252;nf Minuten vorgaren. Auf einem K&#252;chentuch ausbreiten.
+Von den Mangoldbl&#228;ttern die groben Stiele entfernen, den Rest in Streifen schneiden. Die Zwiebel und die Knoblauchzehe w&#252;rfeln und zusammen mit dem Mangold in &#214;l ca. sechs Minuten d&#252;nsten. Mit Salz, Pfeffer und Muskat w&#252;rzen.
+Die M&#246;hren sch&#228;len, in Scheiben schneiden und in Gem&#252;sebr&#252;he ca. sieben Minuten blanchieren. Etwa 3/4 der M&#246;hren herausnehmen, abtropfen lassen. Den Rest weich d&#252;nsten, mit der Fl&#252;ssigkeit und 1 EL Schmand p&#252;rieren.
+Ca. 3 EL M&#246;hrenp&#252;ree in eine kleine Auflaufform geben. Zwei Lasagnebl&#228;tter darauflegen, dann die H&#228;lfte des Mangolds, die H&#228;lfte der M&#246;hrenscheiben und etwas geriebenen K&#228;se dazugeben. Anschlie&#223;end die zweite Schicht Lasagneplatten, etwas M&#246;hrenp&#252;ree und das restliche Gem&#252;se in die Form f&#252;llen. Mit Lasagneplatten zudecken. Das restliche M&#246;hrenp&#252;ree und zum Schluss den geriebenen K&#228;se darauf geben.
+Im Backofen bei 180 &#176;C ca. 25 Minuten backen.
+Tipp: Schmeckt auch mit Schinken zwischen den Lagen gut, wenn es nicht vegetarisch sein muss.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

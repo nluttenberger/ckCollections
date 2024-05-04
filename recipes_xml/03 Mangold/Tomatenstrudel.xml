@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3822671581841920">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-44d72292-d051-4e57-b5c0-181cf8bbd803">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Tomatenstrudel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Weizenmehl Type 550</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl, neutrales</fr:igdtName>
+        <fr:igdtName ref="">&#214;l, neutrales</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="weißweinessig">Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="blauschimmel">Blauschimmelkäse, z. B. Saint Agur</fr:igdtName>
+        <fr:igdtName ref="blauschimmel">Blauschimmelk&#228;se, z. B. Saint Agur</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -39,18 +39,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Sahne, flüssige</fr:igdtName>
+        <fr:igdtName ref="sahne">Sahne, fl&#252;ssige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Cherrytomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -58,28 +58,28 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Gewürzmischung, italienische, ohne Salz</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung, italienische, ohne Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="balsamico">Balsamicocreme</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl zum Braten</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -89,12 +89,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Strudelteig das Mehl mit dem Salz, dem Essig und dem &#214;l mischen. Schluckweise das Wasser zugeben und mit den H&#228;nden sorgf&#228;ltig einige Minuten verkneten. Es sollte ein glatter, leicht gl&#228;nzender Teig entstehen, der nicht kleben darf. Den Teig zu einer Kugel rollen und unter einer hei&#223;en Porzellansch&#252;ssel ca. 30 Minuten ruhen lassen. Das ist sehr wichtig, denn nur so kann sich der Teig "entwickeln" und l&#228;sst sich anschlie&#223;end ganz d&#252;nn ausziehen.
+Den Teig vierteln und jedes Viertel  zu einem Rechteck von ca. 15 cm x 20 cm ausziehen.
+F&#252;r die K&#228;secreme alle daf&#252;r angegebenen Zutaten zu einer streichf&#228;higen Masse verr&#252;hren. W&#252;rzen ist nicht n&#246;tig, denn der Blauschimmelk&#228;se und der Parmesan sind sehr geschmacksintensiv. Die Creme auf den Teigst&#252;cken verteilen und verstreichen.
+F&#252;r die Tomatenf&#252;llung die Tomaten halbieren. Die Zwiebel und den Knoblauch sch&#228;len und in halbe Ringe bzw. d&#252;nne Scheiben schneiden. Von den Mangoldbl&#228;ttern die Stiele in kleine St&#252;cke schneiden, die Bl&#228;tter hacken.
+Etwas Oliven&#246;l in einer Pfanne erhitzen und darin die Zwiebel, den Knoblauch und die Mangoldstiele braten. Die Tomatenh&#228;lften dazugeben und mit der italienischen Gew&#252;rzmischung, der Balsamico-Creme und Salz w&#252;rzen. Nach ca. 2 Minuten die gehackten Mangoldbl&#228;tter hinzuf&#252;gen und unterr&#252;hren. Die F&#252;llung etwas abk&#252;hlen lassen.
+Jeweils ca. 2 Essl&#246;ffel der Tomatenf&#252;llung so auf der K&#228;secreme verteilen, dass die R&#228;nder frei bleiben. Den Teig von zwei Seiten &#252;ber die Tomaten schlagen und wie bei Rouladen zu kleinen Strudeln rollen. Die Strudel in eine gefettete Auflaufform setzen, mit etwas Butter bestreichen und bei ca. 200&#176; C Ober-/Unterhitze im vorgeheizten Rohr ungef&#228;hr 40 - 45 Minuten backen.
+Die Strudel herausnehmen und auf vorgew&#228;rmten Tellern mit etwas Garnitur anrichten. Als Garnitur verwendete ich Tomatenh&#228;lften und ein Mangoldblatt.
+Wir a&#223;en die Strudel als Hauptgericht, jeder bekam zwei St&#252;ck, aber sie eignen sich auch als Vorspeise f&#252;r vier Personen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

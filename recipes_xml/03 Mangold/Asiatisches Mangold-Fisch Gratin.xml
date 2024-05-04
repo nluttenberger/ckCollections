@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-783451181579692">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5ef021f1-c846-418e-8274-6c1091185d04">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Asiatisches Mangold-Fisch Gratin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -30,8 +30,8 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
@@ -55,18 +55,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse (Emmentaler), gerieben</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler), gerieben</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, gut abtropfen lassen und die wei&#223;en Stiele herausschneiden. Die Zwiebel und die Knoblauchzehe sch&#228;len und fein hacken. Den Ingwer sch&#228;len und raspeln.
+Die Butter in einem Topf zerlassen und darin die Zwiebel mit Knoblauch glasig braten. Den Mangold zugeben und alles zugedeckt ca. 5 Min. d&#252;nsten. Mit Salz, Pfeffer, Muskat und Ingwer w&#252;rzen. Den Fisch kalt absp&#252;len, trocken tupfen, salzen, pfeffern und mit dem Limettensaft betr&#228;ufeln.
+Den Backofen auf 180&#176; (Umluft 150&#176;) vorheizen und eine flache Gratinform einfetten. Den Boden mit der H&#228;lfte des Mangold belegen, die Fischfilets darauf geben, mit dem restlichen Mangold abdecken.
+Sahne, Ei und K&#228;se miteinander verr&#252;hren. Mit Salz, Pfeffer und Muskat w&#252;rzen, &#252;ber das Gratin gie&#223;en. Auf mittlerer Schiene ca. 30 Min. garen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

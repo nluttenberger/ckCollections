@@ -1,0 +1,83 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a8391bef-5a69-495f-b4a1-5e2f4f383874">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Quiche 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, weiche</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>20 g</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>700 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schmand">Schmand</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="olive">Oliven, schwarze, halbiert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Kirschtomate(n), halbiert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se, zerbr&#246;selt, es kann auch ein anderer K&#228;se sein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mehl, Butter, 1 TL Salz und 4 EL kaltes Wasser verkneten, den Teig in Klarsichtfolie wickeln und 30 Minuten k&#252;hlen.
+Mangold putzen, waschen und trocken sch&#252;tteln, die Stiele getrennt von den Bl&#228;ttern quer in ca. 1 cm breite Streifen schneiden.
+Die Stiele in hei&#223;em Oliven&#246;l bei mittlerer Hitze 3 Minuten d&#252;nsten, die Bl&#228;tter zuf&#252;gen und kurz mitd&#252;nsten, mit Salz, Pfeffer und Knoblauchsalz abschmecken, in einer Schale umf&#252;llen und etwas abk&#252;hlen lassen.
+Pinienkerne in einer hei&#223;en trockenen Pfanne goldbraun r&#246;sten.
+F&#252;r den Guss Schmand und Eier verr&#252;hren, mir Salz, Pfeffer und Paprika abschmecken.
+Oliven, Pinienkerne und Tomaten mit dem Mangold mischen.
+Eine Tarteform (ca. 24 cm Durchmesser) mit Fett auspinseln und mit Mehl ausst&#228;uben. Den Teig ausrollen und in die Form legen. Die Mangoldmischung darauf verteilen und die Schmand-Eier-Mischung dar&#252;ber gie&#223;en.
+Im vorgeheizten Backofen bei ca. 180 &#176;C Ober-/Unterhitze 30 - 35 Minuten backen. Erfahrungswerte des eigenen Ofens beachten! Nach ca. 15 Minuten den K&#228;se dar&#252;ber streuen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

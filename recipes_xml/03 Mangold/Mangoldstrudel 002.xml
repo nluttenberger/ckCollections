@@ -1,0 +1,88 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e7e5be20-f467-4309-ae46-a4afd3a90af7">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldstrudel 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eigelb (eines davon zum Bestreichen)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Salz und Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+        <fr:igdtName ref="mandel">Mandel(n), gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch, aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="mozzarella">Mozzarella</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler), gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser, lauwarm</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Mehl, ein Eigelb, Salz und Zucker, 3 EL &#214;l und 100 ml lauwarmes Wasser zusammenmischen und zu einem elastischen Teig verkneten. Zu einer Kugel formen und in Frischhaltefolie mindestens 30 Minuten im K&#252;hlschrank ruhen lassen.
+F&#252;r die F&#252;llung Mangold in kurze Streifen schneiden. Dabei die wei&#223;en Strunke von den gr&#252;nen Bl&#228;ttern getrennt aufheben. Zwiebeln klein w&#252;rfeln und mit dem &#214;l in einem gro&#223;en Topf and&#252;nsten. Dann die Mangoldstiele dazugeben und 5 Minuten mitd&#252;nsten, nun die Mangoldbl&#228;tter f&#252;r weitere 3-4 Minuten zum D&#252;nsten dazuf&#252;gen (ich behandle Mangold wie Spinat: d&#252;nsten, bis er einigerma&#223;en zusammenf&#228;llt). Etwas abk&#252;hlen lassen.
+Die Eier in einer Sch&#252;ssel mit Salz und Pfeffer gew&#252;rzt verquirlen, Mozzarella w&#252;rfeln und zusammen mit dem Emmentaler zu den Eiern geben. Das Mangoldgem&#252;se dazugeben.
+Den Backofen auf 200&#176;C vorheizen. Den Strudelteig ausrollen und hauchd&#252;nn ziehen (Vorsicht, dass er nicht rei&#223;t). Den Teig mit der mit der zerlassenen Butter bestreichen und mit den Mandeln bestreuen (alternativ Paniermehl verwenden, fall Nussallergie o.&#228;.). Gem&#252;sef&#252;llung auf dem Teig verteilen und rundum einen Rand lassen. Seitenr&#228;nder nach innen schlagen und den Strudel aufrollen. Mit der Naht nach unten auf ein Blech mit Backpapier setzen.
+Eigelb mit Milch verquirlen und den Strudel damit bestreichen. Auf mittlerer Schiene in den Ofen schieben. Backzeit ca. 40-45 Minuten.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

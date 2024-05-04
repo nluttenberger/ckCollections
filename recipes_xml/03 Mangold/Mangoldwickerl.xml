@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-708111173433518">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0483b06a-e15e-494d-ae32-640b5796361a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldwickerl</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,28 +26,28 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gewürz(e) nach Belieben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rz(e) nach Belieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="speck">Speck, gewürfelt</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="speck">Speck, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="sauce_bolognese">Sauce Bolognese</fr:igdtName>
+        <fr:igdtName ref="sauce">Sauce Bolognese</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Dose/n</fr:igdtQuantity>
@@ -59,18 +59,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Hackfleisch, Eier, Gew&#252;rze und Paprika vermengen. Mangold putzen und Hackfleisch darin einwickeln.
+Zucchini und M&#246;hren w&#252;rfeln, mit Speckw&#252;rfeln in eine Pfanne geben und leicht anbraten.
+Mangoldwickerl in einen gro&#223;en Topf legen, das Gem&#252;se dazugeben, mit etwas Wei&#223;wein und Wasser sowie einem Glas Bolognese und Tomatenmark aufgie&#223;en. Bei kleiner Hitze ca. 2 Std. k&#246;cheln lassen. Am Schluss mit Sahne verfeinern und abschmecken.
+Dazu empfehle ich Schnittlauchkartoffeln oder Kartoffelbrei.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,114 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-44cae261-2234-44d9-b686-1373a6c3ab42">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Entenbruststreifen mit Petersilienkartoffeln und Spinat</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ente">Entenbr&#252;ste &#224; ca. 200 g, mit Haut</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, roter, frisch aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="austernsauce">Austernsauce</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 TL</fr:igdtQuantity>
+        <fr:igdtName ref="maismehl">Maismehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffeln, vorwiegend festkochende</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>600 g</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Wasser, leicht gesalzen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie, fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Wasserspinat, ersatzweise Mangold, Kailan oder Blattspinat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Peperoni, rote, lang, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, fruchtig, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="fleischbr&#252;he">Br&#252;hepulver (Pilzbouillon, Granulat)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Tapiokamehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;uterbutter">Kr&#228;uterbutter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="schmalz">Entenschmalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+        <fr:igdtName ref="rotwein">Rotwein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="madeira">Madeira</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#252;ten">Bl&#252;ten und Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Entenbr&#252;ste auftauen lassen. Federreste entfernen. Die Br&#252;ste abbrausen und mit K&#252;chenkrepp gut abtrocknen. Mit einem h&#246;lzernen K&#252;chenhammer die Fleischseite etwas flach klopfen. Mit Salz und Pfeffer die St&#252;cke einreiben. Die Fleischseite d&#252;nn mit der Austernsauce einreiben und mit Mehl best&#228;uben.
+Die Kartoffeln waschen, sch&#228;len und putzen. L&#228;ngs und quer vierteln. Das Wasser zum Kochen bringen und die abgebrausten Kartoffelst&#252;cke gar kochen. Petersilie und Butter bereithalten.
+Beim Wasserspinat alle Bl&#228;tter ohne die Stiele von den St&#228;ngeln trennen, verlesen und waschen. Den oberen Teil der St&#228;ngel quer in ca. 3 cm lange St&#252;cke schneiden. Die gewaschene Peperoni entkernen und in kleine W&#252;rfel schneiden.
+Den Wei&#223;wein zusammen mit dem Pilzbr&#252;hepulver, dem Tapiokamehl und der Butter in einem Topf aufl&#246;sen, die St&#228;ngel zugeben und 1 Minute mit Deckel k&#246;cheln lassen. Dann die Bl&#228;tter zugeben und d&#228;mpfen, bis sie weich werden. Mit Salz, Muskatnuss und Pfeffer fein abschmecken, die Peperoniw&#252;rfel untermischen und warm bereithalten.
+Sobald die Kartoffeln gar sind, das Wasser abgie&#223;en, die Butter und die Petersilie zugeben, mischen und warm mit Deckel bereithalten.
+Das Entenschmalz in einer Pfanne (am besten Gusseisen) stark erhitzen. Die Entenbr&#252;ste mit der Haut nach unten zugeben, mit 2 breiten Spateln fest an den Boden dr&#252;cken und braten, bis sie mittelbraun und knusprig sind. Die Entenbr&#252;ste wenden und die Fleischseite in wenigen Minuten well done braten (Druckprobe machen). Die Br&#252;ste quer zu Faserrichtung in mundgerechte St&#252;cke schneiden. Bratenreste in der Pfanne mit Rotwein und Madeira aufnehmen und etwas reduzieren.
+Zum Servieren die Entenbr&#252;ste auf die vorgew&#228;rmten Servierteller platzieren und mit der Weinsauce betr&#228;ufeln. Die Petersilienkartoffeln rechts und links davon geben und mit dem Wasserspinat abschlie&#223;en. Nach Belieben mit Bl&#252;ten und Bl&#228;tter garnieren, servieren und genie&#223;en.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

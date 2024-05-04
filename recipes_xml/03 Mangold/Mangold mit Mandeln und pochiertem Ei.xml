@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2189291351438581">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-30dffc25-563a-4068-ab5b-7ee9def81cb3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold mit Mandeln und pochiertem Ei</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, geputzt, entstielt</fr:igdtName>
@@ -23,23 +23,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="mandel">Mandelblättchen</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandelbl&#228;ttchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -53,12 +53,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Jungzwiebel fein hacken, den Mangold in Streifen schneiden. Einen Topf mit Wasser aufstellen und zum K&#246;cheln bringen.
+W&#228;hrenddessen in einer Pfanne etwas Oliven&#246;l erhitzen, die Jungzwiebel darin anr&#246;sten und glasig werden lassen. Den Mangold dazugeben und zusammenfallen lassen, die Sahne zugeben, mit Salz und Pfeffer w&#252;rzen und dann einige Minuten weichd&#252;nsten.
+Die Eier in jeweils eine Tasse aufschlagen. Wenn das Wasser leicht k&#246;chelt, mit einem Kochl&#246;ffel so umr&#252;hren, dass ein Strudel entsteht und dann ein Ei nach dem anderen in die Mitte des Strudels gleiten lassen. Die Eier ca. 3 Minuten gar ziehen lassen.
+Den Mangold mit den geriebenen Mandeln vermengen und anrichten, die Mandelbl&#228;ttchen dar&#252;ber verteilen. Die pochierten Eier mit einem Schauml&#246;ffel absch&#246;pfen und auf dem Mangold anrichten. Die Eier leicht salzen, pfeffern und mit etwas edels&#252;&#223;em Paprikapulver bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

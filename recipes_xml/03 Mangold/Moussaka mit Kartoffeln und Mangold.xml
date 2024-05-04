@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-743761176983913">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-640184d2-6a98-48b0-9d3f-245825e265a2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Moussaka mit Kartoffeln und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferschote(n), rote</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>375 ml</fr:igdtQuantity>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>175 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, mittelalter Gouda, gerieben</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, mittelalter Gouda, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -73,12 +73,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die K&#228;sesauce die Pfefferschote halbieren, die Kerne entfernen, die Schote sehr fein zerkleinern. Mit dem Mehl in einem Topf bei mittlerer Hitze unter R&#252;hren anr&#246;sten, bis das Mehl zart duftet. Zuerst die Br&#252;he, dann die Milch langsam zugie&#223;en und dabei st&#228;ndig r&#252;hren, damit sich das Mehl in der Fl&#252;ssigkeit verteilt. Unter weiterem R&#252;hren aufkochen, bis die Sauce glatt und s&#228;mig ist. Zugedeckt bei schwacher Hitze 5 Min. k&#246;cheln lassen. Den Topf von der Kochstelle nehmen.
+Die Sahne und den K&#228;se in diese Sauce r&#252;hren. Mit Salz und Muskat kr&#228;ftig abschmecken.
+Die Kartoffeln sch&#228;len, waschen, abtrocknen und mit dem Gurkenhobel in d&#252;nne Scheiben schneiden. Mangold waschen, trocken schleudern und in feine Streifen schneiden. Die Tomaten h&#228;uten und w&#252;rfeln. Lauchzwiebeln waschen, putzen und in feine Ringe schneiden. Knoblauch und Majoran fein hacken.
+Eine ofenfeste Form mit etwas Butter ausstreichen. Schichtweise Kartoffelscheiben, zerkleinertes Gem&#252;se und K&#228;sesauce einf&#252;llen. Dabei Kartoffeln und Gem&#252;se mit Salz w&#252;rzen. und jeweils mit Knoblauch und Majoran bestreuen. Als letzte Schicht den Rest der K&#228;sesauce auf der Moussaka glatt streichen.
+Die restliche Butter in Fl&#246;ckchen darauf verteilen. Die Form auf die unteren Schiene des kalten Backofens schieben. Den Ofen auf 200&#176; (Umluft 180&#176;) schalten. Die Moussaka ca. 1 Stunde backen, bis die Kartoffeln weich sind.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

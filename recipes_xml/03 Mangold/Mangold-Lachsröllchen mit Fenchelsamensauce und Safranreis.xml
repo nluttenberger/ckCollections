@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-875221192952780">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1be8c0ff-4fd1-4e52-b244-baa64da55f35">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Lachsröllchen mit Fenchelsamensauce und Safranreis</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Lachsr&#246;llchen mit Fenchelsamensauce und Safranreis</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Stauden</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Stauden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -23,18 +23,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Sahne, (Milch oder Cremefine zum Kochen)</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Sahne, (Milch oder Cremefine zum Kochen)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter, zerlassene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -58,15 +58,15 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, kalte, in Stücken</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, kalte, in St&#252;cken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, grob</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, grob</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -75,18 +75,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName ref="safran">Safranfäden</fr:igdtName>
+        <fr:igdtName ref="safran">Safranf&#228;den</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter in kochendes Salzwasser f&#252;r ca. 20 Sekunden eintauchen und anschl. sofort in Eiswasser abschrecken.
+Dann die Str&#252;nke ausschneiden und nebeneinander auf K&#252;chenkrepp ausbreiten und abtupfen. (Fehlstellen durch Blattst&#252;cke auff&#252;llen).
+Die Lachsfilets in gro&#223;e W&#252;rfel schneiden und mit Salz, Pfeffer und Muskat w&#252;rzen. Im Mixer zerkleinern, danach die Eier und Sahne gr&#252;ndlich untermixen und evtl. nachw&#252;rzen.
+Nun die Mangoldbl&#228;tter mit zerlassener Butter bepinseln, dann jeweils ca. 2 TL Lachsmousse in der Mitte der Bl&#228;tter verteilen, diese dann seitlich einschlagen und vorsichtig einrollen. Nun jedes R&#246;llchen in ein St&#252;ck Klarsichtfolie wickeln und in einem gro&#223;en Topf mit hei&#223;em Wasser (nicht kochend) ca. 15 Min. pochieren.
+F&#252;r die Sauce die Schalotte klein hacken, anbraten und mit Weinessig abl&#246;schen.
+Dann in einer beschichteten Pfanne die Fenchelsamen trocken anr&#246;sten, mit Sekt auff&#252;llen und reduzieren lassen. Dann die Sahne und die Schalotten hinzuf&#252;gen und das Ganze noch mal aufkochen.
+Anschlie&#223;end die Sauce durch ein Sieb passieren und nur die Fl&#252;ssigkeit verwenden. Mit Salz, Pfeffer und Muskat abschmecken,
+Vor dem Servieren die Sauce wiederholt aufkochen und die kalten Butterst&#252;ckchen unterschlagen, bis die gew&#252;nschte Konsistenz erreicht ist.
+Den Reis nach Anweisung kochen und den Safran dazugeben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

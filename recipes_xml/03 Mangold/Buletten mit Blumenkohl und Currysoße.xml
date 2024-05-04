@@ -1,0 +1,145 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8fc83b7f-cc45-436c-a421-589914aa51a8">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Buletten mit Blumenkohl und Curryso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot, altbackenes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch, lauwarme</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser, lauwarmes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>180 g</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kl. Bund</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie, glatte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>7 EL</fr:igdtQuantity>
+        <fr:igdtName ref="mais">&#214;l, neutrales (z.B. Maiskeim&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="aprikose">Trockenaprikosen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Bio-Zitronenschale, fein abgeriebene</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="hackfleisch">Hackfleisch, gemischtes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chiliflocken">Chiliflocken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="blumenkohl">Blumenkohl (am besten 2 kleine K&#246;pfe mit frischen Bl&#228;ttern)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 &#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="gew&#252;rz">Dukkah (Gew&#252;rzmischung)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10 g</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer, frischer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="curry">Currypulver, mittelscharfes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Koriandersamen (gem&#246;rsert)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="curcuma">Kurkumapulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 ml</fr:igdtQuantity>
+        <fr:igdtName ref="kalbsfond">Kalbsfond</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>350 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Minze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Baby-Mangold, roter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="radieschen">Radieschensprossen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Beet/e</fr:igdtQuantity>
+        <fr:igdtName ref="kresse">Shiso-Kresse</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Brot in Milch und Wasser einweichen. 80&#8239;g Zwiebeln fein w&#252;rfeln. Petersilienbl&#228;tter von den Stielen zupfen, fein schneiden. Zwiebeln in einer Pfanne in 1&#8239;EL&#8239;&#214;l und Butter glasig d&#252;nsten. Petersilie unterr&#252;hren, Masse abk&#252;hlen lassen. Von der H&#228;lfte der Dillstiele die &#196;stchen abzupfen und fein schneiden. Aprikosen in feine W&#252;rfel schneiden. Brot gut ausdr&#252;cken, mit Zwiebeln, Dill, Aprikosen, Zitronenschale, Hack und Ei mit den H&#228;nden gut verkneten. Masse mit Salz, Pfeffer und Chili w&#252;rzen. Mit angefeuchteten H&#228;nden daraus 12&#8239;Buletten (&#224; 80 - 90&#8239;g) formen und 30 Minuten abgedeckt kalt stellen.
+Inzwischen die Blumenkohlbl&#228;tter bis auf die zarten hellgr&#252;nen entfernen. &#220;berstehenden Strunk waagerecht abschneiden. Kohl im Ganzen in einem gro&#223;en Topf in kochendem Salzwasser 5&#8239;Minuten vorgaren. Mit der Schaumkelle herausnehmen, abschrecken, im Sieb abtropfen lassen. In gro&#223;e R&#246;schen schneiden, diese evtl. halbieren. Bl&#228;tter evtl. abl&#246;sen. Backofen auf 200&#8239;Grad (Gas Stufe&#8239;3, Umluft 180&#8239;Grad) vorheizen. Kohl und Bl&#228;tter auf einem mit Backpapier belegten Backblech verteilen. Mit Oliven&#246;l betr&#228;ufeln, mit Ducca w&#252;rzen, gut mischen.
+In einer Pfanne 4 EL &#214;l erhitzen. Buletten bei starker Hitze von jeder Seite 2&#8239;Minuten anbraten. Auf dem Backblech zwischen dem Blumenkohl verteilen. Im hei&#223;en Ofen auf der 2. Schiene von unten 25 - 30&#8239;Minuten garen.
+Restliche Zwiebeln in Streifen schneiden, Ingwer sch&#228;len, in feine Stifte schneiden. Beides im Topf in restlichem &#214;l and&#252;nsten. Mit Curry, Koriander und Kurkuma best&#228;uben, kurz mitd&#252;nsten. Mit Fond und Sahne auff&#252;llen, 20&#8239;Minuten bei mittlerer bis starker Hitze einkochen lassen. Curryso&#223;e mit Salz, Pfeffer und Zitronensaft w&#252;rzen. Kr&#228;uterbl&#228;tter abzupfen. Mangold und Sprossen waschen, trocken schleudern. Kresse vom Beet schneiden.
+Blech aus dem Ofen nehmen. Mangold, Sprossen und Kr&#228;uter auf Buletten und Blumenkohl verteilen, mit der So&#223;e servieren.
+Pro Portion&#8239;ca. 660 kcal, E 24 g, F 52 g, KH 18 g</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

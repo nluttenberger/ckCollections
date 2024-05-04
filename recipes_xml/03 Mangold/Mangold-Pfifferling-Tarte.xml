@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1877671305459596">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0ea34804-f083-49cd-b9b3-22769d8acfab">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Pfifferling-Tarte</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
@@ -79,26 +79,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold vom Strunk befreien und grob hacken. Die Lauchzwiebeln in Scheiben schneiden, Zwiebeln und Knoblauch fein hacken, den K&#228;se reiben.
+2 EL Oliven&#246;l in einer Pfanne erhitzen. Zwiebel und Knoblauch hineingeben und anschwitzen. Danach die Pfifferlinge dazu und anbraten, bis diese pfeifen. Als N&#228;chstes den Mangold und den Lauch zugeben, 5 Minuten braten und mit einer Prise Salz und Majoran w&#252;rzen. Die Gem&#252;semischung zum Abk&#252;hlen zur Seite stellen.
+Als N&#228;chstes die Eier mit Milch, Creme fra&#238;che, K&#228;se, Muskat, 1 - 2 TL Salz und Pfeffer verquirlen. Ebenfalls zur Seite stellen.
+F&#252;r den Teig Mehl, Eigelb, Wasser, 6 EL Oliven&#246;l und eine Prise Salz in eine Sch&#252;ssel geben und zu einem glatten Teig verkneten. Den Teig etwa 30 Minuten ruhen lassen.
+Den Backofen auf 180 &#176;C Ober-/Unterhitze vorheizen. Den Teig d&#252;nn ausrollen und in eine gefettete Springform geben (der Rand sollte etwa 5 cm hoch sein). Den Teig circa 10 - 15 Minuten vorbacken.
+Die Gem&#252;semischung auf dem vorgebackenen Teig verteilen, die Eier-Sahne-K&#228;semischung dar&#252;ber gie&#223;en und die Tarte 40 Minuten backen.
+Nach der Backzeit die Springform entfernen, den Kuchen anschneiden und sofort servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

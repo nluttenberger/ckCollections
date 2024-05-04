@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-778121180935681">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a9d78e8d-043b-446d-98fb-6633824e57db">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Apfel-Mangold-Tarte</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, süßer (z.B. Muscat)</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, s&#252;&#223;er (z.B. Muscat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -43,10 +43,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="apfel">Äpfel</fr:igdtName>
+        <fr:igdtName ref="apfel">&#196;pfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -54,8 +54,8 @@
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
@@ -69,12 +69,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Mehl mit Zucker und 1 kr&#228;ftigen Prise Salz mischen. Butter in kleine St&#252;cke geschnitten mit dem Eigelb unterkneten. Dabei nach und nach 4 EL kaltes Wasser einarbeiten. Teig zur Kugel formen, in Klarsichtfolie wickeln und ca. 1 Std. k&#252;hl stellen. Rosinen mit dem Wein und den Pinienkernen mischen.
+Mangold waschen, gut trocken tupfen und in feine, nicht zu lange Streifen schneiden. Die &#196;pfel vierteln und sch&#228;len. Ohne das Kerngeh&#228;use in d&#252;nne Scheiben schneiden und mit dem Mangold und der Rosinenmischung vermengen. Beide Eier mit Zucker und einer kr&#228;ftigen Prise Pfeffer schaumig schlagen. Unter die Mangoldmischung heben.
+Den Backofen auf 180&#176;C Ober-/Unterhitze (Umluft: 160&#176;C) vorheizen.
+Vom Teig gut ein Drittel abnehmen. Den Rest zu einer Kugel formen und zwischen zwei Lagen Klarsichtfolie rund und d&#252;nn ausrollen. Eine geeignete Form damit auskleiden, dabei einen Rand hochziehen. Den restlichen Teig ebenfalls rund und d&#252;nn ausrollen.
+Mangoldmischung in der Form verteilen, den Teigkreis als Deckel darauf legen und am Rand leicht andr&#252;cken. Die Tarte im hei&#223;en Ofen auf der mittleren Schiene ca. 50 Min. backen.
+Die Tarte schmeckt kalt und auch warm und ist auch f&#252;r ein Buffet geeignet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

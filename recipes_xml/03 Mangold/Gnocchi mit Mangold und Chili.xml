@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2345811373107411">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bca257b5-becd-4ec5-90fa-b01e8a25affd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Gnocchi mit Mangold und Chili</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
         <fr:igdtName ref="gnocchi">Gnocchi</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="chilischote">Chilischote(n), rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,31 +26,33 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
         <fr:igdtName ref="parmesan">Parmesan, nach Belieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Oliven&#246;l in einer hohen Pfanne erhitzen und darin die Gnocchi goldbraun anbraten. In der Zwischenzeit den Knoblauch in feine Scheiben und die Chilischote in kleine St&#252;cke schneiden. Den Mangold gr&#252;ndlich waschen. Dann die Stiele in 1-2 cm gro&#223;e St&#252;cke und die Bl&#228;tter in 3-5cm lange Streifen schneiden.
+Wenn die Gnocchi goldbraun sind, diese aus der Pfanne nehmen und zun&#228;chst zur Seite stellen. In die Pfanne Knoblauch und Chili geben und anbraten (m&#246;glicherweise nochmals Oliven&#246;l zugeben). Nach ein paar Minuten zun&#228;chst die Mangoldstiele, etwas sp&#228;ter die Bl&#228;tter zugeben. Wenn die Bl&#228;tter zusammengefallen sind, mit Salz und Pfeffer w&#252;rzen und etwas Butter zugeben. Dann das Ganze noch ein wenig braten lassen. Im Anschluss die Gnocchi wieder in die Pfanne geben und alles vermischen.
+Die Gnocchi k&#246;nnten noch mit etwas frisch gehobeltem Parmesan bestreut werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2513521394464525">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-aee5e1c0-3472-4f90-b3bb-6f7b64a2cdd5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fenchel-Mangold Smoothie mit Datteln und Banane</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="fenchel">Fenchel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,19 +26,20 @@
         <fr:igdtName ref="dattel">Dattel(n), ohne Kern</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Bei diesem Smoothie verwende ich nur das Wei&#223;e der Mangoldbl&#228;tter. Ich habe so viele andere Verwendungen f&#252;r das Gr&#252;ne und so sieht dieser Smoothie farblich mal ganz anders aus. Nat&#252;rlich kann man hier variieren, denn es gibt gr&#252;nen, gelben, orangefarbenen und roten Mangold. Auf jeden Fall empfehle ich bei diesem Smoothie einen milden Mangold zu verwenden, damit der Geschmack von Banane und Datteln nicht &#252;berlagert wird.
+Den Fenchel und die Mangoldstiele in grobe St&#252;cke schneiden und in einen Mixer geben. Die Banane sch&#228;len und in St&#252;cke brechen, die Datteln entkernen und beide Zutaten in den Mixer geben. Dann mit kaltem Wasser bis zur 1-Liter-Marke auff&#252;llen und mindestens 2 Minuten lang bei h&#246;chster Stufe mixen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

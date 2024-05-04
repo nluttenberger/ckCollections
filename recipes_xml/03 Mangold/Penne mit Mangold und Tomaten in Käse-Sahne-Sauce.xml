@@ -1,41 +1,41 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3433631511531410">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8222bd60-788f-44ac-bd81-5aa142ac9111">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Penne mit Mangold und Tomaten in Käse-Sahne-Sauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Penne mit Mangold und Tomaten in K&#228;se-Sahne-Sauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, mit verschiedenfarbigen Stielen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Strauchtomaten</fr:igdtName>
+        <fr:igdtName ref="tomate">Strauchtomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -43,19 +43,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème">Cremefine oder Sahne</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cremefine zum Kochen oder auch Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse, gerieben</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, frisch und fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="pecorino">Pecorino, gerieben</fr:igdtName>
+        <fr:igdtName ref="pecorino">Pecorino romano, frisch und fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -63,30 +63,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Prise</fr:igdtQuantity>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>n.B.</fr:igdtQuantity>
-        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebeln und die Knoblauchzehen abziehen. Die Zwiebeln fein w&#252;rfeln. Den Mangold waschen, gut abtropfen lassen und putzen. Die Mangoldstiele quer in 1 cm und die Mangoldbl&#228;tter quer in 2 cm breite Streifen schneiden, dabei sehr gro&#223;e Bl&#228;tter vorher l&#228;ngs halbieren. Die Tomaten waschen, putzen und in 1 cm gro&#223;e W&#252;rfel schneiden.
+In einem Bratentopf das Oliven&#246;l erhitzen und die Zwiebelw&#252;rfel darin etwa 2 Minuten bei mittlerer Hitze anschwitzen. Die Mangoldstiele zugeben, den Knoblauch dazupressen und etwa 2 Minuten bei hoher Hitze braten. Das Gem&#252;se mit dem Wei&#223;wein sowie mit der Gem&#252;sebr&#252;he abl&#246;schen, aufkochen und zugedeckt etwa 5 Minuten bei kleiner Hitze k&#246;cheln lassen. Anschlie&#223;end die Mangoldbl&#228;tter zugeben und zugedeckt weitere etwa 5 Minuten k&#246;cheln lassen.
+Die Penne in reichlich kochendem, leicht gesalzenen Wasser bissfest garen. Die Tomatenw&#252;rfel zu dem Mangold geben und etwa 4 Minuten mitk&#246;cheln lassen.
+In einem kleinen Topf die Sahne aufkochen lassen, den frisch geriebenen Bergk&#228;se sowie Pecorino romano einr&#252;hren und bei kleiner Hitze so lange k&#246;cheln lassen, bis der K&#228;se geschmolzen ist. Dabei &#246;fter umr&#252;hren. Die Speisest&#228;rke mit 2 EL kaltem Wasser verr&#252;hren und die K&#228;se-Sahne-Sauce damit binden. Die Sauce noch einmal aufkochen lassen und dann mit dem Mangold vermischen. Die Sauce mit etwas Meersalz, einigen Umdrehungen schwarzem Pfeffer aus der M&#252;hle, Muskatnuss und Cayennepfeffer abschmecken.
+Die Penne abgie&#223;en und tropfnass mit der Sauce auf Tellern anrichten. Nach Belieben einige ger&#246;stete Pinienkerne dar&#252;ber verteilen.
+Anstelle von Bergk&#228;se und Pecorino romano k&#246;nnen durchaus auch andere K&#228;sesorten verwendet werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2002631324218854">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-78edc583-6332-4830-bb5a-07820d5115d6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldgratin mit Parmesankruste</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frischer</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsefond, evtl. instant</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond, evtl. instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kugel</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot oder Toast- oder Sandwichbrot</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot oder Toast- oder Sandwichbrot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -47,30 +47,36 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butterflöckchen</fr:igdtName>
+        <fr:igdtName ref="butter">Butterfl&#246;ckchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 200 &#176;C Ober-/Unterhitze vorheizen.
+Den Mangold verlesen, waschen und mit den Stielen in Streifen schneiden. In einer Pfanne die Pinienkerne anr&#246;sten, beiseite stellen.
+Dann etwas Butter schmelzen und den Mangold darin kurz anschmoren, mit Gem&#252;sebr&#252;he aufgie&#223;en und mit geschlossenem Decker 10 Minuten garen. Dann abtropfen lassen und in eine feuerfeste Form geben. Etwas Muskat dar&#252;ber reiben.
+Die Tomaten einschneiden, mit kochendem Wasser &#252;bergie&#223;en, abschrecken und die Haut abziehen. Dann halbieren, entkernen und das Fruchtfleisch in W&#252;rfel schneiden. Die Schalotten und den Knoblauch sch&#228;len und fein hacken.
+Wieder etwas Butter in der Pfanne erhitzen und die Schlotten und den Knoblauch darin glasig anschwitzen. Die Tomatenw&#252;rfel dazugeben und kurz mitd&#252;nsten und mit Salz, Pfeffer und Paprikapulver abschmecken, dann auf das Mangoldgem&#252;se geben. Den Mozzarella in W&#252;rfel schneiden und ebenfalls auf das Mangoldgem&#252;se geben.
+Das Wei&#223;brot zerbr&#246;seln (ich mache das immer im Mixer) und mit dem geriebenen Parmesan mischen und &#252;ber das Gratin streuen. Butterfl&#246;ckchen daraufsetzen und auf der mittleren Schiene etwa 20 - 25 Minuten &#252;berbacken.
+Das Rezept passt super in die Sommermonate, wenn der Mangold Saison hat. Die Zutaten sind f&#252;r 2 Personen als Hauptspeise gedacht (low carb). Wenn man als Beilage noch Brot, Kartoffeln, Fisch oder Fleisch machen m&#246;chte, reicht das Gratin auch f&#252;r 3 - 4 Esser.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

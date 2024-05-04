@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2860601438177981">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8e5dc251-03c0-4cae-8f28-2a02ee1a6b16">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Feta-Blätterteigtaschen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Feta-Bl&#228;tterteigtaschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,15 +39,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), getrocknete in Öl</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknete in &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -55,30 +55,36 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="basilikum">Basilikumblätter</fr:igdtName>
+        <fr:igdtName ref="basilikum">Basilikumbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig (ca. 275 g)</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig (ca. 275 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Sesam, geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="schwarzkümmel">Schwarzkümmel, geröstet</fr:igdtName>
+        <fr:igdtName ref="schwarzk&#252;mmel">Schwarzk&#252;mmel, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und die Stiele sowie bei sehr gro&#223;en Bl&#228;ttern die dicken Mittelrippen entfernen. Grob hacken bzw. schneiden.
+Die Zwiebel und den Knoblauch fein w&#252;rfeln und in einer Pfanne im Oliven&#246;l glasig anschwitzen. Den gehackten Mangold dazugeben. Unter R&#252;hren mitbraten und zusammenfallen lassen. Etwa 50 ml Wasser angie&#223;en und so lange d&#252;nsten, bis das Wasser verdampft ist (so muss der Mangold nicht vorher blanchiert werden). Die Pfanne zur Seite stellen und den Mangold abk&#252;hlen lassen.
+Inzwischen den Feta-K&#228;se klein w&#252;rfeln oder zerbr&#246;seln. Die Basilikumbl&#228;tter fein hacken und die getrockneten Tomaten in feine Streifen schneiden. Alles zum Mangold geben, vermischen und mit Salz, Pfeffer und einer Prise Muskat abschmecken. Das Ei in einer kleinen Sch&#252;ssel verquirlen und 2/3 davon mit den Semmelbr&#246;seln zum Mangold geben und noch einmal gut durchr&#252;hren.
+Den Bl&#228;tterteig ausrollen, der L&#228;nge nach in der Mitte einmal durchschneiden und anschlie&#223;end noch quer vierteln, sodass insgesamt 8 Vierecke entstehen. An den Schnittr&#228;ndern mit dem verquirlten Ei bepinseln und die F&#252;llung auf alle acht Teigst&#252;cke so verteilen, dass danach die H&#228;lfte vom Teig dar&#252;ber geschlagen werden kann und Taschen entstehen. An den R&#228;ndern vorsichtig festdr&#252;cken und die Taschen so gut verschlie&#223;en.
+Auf ein mit Backpapier ausgelegtes Blech geben. Die Oberseite mit einer Gabel zwei bis dreimal einstechen. Mit dem restlichen Ei bepinseln und evtl. mit Sesam und oder Schwarzk&#252;mmel bestreuen.
+Im vorgeheizten Backofen bei 200 &#176;C Ober-/Unterhitze in ca. 20 - 25 Min. auf der mittleren Einschubleiste goldbraun backen. Die letzten 5 Min. beobachten, damit sie nicht zu dunkel werden. Aus dem Ofen nehmen und etwas abk&#252;hlen lassen.
+Man kann sie warm mit einem Joghurt-Kr&#228;uter-Dip und Blattsalaten als Hauptgericht servieren. Sie schmecken aber auch kalt, sehr gut und sind f&#252;r ein kaltes Buffet oder als Proviant f&#252;rs Picknick gut geeignet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

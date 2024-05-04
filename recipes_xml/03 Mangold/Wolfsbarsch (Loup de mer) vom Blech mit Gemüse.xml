@@ -1,0 +1,63 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-df2bf0e8-0fae-4883-9b9d-118018f386b3">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Wolfsbarsch (Loup de mer) vom Blech mit Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="barsch">Fisch(e) (Wolfsbarsch), pfannenfertig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (Krautstiel, Stielmangold)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;uter">Salbei oder andere Kr&#228;uter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salzwasser</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Fische innen und au&#223;en kalt absp&#252;len, trocken tupfen. Die Fische beidseitig je dreimal circa 5 mm tief schr&#228;g einschneiden. Den Knoblauch l&#228;ngs in Scheiben schneiden und in die Einschnitte stecken. Den Fischbauch mit Salz und Pfeffer w&#252;rzen. Wenn man hat, Salbei grob zerzupfen und dazugeben oder auch andere Gew&#252;rze/Kr&#228;uter (z. B. Fischgew&#252;rz, Knoblauchgew&#252;rz &#8230;), wie man mag.
+Die Zucchini und Karotten in Streifen schneiden und auf ein mit Backpapier belegtes Blech geben. Salzen und mit Alufolie bedecken. Circa 10 - 15 Min. in der Mitte im auf 180 &#176;C vorgeheizten Ofen braten.
+Nach diesen 10 - 15 Min. das Blech rausnehmen und die Alufolie entfernen. Die Fische auf das Gem&#252;seblech legen und Oliven&#246;l dar&#252;bertr&#228;ufeln. Wieder in den Ofen schieben und nochmal 20 Min. fertig braten.
+Bis der Fisch fertig ist, den in circa 1.5 mm breite Streifen geschnittenen Krautstiel im hei&#223;en Salzwasser kochen. Das Wasser abgie&#223;en und den Krautstiel mit Fisch und Gem&#252;se auf einem Teller anrichten.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

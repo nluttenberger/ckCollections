@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3072271459843826">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6ff76e5a-13ae-4bcf-a1e4-676612b6cb56">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sommersalat mit Beeren</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="blattsalat">Blattsalat, gemischt, z. B. Feldsalat, junger Mangold, junger Spinat, Rucola</fr:igdtName>
@@ -50,19 +50,24 @@
         <fr:igdtName ref="balsamico">Balsamico (Himbeerbalsamico), evtl. mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Salat waschen und gut trocken schleudern. Die Beeren ebenfalls waschen und je nach Gr&#246;&#223;e evtl. halbieren oder vierteln. Die Tomaten waschen und halbieren. Alles zusammen mit dem abgetropften Mozzarella in eine Sch&#252;ssel geben und locker vermischen.
+Die Orange gro&#223;z&#252;gig absch&#228;len und filetieren, also das Fruchtfleisch mit einem scharfen Messer aus den Trennh&#228;uten schneiden. Den Saft m&#246;glichst auffangen. Die Orangenfilets zum Salat geben, den aufgefangenen Saft kann man sp&#228;ter zum Dressing geben, muss man aber nicht. Auch die Orange ist kein Muss.
+F&#252;r das Dressing den Joghurt mit dem Himbeersirup und dem Balsamico in einen Shaker geben und gut sch&#252;tteln. Mit Salz und Pfeffer abschmecken. Wenn man m&#246;chte, kann man noch etwas Himbeersirup oder mehr Himbeerbalsamico hinzugeben, um den Himbeergeschmack hervorzuheben.
+Den vorbereiteten Salat bis zum Verzehr im K&#252;hlschrank aufbewahren. Das Dressing erst kurz vor dem Servieren auf den Salat geben, damit die Blattsalate nicht zusammenfallen.
+Tipps:
+Wer keinen Himbeerbalsamico bekommt, kann auch alten dunklen Balsamico verwenden, er sollte schon eine gewisse S&#252;&#223;e mitbringen. Wenn man will, kann man den Salat auch mit Croutinos oder Pinienkernen bestreuen. Ich verwende gerne eine fertige Salatmischung aus dem K&#252;hlregal.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

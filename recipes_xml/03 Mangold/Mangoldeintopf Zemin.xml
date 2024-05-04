@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3382501503232638">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e8e4c92a-3293-4ded-8cd1-c2a357017793">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldeintopf Zemin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -23,10 +23,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
@@ -47,34 +47,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbeibl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="wein">Wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="chilischote">Peperoncino</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold gr&#252;ndlich waschen, in ca. 5 cm breite Streifen schneiden und zum Abtropfen beiseitestellen. Die H&#228;lfte der Kichererbsen p&#252;rieren.
+Zwiebeln, Knoblauch und Sellerie klein schneiden; M&#246;hren grob raspeln. Oliven&#246;l in einem breiten Topf erhitzen, dann das zerkleinerte Gem&#252;se beigeben und bei kleiner Flamme golden anbraten. Tomaten, Rosmarin, Salbei und Lorbeerbl&#228;tter dazugeben und mit Wein und einer Tasse Wasser angie&#223;en. Ein paar Minuten k&#246;cheln lassen.
+Nun den vorbereiteten Mangold in den Topf geben und zugedeckt solange bei niedriger Temperatur und geschlossenem Topf kochen, bis sich sein Volumen verringert hat. Kirchererbsen dazugeben. Jetzt l&#228;&#223;t man den Eintopf solange kochen, bis der Mangold dunkelgr&#252;n geworden ist und das Fett aus dem gebratenen Gem&#252;se (soffritto) an der Oberfl&#228;che schwimmt. Zwischendurch umr&#252;hren, dabei mit Salz und Peperoncino abschmecken. Falls zuviel Wasser verdunstet, ein wenig dazugie&#223;en. Nach zirka 30 min ist der Zemin fertig.
+Den Topf vom Herd nehmen, die Lorbeerbl&#228;tter entfernen und vor dem Servieren 5 Minuten abk&#252;hlen lassen.
+Wer die Kichererbsen selbst kochen mag, gibt Salbei und Lorbeerbl&#228;tter direkt dabei ins Kochwasser und l&#228;sst die Kr&#228;uter daf&#252;r in der Suppe weg. Das Kochwasser der Kichererbsen benutzt man anstelle normalen Wassers zum Angie&#223;en der Suppe.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

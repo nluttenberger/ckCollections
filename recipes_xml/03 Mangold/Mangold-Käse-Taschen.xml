@@ -1,0 +1,60 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-514f7478-c91f-4692-8dde-6f46d3dc91d9">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-K&#228;se-Taschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, ca. 500 g</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler), grob gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, waschen, das Gr&#252;n von den Stielen streifen und hacken. Stiele in Streifen schneiden.
+Zwiebeln und Stiele in dem Fett and&#252;nsten und 10 Min. garen, dann die Bl&#228;tter zugeben und weitere 5 Min. garen. Bl&#228;tterteigplatten nebeneinander auftauen lassen.
+Den K&#228;se mit dem Mangold mischen. Mit Salz, Pfeffer und Muskat w&#252;rzen.
+Jede Bl&#228;tterteigplatte auf ca. 20 x 8 cm ausrollen und dritteln. Je 1 Teel&#246;ffeln von der Mangold-K&#228;se-Masse darauf setzen, die Kante mit Wasser bepinseln, die andere Seite dar&#252;ber klappen und festdr&#252;cken. Mit Eigelb einpinseln.
+Die Taschen auf ein mit Wasser abgesp&#252;ltes Backblech legen und im vorgeheizten Backofen bei 225&#176; (Umluft 200&#176;) ca. 15-20 Min. backen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

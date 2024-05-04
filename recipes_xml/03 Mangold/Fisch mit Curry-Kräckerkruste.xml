@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2520451395233159">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7f6bb6f8-de50-46a6-96fa-f260cad30a5c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Fisch mit Curry-Kräckerkruste</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Fisch mit Curry-Kr&#228;ckerkruste</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="kräcker">Kräcker, gesalzene</fr:igdtName>
+        <fr:igdtName ref="kr&#228;cker">Kr&#228;cker, gesalzene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>340 g</fr:igdtQuantity>
-        <fr:igdtName ref="kabeljau">Kabeljaufilet(s), küchenfertig, ohne Haut</fr:igdtName>
+        <fr:igdtName ref="kabeljau">Kabeljaufilet(s), k&#252;chenfertig, ohne Haut</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -46,11 +46,11 @@
         <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft, einige Spritzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -65,12 +65,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 200 &#176;C Ober-/Unterhitze (Umluft nicht empfehlenswert) vorheizen.
+Die Kr&#228;cker mit 1 EL Butter und Curry in einen Blitzhacker geben und fein zerkleinern. Den Fisch waschen, trocken tupfen und rundherum mit Salz und Pfeffer w&#252;rzen.
+In eine mit 1 TL Butter gefettete Auflaufform legen und mit der Kr&#228;ckerkruste bedecken. Im hei&#223;en Ofen im unteren Drittel in 15 - 20 Min. goldbraun backen.
+In der Zwischenzeit den Mangold putzen. Die Stiele in 1 cm gro&#223;e St&#252;cke, die Bl&#228;tter in 3 cm breite Streifen schneiden, die Zwiebel fein w&#252;rfeln.
+In einem gro&#223;en Topf reichlich Salzwasser zum Kochen bringen. &#189; EL Butter in einem weiteren Topf zerlassen und die Zwiebeln darin bei mittlerer Hitze 2 Min. d&#252;nsten. Mit 1 TL Mehl best&#228;uben und unter R&#252;hren kurz anschwitzen. 150 ml Schlagsahne und 50 ml Wasser zugie&#223;en und aufkochen lassen. Die Sauce 5 Min. kochen, ab und zu umr&#252;hren. Mit Salz, Pfeffer, Muskat und einigen Spritzern Zitronensaft abschmecken.
+Die Mangoldstiele im kochenden Salzwasser 3 Min. garen. Die Bl&#228;tter dazugeben und 2 Min. mitgaren.
+Den Mangold abgie&#223;en, gut abtropfen lassen und mit der Zitronensahne mischen. Evtl. mit Salz und Pfeffer nachw&#252;rzen und mit Zitronenschale bestreut servieren.
+Den Fisch mit dem Rahm-Mangold servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

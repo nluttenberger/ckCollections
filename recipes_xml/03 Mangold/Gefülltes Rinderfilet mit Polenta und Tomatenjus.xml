@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-741821176806253">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-deb25b92-ea2c-4614-a969-048649e7f5b1">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefülltes Rinderfilet mit Polenta und Tomatenjus</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;lltes Rinderfilet mit Polenta und Tomatenjus</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="shiitake">Pilze (Shiitake)</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zweig/e</fr:igdtQuantity>
@@ -31,11 +31,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="hackfleisch">Kalbsbrät . frisches</fr:igdtName>
+        <fr:igdtName ref="hackfleisch">Kalbsbr&#228;t . frisches</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Spinat oder Mangold, großblättrig</fr:igdtName>
+        <fr:igdtName ref="mangold">Spinat oder Mangold, gro&#223;bl&#228;ttrig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
@@ -43,11 +43,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer, geschroteter</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, geschroteter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName ref="mais">Maiskölbchen (Mini)</fr:igdtName>
+        <fr:igdtName ref="mais">Maisk&#246;lbchen (Mini)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -63,15 +63,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="polenta">Maisgrieß (Polenta)</fr:igdtName>
+        <fr:igdtName ref="polenta">Maisgrie&#223; (Polenta)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Bund</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
@@ -89,12 +89,21 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Pilze putzen. Wenn n&#246;tig waschen und anschlie&#223;end in feine W&#252;rfel schneiden. 2 Schalotten pellen und in feine W&#252;rfel schneiden.
+2 EL &#214;l in einer Pfanne erhitzen, Pilze mit den Schalotten anbraten. Die Bl&#228;tter vom Thymian zupfen, dann hacken und dazugeben. Mit Salz und Pfeffer w&#252;rzen und so lange bei mittlerer Hitze garen, bis alle Fl&#252;ssigkeit verdampft ist. Pilze abk&#252;hlen lassen und mit dem Kalbsbr&#228;t mischen.
+Spinat waschen und 10 gro&#223;e Bl&#228;tter davon abnehmen. Die Bl&#228;tter kurz blanchieren, dann abschrecken und gut abtropfen. Dann trocken tupfen und auf ein St&#252;ck Klarsichtfolie geben. Die Pilzfarce darauf geben und mit Hilfe der Folie zu einer 1-2 cm dicken Rolle aufrollen. Diese Rolle &#252;ber Nacht gefrieren lassen.
+Das Rinderfilet am n&#228;chsten Tag mit einem Kochl&#246;ffel aus Holz der L&#228;nge nach durchstechen (geht wirklich ganz leicht!). Die Pilzrolle aus der Klarsichtfolie nehmen. Leicht anfeuchten und in das Filet schieben &#8211; das braucht ein bissel &#220;bung.
+Das Rinderfilet mit Salz und geschrotetem Pfeffer einreiben und in einer Pfanne mit 1 EL hei&#223;em &#214;l kr&#228;ftig anbraten. In eine feuerfeste Form legen und im vorgeheizten Backofen bei 100&#176;C (Umluft: 90&#176;C) bis 63&#176;C Kerntemperatur ca. 1 &#188; Stunden garen. Hilfe bietet ein Fleischthermometer.
+Inzwischen den Mais in 1/2 cm gro&#223;e W&#252;rfel schneiden sowie die restlichen Schalotten und Knoblauchzehen w&#252;rfeln. Alles in &#214;l leicht anbraten. Milch und Sahne zugie&#223;en und zum Kochen bringen. Polenta einr&#252;hren und bei sehr niedriger Hitze ca. 30 Minuten quellen lassen. Mit Salz und Pfeffer w&#252;rzen.
+Basilikum grob hacken und im M&#246;rser mit dem Oliven&#246;l und 1 Prise Salz fein m&#246;rsern.
+Die getrockneten Tomaten fein w&#252;rfeln. Den Kalbsjus aufkochen und die Tomaten zugeben. Bei mittlerer Hitze etwas reduzieren. Mit dem Balsamico und etwas Pfeffer w&#252;rzen.
+Das gegarte Rinderfilet ca. 5 Minuten unter Alufolie ruhen lassen.
+Zum Anrichten die Polenta auf vorgew&#228;rmte Teller geben. Das gef&#252;llte Rinderfilet in Scheiben schneiden und auf die Polenta geben. Mit Tomatenjus und Basilikum&#246;l umgie&#223;en und sofort servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

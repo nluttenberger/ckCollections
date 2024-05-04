@@ -1,56 +1,64 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3659631551018208">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-475c197a-53c9-46fc-b318-5702a9ce720d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Omelett Viva Italia</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote, rot</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtQuantity>1 Paket</fr:igdtQuantity>
         <fr:igdtName ref="mozzarella">Mozzarella</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Zehe</fr:igdtQuantity>
-        <fr:igdtName ref="lauch">Koblauch</fr:igdtName>
+        <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eier</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Eiswasser</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="ei">Eiswasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Wer das Omelett in frischen Farben haben will, kommt um das Blanchieren des Mangolds nicht herum. Wer keinen Wert drauf legt, kann diesen Schritt &#252;berspringen.
+Mangold waschen und das Gr&#252;ne von den Bl&#228;ttern schneiden. Einen gro&#223;en Topf mit Wasser aufsetzen, in den man ein Metallsieb einh&#228;ngen kann. Kurz bevor das Wasser kocht, Eiswasser vorbereiten und bereitstellen.
+Gr&#252;ne Teile des Mangolds f&#252;r 10 Sekunden in den Sieb legen und gut unter Wasser dr&#252;cken. Sieb herausnehmen und den Mangold in das Eiswasser geben. Anschlie&#223;end im Sieb abtropfen lassen.
+Zwiebeln und Knoblauch abziehen und fein w&#252;rfeln. Mangoldstiele in kleine Streifen schneiden.
+Mangoldbl&#228;tter getrennt in Streifen schneiden. Paprika von Stiel, Kernen und wei&#223;en Scheidew&#228;nden befreien und w&#252;rfeln.
+Zwiebel in etwas &#214;l in einer Pfanne glasig schwitzen. Mangoldstiele zugeben und 5  Minuten braten. Paprikaw&#252;rfel in die Pfanne geben und weiter 5 Minuten unter R&#252;hren braten. Zum Schluss die Mangoldbl&#228;tter 2 Minuten mitbraten. Alles abk&#252;hlen lassen.
+In einer gro&#223;en Sch&#252;ssel die Eier aufschlagen und reichlich mit Salz und Pfeffer w&#252;rzen. Das abgek&#252;hlte Gem&#252;se unterziehen. Mozzarella in Scheiben schneiden.
+Eine leicht ge&#246;lte Pfanne auf mittlere Hitze bringen und das Omelett hineingleiten lassen.
+Mozzarellascheiben oben auflegen. Einen Deckel auflegen und das Omelett solange braten, bis das Ei stockt und der Mozzarella zerl&#228;uft.  Das dauert 5 - 10 Minuten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

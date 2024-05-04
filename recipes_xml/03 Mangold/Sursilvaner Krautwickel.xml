@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-43551014897832">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1b1db5b3-af24-428b-8af6-22fe6f6b14be">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sursilvaner Krautwickel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -31,27 +31,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskat, gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="mettwurst">Wurst (Landjäger oder Bündnerfleisch)</fr:igdtName>
+        <fr:igdtQuantity>2 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="mettwurst">Wurst (Landj&#228;ger oder B&#252;ndnerfleisch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, gewürfelt, geräuchert</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, gew&#252;rfelt, ger&#228;uchert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, groß oder Krautstiele</fr:igdtName>
+        <fr:igdtQuantity>12 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223; oder Krautstiele</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 dl</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Rinderbrühe oder Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Rinderbr&#252;he oder H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dl</fr:igdtQuantity>
@@ -69,12 +69,12 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Teig (&#228;hnlich Sp&#228;tzli): Die Eier mit dem Schneebesen verquirlen und mit der Fl&#252;ssigkeit, dem Salz, Pfeffer, Muskat unter R&#252;hren mischen. Das Mehl langsam unter R&#252;hren beif&#252;gen, bis ein Sp&#228;tzleteig entsteht, weiter r&#252;hren, bis der Teig Blasen wirft. Das B&#252;ndnerfleisch oder Landj&#228;ger kleinschneiden und beif&#252;gen. Teig ca. 1 Stunde ruhen lassen. Mangoldbl&#228;tter oder Krautstiele r&#252;sten und kurz blanchieren. Bl&#228;tter ausbreiten, abtupfen und mit je einem EL Teig f&#252;llen, anschliessend einrollen. Die Taschen in eine Auflaufform legen und zu 3/4 mit Bouillon auff&#252;llen. Ca. 30 Minuten im vorgew&#228;rmten Backofen (220 Grad) in der Mitte ziehen lassen. 2 dl Milch dazugeben (oder 1 dl Milch und 1 dl Halbrahm)und nochmals 15 Minuten ziehen lassen. Speckw&#252;rfeli in etwas Bratbutter schmoren lassen. Den Reibk&#228;se &#252;ber die Capuns verteilen, die Speckw&#252;rfeli mit der Butter &#252;ber den Reibk&#228;se ausgiessen. In vorgew&#228;rmten Tellern servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

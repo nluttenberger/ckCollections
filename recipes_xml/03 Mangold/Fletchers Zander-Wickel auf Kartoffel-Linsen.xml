@@ -1,0 +1,132 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-df1b7268-844e-47e6-91a4-0b3899f365b7">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Fletchers Zander-Wickel auf Kartoffel-Linsen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="fisch">Fischfilet(s), k&#252;chenfertige Zanderfilet</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="linsen">Linsen, braun</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), festkochend</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#188; Knolle/n</fr:igdtQuantity>
+        <fr:igdtName ref="fenchel">Fenchel, gesch&#228;lt und klein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 &#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="lorbeer">Lorbeerblatt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="estragon">Estragon, einige Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitrone(n), unbehandelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Gl&#228;ser</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne, eiskalt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="cr&#232;me">Pflanzencreme von Rama</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, eiskalt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken (0,1l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="fleisch">D&#246;rrfleisch, (durchwachsener Speck)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner, wei&#223;</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="dijonsenf">Dijonsenf, mittelscharf, grob</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen schon mal auf 120&#176;C Ober-/Unterhitze vorheizen.
+Die Linsen in einem Topf knapp mit etwas Gem&#252;sefond knapp bedecken. Mit dem Lorbeerblatt, 3 Pfefferk&#246;rnern, den Thymianzweigen, dem Basilikum, dem Estragon, dem Fenchel, einer gesch&#228;lten und halbierten Zwiebel und einer gesch&#228;lten Knoblauchzehe (ganz) weichkochen (die Gew&#252;rze vorher waschen und trocken sch&#252;tteln).
+Den Schnittlauch in feine R&#246;llchen schneiden und beiseitestellen (ein Viertel f&#252;r die Garnitur, zum Bestreuen, &#252;brig lassen).
+Wenn die Linsen gar sind, absch&#252;tten, den &#252;briggebliebenen Fond aufbewahren und beides f&#252;r sp&#228;ter beiseitestellen.
+Die Kartoffeln sch&#228;len und in ca. 1cm kleine W&#252;rfel schneiden. Drei Schalotten und eine Knoblauchzehe sch&#228;len und klein w&#252;rfeln. Das D&#246;rrfleisch ebenfalls in kleine W&#252;rfel schneiden beiseitestellen.
+Cirka 200g vom Zanderfilet f&#252;r die Farce abschneiden und sehr klein w&#252;rfeln, dann drei&#223;ig Minuten ins Gefrierfach geben. Das restliche Filet in vier gleichgro&#223;e St&#252;cke teilen. Die Schale der Zitrone abreiben, halbieren und auspressen. Das Zanderfilet mit 2 bis 3 Essl&#246;ffeln Zitronensaft einreiben und ca. 10 Min. marinieren.
+In der Zwischenzeit die angefrorenen Zanderw&#252;rfel mit der eiskalten Sahne und 2 Essl&#246;ffeln Zitronensaft in einen Mixer/Zerkleinerer geben und zu einer feinen Farce mixen. In eine Sch&#252;ssel geben, kr&#228;ftig mit Salz, Pfeffer und fein abgeriebener Zitronenschale abschmecken.
+Den Mangold putzen, waschen und die wei&#223;en Stiele von den Bl&#228;ttern trennen. Die gr&#252;nen Bl&#228;tter in reichlich kochendem Wasser blanchieren, in Eiswasser abschrecken (damit er die Farbe beh&#228;lt) und zwischen einem K&#252;chentuch sehr gut trocken tupfen (sonst spritzt es so beim Anbraten).
+Die Zanderfiletst&#252;cke von beiden Seiten mit der Farce bestreichen und jeweils ein St&#252;ck in die vorbereiteten Mangoldbl&#228;tter einwickeln. Zwei Schalotten und zwei Knoblauchzehen sch&#228;len und klein w&#252;rfeln. In einer Pfanne 3 EL Rama Culinesse erhitzen, Schalotten und Knoblauch anschwitzen und die Mangold-Wickel darin anbraten bis diese Farbe angenommen haben, &#228;hnlich wie Kohlrouladen. Anschlie&#223;end auf ein Backblech legen und im Backofen zehn bis f&#252;nfzehn Minuten bei der eingestellten Temperatur garziehen lassen.
+Nun die Kartoffelw&#252;rfel in die Pfanne mit der angeschwitzten Schalotten-Mischung geben, in der die Wickel angebraten wurde. Kurz anschwitzen und mit dem Wei&#223;wein abl&#246;schen. Diesen verkochen lassen, anschlie&#223;end nach und nach 1 Glas und den restlichen Gem&#252;sefond bei st&#228;ndigem Umr&#252;hren hinzuf&#252;gen und k&#246;cheln lassen, bis die Kartoffeln weich sind, aber noch nicht zerfallen, absch&#252;tten, aber den Fond noch nicht wegsch&#252;tten.
+Nun die vorbereiteten Schalotten, den Knoblauch und das D&#246;rrfleisch in einer Pfanne mit 2 EL Rama Culinesse kross anbraten (den Knoblauch sp&#228;ter hinzugeben und nicht zu braun werden lassen, da er sonst bitter wird).
+Die fertigen Linsen unter die Kartoffeln mischen, mit Salz und Pfeffer w&#252;rzen und ca. 3 Essl&#246;ffel kalte Butterw&#252;rfel unterr&#252;hren (wem das zu trocken ist, der kann von dem Kartoffelfond noch etwas dazu geben. Der Rest wird nicht mehr ben&#246;tigt).  Zuletzt mit dem Dijonsenf, den vorbereiteten Schnittlauchr&#246;llchen und dem kross gebratenem Speck verfeinern.
+Das Linsen-Kartoffelgem&#252;se in tiefen, vorgew&#228;rmten Tellern anrichten, ein Mangoldwickel darauf legen und mit dem Schnittlauch bestreuen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

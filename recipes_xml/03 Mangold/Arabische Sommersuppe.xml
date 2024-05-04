@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-63311023102104">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e4b71de3-2941-4278-b907-ed18e4b7229b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Arabische Sommersuppe</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Gemüse (Blattgemüse), gemischt (z.B. Blattspinat, Mangold, Senfkohl)</fr:igdtName>
+        <fr:igdtName ref="mangold">Gem&#252;se (Blattgem&#252;se), gemischt (z.B. Blattspinat, Mangold, Senfkohl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s) mit Knochen</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s) mit Knochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Stange/n</fr:igdtQuantity>
@@ -46,8 +46,8 @@
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -61,12 +61,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Blattgem&#252;se putzen, waschen und in kochendem Salzwasser blanchieren. In ein Sieb abgie&#223;en, eiskalt abschrecken und gut abtropfen lassen.
+Die Br&#252;he aufkochen. Die H&#228;hnchenbrust waschen und trocken tupfen und in der Br&#252;he bei schwacher Hitze 10 Minuten ziehen lassen. Die H&#228;hnchenbrust aus der Br&#252;he heben und abk&#252;hlen lassen. Die Br&#252;he durch ein feines Sieb gie&#223;en.
+Zwiebel und Knoblauch sch&#228;len und fein hacken. Die M&#246;hre putzen und sch&#228;len, die Selleriestangen putzen und waschen. M&#246;hre und Staudensellerie in Julienne schneiden.
+In einem Topf das Butterschmalz zerlassen. Zwiebeln, Knoblauch und Julienne darin bei mittlerer Hitze and&#252;nsten, bis die Zwiebelw&#252;rfel glasig sind. Die Br&#252;he angie&#223;en und erhitzen, aber nicht kochen lassen. Knapp unter dem Siedepunkt 20 Minuten garen.
+Die H&#228;hnchenbrust h&#228;uten, das Fleisch von den Knochen l&#246;sen und in feine Streifen schneiden. Mit dem blanchierten Blattgem&#252;se unter die Br&#252;he r&#252;hren. Mit Salz, Pfeffer, Zitronensaft und -schale abschmecken und nicht zu hei&#223; servieren.
+Nach Belieben Fladenbrot in kleine W&#252;rfel schneiden, in einer beschichteten Pfanne in 1 Teel&#246;ffel Butterschmalz knusprig r&#246;sten und &#252;ber die Suppe streuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

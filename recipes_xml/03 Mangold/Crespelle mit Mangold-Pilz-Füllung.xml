@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1784081288456287">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-98b69622-80ca-49ca-94ba-a466589571ec">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Crespelle mit Mangold-Pilz-Füllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Crespelle mit Mangold-Pilz-F&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12 Scheibe/n</fr:igdtQuantity>
@@ -54,23 +54,27 @@
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Eier verquirlen. Mehl und eine Prise Salz unterr&#252;hren. Die Milch zuf&#252;gen und zu einem fl&#252;ssigen Teig verr&#252;hren. 50 g Butter zerlassen und zuf&#252;gen. Etwa 30 Min. quellen lassen.
+In der Zwischenzeit den Mangold putzen, waschen und die Stiele abschneiden. Die Bl&#228;tter evtl. halbieren und in kochendem Salzwasser 2 - 3 Min. blanchieren. Abtropfen lassen und die Blattrippen flach abschneiden.
+Die Pilze putzen und vierteln. In einem EL Butter anbraten. Creme fra&#238;che zuf&#252;gen und mit Salz, Pfeffer und gehackter Petersilie w&#252;rzen.
+Aus dem Teig in der restlichen Butter 6 d&#252;nne Pfannkuchen ausbacken. Mit je 2 Mangoldbl&#228;ttern und 2 Scheiben Schinken, etwas K&#228;se und 2 EL Pilzen belegen. Aufrollen und in eine feuerfeste Form legen.
+Die Tomaten h&#228;uten und fein w&#252;rfeln. Mit dem restlichen K&#228;se &#252;ber die Pfannkuchen streuen. Im vorgeheizten Backofen bei 200&#176;C ca. 15 Min. &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

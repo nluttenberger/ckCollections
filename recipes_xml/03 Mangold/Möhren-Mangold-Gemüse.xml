@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3068051459337231">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-886d4672-e2f0-4df5-b8c8-b16d2bf09552">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Möhren-Mangold-Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>M&#246;hren-Mangold-Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1,2 kg</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Bundmöhren, kleine</fr:igdtName>
+        <fr:igdtName ref="karotte">Bundm&#246;hren, kleine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
@@ -31,22 +31,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter, junge</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter, junge</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, bunt, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, bunt, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die M&#246;hren sch&#228;len, dabei etwas Gr&#252;n stehen lassen, absp&#252;len und l&#228;ngs halbieren.
+In einem Topf die Butter schmelzen und die M&#246;hren darin unter Schwenken etwa 10 Minuten d&#252;nsten. Von der Orange die Schale d&#252;nn abraspeln, dann die Orange halbieren und auspressen. Die M&#246;hren mit dem Orangensaft abl&#246;schen und mit den Orangenschalenraspeln, etwas Salz und Honig abschmecken. Die Mangoldbl&#228;tter verlesen, waschen, trocken schleudern und zu den M&#246;hren geben.
+Alles auf einer gro&#223;en Platte anrichten und mit einigen Umdrehungen buntem Pfeffer aus der M&#252;hle bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

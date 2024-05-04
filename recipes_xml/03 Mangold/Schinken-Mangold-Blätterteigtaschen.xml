@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2037871330119987">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4fbcbda6-e70b-47b5-bd55-06646f0461f0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Schinken-Mangold-Blätterteigtaschen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Schinken-Mangold-Bl&#228;tterteigtaschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, TK oder frisch</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK oder frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, geriebener, (Gouda)</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, geriebener, (Gouda)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -69,12 +69,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Dieses Rezept ist aus Ermangelung der passenden Zutaten aus dem Rezept "Brasilianischen Empanadas" von User byzanth entstanden.
+Den Bl&#228;tterteig ausbreiten. Die Zwiebel in W&#252;rfel schneiden und in der Butter bei mittlerer Hitze in einer beschichteten Pfanne glasig d&#252;nsten. Den Schinkenspeck in ca. 0,5 cm gro&#223;e W&#252;rfel schneiden. Davon nur den Speckteil zugeben, der Schinken kommt sp&#228;ter dazu, da er sonst hart wird.
+Den Backofen auf 200 Grad Umluft oder 220 Grad Ober-/Unterhitze vorheizen. Die Champignons in ebenfalls kleine (ca. 0,5 cm) W&#252;rfel schneiden und zugeben. Die Mangoldstiele in 0,5 cm breite Streifen schneiden und mitd&#252;nsten. Das Oliven&#246;l zugeben. Alles ca. 5 Min. d&#252;nsten. In der Zwischenzeit den Kochschinken in ebenfalls kleine W&#252;rfel schneiden, die Mangoldbl&#228;tter in feine Streifen schneiden. Die Weintrauben halbieren. Alles zusammen mit den restlichen Schinkenspeckw&#252;rfeln in die Pfanne geben. Die Gew&#252;rze zugeben und mit Salz und Pfeffer kr&#228;ftig abschmecken. Kurz durchr&#252;hren und Hitze ausstellen.
+Den Bl&#228;tterteig in ca. 10 x 15 cm gro&#223;e Rechtecke schneiden. Jeweils auf einem St&#252;ck die R&#228;nder mit Wasser bepinseln, einen reichlichen Essl&#246;ffel F&#252;llung und etwas K&#228;se in die Mitte geben, umklappen und die R&#228;nder mit einer Gabel festdr&#252;cken. Mit dem Eigelb bepinseln und f&#252;r ca. 20 Min. in den Ofen geben. Falls die Teilchen zu dunkel werden, mit Alufolie abdecken. Die Gr&#246;&#223;e und Form der Taschen kann nat&#252;rlich variiert werden.
+Anmerkung:
+Als Fingerfood f&#252;r die Party lieber kleinere St&#252;cke fertigen. Schmecken auch kalt gut.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2951781447437039">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f8239438-c0b5-4135-8b89-d39fedf3a81b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Chicken-Gnocchi Soup</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hähnchen, ca. 1300 g</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#228;hnchen, ca. 1300 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="suppengemüse">Suppengemüse</fr:igdtName>
+        <fr:igdtName ref="suppengem&#252;se">Suppengem&#252;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName ref="piment">Pimentkörner</fr:igdtName>
+        <fr:igdtName ref="piment">Pimentk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -38,8 +38,8 @@
         <fr:igdtName ref="">Wasser, ca.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 große</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Stange/n</fr:igdtQuantity>
@@ -50,7 +50,7 @@
         <fr:igdtName ref="mangold">Mangold, ca.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -59,10 +59,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -71,7 +71,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -85,12 +85,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Br&#252;he das H&#228;hnchen waschen, das Suppengem&#252;se putzen und in St&#252;cke schneiden und alles zusammen mit den restlichen Zutaten in einem ausreichend gro&#223;en Topf ca. 45 - 60 Minuten kochen, bis das H&#228;hnchen gar ist.
+Das H&#228;hnchen aus der Br&#252;he nehmen, etwas abk&#252;hlen lassen, die Haut entfernen und das Fleisch von den Knochen l&#246;sen. Das H&#228;hnchenfleisch in mundgerechte St&#252;cke schneiden.
+W&#228;hrend das H&#228;hnchen kocht, das Gem&#252;se vorbereiten. Die Zwiebel pellen und w&#252;rfeln, den Knoblauch h&#228;uten und in feine Scheibchen schneiden oder hacken.
+Die M&#246;hren und den Bleichsellerie putzen und hacken. Das geht am besten in der K&#252;chenmaschine.
+Den Mangold waschen, putzen und die Stiele w&#252;rfeln. Die Bl&#228;tter in feine Streifen schneiden.
+In einem gro&#223;en Topf das &#214;l erhitzen und unter R&#252;hren die Zwiebelw&#252;rfel hell anschwitzen, den Knoblauch dazugeben und kurz mitd&#252;nsten. M&#246;hren, Mangoldstiele und Bleichsellerie zuf&#252;gen und ca. 8 Minuten d&#252;nsten, dabei gelegentlich umr&#252;hren.
+Die H&#252;hnerbr&#252;he durch ein Sieb zum Gem&#252;se geben und mit den Gew&#252;rzen aufkochen. Die Gnocchi und das Fleisch dazugeben und k&#246;cheln lassen, bis die Gnocchi gar sind, d. h. an die Oberfl&#228;che kommen.
+Die Kondensmilch unterr&#252;hren, noch einmal kurz aufkochen, von der Herdplatte nehmen und zugedeckt 10 Minuten ziehen lassen. Mit Salz und Pfeffer abschmecken und hei&#223; servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

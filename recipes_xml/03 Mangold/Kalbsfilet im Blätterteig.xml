@@ -1,0 +1,86 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-74b53707-0fe1-4d2a-8fe1-9d90be5e2219">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Kalbsfilet im Bl&#228;tterteig</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>800 g</fr:igdtQuantity>
+        <fr:igdtName ref="kalbfleisch">Kalbsfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Kopf</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, die Bl&#228;tter davon</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK oder aus dem K&#252;hlregal</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="steinpilz">Steinpilze, getrocknete, fein gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne, geschlagene</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n), fein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="lauch">Porree, fein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="knollensellerie">Sellerie, fein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eigelb</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Fleisch salzen und pfeffern. Das &#214;l in einer Pfanne erhitzen und das Fleisch darin rundherum anbraten. Herausnehmen und zum Abk&#252;hlen beiseite legen.
+F&#252;r die Farce die H&#228;hnchenbrust klein w&#252;rfeln und 5 Minuten ins Eisfach legen. Inzwischen die Mangoldbl&#228;tter in kochendem Salzwasser blanchieren, herausheben und auf K&#252;chenpapier abtropfen lassen. Den Bl&#228;tterteig zum Auftauen nebeneinander ausbreiten.
+Die H&#228;hnchenbrust mit 2 Eisw&#252;rfeln in der fl&#252;ssigen Sahne p&#252;rieren (Schneidstab). Das Steinpilzmehl unterziehen. Das P&#252;ree salzen und pfeffern und in einer Sch&#252;ssel mit der geschlagenen Sahne mischen. Das fein gew&#252;rfelte Gem&#252;se (M&#246;hren, Porree und Sellerie) unterarbeiten.
+Den Bl&#228;tterteig auf der bemehlten Arbeitsfl&#228;che so breit ausrollen, dass man das Filet sp&#228;ter darin einwickeln kann. Die abgetropften Mangoldbl&#228;tter darauf legen und &#189; cm dick mit der Farce bestreichen. Das Filet darauf legen. Die Teigr&#228;nder mit verquirltem Eigelb bestreichen, den Teig &#252;ber das Filet schlagen und die Seiten gut andr&#252;cken. &#220;berstehenden Teig abschneiden und mit dem Pl&#228;tzchenausstecher Ornamente daraus ausstechen. Das Teigpaket mit verquirltem Eigelb bestreichen und die Ornamente darauf festkleben.
+Das Backblech mit Backpapier auslegen. Das Teigpaket darauf setzen und im vorgeheizten Backofen auf der 2. Einschubleiste von unten bei 220 Grad 30 Minuten backen (Gas 3-4, Umluft 15-20 Minuten bei 200 Grad), dabei eventuell in den letzten 5 Minuten mit Alufolie abdecken.
+Das Filet aus dem Backofen nehmen, 10 Minuten ruhen lassen, dann mit einem scharfen S&#228;gemesser in Scheiben schneiden und servieren.
+Dazu passt Mangoldgem&#252;se (s. mein Rezept in der Datenbank).</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2843841436436355">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-adc32ae5-3560-4216-8cc3-abe132d59f69">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Aufgespießte Steakrollen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Aufgespie&#223;te Steakrollen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
         <fr:igdtName ref="wein">Schweineschnitzel (Karreeschnitzel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Kräuterfrischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Kr&#228;uterfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
@@ -26,8 +26,8 @@
         <fr:igdtName ref="mangold">Mangold, frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
@@ -42,11 +42,11 @@
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kleine</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -66,19 +66,25 @@
         <fr:igdtName ref="paprikapulver">Paprikapulver, scharf, oder Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Wasser mit dem Essig mischen und Zucker und Salz einr&#252;hren. Die Zwiebel klein schneiden und den Basilikum fein hacken und zum Essig geben. Die Knoblauchzehen zerdr&#252;cken und mit dem K&#228;se gut in die Essigmischung r&#252;hren. Zum Schluss mit etwas scharfem Paprika- oder Chilipulver abschmecken.
+Die Vinaigrette kann gerne schon am Vortag zubereitet werden; dann &#252;ber Nacht einfach zugedeckt im K&#252;hlschrank aufbewahren. F&#252;r eine Kurzversion der Vinaigrette kann fertiges Basilikumpesto mit etwas Balsamico und Wasser verr&#252;hrt werden.
+Das Fleisch flach klopfen und leicht mit Salz und Pfeffer w&#252;rzen. Die getrockneten Tomaten - ich nehme immer die im Aromabeutel - in feine Streifen schneiden und den gut gewaschenen, abgetropften Mangold grob hacken.
+Die Schnitzel auf ein St&#252;ck Folie legen, die obere Seite mit Kr&#228;uterfrischk&#228;se bestreichen, den Mangold darauf verteilen und dann die Tomatenstreifen dr&#252;berstreuen.
+Nun das Fleisch mit Hilfe der Folie eng aufrollen. Alle 1 &#189; cm einen kleinen Spie&#223; wie z. B. Zahnstocher durch die Rolle stechen und dann zwischen den Spie&#223;en durchschneiden, damit aufgespie&#223;te Rollen entstehen.
+Man kann auch normale, gro&#223;e Spie&#223;e verwenden und mehr als ein St&#252;ck Fleisch aufstecken, sofern man eine gro&#223;e Pfanne besitzt, in der man diese braten kann.
+Etwas &#214;l in eine Pfanne geben, erhitzen und das Fleisch auf beiden Seiten scharf anbraten. Auf ein Backblech legen und die Vinaigrette darauf verteilen. Mit Alufolie bedecken und bis 20 Minuten vor dem Servieren ziehen lassen. Dann die Folie entfernen und ins auf 100 Grad vorgeheizte Rohr schieben. Nach 10 Minuten wenden, die zweite Seite ebenfalls mit Vinaigrette bestreichen und weitere 10 Minuten im Rohr lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

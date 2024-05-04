@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2106691339781356">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e758da35-857f-49d8-a20d-7cba445820eb">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kaninchenpastete</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, kalte, klein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, kalte, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="kaninchen">Leber(n) (Kaninchen-), in kleine Stücke geschnitten</fr:igdtName>
+        <fr:igdtName ref="kaninchen">Leber(n) (Kaninchen-), in kleine St&#252;cke geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="rosmarin">Rosmarin, so klein wie möglich zu Staub geschnitten</fr:igdtName>
+        <fr:igdtName ref="rosmarin">Rosmarin, so klein wie m&#246;glich zu Staub geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -71,39 +71,39 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olive">Oliven, schwarze, entsteint, in kleine Würfel geschnitten</fr:igdtName>
+        <fr:igdtName ref="olive">Oliven, schwarze, entsteint, in kleine W&#252;rfel geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="kaninchen">Filet(s) vom Kaninchenrücken, ohne Haut und Knochen</fr:igdtName>
+        <fr:igdtName ref="kaninchen">Filet(s) vom Kaninchenr&#252;cken, ohne Haut und Knochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="weinbrand">Cognac</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, ohne Stiele, kurz blanchiert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="knochen">Knochen der Keulen und des Rückens</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="knochen">Knochen der Keulen und des R&#252;ckens</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
-        <fr:igdtName ref="suppengemüse">Suppengrün</fr:igdtName>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="suppengem&#252;se">Suppengr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
@@ -123,18 +123,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="weißweinessig">Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus den Zutaten f&#252;r den Teig am besten mit einer K&#252;chenmaschine einen solchen kneten. Das funktioniert auch mit den H&#228;nden, ist aber wegen der kalten Butter etwas m&#252;hsam. Den Teig dann k&#252;hl stellen.
+F&#252;r die Farce das Fleisch der Keulen ausl&#246;sen, alle Sehnen, H&#228;ute und Knorpel entfernen und das Fleisch in W&#252;rfel schneiden, stark k&#252;hlen, nicht anfrieren. Danach Zitronenabrieb, Leber, Rosmarin, Knoblauch und Sahne untermischen und portionsweise im kalten Cutter p&#252;rieren, dann die Masse durch ein Sieb in eine stark gek&#252;hlte Aluminiumform streichen. Nun kr&#228;ftig mit Portwein, Salz und Pfeffer abschmecken, mit der Cr&#232;me fra&#238;che geschmeidig r&#252;hren und die Pistazien und Olivenw&#252;rfel darin gleichm&#228;&#223;ig verteilen. Wer ganz sicher sein will, sticht mit einem kleinen L&#246;ffel eine Nocke ab und gart sie in kochendem Salzwasser 2 Minuten, um den Geschmack zu pr&#252;fen. Eventuell nachw&#252;rzen.
+F&#252;r die Einlage die R&#252;ckenfilets ganz kurz, nur 1 Minute, sehr hei&#223; in Oliven&#246;l rundum anbraten, salzen, pfeffern und mit dem Cognac abl&#246;schen, abk&#252;hlen lassen.
+Je 2 Mangoldbl&#228;tter leicht &#252;berlappend auslegen und je ein R&#252;ckenfilet darin einrollen, so dass beide P&#228;ckchen hintereinander gelegt etwa die L&#228;nge der Terrinenform ergeben. Bei Bedarf etwas von der Einlage k&#252;rzen und anderweitig verwerten. L&#228;nger als die beiden R&#252;cken sollte die Form dann auch nicht sein.
+Nun den Teig rechteckig ca. 4 mm dick ausrollen. Mit Hilfe der Terrinenform die Ma&#223;e auf dem Teig markieren. F&#252;r die Bodenplatte auch die H&#246;he der schmaleren Breitseiten mitberechnen.
+Diese Bodenteigplatte zuerst einlegen und dann an beiden Breitseiten hochziehen, danach die beiden gleichlangen L&#228;ngsseiten einsetzen und alles gut andr&#252;cken, damit kein Hohlraum entsteht.
+Jetzt f&#252;llt man fast die H&#228;lfte der Farce ein, dabei mit dem L&#246;ffelr&#252;cken diese gut &#252;berall andr&#252;cken. Man kann die Form auf einem nassen Tuch mehrfach in kurzen, festen St&#246;&#223;en aufschlagen, damit sich Luftl&#246;cher besser schlie&#223;en. In die Mitte legt man nun die umwickelten R&#252;ckenfilets und gibt den Rest der Farce dar&#252;ber. Nun wird die Form noch einige Male auf das nasse Tuch gesto&#223;en und mit einer weiteren Teigplatte oben abgedeckt. Diese kann man nach Belieben verzieren. Mit einem kleinen runden Ausstecher werden 2 &#214;ffnungen, die Kamine, in den Deckel gestochen. Dort hinein steckt man aus Alufolie geformte Kamine. Den Rest des Deckels bepinselt man mit dem Eigelb.
+Nun wird die Pastete bei 220 Grad 15 Minuten gebacken, dann noch einmal mit Eigelb eingepinselt und weitere 25 Minuten bei 180 Grad fertig gegart.
+F&#252;r den Aspik einen Fond kochen. Daf&#252;r die Knochen und das Suppengr&#252;n in &#214;l anbraten, mit Portwein abl&#246;schen, Wasser auff&#252;llen, Rosmarin zugeben und 2 Stunden k&#246;cheln lassen, passieren, Fett absch&#246;pfen. Gelatine 10 Minuten in Wasser einweichen und mit dem Essig im Fond aufl&#246;sen, etwas salzen, abk&#252;hlen lassen.
+Pastete aus dem Ofen nehmen, evtl. mit einem Fleischthermometer durch einen der Kamine die Kerntemperatur messen, die etwa 68 Grad betragen sollte.
+Die Pastete abk&#252;hlen lassen, mit Hilfe eines Messers aus der Form entfernen und durch die Kamine den kalten, aber noch fl&#252;ssigen Aspik einf&#252;llen und somit verschlie&#223;en.
+Nun alles &#252;ber Nacht gut durchk&#252;hlen.
+Zum Servieren in 1-2 cm dicke Scheiben schneiden und mit Feldsalat oder auch einem Chutney servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

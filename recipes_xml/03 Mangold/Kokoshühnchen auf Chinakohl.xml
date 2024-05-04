@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1068971212473092">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7df452e2-c070-468b-9285-ee3e705e4e98">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kokoshühnchen auf Chinakohl</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Kokosh&#252;hnchen auf Chinakohl</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
         <fr:igdtName ref="chinakohl">Chinakohl (oder gleiche Menge Pak Choi bzw. Mangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
@@ -34,12 +34,12 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ingwer">Ingwer, ca. 20 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -50,31 +50,31 @@
         <fr:igdtName ref="austernsauce">Austernsauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="sojasauce">Sojasauce, helle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="sesamöl">Öl (Sesamöl, aus gerösteter Saat)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sesam&#246;l">&#214;l (Sesam&#246;l, aus ger&#246;steter Saat)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="piment">Piment, gemahlener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Gewürzmischung (Chinagewürz)</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Chinagew&#252;rz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -82,28 +82,28 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="kokosraspel">Kokosraspel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="sonnenblumenöl">Öl (Sonnenblumenöl oder Sojaöl) zum Ausbacken</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l (Sonnenblumen&#246;l oder Soja&#246;l) zum Ausbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -113,12 +113,21 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die H&#228;hnchenbrustfilets in mundgerechte St&#252;cke schneiden. Mit 1 EL Sojasauce und Pfeffer gut mischen und etwa 30-45 Min. marinieren.
+Die gesch&#228;lte Zwiebel l&#228;ngs halbieren und in feine Scheiben schneiden. Den Staudensellerie waschen und in 0,5 cm dicke Scheiben schneiden. Den Knoblauch und den Ingwer sch&#228;len und fein w&#252;rfeln. Die M&#246;hre sch&#228;len und in etwa 5 cm lange und 0,5 cm breite Stifte schneiden. Die gewaschenen Fr&#252;hlingszwiebeln in feine Ringe schneiden. Vom Chinakohl den Wurzelansatz entfernen und den Rest in etwa 1,5 &#8211; 2 cm breite Scheiben schneiden. Die Chilischote entkernen und halbieren.
+F&#252;r die Kokospanade die H&#228;hnchenbrustst&#252;cke nacheinander in Mehl (ich verwende Maismehl), verschlagenem Ei und Kokosraspeln (nach Geschmack auch mit Gew&#252;rzen nach Wahl vermischt) panieren.
+Reichlich &#214;l in einer Pfanne erhitzen. Wenn es die richtige Temperatur hat (L&#246;ffelprobe: Steigen an einem ins &#214;l getauchten Holzl&#246;ffelstiel spontan reichlich Blasen auf, ist die Temperatur richtig), die H&#252;hnerteile darin goldbraun ausbacken (etwa 3-4 Minuten pro Seite). Auf K&#252;chenkrepp abtropfen lassen, salzen und warm stellen.
+In einen Wok (oder eine Pfanne) nun 3 EL &#214;l und 1 EL Sesam&#246;l geben und stark erhitzen. Beginnt das &#214;l leicht zu rauchen, die Zwiebel, den Knoblauch, die Chilischote, Ingwer und die M&#246;hrenstreifen zugeben und etwa 3-4 Minuten pfannenr&#252;hren. Dann den Sellerie zugeben und weitere gute 2 Minuten braten. Den Chinakohl zugeben und ebenfalls etwa 3 Minuten pfannenr&#252;hren.
+Mit der H&#252;hnerbr&#252;he abl&#246;schen. Die Austernsauce (kann auch durch thail&#228;ndische Fischsauce ersetzt oder weggelassen werden) zuf&#252;gen und mit Salz, Pfeffer, 1 Prise Zucker, Piment, Chinagew&#252;rz und Kurkuma w&#252;rzen. Etwa 4-5 Minuten d&#252;nsten, dabei &#246;fter umr&#252;hren. Wer es nicht so scharf mag, fischt nun die Chilischote heraus.
+Nun die Fr&#252;hlingszwiebeln zugeben, etwa 2 Minuten mitd&#252;nsten und dann das Gem&#252;se mit in etwas kaltem Wasser anger&#252;hrter Speisest&#228;rke binden.
+Mit Salz, Pfeffer und Sojasauce abschmecken. Noch 2-3 EL Sesam&#246;l unterr&#252;hren, dann auf Tellern verteilen und mit den Gefl&#252;gelst&#252;cken servieren.
+Dazu passt Reis.
+Tipps: Anstelle des Chinakohls l&#228;sst sich hier auch sehr gut Pak Choi oder Mangold verwenden. Dazu Stiele und Bl&#228;tter voneinander trennen, die Stiele in St&#252;cke schneiden und wie oben beschrieben wie Chinakohl verwenden. Die Bl&#228;tter in Streifen schneiden und mit den Fr&#252;hlingszwiebeln zugeben. Das Gem&#252;se kann auch mit etwas Essig oder Zitronensaft und Zucker oder Honig s&#252;&#223;-sauer abgeschmeckt werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

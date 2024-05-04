@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1173051223454238">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c961c6ad-7aa0-4d26-a159-e10f78b8904d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Brennnessel-Quiche mit Paprikastreifen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Teig, Hefeteig oder Blätterteig aus Kühlfach oder TK</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Teig, Hefeteig oder Bl&#228;tterteig aus K&#252;hlfach oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="milch">Käse, weißer in Salzlake (Feta aus Kuhmilch)</fr:igdtName>
+        <fr:igdtName ref="milch">K&#228;se, wei&#223;er in Salzlake (Feta aus Kuhmilch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
@@ -31,11 +31,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne, (ca. 200 ml) pro Becher</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne, (ca. 200 ml) pro Becher</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n), sehr große</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), sehr gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
@@ -43,11 +43,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprika, in Streifen süß/sauer eingelegt (165 g Trockenmasse)</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprika, in Streifen s&#252;&#223;/sauer eingelegt (165 g Trockenmasse)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -58,11 +58,11 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="käse">Käse, (Streukäse aus Hartkäse)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="k&#228;se">K&#228;se, (Streuk&#228;se aus Hartk&#228;se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="brennnessel">Majoran, Brennnesselsamen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -70,19 +70,30 @@
         <fr:igdtName ref="paprikamark">Paprikamark, sehr scharf, ungarisches aus der Tube</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gewürzmischung, (türkische Paprikamischung)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung, (t&#252;rkische Paprikamischung)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Bl&#228;tterteig aus der K&#252;hltheke 25x48 cm oder Hefeteig auf einem Blech ausrollen und einen kleinen Rand hochziehen.
+Wer will, kann aber seinen Teig auch selber herstellen.
+Auf den Teig gibt man dann ital. Tomatenmark aus der Dose, das Paprikamark, ca. 3 cm lange Streifen, und das ungarische scharfe Paprikanmark, ca. 2 cm lane Streifen, und verr&#252;hrt es in einem Sch&#252;sselchen.
+Dazu werden die Knoblauchzehe, welche zerquetscht wurden, mit unterger&#252;hrt und das Ganze mit ein wenig Saft aus dem Paprikaglas dazu gesch&#252;ttet, so dass die Masse sch&#246;n streichf&#228;hig wird und auf dem Teig aufgestrichen wird.
+Jetzt werden der Mangold und die Brennnesseln gewaschen, blanchiert in Salzwasser und sofort wieder raus genommen und kalt abgeschreckt, danach abtropfen lassen.
+Die Stiele des Mangolds habe ich vorher abgeschnitten, klein geschnitten und weich gekocht.
+Dann werden der Mangold und die Brennnesseln grob zerkleinert und mit den gekochten Stielen auf dem Teig verteilt.
+Die Kartoffel wird gesch&#228;lt und geviertelt und dann mit einem Gurkenhobel ganz d&#252;nn gehobelt und unter das Gem&#252;se gemischt.
+Der Fetak&#228;se wird in kleine W&#252;rfel geschnitten und ebenfalls verteilt. Die Salzlake habe ich &#252;ber alles gesch&#252;ttet.
+Zum Schluss verteilt man noch die Paprikastreifen &#252;ber das Ganze und die saure Sahne mit den 5 aufgeschlagenen Eiern, welche kr&#228;ftig mit Salz, Pfeffer, Majoran, wer will kann auch Oregano nehmen, der ist milder vom Geschmack her, die gew&#252;rzt wurde wird dann &#252;ber allem verteilt. Dar&#252;ber habe ich noch einmal kr&#228;ftig mit Brennnesselsamen gew&#252;rzt, der ger&#246;stet ist und nicht so viel von einer scharfen t&#252;rkischen Paprika-Gew&#252;rzmischung dar&#252;ber gestreut.
+Wer will, kann auch noch gerieben Hartk&#228;se dar&#252;ber streuen, oder fertigen Streuk&#228;se, egal welche Sorte. Ich habe auf den Streuk&#228;se verzichtet.
+Dann wird alles  f&#252;r ca. 30 min. bei 200&#176;C im Ofen gebacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1568031264320713">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-abb9d58e-8f11-46bd-a594-9796c995a32b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ente mit Pak Choy aus dem Wok</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="zitronengras">Zitronengras, frisches, fein gehackt</fr:igdtName>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="limette">Limettenschale, abgeriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="paprikapulver">Paprikapulver, scharf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Maisstärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Maisst&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnussöl">Öl, (Erdnussöl)</fr:igdtName>
+        <fr:igdtName ref="erdnuss&#246;l">&#214;l, (Erdnuss&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
@@ -51,22 +51,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 ml</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilisauce, süße</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilisauce, s&#252;&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="pak_choi">Pak Choi, geputzt, die Blätter abgezupft (alternativ: Mangold)</fr:igdtName>
+        <fr:igdtName ref="pak_choi">Pak Choi, geputzt, die Bl&#228;tter abgezupft (alternativ: Mangold)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mit Hilfe eines M&#246;rsers aus Zitronengras, Minze, Knoblauch, Limettenschale und Paprika eine Paste herstellen. Mit Maisst&#228;rke und 1 EL &#214;l verr&#252;hren, das Entenfleisch mit der Paste vermischen und mindestens 3 Stunden im K&#252;hlschrank ziehen lassen.
+1 EL &#214;l im Wok erhitzen und das Fleisch portionsweise anbraten, herausnehmen und beiseite stellen. Pak Choy und Sprossen in den Wok geben und pfannenr&#252;hren, bis der Pak Choy zusammengefallen ist.
+Entenfleisch und Chilisauce dazugeben und alles gut durchmischen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

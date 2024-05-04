@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1662311274344931">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6113b760-605e-40f2-bcc3-06241206872a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Zitronen-Mangold-Zimt-Hähnchen mit Zitronenspaghetti</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Zitronen-Mangold-Zimt-H&#228;hnchen mit Zitronenspaghetti</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hähnchen</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#228;hnchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="nudeln">Spaghetti</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,23 +34,28 @@
         <fr:igdtName ref="zitrone">Zitrone(n), unbehandelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl oder anderes Öl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l oder anderes &#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das H&#228;hnchen aus der Packung nehmen und gut waschen. Die einzelnen Mangoldbl&#228;tter abtrennen und die Stiele abschneiden, aber nicht wegwerfen! Die Zimtstangen in kleinere St&#252;cke zerbrechen.
+Das H&#228;hnchen nach dem Waschen mit &#214;l, Salz und Pfeffer gut reinreiben. Die Zitrone sch&#228;len und in Scheiben schneiden und mit den Zimtstangen und den Mangoldstielen in das H&#228;hnchen stopfen. Achtung! Die Zitronenschale nicht wegwerfen, wird noch gebraucht. Das H&#228;hnchen in eine mit etwas &#214;l ausgeriebene hitzebest&#228;ndige Keramikform geben. Die Zitronenschale um das Huhn in der Form verteilen. Das Ganze f&#252;r ca. 45 Minuten bei 190 &#8211; 220&#176;C (Ober-/Unterhitze) in den Ofen.
+W&#228;hrenddessen die Nudeln im Topf mit einer Prise Salz auf mittlerer Hitze kochen. Die Nudeln sollten nur knapp mit Wasser bedeckt sein und der Topfdeckel drauf, dann geht es schneller!
+Nach 20 Minuten Bratzeit die Backform kurz vorsichtig aus dem Ofen nehmen und den Sud vom Huhn zu den Nudeln ins Kochwasser gie&#223;en. Es duftet jetzt kr&#228;ftig nach Zimt und Zitrone aus dem Backofen. Das muss man mal geschnuppert haben! Das Huhn danach weiter im Ofen garen und die Nudeln im Sud auf niedriger Hitze k&#246;cheln lassen.
+Nach ca. 25 Minuten (je nach Huhn auch etwas l&#228;nger) die Ofenform herausnehmen. Die Mangoldstiele sehen jetzt schwarz aus und die Zimtstangen k&#246;nnen ein bisschen angekokelt sein, aber das macht &#252;berhaupt nichts! Genau so soll es sein.
+Mit einer Zange das Fleisch vom Huhn abziehen oder einem scharfen Messer Teile vom Huhn abschneiden und zusammen mit den Mangoldstielen und den Nudeln servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

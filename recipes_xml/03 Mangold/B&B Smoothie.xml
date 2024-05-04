@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2573711403108938">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-219dcb9c-b746-47b5-8441-a01f43506d4c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>B&amp;B Smoothie</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Becher</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold oder Vogelmiere</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Becher</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; Becher</fr:igdtQuantity>
         <fr:igdtName ref="mandelmilch">Mandelmilch (Mandeldrink), Sojamilch oder Kuhmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,22 +31,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="birne">Birne(n), reif und süß</fr:igdtName>
+        <fr:igdtName ref="birne">Birne(n), reif und s&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="mandelmus">Mandelmus oder Cashewbutter oder Erdnussbutter</fr:igdtName>
+        <fr:igdtName ref="erdnussbutter">Mandelmus oder Cashewbutter oder Erdnussbutter</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Vogelmiere bzw. Mangold waschen und kleinschneiden und dann mit einem 250 ml Kaffeebecher als Volumenma&#223; mit anderthalb Bechern Mandelmilch (je nach Geschmack auch Soja-, Hafer-, oder Kuhmilch) im Mixer zerkleinern, bis eine gr&#252;ne So&#223;e entsteht. Dann die Fr&#252;chte und die gekochte (und gesch&#228;lte) Rote Bete dazu. Die Blaubeeren sind beliebig gegen andere Beeren wie Himbeeren austauschbar. Mindestens eine der Fr&#252;chte sollte gefroren sein, damit der Smoothie sch&#246;n k&#252;hl wird. Den Smoothie glatt mixen.
+Zuletzt noch die 2 EL Nussbutter dazu, auch wieder je nach Geschmack Cashew-, Mandel- oder Erdnussbutter. Die sind wichtig, damit der K&#246;rper die fettl&#246;slichen Vitamine aufnehmen kann. Ansonsten einen halben TL gutes &#214;l unterr&#252;hren.
+Dies ist kein Smoothie f&#252;r Anf&#228;nger, aber ein Geschenk an euren K&#246;rper und ein ganz toller Radikalf&#228;nger mit vielen Vitaminen und Mineralien.
+Der Smoothie h&#228;lt sich bis zu drei Tage im K&#252;hlschrank und l&#228;sst sich nat&#252;rlich auch einfrieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

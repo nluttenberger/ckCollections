@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2168981348039635">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8d32b881-d462-46b5-8eb4-fe2eff55f095">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Riesengarnelen mit Mangold-Sahne Tagliatelle</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Tagliatelle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,43 +30,47 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="knoblauch">Öl (Knoblauchöl)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="knoblauch">&#214;l (Knoblauch&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="fischfond">Fischfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="schmelzkäse">Schmelzkäse</fr:igdtName>
+        <fr:igdtName ref="schmelzk&#228;se">Schmelzk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chili</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chili</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Stiele vom Mangold entfernen und in feine Streifen schneiden. Die Zwiebeln sch&#228;len, fein schneiden und mit den Mangoldstielen im &#214;l anschwitzen.
+Die Garnelen s&#228;ubern und mit Pfeffer und Chili w&#252;rzen. Die Mangoldbl&#228;tter auch in feine Streifen schneiden und zum angeschwitzten Zwiebel-Mangold-Gemisch geben. Kurz anschwitzen und dann mit dem Wei&#223;wein abl&#246;schen. Die Sahne und den Schmelzk&#228;se zugeben.
+Alles sch&#246;n pikant abschmecken und zum Schluss den Fischfond zugeben. Der Fischfond kann auch weggelassen werden. Evtl. daf&#252;r etwas Br&#252;he zugeben.
+Die Nudeln wie gewohnt im Salzwasser kochen und die Garnelen anbraten. Alles sch&#246;n anrichten und servieren.
+Wer Garnelen nicht mag, serviert einfach Schweinefilet im Speckmantel zum Mangold, das schmeckt auch sehr lecker!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

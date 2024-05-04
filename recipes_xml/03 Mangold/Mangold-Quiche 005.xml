@@ -1,0 +1,96 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8ba12dda-cf39-4ae1-ba7e-109152f04fad">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Quiche 005</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>90 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, zimmerwarme</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>180 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>800 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="saure_sahne">Sauerrahm</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Teig:
+Mehl mit Butter in einer Sch&#252;ssel zu einer kr&#252;meligen Masse verarbeiten, dann 3 EL Wasser und eine Prise Salz zuf&#252;gen und zu einem weichen Teig verkneten. Diesen zu einer Kugel geformt und leicht eingemehlt unter einer Sch&#252;ssel 30 Min. ruhen lassen.
+Den Backofen auf 180 &#176;C Umluft vorheizen. Eine  Springform gut einfetten.
+Mit dem Teig die Springform auslegen, den Boden mit einer Gabel mehrmals einstechen und  ca. 15 Min. vorbacken.
+F&#252;llung (in der Ruhezeit f&#252;r den Teig vorbereiten):
+Mangold in Salzwasser blanchieren, abgie&#223;en, ausdr&#252;cken und in Streifen schneiden. Knoblauchzehe fein hacken. Pinienkerne grob zerkleinern.
+In einer Pfanne 2 EL Oliven&#246;l und 1 TL Butter erhitzen, darin den Knoblauch and&#252;nsten, den Mangold zugeben und braten, bis die Fl&#252;ssigkeit verdampft ist.
+Die Pfanne vom Herd nehmen und mit dem Ricotta, dem zerkr&#252;melten Schafsk&#228;se und dem geriebenen Parmesan, dem Ei und den Pinienkernen mischen. Eventuell etwas Sauerrahm zugeben. Mit Salz abschmecken.
+Die Masse auf den vorgebackenen Boden geben und weitere 40 Min. backen. Noch warm servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

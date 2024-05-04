@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2045571331106157">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cbb89c2c-847c-45ae-8884-5e7fbf30ce73">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kürbis-Mangold-Lasagne mit Ziegenkäsebechamel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>K&#252;rbis-Mangold-Lasagne mit Ziegenk&#228;sebechamel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="nelke">Gewürznelke(n)</fr:igdtName>
+        <fr:igdtName ref="nelke">Gew&#252;rznelke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenfrischkäse">Ziegenfrischkäse</fr:igdtName>
+        <fr:igdtName ref="ziegenfrischk&#228;se">Ziegenfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>850 g</fr:igdtQuantity>
-        <fr:igdtName ref="fleisch">Kürbisfleisch (Hokkaido- oder Muskatkürbis)</fr:igdtName>
+        <fr:igdtName ref="fleisch">K&#252;rbisfleisch (Hokkaido- oder Muskatk&#252;rbis)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -74,15 +74,15 @@
         <fr:igdtName ref="salbei">Salbei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -90,19 +90,24 @@
         <fr:igdtName ref="nudeln">Lasagneplatte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter zum Einfetten der Auflaufform</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die B&#233;chamelsauce zuerst Butter in einem Topf zerlassen. Mehl zugeben und unter R&#252;hren bei milder Hitze anschwitzen, eine Weile anbraten, ohne dass das Mehl Farbe bekommt - der Mehlgeschmack geht so etwas weg. Die H&#228;lfte der Milch unter R&#252;hren mit dem Schneebesen einf&#252;llen. Nach und nach die restliche Milch zugie&#223;en und aufkochen, dabei weiter r&#252;hren. Zwiebel sch&#228;len, mit den Gew&#252;rznelken spicken und zusammen mit dem Lorbeer, Thymian, Salz und Pfeffer zur So&#223;e geben. Bei kleinster Hitze 30 Minuten ziehen lassen, ab und an umr&#252;hren. Zwiebel und Lorbeer entfernen und den Ziegenk&#228;se unterr&#252;hren. So&#223;e beiseite stellen und abk&#252;hlen lassen.
+Den K&#252;rbis waschen und  in 5 mm dicke Scheiben schneiden. Die Scheiben mit dem angedr&#252;ckten Knoblauch und den Rosmarinzweigen auf ein Backblech geben, in den obersten Einschub schieben und unter dem vorgeheiztem Backofengrill 10 Minuten bei ca. 220 &#176;C grillen. Abk&#252;hlen lassen.
+Den Mangold waschen. Die Mangoldstiele sehr fein hacken, den restlichen Mangold klein schneiden. Zuerst die Stiele, dann den restlichen Mangold in etwas Oliven&#246;l leicht and&#252;nsten, dabei salzen und etwas Muskat dazu reiben. Abk&#252;hlen lassen.
+Die Kirschtomaten vierteln. Die Salbeibl&#228;tter fein hacken.
+Eine Auflaufform d&#252;nn ausbuttern und 3mal mit Lasagnebl&#228;ttern, Bechamel, Mangold, K&#252;rbis und Tomaten f&#252;llen. Mit Lasagnebl&#228;ttern und Bechamel abschlie&#223;en. Salbei und Parmesan dar&#252;ber verteilen. Im vorgeheizten Backofen bei 180 &#176;C auf der mittleren Schiene 35 - 40 Minuten backen.
+Mit Tomatenviertel und frischen Salbeibl&#228;ttern garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

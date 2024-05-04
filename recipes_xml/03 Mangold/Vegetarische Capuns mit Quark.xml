@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4072341635853555">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-76fc5bac-68e1-47c5-b7aa-42c4eccb5dc9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vegetarische Capuns mit Quark</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -18,8 +18,8 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 dl</fr:igdtQuantity>
-        <fr:igdtName ref="">Prosecco (alternativ kohlensäurehaltiges Mineralwasser)</fr:igdtName>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sekt">Prosecco (alternativ kohlens&#228;urehaltiges Mineralwasser)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="petersilie">Petersilie, gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Petersilie, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stängel</fr:igdtQuantity>
-        <fr:igdtName ref="minze">Pfefferminze, gehackt</fr:igdtName>
+        <fr:igdtQuantity>1 St&#228;ngel</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Pfefferminze, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -39,26 +39,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>25 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold (alternativ Krautstiel, dann Anzahl je nach Größe etwas reduzieren)</fr:igdtName>
+        <fr:igdtQuantity>25 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (alternativ Krautstiel, dann Anzahl je nach Gr&#246;&#223;e etwas reduzieren)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 dl</fr:igdtQuantity>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
         <fr:igdtName ref="milch">Vollmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 dl</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>100 dl</fr:igdtQuantity>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -67,30 +67,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse, kräftiger, gerieben</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, kr&#228;ftiger, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Fett zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Zutaten f&#252;r den Teig schlagen, bis der Teig Blasen wirft. Er sollte z&#228;h vom L&#246;ffel tropfen, &#228;hnlich wie Sp&#228;tzleteig. Falls zu fl&#252;ssig, noch etwas Mehl dazugeben. Ca. 30 Min. quellen lassen
+Einen gro&#223;en Topf mit Salzwasser zum Kochen bringen, eine Sch&#252;ssel mit eiskaltem Wasser bereitstellen. Die Mangoldbl&#228;tter waschen und die Stiele abschneiden, die Stiele beiseitestellen.
+Die Bl&#228;tter portionsweise ca. jeweils 1/2 min. im kochenden Salzwasser blanchieren, dann mit einer Schaumkelle in die Sch&#252;ssel mit dem eiskalten Wasser geben und abschrecken. Auf K&#252;chenpapier auslegen und etwas abtropfen lassen.
+Jeweils einen knappen EL Teig auf ein Mangoldblatt geben, seitliche Blattr&#228;nder einschlagen und das Blatt aufrollen. Alle Rollen nebeneinander in eine Auflaufform legen, nicht stapeln.
+Milch und Gem&#252;sebr&#252;he miteinander aufkochen und dann &#252;ber die rohen Capuns gie&#223;en. Ca. 20 Min. in der Mitte des auf 200 &#176;C vorgeheizten Ofens backen, dann den geriebenen K&#228;se dar&#252;berstreuen und die Capuns in ca. 10 Min. fertig backen.
+Gem&#252;sebeilage aus den Mangoldstielen:
+Die Zwiebel hacken, die Stiele in Streifen schneiden. Etwas Bratfett in einer Pfanne erhitzen, Zwiebel anbraten und dann die Stiele dazu geben. Ca. 10 Min. d&#252;nsten, dann evtl. &#252;brig gebliebene Mangoldbl&#228;tter klein schneiden und untermischen, mit Salz, Pfeffer, Muskat und Sahne abschmecken.
+Wir sind oft im schweizerischen Kanton Graub&#252;nden unterwegs, wo dieses leckere Gericht zu Hause ist. Meistens wird dem Teig f&#252;r die F&#252;llung fein gehackte Salsiz (&#228;hnlich wie Landj&#228;ger) zugef&#252;gt. Ich als Vegetarierin freue mich immer, wenn es einmal die vegetarische Variante gibt.
+Ich w&#252;nsche gutes Gelingen und herrliche Gaumenfreuden mit den Capuns.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

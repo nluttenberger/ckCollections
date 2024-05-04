@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1685621276805873">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-dfec13e0-ccfa-4f92-8b10-aea53a09f197">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Blattgemüse mit Garnelen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Blattgem&#252;se mit Garnelen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Spinat, oder Mangold, gewaschen, entstielt, gehackt</fr:igdtName>
+        <fr:igdtName ref="mangold">Spinat, oder Mangold, gewaschen, entstielt, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse, ungesalzen, grob zerstoßen</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse, ungesalzen, grob zersto&#223;en</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 ml</fr:igdtQuantity>
-        <fr:igdtName ref="kokosmilch">Kokosmilch, ungesüsst</fr:igdtName>
+        <fr:igdtName ref="kokosmilch">Kokosmilch, unges&#252;sst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), enthäutet, entkernt und grob gehackt</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), enth&#228;utet, entkernt und grob gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -37,12 +37,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Zutaten zusammen in einem Topf vermischen, einmal aufkochen, dann k&#246;cheln, bis das Gem&#252;se gar ist.
+Variante:
+Garnelen separat zubereiten - z.B. auf dem Grill - und nur zusammen anrichten.
+Andere Fischsorten, H&#228;hnchenbrust, oder auch gegrillte Tomaten passen ebenfalls toll dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

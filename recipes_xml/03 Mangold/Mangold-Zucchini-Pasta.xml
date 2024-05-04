@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3905811595336001">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6ade5adc-ebaa-4f1e-930a-5bf592eb8441">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Zucchini-Pasta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="tofu">Tofu (Oliven-Tofu von Taifun)</fr:igdtName>
@@ -47,26 +47,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kugel</fr:igdtQuantity>
-        <fr:igdtName ref="mozzarella">Käseersatz (Mozzarella vegan)</fr:igdtName>
+        <fr:igdtName ref="mozzarella">K&#228;seersatz (Mozzarella vegan)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Käseersatz (Parmesan vegan)</fr:igdtName>
+        <fr:igdtName ref="parmesan">K&#228;seersatz (Parmesan vegan)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Pasta nach Packungsbeilage kochen und warm stellen.
+Mangold waschen und in kleine St&#252;cke schneiden. Knoblauch sch&#228;len und fein hacken. Petersilie waschen und hacken. Parmesan hobeln. Tofu w&#252;rfeln. Mozzarella w&#252;rfeln. Peperoni entkernen und in feine Streifen schneiden. Zucchini waschen und in d&#252;nne Scheiben schneiden. Zitrone waschen und die Schale abreiben sowie ausdr&#252;cken und den Saft auffangen.
+Oliven&#246;l in einer Pfanne erhitzen und die Zucchinischeiben 10 Minuten braten. Dann Mangold, Tofu, Knoblauch und Peperoni mitbraten. Zitronensaft und Abrieb zuf&#252;gen, ebenso den Mozzarella. Alles weitere 5 Minuten d&#252;nsten und umr&#252;hren.
+Die Petersilie dar&#252;ber streuen und kurz vor dem Servieren Parmesan dar&#252;ber geben.
+https://vegan-cooking-with-thalija.de/archive/1257</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,41 +1,41 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1319571236774186">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-66f8957c-489a-416b-b401-efcf03c05e2f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldlasagne mit Bröselkruste</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldlasagne mit Br&#246;selkruste</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, oder Margarine</fr:igdtName>
+        <fr:igdtName ref="pflanzenfett">Butter, oder Margarine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="crème_double">Crème double</fr:igdtName>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me double</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schmelzkäse">Schmelzkäse (Kräuter-)</fr:igdtName>
+        <fr:igdtName ref="schmelzk&#228;se">Schmelzk&#228;se (Kr&#228;uter-)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -43,30 +43,36 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse (Gouda)</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
         <fr:igdtName ref="brot">Toastbrot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, waschen und die Stiele abscheiden. Bl&#228;tter in kochendem Salzwasser 3 Minuten vorgaren und abschrecken. Zwischen K&#252;chent&#252;chern trocknen und quer in 4 cm breite Streifen schneiden. Stiele von einer Staude in L&#228;ngsstreifen schneiden.
+M&#246;hren waschen, sch&#228;len und l&#228;ngs vierteln. 10 g Butter zerlassen, M&#246;hren und Mangoldstiele darin tropfnass und zugedeckt mit etwas Salz und Zucker 8 Min. d&#252;nsten.
+Mehl in 40 g Butter anschwitzen. Unter st&#228;ndigem R&#252;hren die Milch zugie&#223;en und aufkochen, Sauce bei milder Hitze 10 Min. kochen. Creme Double unterr&#252;hren, Kr&#228;uterschmelzk&#228;se darin aufl&#246;sen, mit Salz abschmecken.
+Inzwischen Nudeln in Salzwasser 2 Min.vorgaren und abtropfen. Gouda raffeln, Brot ohne Rinde zerbr&#246;seln.
+Eine ofenfeste Form (ca. 3 l Inhalt) d&#252;nn ausfetten. Zuerst Nudeln, dann abwechselnd Mangoldbl&#228;tter, Gem&#252;se und Mangold einschichten. Auf jede Lage K&#228;se und Sauce geben.
+Lasagne im vorgeheizten Ofen auf der 2. Leiste von unten bei 200 Grad 30 Min. garen.
+Br&#246;sel in der restlichen Butter anr&#246;sten, auf die Lasagne streuen und weitere 10 Min. backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

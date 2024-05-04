@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3133591466766164">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-739042f8-6869-4b51-9cad-89a19fd16a4d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kartoffel-Mangoldgemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Kartoffel-Mangoldgem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), fest kochende</fr:igdtName>
@@ -26,7 +26,7 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
         <fr:igdtName ref="kalbsfond">Kalbsfond aus dem Glas</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,11 +34,11 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -53,12 +53,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln waschen, sch&#228;len und in 1/2 cm dicke Scheiben, die Mangoldstiele in 2 cm breite Streifen schneiden, die Schalotte sch&#228;len und fein hacken.
+Die Butter in einem Topf aufsch&#228;umen lassen und die Schalottenw&#252;rfel darin glasig anschwitzen. Kartoffeln und Mangold zuf&#252;gen und unter R&#252;hren and&#252;nsten.
+Den Kalbsfond und die Sahne zugeben und alles kr&#228;ftig mit Salz, Pfeffer und Muskat w&#252;rzen. Das Gem&#252;se aufkochen und dann etwa 10 Min. bei niedriger Temperatur k&#246;cheln lassen.
+Mehl und Milch glatt r&#252;hren, dazugeben und weitere 10 Min. im offenen Topf garen lassen. Zuletzt nochmals mit Salz, Pfeffer und ggf. Muskat abschmecken, fertig!
+Beilage zu Schweinefilet oder Rinderfilet im Mangoldmantel.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

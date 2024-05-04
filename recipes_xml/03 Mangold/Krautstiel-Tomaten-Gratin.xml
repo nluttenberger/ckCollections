@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-679281170396270">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-03f93e80-9d6a-48c7-b96c-442cad1f70c6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Krautstiel-Tomaten-Gratin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold (Krautstiel)</fr:igdtName>
@@ -26,35 +26,37 @@
         <fr:igdtName ref="tomate">Tomate(n), in Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Tasse/n</fr:igdtQuantity>
-        <fr:igdtName ref="gruyère">Käse (halb Parmesan, halb Greyerzer oder Cheddar), geriebener</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; Tasse/n</fr:igdtQuantity>
+        <fr:igdtName ref="gruy&#232;re">K&#228;se (halb Parmesan, halb Greyerzer oder Cheddar), geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Krautstiele vom Gr&#252;n trennen und klein schneiden. In einem Topf viel Wasser zum Kochen bringen und die klein geschnittenen Krautstiele (wei&#223;e Teile) ca. 15 Min. kochen. Dann die gr&#252;nen Bl&#228;tter beigeben und zusammen nochmals 10 Min. kochen lassen. In ein Sieb geben und abtropfen lassen. Ca. 1/2 Tasse der Kochbr&#252;he zur&#252;ckbehalten. Gem&#252;se etwas ausk&#252;hlen lassen. Nun alles fein schneiden, nicht zu fein hacken.
+In einer Bratpfanne das Oliven&#246;l erhitzen. Zwiebel und Knoblauch beigeben und golden braten. Krautstielgem&#252;se beigeben. Etwas Kochbr&#252;he beigeben, falls es zu trocken sein sollte. Alles zusammen weichd&#228;mpfen und nach Bedarf w&#252;rzen.
+Gem&#252;se in eine feuerfeste Form f&#252;llen. Die Tomatenscheiben darauf schuppenartig verteilen. Mit dem Reibk&#228;se bestreuen und unter dem Grill oder im Backrohr bei 225&#176;C Oberhitze so lange &#252;berbacken, bis der K&#228;se goldgelb ist. Sofort servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

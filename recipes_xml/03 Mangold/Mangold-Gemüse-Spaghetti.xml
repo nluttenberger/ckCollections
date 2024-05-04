@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2204581353399878">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-daabcd6b-e38e-4789-97b2-dd0ecb46e26e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Gemüse-Spaghetti</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Gem&#252;se-Spaghetti</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Spaghetti</fr:igdtName>
@@ -26,51 +26,53 @@
         <fr:igdtName ref="paprika">Paprikaschote(n), gelb oder rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="chilischote">Chilischote(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel in grobe St&#252;cke hacken, Tomate und Paprika in kleine St&#252;cke schneiden. Chilischote, Petersilie, Basilikum und Schnittlauch klein hacken. Mangold mit Stielen in grobe St&#252;cke schneiden.
+Wasser aufsetzen und Spaghetti sowie Mangold (Stiele und Bl&#228;tter) hineingeben. Alles bleibt solange im Topf, bis die Spaghetti al dente sind. Wasser abgie&#223;en.
+Etwas &#214;l in einer Pfanne erhitzen. Darin die Zwiebel scharf anbraten. Danach die Paprika f&#252;r ca. 1 Minute dazugeben. Dann Spaghetti, Mangold und Tomate dazugeben. Alles nochmal kurz anbraten. Dann etwas Wasser dazugie&#223;en und alles k&#246;cheln lassen. Nach ca. 5 Minuten die Kr&#228;uter dazugeben, den Herd abschalten und alles nochmal unter R&#252;hren ziehen lassen. Mit Kr&#228;utersalz, Paprikapulver und Pfeffer abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

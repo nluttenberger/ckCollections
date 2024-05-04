@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2640271414783993">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ab1f91dd-81c2-4992-a892-e6088bf5d5b0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Schafskäse Pasta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Schafsk&#228;se Pasta</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Pasta nach Wunsch, z.B. Spirelli o.ä.</fr:igdtName>
+        <fr:igdtName ref="nudeln">Pasta nach Wunsch, z.B. Spirelli o.&#228;.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse, griechischer</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se, griechischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -27,10 +27,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dicke</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsezwiebel">Gemüsezwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), gelb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="kräuterbutter">Kräuterbutter</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uterbutter">Kr&#228;uterbutter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -61,12 +61,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Als erstes wascht Ihr den Mangold und befreit ihn von den Stielen. Die Stiele nicht wegwerfen, sondern einige aufbewahren. Die Bl&#228;tter und die Nudeln in Salzwasser blanchieren bzw. kochen. In dieser Zeit schneidet Ihr die Zwiebeln und die Paprika in W&#252;rfel. Ebenso die Stiele des Mangolds hacken und schon mal den Knoblauch sch&#228;len.
+Nachdem Ihr den blanchierten Mangold abgegossen und zum Abk&#252;hlen an die Seite gestellt habt, k&#246;nnt Ihr mit dem Anbraten der Zwiebeln beginnen. Also Oliven&#246;l erhitzen und etwas Kr&#228;uter- und Knoblauchbutter hinzuf&#252;gen. Die Zwiebeln, Paprika und Mangoldstiele in dem &#214;l/Buttergemisch glasig d&#252;nsten und den Knoblauch rein pressen. Jetzt alles mit etwas Zucker karamellisieren lassen.
+Die fertigen Nudeln kommen jetzt auch mit in den Topf. Alles gut durchmischen und etwas brutzeln lassen. Der Mangold sollte jetzt soweit abgek&#252;hlt sein, um ihn hacken zu k&#246;nnen. Anschlie&#223;end wird er mit in den Topf gegeben. Das alles sieht schon lecker aus, es fehlen noch der geraspelte K&#228;se und der in W&#252;rfel geschnittene Schafsk&#228;se. Diese zum Schluss unterheben und dem Gouda etwas Zeit geben, bis er F&#228;den zieht, noch mit Salz und Pfeffer abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,84 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7f677c97-91fe-4834-8f8d-b147e4c57975">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldr&#246;llchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;, oder 8 kleine</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="sesam">Sesam</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName ref="quark">Quark (20% Fett)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>25 g</fr:igdtQuantity>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, frisch gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="haferflocken">Haferflocken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="koriander">Koriander, gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Vom Mangold mit einem Gem&#252;semesser Stiel samt den harten Blattrippen entfernen. Bl&#228;tter waschen, in kochendem Salzwasser blanchieren, kalt abschrecken, gut abtrocknen lassen und nebeneinander auf ein K&#252;chentuch auflegen.
+Sesam in einer Pfanne ohne Fett r&#246;sten, bis er zu duften beginnt. Von der Hitze nehmen, auf einen Teller leeren und etwas &#252;berk&#252;hlen lassen.
+Zwiebel sch&#228;len, fein hacken und in zerlassener Butter glasig anr&#246;sten. Von der Hitze nehmen und Quark, Ei, K&#228;se, Haferflocken und Sesam mit der Zwiebelr&#246;stung vermengen. Mit Kr&#228;utersalz, Muskat, Pfeffer und Koriander w&#252;rzen.
+Die F&#252;llung in 4 oder 8 Portionen teilen, zu R&#246;llchen formen, auf die Mangoldbl&#228;tter legen und einrollen. Die Mangoldr&#246;llchen mit der Verschlussseite nach unten in eine Auflaufform legen. Mit der Gem&#252;sebr&#252;he aufgie&#223;en und im vorgeheizten Rohr bei 180&#176;C etwa 30 Minuten backen.
+Tipp: Kann mit der doppelten Menge Zutaten auch als Hauptspeise zubereitet werden.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

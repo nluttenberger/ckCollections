@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1228931227978225">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f36b1179-2f41-4e59-b192-8334f53e3dc9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Goldbarschfilet mit Mango-Thymian-Kruste auf Rahm-Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), (Goldbarschfilet á ca. 160 g, alternativ: Rotbarsch, Seelachs, Kabeljau)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), (Goldbarschfilet &#225; ca. 160 g, alternativ: Rotbarsch, Seelachs, Kabeljau)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">süße Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="thymian">Thymian, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n), Saft hiervon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,26 +47,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen und sorgf&#228;ltig waschen, Stiele in Streifen schneiden, Bl&#228;tter halbieren. Mango waagrecht halbieren, Kern entfernen, H&#228;lften sch&#228;len und das Fruchtfleisch in d&#252;nne Spalten schneiden. Schalotten abziehen und w&#252;rfeln.
+Toasts entrinden und im Mixer mahlen. Mit Thymian und 2-3 EL Butter verkneten, mit Salz und Pfeffer abschmecken.
+Mangoldbl&#228;tter in kochendem Salzwasser ca. &#189; Minute garen, kalt abschrecken und gut abtropfen lassen.
+Backofen auf 220&#176; vorheizen.
+Filets abbrausen, trocken tupfen, mit Zitronensaft betr&#228;ufeln, salzen und pfeffern. &#214;l in einer Pfanne erhitzen und die Filets beidseitig anbraten. Eine Gratin-Form buttern, die Filets hineinlegen und erst mit den Mangospalten, dann mit der Br&#246;selmischung belegen. Die Filets ca. 15 Min. &#252;berbacken.
+Inzwischen die &#252;brige Butter in einem Topf erhitzen und die Mangoldstiele und Schalottenw&#252;rfel and&#252;nsten. Die Mangoldbl&#228;tter zugeben, Sahne angie&#223;en und etwas eink&#246;cheln lassen. Mit Salz, Pfeffer und Muskat w&#252;rzen.
+Mangold mit den gratinierten Filets auf Tellern anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

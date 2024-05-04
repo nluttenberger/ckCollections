@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-945721200142908">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a6196c0a-f9ce-4fd9-8f26-3991d0678cea">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Blattsalat mit Fisch und würzigem Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Blattsalat mit Fisch und w&#252;rzigem Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), (Steinbutt o.ä.)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), (Steinbutt o.&#228;.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
@@ -31,42 +31,45 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl, (Distel- oder Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l, (Distel- oder Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="senfsamen">Senfkörner, schwarze</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="senfsamen">Senfk&#246;rner, schwarze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker, feiner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Sellerie und M&#246;hre in kleine gleichm&#228;&#223;ige W&#252;rfelchen schneiden. Butter und &#214;l in einer gro&#223;en Pfanne erhitzen, zersto&#223;ene Senf- und Kreuzk&#252;mmelsamen und das Gem&#252;se hinzuf&#252;gen und rundherum anbraten, bis es gebr&#228;unt ist. In der Pfanne beiseite schieben.
+2 Fischfilets &#225; 150 g leicht salzen und mehlen und in derselben Pfanne von jeder Seite ca. 3-4 Minuten braten. W&#228;hrenddessen das Gem&#252;se weiter sanft r&#252;hren. Salate auf zwei gro&#223;e Teller verteilen. Die Fischfilets darauf anrichten.
+Das Gem&#252;se in der Pfanne mit ein wenig feinstem Zucker bestreuen und noch zwei Minuten wenden. Mit wenig Zitronensaft abl&#246;schen und &#252;ber den Salat geben. Mit Fleur de Sel und schwarzem Pfeffer bestreuen und evtl. mit Zitronensaft abrunden.
+Dazu schmeckt gebackenes Knoblauchbrot.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

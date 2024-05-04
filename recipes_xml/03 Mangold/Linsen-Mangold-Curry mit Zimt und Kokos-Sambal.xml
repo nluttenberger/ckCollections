@@ -1,0 +1,86 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-88e2b7c3-229b-4d01-ba0c-118267037668">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Linsen-Mangold-Curry mit Zimt und Kokos-Sambal</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="linsen">Linsen, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="kokos&#246;l">Kokos&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="curry">Currypaste, gelbe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zimt">Zimtstange(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kl. Dose/n</fr:igdtQuantity>
+        <fr:igdtName ref="kokosmilch">Kokosmilch (200 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Bio-Limette(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="joghurt">Kokosjoghurt (Joghurtalternative)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="kokosraspel">Kokosraspel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="minze">Minze zum Garnieren</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>1. Mangold waschen und trocken tupfen. Stiele in kleine W&#252;rfel und die Bl&#228;tter in Streifen schneiden. Schalotte und Knoblauch sch&#228;len und w&#252;rfeln. Linsen in einem Sieb abbrausen und abtropfen lassen.
+2. Kokos&#246;l in einem Topf oder einer tiefen Pfanne erhitzen. Mangoldstiele, Schalotte und Knoblauch darin and&#252;nsten. Currypaste, Linsen und Zimt dazugeben und and&#252;nsten. Mit Kokosmilch und Br&#252;he abl&#246;schen. Mit Salz und Pfeffer w&#252;rzen und ca. 8 Minuten k&#246;cheln lassen. Mangoldbl&#228;tter zugeben und weitere ca. 5 Minuten k&#246;cheln lassen.
+3. In der Zwischenzeit Limette hei&#223; waschen und trocken reiben, Schale fein abreiben. Kokosjoghurt mit Limettenschale, 1 - 2 Spritzern Limettensaft, Kokosraspeln, Salz und Pfeffer verr&#252;hren. Curry abschmecken, mit Minze garnieren und mit Kokos-Sambal servieren.
+Tipps: Wenn du nach den Evergreens kochst, kannst du eine kleine Portion Wildreis oder Bulgur zum Curry servieren.
+Gelbe Currypaste ist recht mild. Wenn du es pikanter magst, kannst du auch die rote oder gr&#252;ne Variante verwenden. Alternativ kannst du auch 1 TL Currypulver nehmen, wenn du das eh
+schon im Haus hast.
+Pro Person ca. 470 kcal, 18 g E, 32 g F, 27 g KH</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

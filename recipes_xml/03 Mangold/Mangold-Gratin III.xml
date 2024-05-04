@@ -1,0 +1,82 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-57168421-581d-4415-ad0a-72b786633441">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Gratin III</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 &#189; kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold (Stielmangold)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Wasser (Salzwasser)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n) (Eiertomaten), geh&#228;utet, entkernt, gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6</fr:igdtQuantity>
+        <fr:igdtName ref="sardelle">Sardellenfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikum, fein geschnitten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="mozzarella">Mozzarella</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;brot">Baguette(s), ger&#246;stet</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Stangenmangold verlesen, waschen und samt Stiele in Streifen schneiden. Salzwasser mit Milch aufkochen. Mangold darin kurz &#252;berbr&#252;hen, kalt abschrecken und gut abgetropft in eine gefettete feuerfeste Form geben.
+Den Backofen auf 200&#176;C vorheizen. Schalotten und Knoblauch miteinander im &#214;l glasig d&#252;nsten. Tomaten und gut gesp&#252;lte Sardellenfilets zuf&#252;gen und kurz mitd&#252;nsten. Dann mit dem Basilikum &#252;ber dem Mangold verteilen.
+Mozzarellaw&#252;rfel dar&#252;berstreuen. Parmesan und fein zerbr&#246;seltes Brot mischen und mit Butterst&#252;ckchen dar&#252;berstreuen. Mangoldgratin ca. 20 Minuten im Backofen &#252;berbacken.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,45 +1,45 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-750021177569709">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c14c8b68-81ea-44f0-90fe-a900076f7802">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegetarische Kürbissuppe</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegetarische K&#252;rbissuppe</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
-        <fr:igdtName ref="kürbis">Kürbis(se) (Hokkaido), geputzter</fr:igdtName>
+        <fr:igdtName ref="k&#252;rbis">K&#252;rbis(se) (Hokkaido), geputzter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
         <fr:igdtName ref="lauch">Porree, geputzte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), geschälte</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gesch&#228;lte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Knolle/n</fr:igdtQuantity>
-        <fr:igdtName ref="knollensellerie">Sellerie mit Grün, geschälte</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Sellerie mit Gr&#252;n, gesch&#228;lte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n), geschälte</fr:igdtName>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n), gesch&#228;lte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n), geschälte</fr:igdtName>
+        <fr:igdtQuantity>6 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), gesch&#228;lte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, grüne, geputzte</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, gr&#252;ne, geputzte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Stange/n</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, geputzter, Blätter und Stiele getrennt</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, geputzter, Bl&#228;tter und Stiele getrennt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
@@ -47,50 +47,55 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauch, geschälter</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauch, gesch&#228;lter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="petersilie">Petersilie, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl (Rapsöl oder Olivenöl) zum Andünsten</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">&#214;l (Raps&#246;l oder Oliven&#246;l) zum And&#252;nsten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), geriebene, bei Bedarf, zum Binden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="birne">Birne(n), feste, geschälte</fr:igdtName>
+        <fr:igdtName ref="birne">Birne(n), feste, gesch&#228;lte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="apfel">Apfel, säuerlicher, geschälter</fr:igdtName>
+        <fr:igdtName ref="apfel">Apfel, s&#228;uerlicher, gesch&#228;lter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="schnittlauch">Schnittlauch, gehackter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="estragon">Estragon, gehackter</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>K&#252;rbis, Zwiebeln, Sellerie, Birnen, Apfel und Kartoffeln w&#252;rfeln. Porree in Ringe, M&#246;hren in R&#228;dchen schneiden, Bohnen klein schneiden. Die Mangoldstiele in St&#252;cke, die Bl&#228;tter klein schneiden. Den Knoblauch hacken.
+Das &#214;l in einem Suppentopf erhitzen, die Zwiebeln zugeben und darin glasig d&#252;nsten. Den gehackten Knoblauch zugeben und ebenfalls and&#252;nsten. Das vorbereitete Gem&#252;se mit Ausnahme der Mangoldbl&#228;tter zusammen mit den Kartoffeln zugeben und unter R&#252;hren and&#252;nsten. Die Pizzatomaten zuf&#252;gen und kurz durchschmoren. Anschlie&#223;end die Br&#252;he angie&#223;en. Aufkochen und auf kleiner Stufe fertig garen. Das dauert ca. eine halbe Stunde.
+W&#228;hrend der letzten 5 Min. die Mangoldbl&#228;tter zugeben und mitkochen. Danach das klein geschnittene Selleriegr&#252;n zuf&#252;gen und kurz mitgaren. Die Suppe mit Salz und Pfeffer abschmecken. Nach Belieben mit der geriebenen Kartoffel binden. Von der Kochstelle nehmen und die klein gehackten Kr&#228;uter unterr&#252;hren.
+Dazu passt Bauernbrot.
+Tipps: Es passen auch noch andere Gem&#252;sesorten dazu, die der herbstliche Garten oder der Vorrat hergibt wie z.B. Kidneybohnen, Wei&#223;kraut, oder auch Rote R&#252;ben (die geben eine interessante Farbe). In diesem Fall sollte man aber etwas Balsamico oder Cr&#232;me fraiche mitkochen.
+Die Suppe l&#228;sst sich auch gut  im Schnellkochtopf zubereiten. Dann ist sie in etwa 8 Minuten fertig.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

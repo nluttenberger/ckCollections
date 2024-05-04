@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3909251596095935">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c3bf1f1f-6169-4a48-b2ff-2ddafcd931f4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegane Mangoldmaultaschen mit Möhren-Zucchini-Apfelsalat</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegane Mangoldmaultaschen mit M&#246;hren-Zucchini-Apfelsalat</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Hartweizengrieß</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -42,47 +42,47 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="möhrengrün">Möhrengrün</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="m&#246;hrengr&#252;n">M&#246;hrengr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="selleriegrün">Selleriegrün</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="selleriegr&#252;n">Selleriegr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="bohnenkraut">Bohnenkraut</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="limette">Limettensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="apfel">Apfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -91,14 +91,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="pflanzenfett">Margarine zum Braten, vegan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -109,12 +109,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Hartweizengrie&#223;, Mehl und Salz mischen, dann Wasser und Oliven&#246;l dazugeben und ausgiebig kneten. Der Teig sollte fest, aber glatt sein. Dann den Teig in Frischhaltefolie oder ein Bienenwachstuch einwickeln und f&#252;r eine halbe Stunde in den K&#252;hlschrank legen.
+In der Zwischenzeit die F&#252;llung zubereiten. Daf&#252;r den Mangold waschen, die Bl&#228;tter in Streifen und den Stiel in d&#252;nne Scheiben schneiden. Die Zwiebel und den Knoblauch hacken und in einer Pfanne oder einem Wok in &#214;l anbraten. Dann den Mangold dazugeben und mitd&#252;nsten, bis er zusammengefallen ist. Mit den Gew&#252;rzen und dem Limettensaft die F&#252;llung abschmecken. Sie darf ruhig gut gew&#252;rzt sein, da der Teig selbst kaum Geschmack hat.
+Nach der Ruhezeit den Maultaschenteig aus dem K&#252;hlschrank holen und mit einem Nudelholz hauchd&#252;nn ausrollen. Je d&#252;nner, desto besser, aber er sollte nicht rei&#223;en! Den Teig in l&#228;ngliche Rechtecke schneiden und am besten 10 - 15 Minuten liegen lassen, damit er etwas antrocknen kann.
+Nun den Teig f&#252;llen. Dazu mit einem L&#246;ffel portionsweise die F&#252;llung auf das erste Drittel des Rechtecks legen, an den R&#228;ndern etwas Platz lassen. Den Teig &#252;ber die F&#252;llung rollen und die andere Teigseite &#252;ber die Tasche legen. Den Rand eventuell einklappen und festdr&#252;cken. Wenn m&#246;glich den Teig nochmals 20 - 30 Minuten antrocknen lassen. Daf&#252;r kann man beispielsweise die Taschen auf einen Gitterrost zu legen, sodass sie von allen Seiten gut Luft bekommen.
+Im Wasserkocher Wasser kochen und mit etwas Gem&#252;sebr&#252;hepulver in einen gro&#223;en Topf geben. Wenn das Wasser sprudelnd kocht, die Maultaschen ins Wasser geben und kochen lassen, bis sie an die Oberfl&#228;che steigen. Dann noch 3 - 5 Minuten im Topf lassen und zwischendurch auf die andere Seite drehen, damit der Teig gleichm&#228;&#223;ig durch wird. Dann die Maultaschen aus dem Wasser nehmen und gut abtropfen lassen.
+Die zweite Zwiebel in Viertelringe schneiden. Die Margarine in einer gro&#223;en Pfanne erhitzen und die Zwiebeln darin and&#252;nsten. Die Maultaschen in die Pfanne geben und von beiden Seiten scharf braten.
+F&#252;r den Salat M&#246;hren, Zucchini und Apfel grob raspeln und mit einem Dressing nach Wahl anmachen.
+Die Maultaschen und den Salat auf einem Teller anrichten und mit Petersilie garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

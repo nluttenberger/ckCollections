@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1251531230362542">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5386bdee-5f90-4f3a-906d-714197d149f3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Gebackenes Fischfilet auf Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -46,19 +46,21 @@
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln in Salzwasser als Pellkartoffeln kochen, sch&#228;len und in Scheiben schneiden. Den Mangold putzen, waschen, 3 Minuten blanchieren (dabei erst die Stiele ins Wasser legen), sofort kalt abschrecken und abtropfen lassen. Das Fischfilet in St&#252;cke schneiden, mit Zitronensaft betr&#228;ufeln, leicht salzen und pfeffern. Den Bergk&#228;se reiben. Die Eier mit Cr&#232;me fra&#238;che und 2-3 EL Wasser verquirlen, die H&#228;lfte des K&#228;ses untermischen.
+Eine hitzebest&#228;ndige Form mit 10 g Butter ausstreichen, die Kartoffelscheiben einschichten und pfeffern. Die H&#228;lfte der K&#228;secreme darauf verteilen und den geschnittenen Mangold darauf schichten. Die restliche Butter schmelzen, &#252;ber das Gem&#252;se gie&#223;en, leicht salzen und pfeffern. Die Fischst&#252;cke auf dem Gem&#252;se verteilen, mit der restlichen K&#228;secreme bedecken und mit dem restlichen geriebenen K&#228;se bestreuen. Im vorgeheizten Backofen bei 200&#176;C 25-30 Minuten backen.
+Mit feinen Tomatenstreifen garniert servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

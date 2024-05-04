@@ -1,0 +1,105 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-36d8fdcd-12ce-45c8-92b4-9ab9d6a7b5a9">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Cannelloni mit Mangold 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>900 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="rosmarin">Rosmarin</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="zimt">Zimt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>20 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>20 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Nudelteig das Mehl auf ein gro&#223;es Holzbrett sieben und zu einem H&#228;ufchen zusammenschieben. In die Mitte eine Mulde dr&#252;cken, Eier, das Oliven&#246;l und eine Prise Salz hineingeben und alles zu einem glatten, elastischen Teig verkneten. Den Teig in Frischhaltefolie einwickeln und mindestens 30 Minuten ruhen lassen.
+In der Zwischenzeit die F&#252;llung zubereiten. Den Mangold putzen und die Stiele entfernen. Die Bl&#228;tter waschen und 3 Minuten blanchieren. Abgie&#223;en, gut ausdr&#252;cken, fein hacken und in eine Sch&#252;ssel f&#252;llen. Ricotta, geriebenen Parmesan, Ei, die klein gehackten Kr&#228;uter, je eine Prise Zimt und geriebene Muskatnuss sowie Salz und Pfeffer zugeben. Alles Zutaten sorgf&#228;ltig vermengen.
+Anschlie&#223;end den Teig portionsweise hauchd&#252;nn ausrollen und mit einem scharfen Messer jeweils 10 x 10 cm gro&#223;e Quadrate ausschneiden. Die Teigplatten etwa 2 Minuten in kochendem Salzwasser garen. Mit einer Schaumkelle herausheben und in einen Kochtopf mit kaltem Wasser geben. Abgie&#223;en und auf einem K&#252;chentuch ausbreiten.
+F&#252;r die B&#233;chamelsauce die Butter in einer Kasserolle schmelzen. Das Mehl zugeben und unter st&#228;ndigem R&#252;hren mit einem Holzl&#246;ffel anschwitzen. Nach und nach die Milch unterr&#252;hren und die Sauce langsam zum Kochen bringen. Mit Salz, Pfeffer und einer Messerspitze geriebener Muskatnuss abschmecken. Die So&#223;e zugedeckt weitere 7-8 Minuten bei m&#228;&#223;iger Hitze k&#246;cheln lassen.
+Auf jedes Teigquadrat etwas Mangoldf&#252;llung geben und die Teigplatten zu kleinen R&#246;hrchen, den Cannelloni, zusammenrollen. So lange fortfahren, bis alle Zutaten aufgebraucht sind. In einer feuerfesten Form etwas B&#233;chamelsauce verteilen. Darauf nebeneinander die Cannelloni legen und mit der restlichen So&#223;e bedecken.
+Die Cannelloni im vorgeheizten Ofen bei 180&#176;C (Gas Stufe 2-3; Umluft 180&#176;C) etwa 15 Minuten &#252;berbacken und sofort hei&#223; servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

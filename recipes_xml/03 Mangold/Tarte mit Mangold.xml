@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3901771594469086">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bee0b62c-d216-4788-89af-7ca846426d45">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Tarte mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Weizenmehl, wahlweise auch Dinkelmehl, ist fülliger</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Weizenmehl, wahlweise auch Dinkelmehl, ist f&#252;lliger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="kumato">Kumato</fr:igdtName>
+        <fr:igdtName ref="kumato">Tomate(n) (hier: Kumato)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), mit Grün verwenden</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), mit Gr&#252;n verwenden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Stiel/e</fr:igdtQuantity>
@@ -61,12 +61,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus dem Mehl, der Butter, einem Ei und einer Prise Salz einen Teig kneten und ca. 20 Minuten im K&#252;hlschrank ruhen lassen.
+Inzwischen das Gem&#252;se klein schneiden und mit Oliven&#246;l, Pfeffer und Salz in der Pfanne anbraten. Dabei am besten erst die Zwiebeln mit Knoblauch, dann die Stiele und zuletzt die Bl&#228;tter in die Pfanne geben.
+Die Sahne mit Milch, K&#228;se, Pfeffer, Salz und beiden restlichen Eiern verr&#252;hren.
+Den Teig d&#252;nn in eine Form bringen und etwas Rand dabei hochziehen. Dann erst das Gem&#252;se reingeben, anschlie&#223;end die K&#228;se-Sahne-Mischung hinzugeben. Eine Tomate in d&#252;nne Scheiben schneiden und dekorativ oben drauf legen.
+Ofen auf 180 &#176;C vorheizen (Ober-/Unterhitze) und ca. 30 - 35 Minuten backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

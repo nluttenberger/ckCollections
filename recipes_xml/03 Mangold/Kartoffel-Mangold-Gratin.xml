@@ -1,0 +1,82 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3fac7dba-e7c7-4cfb-8f79-993b675dbf4e">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Kartoffel-Mangold-Gratin</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), fest kochend</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), hart gekocht</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n) (Cocktailtomaten)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n), gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch, zerdr&#252;ckt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie, gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Msp.</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">K&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;cker">Kr&#228;cker (Salzcracker), zerbr&#246;selt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln sch&#228;len und klein w&#252;rfeln. Die H&#228;lfte der Schalotten (oder Zwiebeln) und des Knoblauchs in etwas &#214;l and&#252;nsten. Kartoffelw&#252;rfel dazugeben und fertig braten, zur Seite stellen. Mangoldbl&#228;tter in mundgerechte St&#252;cke schneiden, Cocktailtomaten vierteln und beides mit den restlichen Zwiebeln und dem Knoblauch in etwas &#214;l anbraten. Kartoffeln dazugeben, gut vermischen und die Sahne einr&#252;hren. Gew&#252;rze dazu, kurz k&#246;cheln lassen. 4 hart gekochte Eier klein schneiden und dazugeben.
+Alles gut umr&#252;hren und in eine Auflaufform sch&#252;tten. Das letzte Ei in Scheiben dar&#252;ber legen, mit dem K&#228;se und den zerdr&#252;ckten Kr&#228;ckern bestreuen. Goldbraun backen und genie&#223;en.
+Schmeckt zu Fisch oder Pute, aber auch solo sehr lecker.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

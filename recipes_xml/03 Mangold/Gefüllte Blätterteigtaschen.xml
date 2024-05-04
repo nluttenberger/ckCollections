@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-266871103086166">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3b5a35a1-6313-4db5-8c86-59fabbf6d46b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Blätterteigtaschen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Bl&#228;tterteigtaschen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, tiefgefroren</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, tiefgefroren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>175 g</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="roquefort">Käse (Roquefort)</fr:igdtName>
+        <fr:igdtName ref="roquefort">K&#228;se (Roquefort)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Port.</fr:igdtQuantity>
@@ -46,23 +46,27 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paniermehl">Sahne und Paniermehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="weizenmehl">Mehl, für die Arbeitsfläche</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl, f&#252;r die Arbeitsfl&#228;che</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Bl&#228;tterteigscheiben nebeneinander legen und bei Zimmertemperatur ca. 20 Minuten auftauen lassen.
+Inzwischen Mangold putzen, waschen und in Streifen schneiden. Zwiebel sch&#228;len und sehr fein w&#252;rfeln. &#214;l in einer Pfanne erhitzen, Zwiebeln darin and&#252;nsten. Mangold zuf&#252;gen und unter Wenden bei mittlerer Hitze ca. 3 Minuten braten. Mit Salz, Pfeffer und Zitronensaft w&#252;rzen. Mangoldgem&#252;se ausk&#252;hlen lassen.
+K&#228;se zerbr&#246;seln. Mangoldgem&#252;se und K&#228;se vermengen.
+Fisch waschen, trocken tupfen und mit Salz und Pfeffer w&#252;rzen. Ei trennen. Eiwei&#223; mit einer Gabel aufschlagen. Eigelb und Sahne verquirlen. Bl&#228;tterteigplatten nacheinander auf einer bemehlten Arbeitsfl&#228;che zu einem Rechteck (ca. 22 x 12 cm) ausrollen. Die R&#228;nder mit Eiwei&#223; bepinseln, die H&#228;lfte jeder Bl&#228;tterteigplatte mit Paniermehl bestreuen. Je ein St&#252;ck Fisch auf die bestreute H&#228;lfte geben und die Gem&#252;se-K&#228;se-Mischung darauf verteilen. Bl&#228;tterteig zusammenklappen, R&#228;nder mit einer Gabel festdr&#252;cken und auf ein mit Backpapier ausgelegtes Backblech setzen. Bl&#228;tterteigtaschen im vorgeheizten Backofen (E-Herd 200&#176;C / Gasherd Stufe 3) 20-25 Minuten backen. Bl&#228;tterteigtaschen mit Eigelbsahne bestreichen.
+Nach Belieben mit Salatblatt, Kirschtomaten, Zitronenscheibe und Petersilie garniert auf einem Teller servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

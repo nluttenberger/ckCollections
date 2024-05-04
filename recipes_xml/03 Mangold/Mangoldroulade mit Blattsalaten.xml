@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-283151106596953">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3e63d331-5e34-40c5-bd70-172686654fb9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldroulade mit Blattsalaten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), weiß</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
@@ -23,19 +23,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, Blätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -54,23 +54,23 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName ref="chicorée">Chicorée</fr:igdtName>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="chicor&#233;e">Chicor&#233;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="radicchio">Radicchio di Treviso</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -79,11 +79,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="friséesalat">Friséesalat</fr:igdtName>
+        <fr:igdtName ref="fris&#233;esalat">Fris&#233;esalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), weiß</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -95,42 +95,47 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="weißweinessig">Essig (Weißweinessig)</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Essig (Wei&#223;weinessig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gehackt</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Spritzer</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n), unbehandelt, die Zesten davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Tomaten f&#252;r die F&#252;llung blanchieren, abschrecken und h&#228;uten. Von Stielans&#228;tzen und Samen befreien und das Fruchtfleisch klein w&#252;rfeln. Zwiebel und Knoblauch sch&#228;len und fein hacken. Das Oliven&#246;l in einer Pfanne erhitzen, Zwiebel- und Knoblauchw&#252;rfel darin anschwitzen. Die Tomatenw&#252;rfel zuf&#252;gen, kurz mitbraten, salzen und pfeffern.
+F&#252;r den Teig die Mangoldbl&#228;tter putzen und gr&#252;ndlich waschen. In Salwasser blanchieren und kalt abschrecken, anschlie&#223;end gut ausdr&#252;cken und fein hacken. Die Butter zerlassen und das Mehl unter R&#252;hren darin anschwitzen. Die Milch zugie&#223;en und alles etwa 10 Minuten unter R&#252;hren k&#246;cheln. W&#252;rzen und abk&#252;hlen lassen.
+Die Eier trennen, die Eigelbe vorsichtig unter die Sauce ziehen und den Mangold untermengen. Die Eiwei&#223;e mit einer Prise Salz steif schlagen und unterheben. Die Masse auf ein mit Backpapier ausgelegtes, 30 x 40 cm-gro&#223;es Blech streichen und bei 190&#176;C im vorgeheizten Ofen 15&#8211;20 Minuten backen.
+Herausnehmen und auf eine Arbeitsfl&#228;che st&#252;rzen. Das Backpapier von der Unterseite abziehen und die Tomatenmasse darauf verstreichen. Die Roulade aufrollen und in 3 cm dicke Scheiben schneiden.
+F&#252;r den Salat die verschiedenen Blattsalate in einzelne Bl&#228;tter teilen. Diese putzen, waschen, in St&#252;cke zerpfl&#252;cken und trocken schleudern. Zwiebel und Knoblauch sch&#228;len, beides fein hacken. Die Oliven halbieren, Essig, Salz und Pfeffer verr&#252;hren, bis sich das Salz gel&#246;st hat, dann das Oliven&#246;l untermischen. Zwiebel, Knoblauch, Oliven, Kr&#228;uter (Rosmarin, Thymian, Salbei, Petersilie), Zitronensaft und Zesten unter die Vinaigrette mischen.
+Die Salatbl&#228;tter auf Teller verteilen und mit der Oliven-Vinaigrette betr&#228;ufeln. Die Scheiben der Mangold-Roulade daneben anrichten und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

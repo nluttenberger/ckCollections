@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1429841247839771">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8255f02e-1a44-4389-b5db-643b62de7f7b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Pfannkuchen mit Mangold und Lachs</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl, Weizenmehl Type 405</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -50,27 +50,35 @@
         <fr:igdtName ref="lachs">Lachsfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mehl mit Salz, Eiern und Milch zu einem glatten Teig verr&#252;hren und mindestens 30 min ruhen lassen.
+Dann 4 d&#252;nne Pfannkuchen in Butterschmalz backen; aufrollen und abk&#252;hlen lassen.
+Knoblauchzehe und Schalotte fein hacken; Mangold waschen, und die Bl&#228;tter in Streifen schneiden.
+Lachsfilet in grobe Streifen und Mozzarella in St&#252;cke schneiden.
+Knoblauch in Butter and&#252;nsten, aus der Pfanne entnehmen, Schalotten glasig d&#252;nsten, Mangold zugeben, zusammenfallen lassen, mit Salz, Pfeffer und Muskat w&#252;rzen und den Knoblauch wieder zugeben. Ganz wenig Wasser zugeben, kurz d&#252;nsten und abk&#252;hlen lassen.
+Die Pfannkuchen mit dem Mangold, den Lachsstreifen sowie dem Mozzarella f&#252;llen, aufrollen und in eine gefettete Auflaufform legen.
+Wenn noch Mozzarellast&#252;ckchen &#252;brig sind, k&#246;nnen diese auf den Pfannkuchenr&#246;llchen verteilt werden.
+Etwas zerlassene Butter &#252;ber die R&#246;llchen tr&#228;ufeln und ca. 12 min bei 180&#176; &#252;berbacken.
+Mit Salat servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

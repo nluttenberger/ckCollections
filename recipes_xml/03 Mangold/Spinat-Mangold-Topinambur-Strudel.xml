@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1394331244387492">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e3505354-b3c7-410c-9d3e-f40199521217">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Spinat-Mangold-Topinambur-Strudel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="spinat">Spinat, am besten frisch, oder TK</fr:igdtName>
@@ -27,46 +27,49 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse oder Parmesan</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se oder Parmesan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="quark">Quark (Topfen)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="topinambur">Topinambur oder auch Kartoffeln</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Topinambur oder auch Kartoffeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pkt.</fr:igdtQuantity>
-        <fr:igdtName ref="teig">Strudelteig oder Blätterteig</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Strudelteig oder Bl&#228;tterteig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Fett zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Topinambur oder Kartoffeln d&#228;mpfen, sch&#228;len und pressen bzw. sehr klein w&#252;rfeln. Mit dem Topfen vermischen und gut mit Salz und Pfeffer w&#252;rzen. Nach Geschmack auch mit Kr&#228;utersalz. Die Zwiebel w&#252;rfeln und anschwitzen, den Knoblauch kurz mitr&#246;sten. Spinat und Mangold waschen, von den Stielen entfernen und zu den Zwiebeln geben. Kurz mit and&#252;nsten.
+Ofen auf 180 &#176;C Ober-/Unterhitze vorheizen.
+Die Topfenmasse und den Spinat grob vermengen. Nach Geschmack Feta-K&#228;se w&#252;rfeln und zur Masse mischen oder etwas Parmesan. Noch etwas salzen sowie pfeffern und auf dem ausgerollten Bl&#228;tterteig oder Strudelteig verteilen. Den Strudel zusammenrollen und mit verquirltem Ei bestreichen.
+Ins vorgeheizte Backrohr schieben und etwa 45 min backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

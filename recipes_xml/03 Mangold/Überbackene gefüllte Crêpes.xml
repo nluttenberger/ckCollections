@@ -1,0 +1,151 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5013c790-1871-4615-ac3d-f2ae5bf6948e">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>&#220;berbackene gef&#252;llte Cr&#234;pes</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>160 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Weizenmehl Type 00 oder Type 405</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch (3,5 % Fett)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>120 g</fr:igdtQuantity>
+        <fr:igdtName ref="spinat">Blattspinat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Meersalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>220 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Natives Oliven&#246;l extra</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt und in Scheiben geschnitten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 g</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Minzebl&#228;tter, klein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 g</fr:igdtQuantity>
+        <fr:igdtName ref="oregano">Oreganobl&#228;ttchen, klein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 g</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilienbl&#228;tter, klein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="ricotta">Ricotta, gut abgetropft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="pecorino">Pecorino, gerieben, plus 4 EL mehr zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Bio-Zitronenschale, fein abgerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomaten, st&#252;ckige (aus der Dose)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Natives Oliven&#246;l extra</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt und zerdr&#252;ck</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Meersalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>einige</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikumbl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>35 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, plus 1 TL mehr als Topping f&#252;r die Sauce</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>35 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Weizenmehl Type 00 oder Type 405</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>350 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Meersalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Crespelle das Mehl in eine Sch&#252;ssel sieben und eine Mulde hineindr&#252;cken. Eier und Salz verquirlen, in die Mulde geben und nach und nach von innen nach au&#223;en mit etwas Mehl verr&#252;hren, dann die Milch dazugeben und weiterr&#252;hren, bis ein kl&#252;mpchenfreier, recht fl&#252;ssiger Teig entsteht. Den Teig abgedeckt 1 Stunde bei Zimmertemperatur stehen lassen.
+Inzwischen f&#252;r die F&#252;llung den Spinat verlesen und putzen. Die Bl&#228;tter waschen, tropfnass zusammen mit 1 Prise Salz in einem Topf zugedeckt in 6&#8211;7 Minuten bei starker Hitze zusammenfallen lassen, dann in Eiswasser geben, abk&#252;hlen lassen, herausholen und das Wasser mit den H&#228;nden ausdr&#252;cken.
+Den Mangold putzen und den Strunk keilf&#246;rmig herausschneiden. Bl&#228;tter und Stiele separat klein schneiden. Die Stiele in kochendem gesalzenem Wasser 4&#8211;5 Minuten kochen, dann die Bl&#228;tter dazugeben und in weiteren 2 Minuten gar kochen. Mangold in Eiswasser geben, abk&#252;hlen lassen, herausholen und Restwasser mit den H&#228;nden ausdr&#252;cken.
+In einer Pfanne 1 &#189; EL Oliven&#246;l erhitzen und den Knoblauch darin leicht Farbe annehmen lassen. Spinat und Mangold darin etwa 5 Minuten d&#252;nsten, abk&#252;hlen lassen und in eine Sch&#252;ssel geben. Spinat, Mangold, Kr&#228;uter, Ricotta, Ei, 50 g Pecorino und Zitronenabrieb gut mischen und die Masse mit Salz, Pfeffer und Muskat abschmecken.
+F&#252;r die Tomatensauce die Tomaten, 1 EL Oliven&#246;l und Knoblauch in einem Topf etwa 5 Minuten leicht einkochen und mit Salz, Pfeffer und Basilikum abschmecken.
+Eine Cr&#234;pepfanne oder eine flache beschichtete Pfanne erhitzen. Unter den Teig 35&#8211;65 ml Wasser r&#252;hren und daraus sechs Cr&#234;pes backen.
+F&#252;r die B&#233;chamelsauce 35 g Butter in einer Kasserolle zerlassen, das Mehl gut unterr&#252;hren und etwa 1 Minute bei schwacher Hitze anschwitzen, dann ausk&#252;hlen lassen. Die Milch aufkochen und schl&#252;ckchenweise unter die Mehlschwitze r&#252;hren. Die Sauce unter R&#252;hren aufkochen und etwa 5 Minuten k&#246;cheln lassen. B&#233;chamel mit Salz, Pfeffer und Muskat abschmecken. Ein St&#252;ckchen Butter auf die Sauce geben.
+Den Backofen auf 200 &#176;C vorheizen. Jede Crespelle halbseitig mit etwa 2 geh&#228;uften EL F&#252;llung belegen, zusammenklappen und noch einmal zur H&#228;lfte falten. Eine gro&#223;e Auflaufform mit etwas Oliven&#246;l und danach etwas B&#233;chamelsauce bestreichen, gef&#252;llte Crespelle in die Form legen und mit der B&#233;chamelsauce bedecken. Die Tomatensauce in Klecksen darauf verteilen, mit restlichem K&#228;se (4 EL) bestreuen und mit Oliven&#246;l betr&#228;ufeln. Die Crespelle im hei&#223;en Backofen (oberes Drittel) 15&#8211;20 Minuten &#252;berbacken.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

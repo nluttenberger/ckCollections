@@ -1,32 +1,32 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3553801532162058">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-88e55c61-d939-45be-b8a5-42ac6dda2666">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sommerlicher Salat mit Melone und Gurke</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="blattsalat">Blattsalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188;</fr:igdtQuantity>
         <fr:igdtName ref="wassermelone">Wassermelone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="gurke">Gurke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>4 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="minze">Pfefferminze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Keimöl</fr:igdtName>
+        <fr:igdtName ref="ei">Keim&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -46,19 +46,20 @@
         <fr:igdtName ref="honig">Honig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Salat und Mangoldbl&#228;tter waschen, schneiden und in eine Salatsch&#252;ssel geben. Die Gurke sch&#228;len und mit der Wassermelone in mundgerechte St&#252;cke schneiden. Pfefferminzbl&#228;tter abzupfen und hacken und mit etwas Zitronenabrieb zum Salat geben.
+F&#252;r das Dressing Zitronensaft und Honig mit dem &#214;l verr&#252;hren und nach Geschmack mit Salz und Pfeffer w&#252;rzen. &#220;ber den Salat geben, umr&#252;hren und kurz durchziehen lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

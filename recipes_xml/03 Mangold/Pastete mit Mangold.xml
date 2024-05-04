@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-915431196948658">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d906b909-96fc-47a7-b393-09a1ed6ee772">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Pastete mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="dinkel">Mehl (Dinkelmehl)</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser bei Bedarf</fr:igdtName>
+        <fr:igdtName ref="ei">Wasser bei Bedarf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, geriebener</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
@@ -53,12 +53,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl mit dem Salz, 2 Eiern und dem Schmalz zu einem festen Teig kneten. Eventuell bei Bedarf etwas Wasser hinzugeben. Den Teig 1 Stunde k&#252;hl stellen.
+Mangold und Petersilie waschen und grob schneiden. Danach im zerlassenen Schmalz weich d&#252;nsten. Erkalten lassen, in ein Sieb geben und ausdr&#252;cken. Den geriebenen K&#228;se zugeben. Dann 3 Eier unterr&#252;hren und alles nach Bedarf w&#252;rzen.
+Den Teig d&#252;nn ausrollen und 24 Kreise ausstechen. 12 Muffinformen einfetten und mit 12 von diesen Teigkreisen auslegen. Die Mangoldf&#252;llung in die Form geben und glatt streichen. Den Rand mit etwas Wasser bestreichen, mit einem Deckel belegen und beide Teigschichten am Rand miteinander verkneifen. In die obere Teigplatte jeweils einen kleinen Kamin schneiden, damit der Dampf entweichen kann. Die Deckel mit einer Mischung aus dem letzten Ei und der Milch bestreichen, damit alles sch&#246;n braun wird und gl&#228;nzt.
+Im vorgeheizten Backofen bei 200&#176;C ca. 15 Minuten backen.
+Reicht f&#252;r 12 St&#252;ck.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

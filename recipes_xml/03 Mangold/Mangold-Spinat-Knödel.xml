@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3716881562598489">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7aafdca0-8f92-4554-b6ad-245dd7d9fb63">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Spinat-Knödel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Spinat-Kn&#246;del</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
         <fr:igdtName ref="spinat">Baby-Spinat, frischer</fr:igdtName>
@@ -27,51 +27,51 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot, altbacken</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot, altbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Käseersatz (Parmesanersatz)</fr:igdtName>
+        <fr:igdtName ref="parmesan">K&#228;seersatz (Parmesanersatz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse-Ersatz (Cashew-Frischkäse)</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se-Ersatz (Cashew-Frischk&#228;se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="ei">Ei-Ersatz für 2 Volleier, vegan</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="ei">Ei-Ersatz f&#252;r 2 Volleier, vegan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, grüner, frisch gemörsert</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, gr&#252;ner, frisch gem&#246;rsert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
         <fr:igdtName ref="austernpilz">Austernpilze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="ei">Ei-Ersatz für 2 Volleier, vegan</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="ei">Ei-Ersatz f&#252;r 2 Volleier, vegan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel zim Panieren</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel zim Panieren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
@@ -79,7 +79,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -89,12 +89,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Kn&#246;del den Spinat und den Mangold waschen und klein hacken. Die Zwiebeln und den Knoblauch sch&#228;len und sehr fein hacken. 2 EL Margarine in der Pfanne erhitzen und Zwiebeln und Knoblauch darin 2 Minuten anschwitzen.
+Das Brot fein w&#252;rfeln und den Parmesan reiben. Brot, K&#228;se, Semmelbr&#246;sel und Zwiebelmix mit der St&#228;rke in einer Sch&#252;ssel mischen. Den Cashew-Frischk&#228;se und den Ei-Ersatz mit einem Schneebesen verr&#252;hren.
+Zum Brotmix geben und alles gut mit den H&#228;nden verkneten. Spinat und Mangold unterkneten. Mit Pfeffer und Salz abschmecken. Im K&#252;hlschrank 30 Minuten ziehen lassen.
+Den Blumenkohl in R&#246;schen schneiden und in Salzwasser bissfest garen, dann warmstellen.
+Auf einen Teller Semmelbr&#246;sel geben. Auf einem anderen Teller den Ei-Ersatz nach Packungsanweisung anr&#252;hren. Mit Salz und Pfeffer w&#252;rzen.
+Die Austernpilze erst durch die Ei-Ersatz-Mischung und dann durch die Semmelbr&#246;sel ziehen. Die Austernpilze in der Pfanne mit der Margarine braten.
+3 Liter Salzwasser zum Kochen bringen und die Kn&#246;del vorsichtig einlegen. Auf kleiner Flamme 8 Minuten garen.
+Am Ende die restlichen Semmelbr&#246;sel in der Margarine goldbraun r&#246;sten. Die Blumenkohlr&#246;schen damit bestreuen und alles zusammen servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

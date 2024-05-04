@@ -1,0 +1,82 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3d62b1c8-5a93-4375-bf3c-8a84ec652bf6">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldr&#246;llchen mit Fischf&#252;llung 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>9 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e mit Stiel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="fisch">Fischfilet(s) (z.B. Seezunge)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="lachs">Lachs, (Stremel-Lachs, natur)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, fettarmer, mit Kr&#228;utern oder Merrettich</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 ml</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he, entfettet oder Fischfond</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, fettarmer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="saucenbinder">Saucenbinder, hell</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldstiele von den Bl&#228;ttern entfernen und fein w&#252;rfeln. Die Bl&#228;tter beiseite legen.
+Die Zwiebel ebenfalls sehr fein w&#252;rfeln.
+&#214;l in einer Pfanne erhitzen und Zwiebeln und Mangoldstiele darin anschwitzen. Beiseite stellen und abk&#252;hlen lassen.
+Die Fischfilets fein w&#252;rfeln und noch etwas klein hacken, ebenso mit dem Stremellachs (der gibt dem Ganzen eine feine R&#228;ucherfischnote, ohne Haut verwenden!) verfahren. Nun aus dem gehackten Fisch, 1 EL Frischk&#228;se, fein geschnittenem Dill, Zwiebeln, Mangoldstielen, Salz und Pfeffer eine Farce herstellen. Mit den Semmelbr&#246;seln binden.
+Die Mangoldbl&#228;tter 2-3 Sekunden in kochendem Wasser blanchieren und sofort kalt abschrecken. Die harte Mittelrippe vorsichtig flach abschneiden. Je 1-1&#189; EL der Farce auf die Bl&#228;tter geben, die seitlichen R&#228;nder nach innen umschlagen und die Bl&#228;tter einrollen.
+Die H&#252;hnerbr&#252;he in einer Pfanne erhitzen, die Mangoldr&#246;llchen hineingeben und zugedeckt 15-20 Minuten d&#252;nsten, dabei einmal wenden. Danach die Mangoldr&#246;llchen herausnehmen, den restlichen Frischk&#228;se in die Sauce r&#252;hren und die Sauce binden und abschmecken. Fein geschnittene Petersilie unterr&#252;hren und die Sauce zu den R&#246;llchen servieren.
+Dazu passt Reis.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

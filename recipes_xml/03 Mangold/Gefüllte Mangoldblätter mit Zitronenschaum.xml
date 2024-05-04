@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2410191380716534">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b8d9bc1d-5f39-442c-831b-31ea3f5093cd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Mangoldblätter mit Zitronenschaum</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Mangoldbl&#228;tter mit Zitronenschaum</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -35,15 +35,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olive">Oliven, grün, gehackt</fr:igdtName>
+        <fr:igdtName ref="olive">Oliven, gr&#252;n, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="walnuss">Walnüsse, gehackt</fr:igdtName>
+        <fr:igdtName ref="walnuss">Waln&#252;sse, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -51,15 +51,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -77,12 +77,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter nacheinander in kochendem Salzwasser blanchieren und in eiskaltem Wasser abschrecken. Auf einem K&#252;chentuch nebeneinander ausbreiten und die mittlere Rippe flach schneiden.
+F&#252;r die F&#252;llung Reis, Tomaten, Knoblauch, Chili, Oliven, N&#252;sse, Feta, Thymian und Pfeffer miteinander verr&#252;hren und die Bl&#228;tter damit bestreichen. Die seitlichen Blattr&#228;nder einschlagen und die Bl&#228;tter von der Schmalseite her einrollen. Die Br&#252;he in einem flachen Topf erhitzen und die R&#246;llchen dicht nebeneinander hineinschichten. Zugedeckt in etwa 12 bis 15 Minuten garen.
+Die R&#246;llchen auf einer tiefen Platte anrichten. Die Garfl&#252;ssigkeit durch ein feines Sieb gie&#223;en und in einem Topf erhitzen. Eiwei&#223; zu steifem Schnee schlagen, Zitronensaft und -schale und das Eigelb unterr&#252;hren. Die Mischung gleichm&#228;&#223;ig unter die Br&#252;he ziehen. Sofort von der Kochstelle nehmen. Mit Salz und Cayennepfeffer w&#252;rzen und &#252;ber die Mangoldr&#246;llchen verteilen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

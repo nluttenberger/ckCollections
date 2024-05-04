@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2896331441978602">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b8a34db1-65ae-4d07-8bae-278388b5fb0e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Capuns mit Salsiz und Bünderfleisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Capuns mit Salsiz und B&#252;nderfleisch</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -26,11 +26,11 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="rindfleisch">Rindfleisch (Bündnerfleisch)</fr:igdtName>
+        <fr:igdtName ref="rindfleisch">Rindfleisch (B&#252;ndnerfleisch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="mangold">Mangold, ca. 20 Blätter</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="mangold">Mangold, ca. 20 Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, instant</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -62,19 +62,25 @@
         <fr:igdtName ref="schinken">Rohschinken (Schweizer Rohschinken)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl mit den Eiern, der Milch und einer Prise Salz in einer Sch&#252;ssel verquirlen und dann 30 Minuten ruhen lassen.
+Inzwischen die Zwiebel abziehen und fein w&#252;rfeln. Die Petersilie und den Schnittlauch abbrausen, trocken sch&#252;tteln und fein hacken. Die Salsiz und das B&#252;ndnerfleisch fein w&#252;rfeln.
+Die Mangoldbl&#228;tter portionsweise in kochendem Wasser etwa 1 Minute blanchieren. Anschlie&#223;end kalt abbrausen und auf einem Geschirrtuch ausbreiten.
+Die Zwiebelw&#252;rfel in 30 g hei&#223;er Butter glasig d&#252;nsten, gehackte Petersilie sowie Schnittlauch, Salsiz- und B&#252;ndnerfleischw&#252;rfel zugeben, mitd&#252;nsten und mit Salz und Pfeffer w&#252;rzen. Etwas ausk&#252;hlen lassen und unter den Teig r&#252;hren.
+F&#252;r die Capuns je 1 EL Teig auf die Mangoldbl&#228;tter geben, die Blattr&#228;nder einschlagen und aufrollen. In einer gro&#223;en Pfanne die Gem&#252;sebr&#252;he und die Sahne aufkochen, die Capuns hineinlegen und bei kleiner Hitze etwa 8 bis 10 Minuten k&#246;cheln lassen.
+Den Schweizer Rohschinken in Streifen schneiden und in der restlichen Butter knusprig braten.
+Die Capuns mit der Sauce anrichten und die Schweizer Rohschinkenstreifen dar&#252;ber verteilen. Dazu passen frisches Brot und ein gemischter Salat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

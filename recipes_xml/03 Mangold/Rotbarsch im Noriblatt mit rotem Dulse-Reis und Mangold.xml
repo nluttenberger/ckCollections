@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3469761516875745">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d7cfe66f-f3ee-4e58-ab01-1a3089d23947">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Rotbarsch im Noriblatt mit rotem Dulse-Reis und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="barsch">Rotbarschfilet(s) oder andere Fischfilets</fr:igdtName>
+        <fr:igdtName ref="fisch">Rotbarschfilet(s) oder andere Fischfilets</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="noriblatt">Noriblätter (Sushi-Noriblätter)</fr:igdtName>
+        <fr:igdtName ref="noriblatt">Noribl&#228;tter (Sushi-Noribl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Sesam, weiß</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -63,22 +63,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis waschen und in 1 EL Sonnenblumen&#246;l kurz anbraten. Nun das Wasser und das Dulse-Pulver in den Topf geben, den Reis damit aufkochen lassen und beides ca. 45 Minuten auf kleiner Stufe k&#246;cheln. Gelegentlich umr&#252;hren und nachsehen, ob noch Wasser zugegeben werden muss. Am Ende der Garzeit sollte der Reis das ganze Wasser aufgenommen haben.
+Die Mangoldstiele in Rauten schneiden und in einem Topf zusammen mit dem feingehackten Knoblauch, Ingwer und Chili in 1 EL Sonnenblumen&#246;l anbraten. Die Mangoldbl&#228;tter grob schneiden, dazugeben und alles mit etwas Sojaso&#223;e und Reisessig w&#252;rzen. Am Ende der Garzeit den Sesam und das Sesam&#246;l hinzuf&#252;gen.
+F&#252;r den Fisch den Rest der Sojaso&#223;e mit Speisest&#228;rke anr&#252;hren und die Filets von beiden Seiten bestreichen. Dann die Fischfilets auf je ein Noriblatt legen und sie wie ein P&#228;ckchen einschlagen. Dazu die &#252;berstehenden Seiten des Noriblattes befeuchten, damit es weicher und biegsamer wird. Die St&#228;rke bewirkt, dass sich das Noriblatt beim Braten besser mit dem Fisch verbindet.
+Die P&#228;ckchen in 1 EL Sonnenblumen&#246;l bei kleiner Hitze auf beiden Seiten braten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

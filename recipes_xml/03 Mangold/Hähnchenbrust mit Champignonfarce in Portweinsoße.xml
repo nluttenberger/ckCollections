@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-203141085744170">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c0c0073c-248a-4599-8f35-4fe1581e345e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hähnchenbrust mit Champignonfarce in Portweinsoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>H&#228;hnchenbrust mit Champignonfarce in Portweinso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrüste</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbr&#252;ste</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Geflügelbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -47,26 +47,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die H&#252;hnerbr&#252;ste mit Salz und Pfeffer w&#252;rzen und von beiden Seiten kurz in etwas Butter anbraten und etwas garen.
+Die Champignons putzen und klein schneiden. Schalotten fein hacken und in Butter and&#252;nsten. Champignons zugeben und 5 Minuten mitd&#252;nsten. Anschlie&#223;end vom Herd nehmen. Sahne und Eier zugeben und fein p&#252;rieren. Mit Salz und Pfeffer abschmecken.
+Die dicken Rippen der Mangoldbl&#228;tter herausschneiden und den Mangold in leicht gesalzenem Wasser 1 Minute blanchieren. Mit Eiswasser abschrecken.
+Die Bl&#228;tter in Gr&#246;&#223;e der H&#252;hnerbr&#252;ste mit der Farce bestreichen. H&#252;hnerbr&#252;ste darauf setzen und die restliche Farce darauf verteilen. Zu Rollen wickeln und im vorgeheizten Backofen auf mittlerer Schiene bei 200&#176; 10 Minuten garen.
+Den Gefl&#252;gelfond bis auf wenige Essl&#246;ffel einkochen lassen. Portwein, Sherry und Creme fraiche zugeben. Abschmecken. Evtl. noch etwas einkochen lassen (bis die gew&#252;nschte Konsistenz erreicht ist).
+Die Mangoldrollen aus dem Ofen nehmen und mit Alufolie abgedeckt 5 Minuten ruhen lassen. Schr&#228;g mit dem elektrischen Messer in Scheiben schneiden und auf vorgew&#228;rmten Tellern mit der So&#223;e anrichten.
+Dazu hat uns ein Kartoffelgratin sehr gut geschmeckt. K&#246;nnte mir das Ganze aber auch mit Kroketten gut vorstellen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

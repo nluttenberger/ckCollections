@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1384761243577217">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-218f70e6-df1a-4efb-beaa-aae0b9ee28fe">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Nudelauflauf mit Mangold und Hackfleisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">süße Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,30 +35,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, geriebener, z.B. Gouda</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, geriebener, z.B. Gouda</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Nudeln in Salzwasser bissfest garen. Den Mangold waschen und klein schneiden. Die dickeren, hellen Mangoldstiele 5 Minuten in Salzwasser kochen, die gr&#252;nen Mangoldbl&#228;tter danach noch ca. 3 Minuten mitk&#246;cheln lassen. Dann den Mangold in ein Sieb abgie&#223;en.
+Die Sahne mit dem rohen Ei verr&#252;hren und mit Salz, Pfeffer sowie etwas Zucker w&#252;rzen und diese Mischung mit dem abgetropften Mangold verr&#252;hren. Je nach Geschmack alles zusammen mit einem Mixstab p&#252;rieren. So m&#246;gen es oft Kinder lieber. Es ergibt sich eine leckere, sahnige Mangoldcreme. Wer es aber lieber st&#252;ckiger mag, l&#228;sst das P&#252;rieren einfach weg.
+Das Hackfleisch mit der klein gew&#252;rfelten Zwiebel braun und kr&#252;melig braten und mit Salz, Pfeffer und Paprikapulver w&#252;rzen.
+Die gekochten Nudeln in eine gefettete Auflaufform f&#252;llen. Dar&#252;ber die Mangold-Mischung streichen, dann das Hackfleisch einschichten. Den geriebenen K&#228;se oben dr&#252;ber streuen. 20 Minuten bei 180 Grad im vorgeheizten Ofen &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

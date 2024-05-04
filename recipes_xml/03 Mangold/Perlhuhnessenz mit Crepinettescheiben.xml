@@ -1,32 +1,32 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2300101366791636">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cddfca45-41d5-4af6-8284-1c67326802cc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Perlhuhnessenz mit Crepinettescheiben</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="huhn">Perlhuhn</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 Körner</fr:igdtQuantity>
+        <fr:igdtQuantity>6 K&#246;rner</fr:igdtQuantity>
         <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferkörner</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="suppengemüse">Suppengrün</fr:igdtName>
+        <fr:igdtName ref="suppengem&#252;se">Suppengr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,7 +34,7 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -50,8 +50,8 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Staude</fr:igdtName>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Staude</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -62,43 +62,53 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
         <fr:igdtName ref="speck">Speck, fetter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="fleisch">Fleisch, das ausgelöste der Perlhuhnschenkel</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="fleisch">Fleisch, das ausgel&#246;ste der Perlhuhnschenkel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie, glatte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz, zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="huhn">Perlhuhn-Brüstchen, ausgelöst</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="huhn">Perlhuhn - Br&#252;stchen, ausgel&#246;st</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Cr&#234;pes:
+Das Mehl und Salz in eine Sch&#252;ssel geben. Das Ei zugeben und unter R&#252;hren die Milch hinzugie&#223;en, bis ein glatter Teig entsteht.
+Abdecken und bei Raumtemperatur 30 Minuten ruhen lassen.
+Die Butter bei geringer Temperatur in einer flachen, nicht zu gro&#223;en, Pfanne zerlassen und die Pfanne damit ausschwenken. Die &#252;bersch&#252;ssige Butter in eine Sch&#252;ssel gie&#223;en, sie wird sp&#228;ter noch ben&#246;tigt. Eine kleine Kelle Teig in die Pfanne geben. Den Boden der Pfanne damit d&#252;nn ausschwenken. 1 Minute backen, bis die Unterseite goldbraun ist. Cr&#234;pe wenden und weiter etwa 30- 40 Sekunden backen, bis auch die andere Seite goldbraun ist.
+So den gesamten Teig verarbeiten.
+F&#252;r die Cr&#234;pinette die Mangoldbl&#228;tter blanchieren und in eiskaltem Wasser abschrecken und trockentupfen.
+Aus dem Fleisch der Schenkel mit Ei, Sahne, Speck und Gew&#252;rzen im Mixer eine Farce herstellen.
+Die Petersilie hacken und unter die Farce mischen. Aus der Farce ein Probekl&#246;&#223;chen garen und abschmecken.
+Die Perlhuhnbr&#252;ste in 4 recht gleichm&#228;&#223;ige Streifen schneiden, mit Salz und Pfeffer w&#252;rzen und leicht in Butterschmalz kurz anbraten.
+Die Cr&#234;pe mit Mangoldbl&#228;ttern belegen, darauf die Farce streichen, dabei einen Rand frei lassen und die Streifen von der Perlhuhnbrust darauflegen. Fest aufrollen und doppelt erst in Frischhaltefolie und dann in Alufolie einschlagen, die Enden der Folie fest verdrehen. Diese Rollen im Wasserbad knapp unterm Siedepunkt etwa 20 Minuten garen. Abk&#252;hlen lassen, auspacken und in Scheiben schneiden.
+In die fertige Essenz geben und mit gehackter Petersilie bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

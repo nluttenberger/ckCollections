@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1330031237877922">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9736afc6-687e-4ab0-bc8d-9c912ac7c9ed">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Überbackene Crêpes mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>&#220;berbackene Cr&#234;pes mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
@@ -22,8 +22,8 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">Sahnequark</fr:igdtName>
+        <fr:igdtName ref="quark">Sahnequark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -47,30 +47,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), stückige, aus der Dose</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), st&#252;ckige, aus der Dose</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="schmand">Schmand</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Milch mit Mehl, Eiern und &#189; TL Salz verr&#252;hren. Den Teig 30 Minuten quellen lassen, dann die Butter schmelzen und 2 EL davon unterr&#252;hren. Eine Pfanne erhitzen, jeweils mit etwas von der restlichen Butter einpinseln und nacheinander 8 d&#252;nne Cr&#234;pes backen.
+Den Mangold waschen, putzen, in Streifen schneiden und ca. 4 Minuten blanchieren. Abtropfen lassen und mit Quark, 50 g Parmesan und dem durchgepresstem Knoblauch verr&#252;hren, mit Salz und Pfeffer w&#252;rzen.
+Die st&#252;ckigen Tomaten mit dem &#214;l mischen, mit Salz und Pfeffer w&#252;rzen und in eine gefettete Auflaufform geben. Die Cr&#234;pes mit der Mangoldf&#252;llung bestreichen, einrollen und auf die Tomaten setzen. Den Schmand dar&#252;ber verteilen, mit dem restlichen K&#228;se bestreuen und im hei&#223;en Ofen bei 200&#176;C, Gas Stufe 3, etwa 30 Minuten backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

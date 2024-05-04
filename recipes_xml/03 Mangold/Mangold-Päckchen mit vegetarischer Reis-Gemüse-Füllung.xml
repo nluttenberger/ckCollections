@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3180761473404710">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-397cc90d-e0bc-4116-a462-aba0524586ad">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Päckchen mit vegetarischer Reis-Gemüse-Füllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-P&#228;ckchen mit vegetarischer Reis-Gem&#252;se-F&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="reis">Reis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtQuantity>8 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -31,34 +31,40 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="herbes_de_provence">Kräuter der Provence, getrocknet</fr:igdtName>
+        <fr:igdtName ref="herbes_de_provence">Kr&#228;uter der Provence, getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter oder vegane Margarine</fr:igdtName>
+        <fr:igdtName ref="pflanzenfett">Butter oder vegane Margarine</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Als erstes den Reis kochen. Ich bereite ihn in einem speziellen Mikrowellenbeh&#228;lter zu. Auf 100 g Reis kommen 165 ml Wasser. Beides zusammen 10 Minuten bei 800 Watt garen, anschlie&#223;end beiseite stellen. Selbstverst&#228;ndlich kann der Reis auch auf herk&#246;mmliche Art zubereitet werden. Dabei die Packungsanweisungen des Herstellers beachten.
+Vom Mangold den Strunk entfernen. Dadurch fallen die Bl&#228;tter auseinander. Die Bl&#228;tter waschen und 8 sch&#246;ne und gro&#223;e  Bl&#228;tter heraussuchen. Hiervon den dicken Teil des Stiels herausschneiden. Die Bl&#228;tter in 1 l kochendem Salzwasser etwa 1 Minuten blanchieren, abgie&#223;en und mit kaltem Wasser abschrecken. Die Bl&#228;tter in einem Sieb abtropfen lassen.
+Die Mangold-Stiele wie Rhabarber abziehen. Dann die Stiele in feine St&#252;ckchen schneiden oder in einer K&#252;chenmaschine zerkleinern. Die Fr&#252;hlingszwiebeln s&#228;ubern und in feine Ringe schneiden. Die Chilischoten entkernen und mit dem Messer in ganz feine St&#252;ckchen schneiden oder in der K&#252;chenmaschine zusammen mit dem Mangold zerkleinern.
+Das &#214;l in einer Pfanne erhitzen. Die Mangoldst&#252;ckchen und die Chili darin braten und mit den Kr&#228;utern der Provence, Salz, Pfeffer und Paprikapulver w&#252;rzen. Die Fr&#252;hlingszwiebeln und die Tomaten dazugeben und etwa 3 Minuten d&#252;nsten lassen. Dabei gelegentlich umr&#252;hren. Dann den Reis hinzuf&#252;gen und alles gut vermischen. Die Mischung nochmals pikant abschmecken und die Pfanne vom Herd nehmen.
+Die abgetropften und blanchierten Mangoldbl&#228;tter auf ein Schneidebrett legen und einen Essl&#246;ffel Reismischung in die Mitte geben. Zwei gegen&#252;berliegende Seiten des Mangolds etwas &#252;ber die Reismischung klappen, dann von rechts und links zuklappen, so dass ein P&#228;ckchen entsteht.
+Die Butter oder vegane Margarine in einer Pfanne erhitzen und die P&#228;ckchen kurz von beiden Seiten braten.
+Als Hauptgericht hat diese Menge bei uns f&#252;r eine Person gereicht.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

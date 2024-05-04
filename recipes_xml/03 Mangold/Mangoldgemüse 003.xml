@@ -1,0 +1,58 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-deedfcd8-cd65-4ad7-be41-fe19957f5dcd">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldgem&#252;se 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch, gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="harissa">Gew&#252;rzpaste (Harissa) oder Chili</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="k&#252;rbiskern&#246;l">&#214;l (K&#252;rbiskern&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Bl&#228;tter von Stielen trennen. Die Bl&#228;tter in Streifen schneiden und 3 Min. in Salzwasser blanchieren. Dann ausdr&#252;cken.
+Das Oliven&#246;l in der Pfanne oder im Wok erhitzen. Die Stiele fein w&#252;rfeln und darin bei m&#228;&#223;iger Hitze langsam glasig anschwitzen. Den gehackten Knblauch unterheben. Chili oder Harissa dazugeben und mit den ausgedr&#252;ckten Bl&#228;ttern untermischen.
+Mit Salz, Pfeffer, Zitrone und Muskat w&#252;rzen und mit etwas K&#252;rbiskern&#246;l betr&#228;ufeln. Schmeckt warm und kalt sehr gut.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

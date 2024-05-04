@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2180121350041224">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-eb8b21c0-3702-4bfc-a14e-311e5371a5dc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Feine Gemüselasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Feine Gem&#252;selasagne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zweig/e</fr:igdtQuantity>
@@ -55,19 +55,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="basilikum">Basilikum, frische Blätter</fr:igdtName>
+        <fr:igdtName ref="basilikum">Basilikum, frische Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="zucker">Würfelzucker</fr:igdtName>
+        <fr:igdtQuantity>2 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">W&#252;rfelzucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -75,7 +75,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
@@ -87,42 +87,52 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="ricotta">Ricotta, oder selbst gemachter Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Ricotta, oder selbst gemachter Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, selbst gemacht oder Instant</fr:igdtName>
+        <fr:igdtQuantity>2 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, selbst gemacht oder Instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Paket</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Lasagneplatte(n) oder Maultaschenteig aus dem Kühlregal</fr:igdtName>
+        <fr:igdtName ref="nudeln">Lasagneplatte(n) oder Maultaschenteig aus dem K&#252;hlregal</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="mozzarella">Mozzarella, (Büffel-)</fr:igdtName>
+        <fr:igdtName ref="mozzarella">Mozzarella, (B&#252;ffel-)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="parmesan">Parmesan, einige blättrig geschnittene Scheibchen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="parmesan">Parmesan, einige bl&#228;ttrig geschnittene Scheibchen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Tomatenso&#223;e so zubereiten:
+Karotten raspeln, mit gew&#252;rfelten Zwiebelst&#252;cken in Oliven&#246;l and&#252;nsten und dann mit dem Rotwein abl&#246;schen. Getrocknete Tomaten dazu geben, ein Weilchen mitkochen. Pizzatomaten/passierte Tomaten, Knoblauch, Thymian, Rosmarin, Chili (ganz oder sehr klein geschnitten), restl. Gew&#252;rze und Zucker dazugeben und ca. 25 Min. bei mittlerer Hitze kochen lassen. Zum Schluss Basilikum zerpfl&#252;cken und in die Sauce geben (sollte nicht mitgekocht werden). Am besten &#252;ber Nacht ziehen lassen (aber kein Muss!)
+Die Gem&#252;sef&#252;llung so herstellen:
+Spinatbl&#228;tter und in grobe St&#252;cke geschnittenen Mangold blanchieren und abtropfen lassen (die Stiele vom Mangold kann man ruhig, in mundgerechte St&#252;ckchen geschnitten, mitverwenden. Evtl. Reste d&#252;nste ich an und f&#252;ge sie erkaltet einem Salat bei). Bei Verwendung von gefrorenem Spinat sollte dieser aufgetaut sein und m&#246;glichst wenig Fl&#252;ssigkeit enthalten, notfalls gut ausdr&#252;cken.
+Das abgek&#252;hlte Gem&#252;se in eine Sch&#252;ssel geben. Schafsk&#228;se in kleine W&#252;rfel schneiden und zusammen mit Ricotta, Muskat und der Gem&#252;sebr&#252;he dazugeben und vermengen.
+Nudeln bereit legen/Maultaschenteig auf die Gr&#246;&#223;e einer gr&#246;&#223;eren Auflaufform zuschneiden (ca. 4-5 Lagen). Eine gr&#246;&#223;ere Auflaufform mit ein wenig Oliven&#246;l einfetten, 1 gro&#223;e Kelle Tomatensauce darin verteilen, dann 1 Lage Nudeln/Teig darauf legen.
+Gem&#252;semischung dar&#252;ber verteilen, wieder mit einer Lage Teig bedecken. Abwechselnd Tomatensauce und Gem&#252;se auf die Teiglagen geben.
+Die letzte Lage sollte Tomatensauce sein, die dann mit B&#252;ffelmozzarella-Scheiben belegt wird. Zum Schluss gehobelten Parmesan dar&#252;ber verteilen (wird sch&#246;n knusprig).
+Im vorgeheizten Ofen bei 180&#176;C Umluft ca. 45-60 Min. &#252;berbacken
+(die ersten 30 Min. mit durchl&#246;cherter Alufolie bedecken!)
+Dazu schmeckt ein knackiger Blattsalat, z.B. Endivie</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

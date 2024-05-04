@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2316531369311336">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-28e0a07a-503b-4e57-96d3-12768e025c62">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Nudelgericht mit Thunfisch für Babys ab ca. 10 Monaten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Nudelgericht mit Thunfisch f&#252;r Babys ab ca. 10 Monaten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Nudeln (Suppen-), oder andere kleine Nudeln</fr:igdtName>
@@ -18,20 +18,20 @@
         <fr:igdtName ref="mangold">Mangold, oder Spinat, oder Erbsen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="thunfisch">Thunfisch, in Öl, 52 g Abtropfgewicht</fr:igdtName>
+        <fr:igdtName ref="thunfisch">Thunfisch, in &#214;l, 52 g Abtropfgewicht z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Kräuterfrischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Kr&#228;uterfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl, oder Rapsöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l, oder Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -39,18 +39,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, italienische, n.B.</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, italienische, n.B.</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Nudeln in etwas Salzwasser weich kochen und abgie&#223;en.
+Den Mangold oder Spinat kleinschneiden und in &#214;l anschwitzen, evtl. zusammen mit der klein geschnittenen Zwiebel. Dann ca. 1/2 Tasse Wasser zugie&#223;en und das Gem&#252;se weichd&#252;nsten. Anschlie&#223;end den Thunfisch (&#214;l etwas abgie&#223;en, aber ruhig einen Rest lassen) und Frischk&#228;se zugeben, evtl. mit Kr&#228;utern w&#252;rzen, gut verr&#252;hren bis der Frischk&#228;se zerlaufen ist, die So&#223;e aber nicht mehr kochen lassen. Zum Schluss die weich gekochten Nudeln zuf&#252;gen und servieren.
+Ergibt ca. 2-3 Portionen und ist f&#252;r Babys ab ca. 10 Monaten geeignet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

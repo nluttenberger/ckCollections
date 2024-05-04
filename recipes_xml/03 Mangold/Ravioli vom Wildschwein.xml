@@ -1,26 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4157621663779192">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b8a51a69-362b-4e7e-8393-30a962f766ae">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ravioli vom Wildschwein</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName ref="wildschwein">Wildschweinbauch</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName ref="schweineschmalz">Schweineschmalz</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
-      </fr:igdtListLine>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="wildschwein">Wildschweinbauch</fr:igdtName>
@@ -43,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName ref="piment">Pimentkörner</fr:igdtName>
+        <fr:igdtName ref="piment">Pimentk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -51,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
@@ -66,7 +54,7 @@
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -75,18 +63,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>2 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="salbei">Salbei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>2 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -114,12 +102,12 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>16 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="wildschwein">Wildschwein-Lardo, dünn aufgeschnitten</fr:igdtName>
+        <fr:igdtName ref="wildschwein">Wildschwein-Lardo, d&#252;nn aufgeschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -129,12 +117,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Wildschweinbauch in einen gro&#223;en Br&#228;ter mit Deckel geben und mit dem Schmalz bedecken. Den Knoblauch andr&#252;cken und zusammen mit den Gew&#252;rzen und den gewaschenen Kr&#228;uterzweigen in den Topf geben. Den geschlossenen Br&#228;ter in den Backofen stellen und bei 90 &#176;C Ober- und Unterhitze circa 5&#8211;7 Stunden garen. Den Schweinebauch nach Ende der Garzeit herausnehmen und mit 2 Gabeln zerrupfen.
+Karotte und Sellerie putzen und fein w&#252;rfeln. In einer Pfanne mit etwas &#214;l anbraten, mit 500 Millilitern Br&#252;he aufgie&#223;en und 30 Minuten schmoren lassen. Salbei und Petersilie fein hacken. Den geschmorten Knoblauch aus dem Schmalz nehmen und ebenfalls hacken. Das geschmorte Gem&#252;se und die frischen Kr&#228;uter in die Schweinebauchmasse geben.
+Den Nudelteig d&#252;nn ausrollen und mit einem Ausstecher 8 gleich gro&#223;e Kreise ausstechen. 4 der Kreise mit etwas Ei bepinseln und je 1 Essl&#246;ffel von der Schweinebauchf&#252;llung daraufgeben. Die anderen 4 Kreise auf die Masse legen, sodass sie mit dem unteren Kreis &#252;bereinstimmen. Den oberen Nudelteig von innen nach au&#223;en auf den unteren Nudelteig andr&#252;cken, sodass fest verschlossene Taschen entstehen und sich keine Luft mehr im Inneren des Ravioli befindet.
+Die Aprikosen halbieren, den Stein entfernen und in Ecken schneiden. Auf einer Grillplatte von beiden Seiten ohne &#214;l anbraten. Mit etwas Zucker bestreuen und karamellisieren lassen. Den Mangold waschen, die unteren Enden abschneiden, blanchieren und in einer Pfanne mit 1 Essl&#246;ffel Butter schwenken. Mit Salz und Pfeffer w&#252;rzen. Die Ravioli in reichlich gesalzenem Wasser 5 Minuten lang kochen. Herausnehmen, in einen Topf mit 1 Essl&#246;ffel Butter schwenken und sofort anrichten.
+Den Mangold an die Ravioli anlegen, die gegrillten Aprikosen darauf drapieren. Den Wildschwein-Lardo ebenfalls anrichten. Mit Eisenkraut dekorieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

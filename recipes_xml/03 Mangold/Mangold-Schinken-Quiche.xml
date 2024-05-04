@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1643261271921339">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-da5910bb-c469-4813-9903-313f75356142">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Schinken-Quiche</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -26,15 +26,15 @@
         <fr:igdtName ref="essig">Essig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -42,7 +42,7 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, geriebener</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
@@ -70,19 +70,25 @@
         <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paniermehl">Fett und Semmelbrösel für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paniermehl">Fett und Semmelbr&#246;sel f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl mit der in St&#252;ckchen geschnittenen Butter, dem Wasser, dem Essig und 1 TL Salz zu einem Teig verkneten. Eine Springform (26 cm Durchmesser) fetten und mit Semmelbr&#246;seln ausstreuen, die Form mit dem Teig auskleiden und den Teig mit einer Gabel mehrmals einstechen. Den Ofen auf 200&#176;C vorheizen und den Teig zehn Minuten vorbacken.
+F&#252;r die F&#252;llung den Mangold klein schneiden, die Bl&#228;tter kann man ruhig etwas gr&#246;&#223;er lassen, die harten Stiele in d&#252;nne Streifen schneiden. Die Zwiebeln und den Kochschinken w&#252;rfeln und den Knoblauch durch die Presse dr&#252;cken.
+In einem Topf Butterschmalz zerlassen, Zwiebeln und Mangold hinzugeben und sanft braten. Wenn die Mangoldstiele weich sind, den Knoblauch und den Schinken hinzugeben und kurz mitbraten. Die Masse vom Herd nehmen und etwas abk&#252;hlen lassen.
+Die Eier mit Salz, Pfeffer und Parmesan verquirlen.
+Auf den vorgebackenen Boden zuerst einige Tomatenscheiben legen, darauf den klein geschnittenen Gorgonzola verteilen. Darauf die Mangoldmasse geben, mit Reibk&#228;se bestreuen und oben darauf die restlichen Tomatenscheiben legen. Zum Schluss die verquirlten Eier dar&#252;ber gie&#223;en.
+Die Quiche bei 180&#176;C Ober-/Unterhitze ca. 45 Minuten backen. Warm mit einem gemischten Salat servieren.
+Die Quiche ist auch in etwas abgewandelten Varianten sehr lecker, z. B. f&#252;r Vegetarier ohne Schinken. Oder mit Lachs anstelle von Schinken oder Schafsk&#228;se anstelle von Gorgonzola oder z. B. mit Pinienkernen. Man kann sie auch kalt zum B&#252;fett servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

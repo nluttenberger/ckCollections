@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3533441527686519">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a95b6c8d-5020-4722-a0d8-5906b35db534">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Frittata mit Erbsen und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -23,23 +23,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
-        <fr:igdtName ref="blumenkohl">Blumenkohlröschen</fr:igdtName>
+        <fr:igdtName ref="blumenkohl">Blumenkohlr&#246;schen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="räucherspeck">Bacon</fr:igdtName>
+        <fr:igdtName ref="r&#228;ucherspeck">Bacon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch oder Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="cheddar">Cheddarkäse, gerieben</fr:igdtName>
+        <fr:igdtName ref="cheddar">Cheddark&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Bauchspeck, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Bauchspeck, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -69,12 +69,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Ofen auf 180 &#176;C Ober-/Unterhitze vorheizen.
+Den Blumenkohl mit einem starken Standmixer in Schritten so zerkleinern, dass er etwa Reiskorngr&#246;&#223;e hat. Anschlie&#223;end ca. 4 min bei 600 Watt in der Mikrowelle vorgaren. Etwas abk&#252;hlen lassen.
+Den Mangold kleinschneiden und ca. 5 min blanchieren.
+In der Zwischenzeit die Eier, das Backpulver, den geriebenen K&#228;se, die Milch und den Blumenkohlreis in einer Sch&#252;ssel mischen. Mit einem Schneebesen zu einer gleichm&#228;&#223;igen Masse verr&#252;hren und w&#252;rzen.
+In einer f&#252;r den Ofen geeigneten Pfanne oder Topf den Bauchspeck, die Erbsen und den Mangold anbraten. Die Eiermasse &#252;ber das Gem&#252;se geben, dann den Bacon gleichm&#228;&#223;ig dar&#252;ber legen. Thymianbl&#228;ttchen abzupfen, Gorgonzola in kleine St&#252;cke schneiden und ebenfalls dar&#252;ber geben.
+In den hei&#223;en Backofen geben und f&#252;r 25 min backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

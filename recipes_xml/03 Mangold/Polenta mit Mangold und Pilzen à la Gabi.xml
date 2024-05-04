@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3542741529700505">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-04669c78-fa4d-4b3f-8b67-78eaa40b7302">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Polenta mit Mangold und Pilzen à la Gabi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Polenta mit Mangold und Pilzen &#224; la Gabi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="milch">Hafermilch (Haferdrink)</fr:igdtName>
+        <fr:igdtName ref="hafer">Hafermilch (Haferdrink)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>650 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsefond</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -31,30 +31,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Hafermilch und 500 ml Gem&#252;sefond in einem Topf aufkochen. Die Polenta einr&#252;hren, ca. 5 Min. k&#246;cheln lassen und mit Salz und Pfeffer w&#252;rzen. In eine ausgefettete 20 cm Kastenform f&#252;llen und &#252;ber Nacht kalt stellen.
+1 EL &#214;l in einer Pfanne erhitzen und die Schalotten hierin bei mittlerer Hitze 5 Min. braten. Den restlichen Gem&#252;sefond angie&#223;en, mit Salz w&#252;rzen, die Champignons zugeben und aufkochen. Den Mangold kurz unterheben und evtl. nachw&#252;rzen.
+Die Polenta auf eine Platte st&#252;rzen und in 2 cm dicke Scheiben schneiden. Etwas &#214;l in einer Pfanne oder evtl. auch Grillpfanne erhitzen und die Scheiben darin von jeder Seite 3 - 4 Min. braten.
+Alles auf Tellern anrichten und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

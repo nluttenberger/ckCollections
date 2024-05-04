@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2424471382473223">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6888363c-2af8-41fa-899f-1d8dcaafca02">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Polenta-Mangold-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="polenta">Polenta, instant</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -46,27 +46,33 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Als erstes wird der Mangold geputzt. Die Stiele in ganz feine St&#252;cke schneiden, die Bl&#228;tter in etwas gr&#246;&#223;ere St&#252;cke. Alles zusammen gut waschen und tropfnass in einem gro&#223;en Topf mit etwas Salz blanchieren. Danach in ein Sieb gie&#223;en und bis zur weiteren Verarbeitung stehen lassen.
+Die Milch zusammen mit der Gem&#252;sebr&#252;he aufkochen lassen und dann langsam den Maisgrie&#223; einr&#252;hren. Unter st&#228;ndigem R&#252;hren fertig kochen. Die Dauer h&#228;ngt vom Produkt ab (steht auf der Packung). Ich verwende Instant-Polenta, diese ist nach ca. 10 Minuten fertig. Zum Schluss mit Butter verfeinern und mit Muskat abschmecken.
+Die Zwiebel und den Knoblauch klein schneiden und in etwas Oliven&#246;l d&#252;nsten. Wenn sie glasig sind, den Mangold dazu geben und alles zusammen ca. 5 Minuten d&#252;nsten. Die Sahne zum Mangold geben und mit Salz, Pfeffer und Muskat abschmecken.
+In eine Auflaufform abwechselnd zuerst eine d&#252;nne Schicht Polenta streichen, dann etwas Mangold darauf und dar&#252;ber Feta br&#246;seln. So lange abwechselnd einschichten bis alles aufgebraucht ist. Mit Polenta abschlie&#223;en. Der Auflauf kommt dann noch f&#252;r 15-20 Minuten bei 200 Grad in den Backofen.
+Dazu schmeckt ein gr&#252;ner Salat und ein Glas Wei&#223;wein.
+Tipps:
+Man kann auch ger&#246;stete Pinienkerne untermischen oder statt Feta Parmesan verwenden. Mit Salami, Schinken oder Speck verfeinert schmeckt es auch.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

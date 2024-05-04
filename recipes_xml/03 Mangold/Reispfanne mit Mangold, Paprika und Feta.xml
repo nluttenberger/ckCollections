@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3340971496418358">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d02ae4c6-b840-4131-b9dd-232ae0ac3514">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Reispfanne mit Mangold, Paprika und Feta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="reis">Reis</fr:igdtName>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
@@ -43,15 +43,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="herbes_de_provence">Kräuter der Provence</fr:igdtName>
+        <fr:igdtName ref="herbes_de_provence">Kr&#228;uter der Provence</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -62,19 +62,27 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, fettreduziert</fr:igdtName>
+        <fr:igdtQuantity>&#189; Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, fettreduziert</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis mit dem Wasser aufsetzen und nach Packungsanweisung gar kochen. Zur Seite stellen.
+Den Mangold waschen und von den Stielen befreien (diese aufheben). Je nach Gr&#246;&#223;e der Bl&#228;tter m&#252;ssen die Stiele wie Rhabarber enth&#228;utet werden. Wenn es junger Mangold ist, ist dies nicht n&#246;tig.
+Die Bl&#228;tter in etwa 3 cm breite Streifen und die Stiele in kleine W&#252;rfelchen schneiden. Beides getrennt zur Seite stellen.
+Die Zwiebel abziehen und in kleine W&#252;rfel schneiden. Die Tomaten und Paprika waschen und grob zerkleinern (ca. 2 x 2 cm). Den Feta in kleine W&#252;rfel schneiden.
+Das Raps&#246;l in einer Pfanne erhitzen. Zwiebelw&#252;rfel und gew&#252;rfelte Mangoldstiele mit dem Knoblauchmus unter R&#252;hren anbraten, bis die Zwiebeln glasig sind.
+Die Paprika- und Tomatenw&#252;rfel hinzugeben und mit den Kr&#228;utern der Provence, Salz, Pfeffer und Paprikapulver w&#252;rzen.
+Wenn die Paprika noch bissfest ist, den Reis hinzuf&#252;gen. Wenn die Masse zu trocken ist, etwas Wasser angie&#223;en. Das Tomatenketchup dazugeben und alles gut durchmischen.
+Dann die Mangoldbl&#228;tter und den Feta unterheben und noch circa 2 Minuten mitkochen lassen.
+Dazu passt sehr gut gebratener Lachs oder auch ein Spiegelei.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

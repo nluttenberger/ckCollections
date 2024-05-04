@@ -1,45 +1,45 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3190231474819804">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-09403c52-25ae-40e7-9f1b-1b785d781047">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Bunter Salat mit Zichorie, Blutampfer und Babymangold im Petersilien-Senf-Dressing</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Kopf</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Kopf</fr:igdtQuantity>
         <fr:igdtName ref="zichorie">Zichorie(n), in Streifen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, kleine Blätter (Babymangold)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, kleine Bl&#228;tter (Babymangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="blutampfer">Blutampfer, kleine Blätter</fr:igdtName>
+        <fr:igdtName ref="blutampfer">Blutampfer, kleine Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n), geraspelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="gurke">Salatgurke(n), gehobelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote(n), gelb oder rot, gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="paprika">Paprikaschote(n), gelb oder rot, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 große</fr:igdtQuantity>
-        <fr:igdtName ref="radieschen">Radieschen, blättrig geschnitten</fr:igdtName>
+        <fr:igdtQuantity>6 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="radieschen">Radieschen, bl&#228;ttrig geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -55,30 +55,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="walnussöl">Walnussöl</fr:igdtName>
+        <fr:igdtName ref="walnuss&#246;l">Walnuss&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie oder mehr, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="süßstoff">Süßstoff</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="s&#252;&#223;stoff">S&#252;&#223;stoff</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Dressing verr&#252;hren und abschmecken.
+Die vorbereiteten Zutaten mit dem Dressing vermengen und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

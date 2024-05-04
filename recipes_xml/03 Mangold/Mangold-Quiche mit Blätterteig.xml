@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1793731289929287">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0e0a0937-21ad-4967-b63d-b472896aad70">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Quiche mit Blätterteig</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Quiche mit Bl&#228;tterteig</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -39,19 +39,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse, z.B. Gruyère</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, z.B. Gruy&#232;re</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, rund</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, rund</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -61,12 +61,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold waschen. Mangoldbl&#228;tter abtrennen und in feine Streifen schneiden. Stiele w&#252;rfeln.
+Die fein gew&#252;rfelte Zwiebel zusammen mit den gew&#252;rfelten Mangoldstielen und einer Prise Zucker in 2 El &#214;l und and&#252;nsten. Die Mangoldsteifen hinzuf&#252;gen und kurz mitd&#252;nsten. Mit Muskat, Pfeffer und Salz w&#252;rzen.
+50 g Pinienkerne in einer fettfreien Pfanne leicht anr&#246;sten und zu der Mangoldmischung geben.
+Milch, Sahne und Eier verquirlen, 60 g Bergk&#228;se einr&#252;hren und mit Muskat, Pfeffer und Salz w&#252;rzen.
+Bl&#228;tterteigplatte auf die passende Gr&#246;&#223;e ausrollen und in die gefettete Tarteform legen. Teig am Rand der Form leicht andr&#252;cken, &#252;bersch&#252;ssigen Teig abschneiden.
+Mangold auf dem Bl&#228;tterteig verteilen. Eiersahne dar&#252;ber geben, mit 40 g Bergk&#228;se bestreuen.
+Bei 200 &#176;C Ober-/Unterhitze 10 Minuten auf dem Boden des Backofens und danach 20-25 Minuten auf der unteren Schiene backen. Die Quiche ist fertig, wenn sie eine goldbraune Oberfl&#228;che hat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

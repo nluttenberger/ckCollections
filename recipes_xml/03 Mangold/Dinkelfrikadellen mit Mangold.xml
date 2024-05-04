@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3175961472658328">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-590e9fa4-25e1-44f1-b090-2d85257d258c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Dinkelfrikadellen mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="dinkel">Dinkelschrot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,7 +26,7 @@
         <fr:igdtName ref="gouda">Gouda, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,12 +34,12 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 EL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), getrocknet und in Öl eingelegt</fr:igdtName>
+        <fr:igdtQuantity>3 EL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknet und in &#214;l eingelegt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
@@ -58,31 +58,36 @@
         <fr:igdtName ref="senf">Senf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paniermehl">Paniermehl</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Dinkel in einen Kochtopf geben, mit 500 ml Gem&#252;sebr&#252;he &#252;bergie&#223;en, aufkochen. Ca. 2 Minuten sprudelnd kochen, danach auf kleinster Stufe auf dem Herd 20 Minuten lang k&#246;cheln lassen und gelegentlich umr&#252;hren.
+In der Zwischenzeit die Mangoldbl&#228;tter, Zwiebel, Knoblauch und getrocknete Tomaten klein hacken.
+Den gekochten und gequollenen Dinkel mit dem klein gehackten Gem&#252;se mischen und so lange ziehen lassen, bis die Masse abgek&#252;hlt ist.
+Nach dem Abk&#252;hlen die Eier hinzuf&#252;gen und mit den restlichen Zutaten gut vermischen und nach Geschmack mit Pfeffer, Paprika- und Chillipulver w&#252;rzen. Falls die Masse nicht gut genug zusammenklebt, etwas mehr Mehl hinzuf&#252;gen.
+Mit angefeuchteten H&#228;nden 12 gro&#223;e und nicht zu d&#252;nne Frikadellen formen, nach Geschmack in Paniermehl wenden und in der Pfanne mit etwas &#214;l von jeder Seite 4 Minuten ausbacken.
+Dazu passt ein selbstgemachter Kr&#228;uterquark und Tomatensalat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,111 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c6b693fb-43c6-409c-88b9-cc420ee4cd48">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldkuchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>175 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, (Zimmertemperatur)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="sultaninen">Korinthen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="sultaninen">Rosinen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="weinbrand">Schnaps (Marc de Provence, ersatzweise Grappa oder einen anderen Weinbrand)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>700 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker, braun</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitrone(n), unbehandelte (Schale)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;er</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="apfel">&#196;pfel, s&#228;uerliche (z.B. Boskop)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl, zum Ausrollen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett, f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="zucker">Puderzucker, zum Best&#228;uben</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig das Mehl in eine Sch&#252;ssel geben. Die kleingeschnittene Butter, Zucker, Ei und Salz hinzuf&#252;gen. Alles mit den Knethaken des Handr&#252;hrers verr&#252;hren. Dann rasch mit den H&#228;nden zu einer geschmeidigen Teigkugel formen und 30 Minuten kalt stellen. Wenn der Teig zu br&#252;chig ist, etwas Wasser unterkneten.
+Inzwischen f&#252;r die F&#252;llung Korinthen und Rosinen in ein Sieb geben, kalt absp&#252;len und gut abtropfen lassen. Beides mit dem Trester in eine Sch&#252;ssel geben und marinieren lassen.
+Den Mangold putzen, daf&#252;r die wei&#223;en Stiele entfernen. Die gr&#252;nen Bl&#228;tter (ca. 300 g) waschen und in kochendem Wasser einmal aufkochen lassen. Gut abtropfen lassen. Die Bl&#228;tter auf einem Brett grob hacken und in eine Sch&#252;ssel geben.
+Den Parmesan, die Eier, den Zucker, die Pinienkerne, das Oliven&#246;l, die abgeriebene Zitronenschale und etwas Pfeffer zum gehackten Mangold geben.
+Die eingeweichten Korinthen und Rosinen mit dem restlichen Trester aus der Sch&#252;ssel ebenfalls zum Mangold geben und alles gut vermischen.
+Den Backofen auf 200 Grad vorheizen. Den Teig auf bemehlter Arbeitsfl&#228;che etwas kneten, um ihn geschmeidig zu machen. Eine Tarte- oder Springform (24 cm) ausfetten. 2/3 des Teiges abnehmen und etwa 3 cm gr&#246;&#223;er als die Form ausrollen. Den Teig in die Form legen und dabei einen 3 cm hohen Rand hochziehen. Die Mangold-K&#228;semasse gleichm&#228;&#223;ig auf dem Boden verteilen.
+Die &#196;pfel waschen, sch&#228;len und in feine Scheiben schneiden. Dann auf dem Mangold verteilen. Das restliche Teigdrittel etwas gr&#246;&#223;er als die Form ausrollen und auf die &#196;pfel legen. Den Teigdeckel rundherum mit dem Teigrand fest zusammendr&#252;cken, am besten mit einer Gabel. Die Oberseite der Tourte gleichm&#228;&#223;ig mit einer Gabel einstechen, damit der entstandene Dampf entweichen kann.
+Im Ofen auf der unteren Schiene 30-40 Minuten knusprig braun backen.  Herausnehmen und noch hei&#223; mit Puderzucker best&#228;uben. Schmeckt hei&#223; oder kalt.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

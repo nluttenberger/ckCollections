@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-664541168346166">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3108a224-89e5-4274-ad3e-c400cb3d62da">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Cannelloni con Bietola e Ricotta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ¼ kg</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#188; kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="majoran">Majoran</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="pecorino">Käse, Pecorino</fr:igdtName>
+        <fr:igdtName ref="pecorino">K&#228;se, Pecorino</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -69,12 +69,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und anschlie&#223;end im gesalzenen Wasser ca. 6 &#8211; 8 Minuten blanchieren.
+Den Mangold ausdr&#252;cken und sehr fein scheiden. Diesen dann in 40 g hei&#223;er Butter ca. 5 Minuten d&#252;nsten. Die Knoblauchzehen abziehen und durch die Knoblauchpresse dazu dr&#252;cken. Mit Salz und Pfeffer sowie dem Majoran w&#252;rzen. Den Mangold dann abtropfen und abk&#252;hlen lassen.
+Den Ricotta sowie den geriebenen Pecorino unter die Mangoldmasse geben und alles noch einmal abschmecken.
+Die Tomaten kurz in kochendes Wasser geben und anschlie&#223;end h&#228;uten. Diese anschlie&#223;end w&#252;rfeln.
+Die restliche Butter in einer Pfanne erhitzen, das Mehl darin anschwitzen und die Milch dazu geben. Das Ganze dann unter R&#252;hren ca. 5 Minuten kochen lassen. Den Topf dann von der Kochstelle nehmen und das Eigelb unterr&#252;hren.
+Die Mangoldmasse in die Cannellonis f&#252;llen und diese dann in eine gefettete Auflaufform geben. Die Sauce dar&#252;ber geben, die Tomatenw&#252;rfel dar&#252;ber verteilen, mit Parmesank&#228;se bestreuen und bei 200&#176; Grad, 35 Minuten &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

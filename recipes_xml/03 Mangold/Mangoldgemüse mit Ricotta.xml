@@ -1,28 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2190151351507932">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bbda6004-1125-4d95-a8b7-f02602bf013e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldgemüse mit Ricotta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldgem&#252;se mit Ricotta</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, ungeputzt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), gelb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n), fest</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,35 +30,39 @@
         <fr:igdtName ref="ricotta">Ricotta, fest</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitronensaft, frisch gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und putzen. Hierf&#252;r die Bl&#228;tter abschneiden und grob hacken, die Stiele in feine Streifen schneiden. Die vorbereitete Zucchini, die Paprikaschote, sowie die Tomaten w&#252;rfeln. Die Basilikumbl&#228;tter abzupfen und nach Belieben in Streifen schneiden, ein paar ganze f&#252;r die Dekoration aufheben.
+Nun den Ricotta in ca. 1 cm gro&#223;e W&#252;rfel schneiden und in eine Sch&#252;ssel geben. Den Zitronensaft mit Salz und Cayennepfeffer verr&#252;hren und dar&#252;ber tr&#228;ufeln.
+Das Oliven&#246;l in einer gro&#223;en Pfanne erhitzen und die Mangoldstiele und die Paprikaschote etwa 2 Minuten unter Wenden braten. Die Zucchini hinzugeben und eine Minuten mitbraten. Nun die Mangoldbl&#228;tter hinzuf&#252;gen und weitere zwei Minuten braten. Zuletzt die Tomaten untermischen und hei&#223; werden lassen.
+Das Mangoldgem&#252;se mit den Gew&#252;rzen abschmecken, den Ricotta darauf verteilen und mit Deckel in einer Minute hei&#223; werden lassen. Das Basilikum dar&#252;berstreuen und anrichten.
+Dazu passen Wei&#223;brot oder Nudeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

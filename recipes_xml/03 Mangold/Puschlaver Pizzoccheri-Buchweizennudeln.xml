@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4048331626278064">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4008f178-198a-4f08-bffd-817f8b8e71c9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Puschlaver Pizzoccheri-Buchweizennudeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="buchweizenmehl">Buchweizenmehl</fr:igdtName>
@@ -18,16 +18,16 @@
         <fr:igdtName ref="weizenmehl">Weizenmehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser, ca. 1 - 2 Tassen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="weizenmehl">Mehl zum Bestäuben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl zum Best&#228;uben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Liter</fr:igdtQuantity>
@@ -51,11 +51,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse, gerieben, vollfett (Alpkäse)</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, gerieben, vollfett (Alpk&#228;se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben oder Grottino, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener oder Grottino, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -67,22 +67,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
-        <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbeibl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>3 Liter Wasser und ein Teel&#246;ffel Salz in einem gro&#223;en Topf aufkochen.
+F&#252;r die Nudeln:
+Mehl mit Salz mischen und mit Wasser ca. 5 Minuten zu einem glatten Teig kneten. Mit dem Nudelholz den Teig auf eine Dicke von ca. 2 - 3 mm auswellen und in 7 - 8 cm breite Streifen schneiden. Die Streifen mit Mehl gro&#223;z&#252;gig best&#228;uben, aufeinanderlegen und in ca. 5 mm breite Nudeln schneiden.
+F&#252;r das Gem&#252;se:
+Die Gem&#252;se r&#252;sten (putzen) und in regelm&#228;&#223;ige St&#252;cke schneiden. Die St&#252;cke je nach Garzeit ins kochende Salzwasser geben. Mangold und Wirz ca. 20 Min., die Kartoffeln ca. 15 Min. garen.
+Tipp: Auch M&#246;hren, Erbsen, Bohnen oder Spinat k&#246;nnen nach Belieben und nach Saison dazugegeben werden.
+Pizzoccheri dem Kochwasser ca. 10 Min. vor Ende der Kochzeit des Gem&#252;ses dazugeben.
+Die Pizzoccheri und das Gem&#252;se mit der Schaumkelle absch&#246;pfen. Beides schichtweise abwechselnd mit dem geriebenen K&#228;se in eine vorgew&#228;rmte Auflaufform geben.
+In einer kleinen Pfanne Butter erhitzen, Knoblauch in Scheiben schneiden und dazugeben und den Salbei darin br&#228;unen, dann &#252;ber die Pizzoccheri gie&#223;en. Alles mit etwas Pfeffer und Salz w&#252;rzen und, ohne zu mischen, hei&#223; servieren.
+Am besten Bioprodukte verarbeiten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

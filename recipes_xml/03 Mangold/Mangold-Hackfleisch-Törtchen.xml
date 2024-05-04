@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-807781184658421">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-da7813da-bdc4-4330-a55f-40e4d953836a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Hackfleisch-Törtchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Hackfleisch-T&#246;rtchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>225 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser, eiskaltes</fr:igdtName>
+        <fr:igdtName ref="ei">Wasser, eiskaltes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -38,16 +38,16 @@
         <fr:igdtName ref="hackfleisch">Hackfleisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -59,7 +59,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -71,7 +71,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -79,18 +79,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butterflöckchen bei Bedarf</fr:igdtName>
+        <fr:igdtName ref="butter">Butterfl&#246;ckchen bei Bedarf</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus Mehl, Ei, Butter, Salz und eiskaltem Wasser einen M&#252;rbeteig herstellen. Die 12 Mulden eines Muffin-Bleches (ungefettet, als Ersatz kleine feuerfeste F&#246;rmchen) damit auskleiden, k&#252;hlstellen.
+Mangold in sprudelndem Wasser 3 Minuten blanchieren, grob hacken, gut abtropfen lassen.
+Hackfleisch, gew&#252;rfelte Zwiebel, gepresste Knoblauchzehen in &#214;l anbraten. Cocktailtomaten vierteln und zusammen mit dem Mangold zum Fleisch geben. So lange k&#246;cheln lassen, bis die Fl&#252;ssigkeit verdampft ist. Ricotta unterr&#252;hren, mit Salz, Pfeffer, Muskat und evtl. etwas Tomatenmark pikant abschmecken. Etwas abk&#252;hlen lassen und in die F&#246;rmchen f&#252;llen.
+K&#228;se mit Mandeln und etwas Salz vermischen, kuppelf&#246;rmig &#252;ber die T&#246;rtchen verteilen, mit den H&#228;nden etwas andr&#252;cken.
+Im hei&#223;en Backofen bei 180 &#176;C Ober-/Unterhitze ca. 40 Minuten &#252;berbacken, bis die Kruste goldbraun wird. Ggfs. nach 30 Minuten kleine Butterfl&#246;ckchen auflegen.
+Zusammen mit Blattsalaten servieren. Die Menge "f&#252;r vier Personen / Portionen" kann je nach Hunger variieren und h&#228;ngt davon ab, ob man die T&#246;rtchen als Vorspeise oder Hauptgericht zu verspeisen beliebt.
+Tipp: Die Herstellung im Muffin-Blech fand ich sehr praktisch. Nach dem Backen habe ich einen Bogen Backpapier dar&#252;bergelegt, ein Backblech vorsichtig aufgelegt und alles schnell gewendet - die T&#246;rtchen sind praktisch von selbst aus den F&#246;rmchen gefallen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

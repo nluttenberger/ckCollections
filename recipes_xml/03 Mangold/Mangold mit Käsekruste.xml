@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2598041408091793">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-43b610c1-ce84-4930-8ebf-bbac3794d8fc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold mit Käsekruste</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold mit K&#228;sekruste</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), mehlig kochende</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,8 +22,8 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -35,19 +35,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="thymian">Thymian, getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Fett</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Edelpilzkäse</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">Edelpilzk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -67,18 +67,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="haselnuss">Haselnüsse, grob gehackt</fr:igdtName>
+        <fr:igdtName ref="haselnuss">Haseln&#252;sse, grob gehackt</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln sch&#228;len, in grobe W&#252;rfel schneiden und in Salzwasser in ca. 15 - 20 Min. garen. Das Wasser absch&#252;tten und die Kartoffeln mit Oliven&#246;l und Thymian zu P&#252;ree stampfen.
+Den Mangold waschen, die Stiele in St&#252;cke, die Bl&#228;tter in Streifen schneiden und nass ca. 5 Min. in einem Topf d&#252;nsten. Mit Salz, Pfeffer und Muskat w&#252;rzen.
+Eine Auflaufform ausfetten, das Kartoffelp&#252;ree einf&#252;llen und glatt streichen. Den Mangold abtropfen lassen und auf dem P&#252;ree verteilen. Die Tomaten h&#228;uten, Kerne und Stielans&#228;tze entfernen und das Fruchtfleisch in St&#252;cke schneiden. Die Tomatenst&#252;cke zwischen den Mangold stecken.
+F&#252;r die So&#223;e den Edelpilzk&#228;se, den Joghurt und die Sahne verr&#252;hren. Den Knoblauch sch&#228;len und durchpressen. Mit Salz und Pfeffer w&#252;rzen, alles verr&#252;hren und &#252;ber den Auflauf geben. Mit Parmesan und Haseln&#252;ssen bestreuen. Den Backofen auf 200&#176;C vorheizen und den Auflauf ca. 20 - 25 Min. &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

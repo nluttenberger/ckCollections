@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3225891479910441">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5e27c6fe-17e5-4a14-8514-a46865b36d71">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Rinderfilet mit Pfeffer-Whisky-Soße und Mangold-Küchlein</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Rinderfilet mit Pfeffer-Whisky-So&#223;e und Mangold-K&#252;chlein</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
         <fr:igdtName ref="rindfleisch">Medaillons vom Rinderfilet, 2 - 3 cm dick</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Rinderbrühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Rinderbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), in Ringe geschnitten</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), in Ringe geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
@@ -70,23 +70,28 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln als Salzkartoffeln weich kochen, das Wasser abgie&#223;en und die Kartoffeln zur Seite stellen.
+Butter in einem Topf zerlassen. Den Mangold dazugeben und 3 bis 4 Minuten d&#252;nsten. Fr&#252;hlingszwiebeln hinzuf&#252;gen und mit and&#252;nsten. Kartoffeln und Milch in den Topf geben. Stampfen bis alles gut vermischt ist. Ei, Mehl und Salz untermischen. Den Brei abk&#252;hlen lassen und danach noch mindestens 15 Minuten im K&#252;hlschrank ruhen lassen.
+Mit den H&#228;nden aus dem Brei kleine K&#252;chlein formen. Bei Bedarf mehr Mehl hinzugeben, die Masse muss sich gut formen lassen.
+Butter in einer gro&#223;en Pfanne erhitzen. Die  K&#252;chlein in der Pfanne bei Mittelhitze von beiden Seiten goldbraun braten.
+Die Rindermedaillons mit Salz und Pfeffer w&#252;rzen. Den Ofen auf 80 Grad vorheizen. Die Steaks von beide Seiten rasch scharf braten und Farbe nehmen lassen. Anschlie&#223;end noch ca. 20 Minuten im Ofen ruhen lassen, dann sind sie innen rosa und sehr zart.
+In der noch hei&#223;en Pfanne die Schalotten in Butter and&#252;nsten. Mit dem Whisky abl&#246;schen. Br&#252;he und einen Spritzer Worcestershiresauce dazugeben und aufkochen lassen. Senf und Sahne unterr&#252;hren und die Sauce zur gew&#252;nschten S&#228;migkeit reduzieren. Mit Salz, Pfeffer und Zitronensaft abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

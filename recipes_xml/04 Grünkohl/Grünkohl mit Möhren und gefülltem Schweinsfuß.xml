@@ -1,21 +1,21 @@
 <ns0:recipe xmlns:ns0="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b1651c3f-1119-4b0d-9292-19f6be43fc77">
   <ns0:meta>
-    <ns0:book />
-    <ns0:chapter />
+    <ns0:book/>
+    <ns0:chapter/>
   </ns0:meta>
   <ns0:recipeName>Gr&#252;nkohl mit M&#246;hren und gef&#252;lltem Schweinsfu&#223;</ns0:recipeName>
-  <ns0:recipeKeywords />
-  <ns0:recipeIntro />
+  <ns0:recipeKeywords/>
+  <ns0:recipeIntro/>
   <ns0:recipeIngredients>
     <ns0:igdtList>
-      <ns0:igdtListName />
+      <ns0:igdtListName/>
       <ns0:igdtListLine>
         <ns0:igdtQuantity>1,2 kg</ns0:igdtQuantity>
-        <ns0:igdtName ref="wein">Schweinefu&#223;, gef&#252;llter (Zampone)</ns0:igdtName>
+        <ns0:igdtName ref="schweinefleisch">Schweinefu&#223;, gef&#252;llter (Zampone)</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
         <ns0:igdtQuantity>1,2 kg</ns0:igdtQuantity>
-        <ns0:igdtName ref="schwarzkohl">Gr&#252;nkohl, oder Cavolo Nero (Schwarzkohl)</ns0:igdtName>
+        <ns0:igdtName ref="gr&#252;nkohl">Gr&#252;nkohl, oder Cavolo Nero (Schwarzkohl)</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
         <ns0:igdtQuantity>150 g</ns0:igdtQuantity>
@@ -34,11 +34,11 @@
         <ns0:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
-        <ns0:igdtQuantity />
+        <ns0:igdtQuantity/>
         <ns0:igdtName ref="">Salz</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
-        <ns0:igdtQuantity />
+        <ns0:igdtQuantity/>
         <ns0:igdtName ref="pfeffer">Pfeffer, frisch gemahlener schwarzer aus der M&#252;hle</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
@@ -54,14 +54,14 @@
         <ns0:igdtName ref="speck">Speck, ger&#228;ucherter, durchwachsener</ns0:igdtName>
       </ns0:igdtListLine>
       <ns0:igdtListLine>
-        <ns0:igdtQuantity />
+        <ns0:igdtQuantity/>
         <ns0:igdtName ref="petersilie">Petersilie, glatte</ns0:igdtName>
       </ns0:igdtListLine>
     </ns0:igdtList>
   </ns0:recipeIngredients>
   <ns0:recipeInstructions>
     <ns0:instruction>
-      <ns0:instrStepName />
+      <ns0:instrStepName/>
       <ns0:instrStepText>Schweinsf&#252;&#223;e auf italienisch (Zampone) sind gef&#252;llt mit einer Farce aus Schweinefleisch und verschiedenen Gew&#252;rzen. Gewiss, man kann diese Spezialit&#228;t selbst herstellen. Allerdings nur mit viel Aufwand. Daher findet in diesem Rezept fertige "Zamponi" Verwendung, wie es sie in Folie versiegelt in guten Fachgesch&#228;ften zu kaufen gibt.
 Den Gr&#252;nkohl putzen, gr&#252;ndlich waschen und gut abtropfen lassen. Mit einem scharfen Messer den harten Strunk entfernen und von den einzelnen Kohlbl&#228;ttern die Blattrippen herausschneiden. Die Gr&#252;nkohlbl&#228;tter in Streifen schneiden und in kochendem Salzwasser blanchieren. Mit einer Schaumkelle herausnehmen und den Kohl gut abtropfen lassen.
 Die Zwiebel sch&#228;len und fein hacken. Die M&#246;hren sch&#228;len, waschen und in 5 mm gro&#223;e W&#252;rfel schneiden.
@@ -73,8 +73,8 @@ Nach den letzten 40 Minuten Kochzeit den Zampone herausnehmen. Die beiseitegeleg
 Den Zampone in Scheiben schneiden und in vorgew&#228;rmten Tellern auf dem Gr&#252;nkohl anrichten. Mit dem knusprig gebratenen Speck bestreuen, mit glatter Petersilie ausgarnieren und servieren.</ns0:instrStepText>
     </ns0:instruction>
   </ns0:recipeInstructions>
-  <ns0:recipeSideDish />
-  <ns0:recipeOrigin />
-  <ns0:recipeSeeAlso />
-  <ns0:recipeLicense />
+  <ns0:recipeSideDish/>
+  <ns0:recipeOrigin/>
+  <ns0:recipeSeeAlso/>
+  <ns0:recipeLicense/>
 </ns0:recipe>

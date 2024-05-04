@@ -1,0 +1,125 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4bd34530-2c3a-470b-8dbf-af59506ad0e6">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Rote-Bete-Rhabarber-Crumble</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="rote_bete">Rote Bete (ca. 500 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n) (150 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10</fr:igdtQuantity>
+        <fr:igdtName ref="piment">Pimentk&#246;rner</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="orangensaft">Orangensaft (frisch gepresst)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="gelee">Johannisbeergelee, schwarzes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="rhabarber">Rhabarber</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Cumeo-Pfefferk&#246;rner (ersatzweise je 5 Piment- und schwarze Pfefferk&#246;rner)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Weizenmehl Type 550</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker, brauner</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter (zimmerwarm)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="haferflocken">Haferflocken, bl&#252;tenzarte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 Stiele</fr:igdtQuantity>
+        <fr:igdtName ref="estragon">Estragon</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Sojamilch (Sojadrink) (zimmerwarm)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>180 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Baby-Mangold, roter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="cayennepfeffer">Piment d'Espelette (ersatzweise Cayennepfeffer)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Zubereitung ben&#246;tigte K&#252;chenutensilien: Tarte-Form (28 cm &#216;)
+F&#252;r den Crumble Rote Bete sch&#228;len (K&#252;chenhandschuhe benutzen!) und achteln. Schalotten der L&#228;nge nach halbieren. Piment mit 1 gestrichenen TL Salz im M&#246;rser sehr fein zerkleinern und mit Roter Bete und Schalotten in der Tarte-Form mischen.
+Orangensaft in einem kleinen Topf aufkochen und das Johannisbeergelee darin aufl&#246;sen. Saftmischung &#252;ber die Rote Bete gie&#223;en und im vorgeheizten Backofen bei 200 Grad (Gas 3, Umluft nicht empfehlenswert) auf dem Rost in der untersten Schiene 20 Minuten garen.
+Inzwischen Rhabarber putzen, waschen und schr&#228;g in 3 cm lange St&#252;cke schneiden. Pfeffer mit 1 gestrichenen TL Salz im M&#246;rser fein zerkleinern und mit Mehl und Zucker in einer Sch&#252;ssel mischen. Butter in W&#252;rfeln zugeben, kurz untermischen. Haferflocken zugeben und mit den H&#228;nden zu Streuseln verkneten.
+Rhabarber zur Roten Bete in die Tarte-Form geben und die Streusel dar&#252;ber verteilen. Auf dem Rost in der 2. Schiene von unten weitere 35 Minuten wie oben backen.
+Inzwischen f&#252;r die B&#233;arnaise-Mayonnaise die Schalotte in feine W&#252;rfel schneiden, Estragon mit den Stielen grob schneiden. Schalotten, Estragon und Wein in einem kleinen Topf aufkochen und bei starker Hitze auf 1 EL einkochen lassen.
+Sud durch ein Sieb in einen hohen R&#252;hrbecher gie&#223;en und zimmerwarm abk&#252;hlen lassen. Sojamilch und 1/2 TL Salz zugeben, fein p&#252;rieren. &#214;l unter st&#228;ndigem Mixen in einem sehr d&#252;nnen Strahl nach und nach zugie&#223;en, bis eine cremige Mayonnaise entsteht. Essig unterr&#252;hren.
+F&#252;r den Salat Mangold verlesen, waschen und trocken schleudern. Essig, Salz, Piment d&#8217;Espelette und &#214;l verr&#252;hren.
+Crumble vorm Servieren 5 &#8211; 10 Minuten abk&#252;hlen lassen. Mit Salat und ca. der H&#228;lfte der B&#233;arnaise-Mayonnaise anrichten. Restliche Mayonnaise kalt stellen und z&#252;gig anderweitig verbrauchen.
+Pro Portion 11 g E, 59 g F, 75 g KH = 921 kcal (3858 kJ)</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

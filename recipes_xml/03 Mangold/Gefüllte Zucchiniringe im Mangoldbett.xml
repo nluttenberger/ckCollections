@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1742951283240038">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c5aef0c1-f522-461d-8326-731ace81207e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Zucchiniringe im Mangoldbett</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Zucchiniringe im Mangoldbett</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini, gelb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="zucchini">Blüten von den Zucchini</fr:igdtName>
+        <fr:igdtName ref="zucchini">Bl&#252;ten von den Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, (Blattmangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,16 +34,16 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ingwer">Ingwer, ca 0,5 cm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="koriandergrün">Koriandergrün, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="kaffirlimette">Kaffir-Limettenblätter, fein gehackt</fr:igdtName>
+        <fr:igdtName ref="kaffirlimette">Kaffir-Limettenbl&#228;tter, fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -55,30 +55,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kokoscrème">Kokoscreme</fr:igdtName>
+        <fr:igdtName ref="kokoscr&#232;me">Kokoscreme</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse, ungesalzen</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse, ungesalzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl mit Limetten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l mit Limetten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter waschen und Strunk entfernen. In St&#252;cke zupfen, einen gelochten Garbeh&#228;lter damit auslegen und leicht mit Salz und Pfeffer w&#252;rzen.
+Zucchini waschen, in ca. 3 cm dicke Scheiben schneiden und aush&#246;hlen.
+Schalotten und Knoblauch in feine W&#252;rfel schneiden, Ingwer sch&#228;len und fein schneiden.
+Das Hackfleisch mit Schalotten, Knoblauch, Ingwer, Kaffirlimettenbl&#228;ttern, Fischsauce, Sojasauce und Kokoscreme zu einem glatten Teig verarbeiten. Mit etwas Salz und Pfeffer w&#252;rzen.
+Die Masse in die ausgeh&#246;hlten Zucchinist&#252;cke sowie nach Belieben in die Zucchinibl&#252;ten f&#252;llen. Die gef&#252;llten Teile auf dem Mangoldbett verteilen und sowohl die Fr&#252;chte als auch den Mangold mit etwas Limetten&#246;l betr&#228;ufeln.
+10 min bei 100&#176; im Dampf garen.
+W&#228;hrenddessen die Erdn&#252;sse in einer Pfanne leicht anr&#246;sten.
+Zucchini und Mangold vor dem Servieren mit den Erdn&#252;ssen bestreuen.
+Dazu passen Reis und asiatische Saucen, z. B. Chilisauce oder Dim Sum Sauce.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1912691311699307">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-35451256-4621-4370-84c7-fcfaffd3975b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Versteckter Himmelsgucker</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s) (Himmelsguckerfilet)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Köpfe</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, mittelgroß</fr:igdtName>
+        <fr:igdtQuantity>2 K&#246;pfe</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, mittelgro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,30 +39,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="provolone">Käse (Provolone)</fr:igdtName>
+        <fr:igdtName ref="provolone">K&#228;se (Provolone)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Ofen auf 200&#176;C (Ober-/Unterhitze) vorheizen. Die Kartoffeln vom Vortag pellen und in Scheiben schneiden.
+Den Mangold in einzelne Bl&#228;tter teilen, waschen und die Stiele am Blattansatz abschneiden. In einem gro&#223;en Topf Wasser erhitzen. Wenn es kocht, gro&#223;z&#252;gig salzen. Darin die Stiele je nach Dicke 5 - 7 Minuten blanchieren, die Bl&#228;tter in den letzten 2 - 3 Minuten mitblanchieren. In kaltem Wasser abschrecken und Stiele und Bl&#228;tter getrennt in ca. 3 cm breite Streifen schneiden.
+Das oder die Himmelsguckerfilet(s) in der Mitte l&#228;ngs teilen (in der Verl&#228;ngerung des nat&#252;rlichen Filetierschnittes) und die einzelnen Str&#228;nge in ca. 1 - 2 cm dicke Medaillons schneiden.
+Eine ausreichend gro&#223;e Auflaufform ein&#246;len und die Kartoffelscheiben, Mangoldstielst&#252;cke, Mangoldblattst&#252;cke, von einer Seite aus anfangend, abwechselnd aufrecht einlegen, bis der Formboden bedeckt ist. Mit Salz, Pfeffer und Muskat w&#252;rzen und die Fischmedaillons zwischen das Gem&#252;se stecken, sodass es nicht mehr ganz herausguckt. Den Provolone in kleine W&#252;rfelchen schneiden und gleichm&#228;&#223;ig &#252;ber die F&#252;llung streuen.
+Aus Butter, Mehl, etwas Blanchierbr&#252;he und der Milch eine dickliche B&#233;chamelso&#223;e kochen, mit Salz, Pfeffer und Muskat w&#252;rzen. Etwa 5 Minuten k&#246;cheln lassen, damit das Mehl nicht mehr vorschmeckt.
+Die B&#233;chamelso&#223;e &#252;ber dem Auflauf verteilen und diesen in den vorgeheizten Ofen stellen. Die ersten 20 Minuten evtl. mit Alufolie abdecken. Nach dieser Zeit die Alufolie entfernen und noch etwa 40 - 60 Minuten (je nach Dicke des Auflaufs) weiter backen, bis die Oberfl&#228;che brodelt und ansehnlich gebr&#228;unt ist.
+Himmelsgucker ist eine Drachenfischart und geh&#246;rt zu den Barschartigen. Gefangen im n&#246;rdlichen Atlantik (lt. Aussage meines Fischh&#228;ndlers) hat er ein saftiges, sch&#246;nes, festes Fleisch.
+Wer keinen Provolone bekommen kann (den gibt's leider nicht &#252;berall in Deutschland), kann auf Gruy&#232;re, Raclette oder auch Emmentaler ausweichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

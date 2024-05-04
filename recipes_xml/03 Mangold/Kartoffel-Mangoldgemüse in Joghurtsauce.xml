@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2230411357302957">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-233ee51e-60eb-4325-be80-af3589152c47">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kartoffel-Mangoldgemüse in Joghurtsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Kartoffel-Mangoldgem&#252;se in Joghurtsauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), festkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, Stiele und Blätter. auch mehr</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, Stiele und Bl&#228;tter. auch mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -26,20 +26,20 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>⅛ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe, gekörnte</fr:igdtName>
+        <fr:igdtQuantity>&#8539; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="br&#252;he">Br&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
         <fr:igdtName ref="joghurt">Joghurt, 10%</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -57,12 +57,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln sch&#228;len und in Scheiben von &#189; cm Dicke schneiden. Mangoldstiele in ca. 2 cm lange St&#252;cke schneiden. Schalotte fein hacken. Mangoldbl&#228;tter hacken und zur Seite stellen.
+Butter erhitzen und die Schalotte glasig d&#252;nsten. Kartoffeln und Mangoldstiele zugeben und unter R&#252;hren kurz mitd&#252;nsten. Br&#252;he und Joghurt zugie&#223;en und mit Salz, Pfeffer und Muskat w&#252;rzen. Kurz aufkochen, dann zudecken und bei kleiner Hitze 15 Minuten k&#246;cheln lassen.
+Mehl und Milch glatt r&#252;hren und nach den 15 Minuten zu den Kartoffeln geben, ebenso die Mangoldbl&#228;tter und alles weitere. 10 Minuten im offenen Topf k&#246;cheln. Ab und zu umr&#252;hren. Nochmal abschmecken.
+Tipp:
+Den Joghurt kann man durch Cr&#232;me fra&#238;che ersetzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

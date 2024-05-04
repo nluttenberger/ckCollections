@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-400761129120994">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e4a9ca89-188d-4ea8-950f-f8efd6ba6922">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Kohlrabi mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Kohlrabi mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="kohlrabi">Kohlrabi, (je ca. 250 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,23 +30,23 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse, gerieben (z.B. Emmentaler, Gouda)</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se, gerieben (z.B. Emmentaler, Gouda)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
@@ -65,12 +65,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kohlrabi sch&#228;len, in kochendem Salzwasser etwa 15 Minuten garen, dann eiskalt abschrecken und einen Deckel abschneiden. Die Kohlrabi vorsichtig mit einem L&#246;ffel oder mit einem Kugelausstecher aush&#246;hlen. Das Innere fein w&#252;rfeln.
+Inzwischen den Mangold waschen, trocken sch&#252;tteln, die Bl&#228;tter abtrennen und in ca. 1 cm gro&#223;e St&#252;cke schneiden. Die Mangoldstiele putzen und in feine W&#252;rfel schneiden. Die Kartoffel sch&#228;len und ebenfalls fein w&#252;rfeln.
+Die Kartoffelw&#252;rfel im Kohlrabi-Kochwasser in ca. 15 Minuten weich kochen. Die Mangoldbl&#228;tter im selben Wasser etwa 2 Minuten ziehen lassen, abgie&#223;en, dabei die Br&#252;he auffangen, kalt abschrecken und gut ausdr&#252;cken.
+Knoblauch und Zwiebel abziehen und fein w&#252;rfeln. Das Oliven&#246;l in einem kleinen Topf erhitzen, Zwiebeln und Knoblauch darin in 3 Minuten glasig anschwitzen, die Mangoldstiele dazugeben, kurz durchr&#252;hren, die Gem&#252;sebr&#252;he dazugie&#223;en und bei kr&#228;ftiger Hitze rasch einkochen lassen. Mit Salz, Pfeffer und Muskatnuss w&#252;rzen. Die Sahne dazugeben und in weiteren 5 Minuten bei mittlerer Hitze s&#228;mig einkochen lassen. Mangoldbl&#228;tter, Kartoffeln und Kohlrabifleisch dazugeben und mit der H&#228;lfte des K&#228;ses verr&#252;hren.
+Die Kohlrabi innen leicht salzen und pfeffern und mit der Masse f&#252;llen. Eine ofenfeste Form mit Butter ausstreichen, die Kohlrabi hineinsetzen, die Deckel auflegen und den restlichen K&#228;se dar&#252;ber streuen. Im vorgeheizten Backofen bei 180 &#176;C (Ober- und Unterhitze &#8211; mittlere Schiene) ca. 25 Minuten offen garen. Zum Schluss unter dem Grill oder starker Oberhitze weitere 5 Minuten goldbraun backen. Aus dem Ofen nehmen und auf vorgew&#228;rmten Tellern anrichten.
+Tipp: Als Beilage empfehlen wir Linsengem&#252;se</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

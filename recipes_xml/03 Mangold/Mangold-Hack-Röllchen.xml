@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3393371505065689">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-256ea936-da32-4c40-b866-67896fa83387">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Hack-Röllchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Hack-R&#246;llchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Köpfe</fr:igdtQuantity>
+        <fr:igdtQuantity>2 K&#246;pfe</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
@@ -39,22 +39,28 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis nach Packungsanleitung kochen.
+W&#228;hrenddessen den Mangold waschen und die Stiele abschneiden. Den Mangold blanchieren (Achtung, bei frischem Mangold aus dem Garten wirklich nur kurz, da die Bl&#228;tter oft zarter sind), und die Stiele und die Zwiebel in W&#252;rfel schneiden.
+Das Hack in &#214;l braun und kr&#252;melig braten, Zwiebeln und Mangoldstielw&#252;rfelchen dazugeben. Mit Pfeffer und Salz w&#252;rzen. Ajvar, den fertig gekochten Reis und die Cr&#232;me fra&#238;che dazugeben und alles gut vermengen.
+In die Auflaufform etwas &#214;l geben, damit nichts festbackt.
+Nun jeweils etwas von der Hackmischung mit einem Essl&#246;ffel auf die Mitte jedes Mangoldblattes geben, die Seiten einschlagen und jedes Blatt zu einem P&#228;ckchen einrollen. Die kleinen Bl&#228;tter lege ich &#252;bereinanderlappend zusammen, sodass man ebenso verfahren kann.
+Die R&#246;llchen in die Auflaufform geben, und den Mozzarella darauf verteilen. Bei 225&#176; 10 - 15 min &#252;berbacken, bis der K&#228;se goldbraun ist.
+Man kann die R&#246;llchen auch ohne Hackfleisch, daf&#252;r mit mehr Reis zubereiten und als Beilage zu einem St&#252;ck Fleisch genie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

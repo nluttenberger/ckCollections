@@ -1,0 +1,85 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-21f9faea-c420-4efa-9371-8296296757a4">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Quiche 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>125 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser, kalt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rot</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er), L oder XL</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se aus Schafsmilch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zutaten f&#252;r den M&#252;rbeteig z&#252;gig verkneten, eine Kugel formen und diese in Frischhaltefolie ca. 30 - 60 Minuten k&#252;hlen.
+Den Mangold waschen und die Stiele abschneiden. Diese in schmale Streifen schneiden, die Bl&#228;tter je nach Gr&#246;&#223;e 1 oder 2 mal l&#228;ngs halbieren und dann in ca. 1 cm breite Streifen schneiden. Zwiebeln klein w&#252;rfeln, Knoblauch pressen.
+Oliven&#246;l in einer gro&#223;en Pfanne erhitzen und Zwiebelw&#252;rfel, Knoblauch und Mangoldstiele ca. 5 Minuten anschwitzen. Mit einem Schuss Wei&#223;wein abl&#246;schen und die Mangoldbl&#228;tter dazugeben. Warten, bis diese zusammen gefallen sind, dann mit Salz und Pfeffer w&#252;rzen. Zum Abk&#252;hlen evtl. in ein Sieb geben und etwas abtropfen lassen, falls der Wein nicht komplett verkocht ist.
+Ricotta mit den beiden Eiern vermischen, den Schafsk&#228;se zerkr&#252;meln und dazugeben, mit Salz (nicht zu viel wegen des K&#228;ses) und Pfeffer abschmecken.
+Backofen auf 180 &#176;C Umluft vorheizen. Den Boden einer 26er Quiche- oder Springform einfetten. Den M&#252;rbeteig ausrollen und hineingeben, dabei einen ca. 3 cm hohen Rand formen. Nun ein St&#252;ck Backpapier in der Gr&#246;&#223;e der Form zuschneiden, auf den Teig legen und getrocknete H&#252;lsenfr&#252;chte daraufgeben. Ca. 20 Minuten auf mittlerer Schiene blind backen. H&#252;lsenfr&#252;chte und Papier entfernen, Mangold auf den vorgebackenen Teig geben. Ricotta-Eier-Mischung dar&#252;bergeben und die Form wieder in den Backofen stellen.
+Weitere 35 - 40 Minuten backen, bis der Guss leicht gebr&#228;unt ist. Lauwarm servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

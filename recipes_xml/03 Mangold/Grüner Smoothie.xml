@@ -1,0 +1,50 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-20b08c55-ad7a-4fa8-bdb4-f8002368d7b4">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gr&#252;ner Smoothie</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="banane">Banane(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="apfel">Apfel oder Mango</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold oder Blattspinat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="kokos&#246;l">Kokos&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="apfelsaft">Apfelsaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Zutaten werden in den Mixer gegeben und bis zur gew&#252;nschten Konsistenz gemixt. Die Obstsorten k&#246;nnen frei gew&#228;hlt werden.
+Das gew&#252;nschte Ziel ist die Aufl&#246;sung des Chlorophylls in den gr&#252;nen Bl&#228;ttern. Obst gibt dem Ganzen den guten Geschmack!
+Fett oder &#214;l sind wichtig und dabei auf gute Fette achten, Kokos&#246;l ist sehr geeignet. Die Mengenangaben beim Apfelsaft und Wasser sind nur ungef&#228;hre Angaben, denn dies ist geschmacksabh&#228;ngig!</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3196071475692220">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4c0498dd-06d9-4fcf-928e-6b78dfd87826">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Veganer Burger mit Kartoffel-Mangold-Patty</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>5 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), roh</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,46 +43,54 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="ketchup">Ketchup, oder Tomatensauce</fr:igdtName>
+        <fr:igdtName ref="tomatensauce">Ketchup, oder Tomatensauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Kopf</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Kopf</fr:igdtQuantity>
         <fr:igdtName ref="eisbergsalat">Eisbergsalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188;</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprika</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Brötchen</fr:igdtName>
+        <fr:igdtName ref="brot">Br&#246;tchen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln sch&#228;len und reiben. Am schnellsten geht das mit der Maschine. Zwiebel superklein schneiden. Ich habe sie mit der Kartoffel durch die Maschine gegeben. Knoblauch sch&#228;len und klein schneiden. Mangold waschen, unteres Ende abschneiden und mit den Bl&#228;ttern in kleine St&#252;cke schneiden. Alles miteinander mischen.
+Den Ei-Ersatz fertig machen, indem entweder no-egg, Sojamehl, Speisest&#228;rke oder gemahlene Leinsamen mit Wasser vermischt werden. Bitte je nach Variante, die Wassermenge beachten. Man kann auch Mandelmus zum Binden nehmen.
+Die Eimischung zu der Kartoffelmischung geben. Umr&#252;hren und dann das Mehl essl&#246;ffelweise unterr&#252;hren. Salzen und pfeffern. Wer es sch&#228;rfer mag, kann hier auch Senf oder Chili mit dazumischen.
+Die fertige Mischung jetzt portionsweise bei mittlerer Temperatur anbraten. Immer 1 - 2 gute Essl&#246;ffel voll f&#252;r einen Patty in die Pfanne geben. Genug Sonnenblumen&#246;l dazugeben, sonst verbrennt es. Die Pfanne darf weder zu hei&#223; noch zu kalt sein.
+Nach und nach die Patties fertig braten. Nachdem sie aus der Pfanne genommen wurden, auf ein K&#252;chenpapier legen, damit das &#252;brige Fett ablaufen kann.
+F&#252;r die Burgersauce Mandelmus mit einem Schuss Wasser vermischen, Senf und Tomatensauce dazugeben. Curry, Paprikapulver, Salz und Pfeffer einr&#252;hren.
+Frische Zutaten waschen und klein schneiden, damit man sie gut auf den Burger legen kann.
+M&#246;hre sch&#228;len und dann von der kleinen Spitze mit dem Sch&#228;ler 'schneiden', so sind die Scheiben nicht zu dick, aber sch&#246;n knackig.
+Br&#246;tchen aufschneiden und kurz &#252;ber dem Toaster r&#246;sten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

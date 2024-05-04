@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3183251473798600">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7b0ddd65-ed66-460a-b3d3-16f808529a08">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fischfilets mit Mangold und Pinienkernen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -43,19 +43,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sultaninen">Rosinen oder Cranberries, ungesüßt</fr:igdtName>
+        <fr:igdtName ref="cranberry">Rosinen oder Cranberries, unges&#252;&#223;t</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
@@ -67,18 +67,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel zum Panieren</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel zum Panieren</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln kochen und bei Bedarf sch&#228;len.
+Die Fr&#252;hlingszwiebeln putzen, waschen und in Ringe schneiden. Den Mangold waschen. Die M&#246;hren sowie die Stiele des Mangolds in kleine Scheiben schneiden.
+Die M&#246;hren und Mangoldstiele ca. 15 - 20 Minuten kochen.
+Die Kartoffeln in Scheiben schneiden.
+Die Fischfilets waschen, trocken tupfen, mit Zitronensaft betr&#228;ufeln und, wenn gew&#252;nscht, panieren. Durch etwas Mehl bleibt der Fischsaft besser enthalten.
+Das Oliven&#246;l in einer gro&#223;en Pfanne erhitzen. Den Fisch darin kurz anbraten, herausnehmen und auf K&#252;chenkrepp abtropfen lassen. Erst nach dem Anbraten salzen und pfeffern.
+Im verbliebenen Bratfett die Kartoffeln portionsweise anbraten, dann herausnehmen und auf dem Boden einer feuerfesten Form verteilen.
+Den Ofen auf 200 &#176;C vorheizen lassen.
+Den Knoblauch klein schneiden und mit den Fr&#252;hlingszwiebeln in Oliven&#246;l anbraten. Die Rosinen und Pinienkerne unterr&#252;hren, salzen und pfeffern. Die Tomaten entweder im Ganzen oder in W&#252;rfeln hinzugeben.
+Im Anschluss alles in die feuerfeste Form geben, den Fisch nur leicht bedeckt obenauf legen und ca. 10 - 15 Minuten backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

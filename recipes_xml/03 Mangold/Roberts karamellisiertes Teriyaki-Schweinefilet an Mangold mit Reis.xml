@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3550261531254687">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-31d3e07a-318f-43f7-aad0-b5416b28943c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Roberts karamellisiertes Teriyaki-Schweinefilet an Mangold mit Reis</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="schweinefleisch">Schweinefilet(s), pariert, in der Mitte einmal quer durchgeschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,59 +30,67 @@
         <fr:igdtName ref="reis">Reis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="curry">Currypaste (Panang), Menge je nach Schärfegrad</fr:igdtName>
+        <fr:igdtName ref="curry">Currypaste (Panang), Menge je nach Sch&#228;rfegrad</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, frischer, bio</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), geschält, halbiert, in dünne Scheiben geschnitten</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n), gesch&#228;lt, halbiert, in d&#252;nne Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), geschält, in dünne Scheiben geschnitten</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt, in d&#252;nne Scheiben geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Meersalz aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Meersalz aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarzer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Fünf-Gewürz-Pulver (China)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">F&#252;nf-Gew&#252;rz-Pulver (China)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Schweinefilet Zimmertemperatur annehmen lassen.
+Sherry, Teriyakisauce und Honig zusammenf&#252;gen und mischen.
+In einem gr&#246;&#223;eren Topf 4 Tassen Wasser mit Kr&#228;utersalz zum Kochen bringen, den Reis hinzuf&#252;gen und sanft bis zum gew&#252;nschten Grad k&#246;cheln lassen.
+Den Backofen auf Umluft 80 &#176;C vorheizen.
+In einer gro&#223;en Pfanne das Sesam&#246;l mit der Currypaste hoch erhitzen und gut r&#252;hren. Dann die Mischung von Sherry, Teriyakisauce und Honig eingie&#223;en und zwei Minuten stetig r&#252;hren. Das Schweinefilet einlegen. Die Temperatur leicht reduzieren. Immer wieder wenden. Nach ca. 5 - 8 Minuten beginnt die Sauce zu karamellisieren. Aufpassen, dass nichts schwarz wird! Wenn die Sauce eine richtig s&#228;mige Konsistenz hat und das Filet rundum sch&#246;n angebraten ist, die Pfanne in den vorgeheizten Ofen stellen und das Filet in ca. 10 Minuten fertig garen.
+Den Mangold waschen, die Stiele vom Blatt ausschneiden. Von den Stielen nur den letzten cm abschneiden und verwerfen. F&#252;r die Deko lasse ich ein paar Stiele ganz. Die Stiele in ca. 1 cm dicke Scheiben schneiden. Die Bl&#228;tter in gleicher Breite in Streifen schneiden.
+In einem Topf Wasser zum Kochen bringen, Kr&#228;utersalz dazugeben und die Stiele darin 3 Minuten k&#246;cheln, dann abseihen und trocken tupfen.
+In eine sehr gro&#223;e Pfanne etwas Oliven&#246;l geben. Darin erst die Schalotten anbr&#228;unen, den Knoblauch hinzuf&#252;gen und leicht anbr&#228;unen, dann das restliche &#214;l dazugeben und die Stiele mitbr&#228;unen und dann die Mangoldbl&#228;tter dazuf&#252;gen. Unter stetigem Wenden ca. 2 - 3 Minuten brutzeln. Mit Pfeffer, Salz und 5-Gew&#252;rz-Pulver abschmecken.
+Das Schweinefilet in Scheiben schneiden und auf Tellern anrichten. Mangoldstiele, Mangoldgem&#252;se und den Reis mit anrichten. Sauce dar&#252;ber tr&#228;ufeln und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

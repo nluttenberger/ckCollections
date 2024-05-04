@@ -1,0 +1,71 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fe8614e6-5522-40e0-be2a-450681de5850">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-R&#246;llchen 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>12 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sultaninen">Rosinen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>65 g</fr:igdtQuantity>
+        <fr:igdtName ref="reis">Reis (Risottoreis)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="mandel">Mandel(n) (Bl&#228;ttchen)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="zimt">Zimt</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Rosinen in Wasser einweichen.
+Die Zwiebel fein gehackt in der hei&#223;en Butter glasig d&#252;nsten. Reis einr&#252;hren, ebenfalls glasig d&#252;nsten. Nach und nach die Br&#252;he angie&#223;en, aufkochen lassen und 30 Minuten garen. Die Tomate &#252;berbr&#252;hen, h&#228;uten, entkernen und fein w&#252;rfeln.
+Rosinen abtropfen lassen, mit der Tomate und den Mandelbl&#228;ttchen zum Reis geben. Mit Pfeffer, Salz und Zimt abschmecken.
+Die Str&#252;nke aus den Mangoldbl&#228;ttern herausschneiden, in Salzwasser 10 Minuten garen. Abschrecken, abtropfen lassen und fein gehackt unter den Reis ziehen.
+Die Mangoldbl&#228;tter ca. 4 Minuten in Salzwasser blanchieren, kalt abschrecken und mit K&#252;chenpapier trocken tupfen.
+Die Reismasse darauf setzen und eif&#246;rmige P&#228;ckchen wickeln.
+Die gef&#252;llten Mangoldbl&#228;tter in einem Topf mit D&#228;mpfeinsatz etwa 10 Minuten garen.
+Uns schmeckt es am besten kalt.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

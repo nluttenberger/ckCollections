@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-220711091632127">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d38768e6-83d0-4863-a7c1-a7def68dc936">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Thailändisches Huhn mit Tintenfisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Thail&#228;ndisches Huhn mit Tintenfisch</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrüste</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbr&#252;ste</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="shiitake">Shitakepilze, getrocknet</fr:igdtName>
+        <fr:igdtName ref="shiitake">Pilze (Shitakepilze, gibts in jedem Asialaden) getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="sprossen">Bohnen-Keimsprossen, frische</fr:igdtName>
+        <fr:igdtName ref="sprossen">Bohnen - Keimsprossen, frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="ingwer">Ingwer-Wurzel (frisch)</fr:igdtName>
+        <fr:igdtName ref="ingwer">Ingwer - Wurzel (frisch)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -46,7 +46,7 @@
         <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
@@ -67,42 +67,46 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="pflaumenwein">Pflaumenwein oder Sherry</fr:igdtName>
+        <fr:igdtName ref="pflaume">Pflaume(n) - Wein oder ersatzweise Sherry</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl (Sojaöl)</fr:igdtName>
+        <fr:igdtName ref="">&#214;l (Soja&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="curry">Currypaste, grüne</fr:igdtName>
+        <fr:igdtName ref="curry">Currypaste, gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="glutamat">Glutamat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>H&#252;hnerfleisch in d&#252;nne Streifen schneiden und mit dem Pflaumenwein mischen. Tintenfischtuben waschen, der L&#228;nge nach halbieren und an der Innenseite rautenf&#246;rmig einschneiden, in ca. 2x3 cm gro&#223;e St&#252;cke schneiden und mit dem Natron bestreuen und mit kochendem Wasser &#252;berbr&#252;hen, ca. 30 Minuten stehen lassen.
+Getrocknete Pilze mit kochendem Wasser &#252;berbr&#252;hen und ca. 20 Minuten ziehen lassen, Zwiebel in grobe W&#252;rfel zerteilen, Bohnensprossen waschen und auf Sieb abtropfen lassen. Mangoldgem&#252;se waschen und in mundgerechte St&#252;cke zerschneiden, Bambusstreifen auf Sieb abtropfen lassen, Ingwerwurzel sch&#228;len und reiben bzw. fein hacken. Knoblauchzehe fein hacken, eingeweichte Pilze gut ausdr&#252;cken und in mundgerechte St&#252;cke schneiden.
+&#214;l in einer Pfanne oder Wok erhitzen, bis es leicht raucht, H&#252;hnerfleisch dazugeben und etwas braten (5 Minuten), Tintenfisch dazugeben und weitere 5 Minuten braten, Pilze dazugeben und weitere 10 Minuten schmoren, gr&#252;ne Currypaste dazugeben, Zwiebel und Knoblauch dazugeben, gut durchr&#252;hren, restliches Gem&#252;se dazugeben und wieder ca. 5 Minuten schmoren, mit der H&#252;hnerbr&#252;he und der Sojaso&#223;e abl&#246;schen, Kokosmilch dazugeben und aufkochen lassen.
+Speisest&#228;rke mit etwas Wasser klumpenfrei anr&#252;hren und das Essen damit binden, mit Salz und Glutamat abschmecken.
+Reis dazu reichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

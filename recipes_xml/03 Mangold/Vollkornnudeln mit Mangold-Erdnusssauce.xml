@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1860571301404237">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-24e80fc6-0410-403c-afbe-41a72ea66012">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vollkornnudeln mit Mangold-Erdnusssauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -39,14 +39,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnussbutter">Erdnussbutter mit Stückchen</fr:igdtName>
+        <fr:igdtName ref="erdnussbutter">Erdnussbutter mit St&#252;ckchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="chili">Pul Biber</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,11 +55,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="kaffirlimette">Kaffir-Limettenblätter</fr:igdtName>
+        <fr:igdtName ref="kaffirlimette">Kaffir-Limettenbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse, gesalzene , gehackt</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse, gesalzene , gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -69,12 +69,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel, Knoblauch und Ingwer in feine W&#252;rfel schneiden. Die Mangoldstiele vom Gr&#252;n abschneiden. Die Stiele in feine, die Bl&#228;tter in breite Streifen schneiden.
+Die Nudeln in reichlich Salzwasser nach Packungsanweisung zubereiten.
+In einer gro&#223;en Pfanne das &#214;l erhitzen. Zwiebeln, Knoblauch, Ingwer und Mangoldstiele darin ca. 2 min. anschwitzen. Die Mangoldbl&#228;tter zugeben und kurz mitd&#252;nsten. Mit Kokosmilch und Gem&#252;sebr&#252;he abl&#246;schen und aufkochen. Erdnussbutter unterr&#252;hren, Limettenbl&#228;tter zugeben und etwa 5 min. bei leichter Hitze k&#246;cheln lassen. Mit Pul Biber und Limettensaft abschmecken.
+Die Limettenbl&#228;tter entfernen und die Nudeln unter die Sauce mischen. Nach Belieben mit Salz nachw&#252;rzen oder mit gehackten Erdn&#252;ssen bestreut servieren.
+Limettenbl&#228;tter bekommt man im Asialaden, alternativ kann man diese auch weglassen und mehr Limettensaft verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

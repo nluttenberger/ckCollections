@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-794351183018806">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-760c1a1e-d2cc-4168-ae3c-416b73eda6c5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Pfanne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="mandelmus">Mandelmus, weißes, ungesüßtes</fr:igdtName>
+        <fr:igdtName ref="mandelmus">Mandelmus, wei&#223;es, unges&#252;&#223;tes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
@@ -38,35 +38,39 @@
         <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="ingwer">Ingwerpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold gr&#252;ndlich waschen. Die Stiele w&#252;rfeln und die Bl&#228;tter in Streifen schneiden.
+Margarine in einer Pfanne zergehen lassen und die gew&#252;rfelten Mangoldstiele darin and&#252;nsten. Den Knoblauch hineinpressen. Mit einem Schluss vom Wasser (gerade so viel, dass nichts anbrennt) abl&#246;schen. Das Mandelmus darin glatt r&#252;hren und die &#252;brigen Gew&#252;rze dazugeben. Mit Ingwerpulver, Currypulver und Zimt solltet Ihr sparsam umgehen. Keines der Gew&#252;rze sollte man herausschmecken - die Mischung macht es!
+Zugedeckt bei mittlerer Hitze etwa 10 Minuten d&#252;nsten. Danach das restliche Wasser, Tomatenmark und Sojasahne unterr&#252;hren, sodass sich eine s&#228;mige Sauce ergibt. Evtl. nochmals nachw&#252;rzen. Zum Schluss die Mangoldbl&#228;tter unterheben. Zugedeckt weitere ca. 10 Minuten d&#252;nsten.
+Kann man als Beilage zu Fleischgerichten oder pur zu Reis oder Quinoa essen.
+Tipp: Wer mag, ersetzt die Wassermenge zur H&#228;lfte mit trockenem Wei&#223;wein und gibt noch Kr&#228;uter wie Oregano, Thymian und/oder Majoran dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2964941448892156">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1c763699-890d-4ac4-a926-8e200685d4df">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldpfanne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Spaghetti, je nach Gusto mehr oder weniger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,18 +31,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="curry">Currypulver, grünes</fr:igdtName>
+        <fr:igdtName ref="curry">Currypulver, gr&#252;nes</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold gut waschen. Die Mangoldstiele 3 - 4 Minuten blanchieren und anschlie&#223;end mit kaltem Wasser abschrecken. Dann die gr&#252;nen Bl&#228;tter nur 1 Minute blanchieren und mit kaltem Wasser abschrecken. Den Mangold in ungef&#228;hr fingerdicke Streifen schneiden und noch mal in 3 cm lange St&#252;cke schneiden, so dass alles in mundgerechte Streifchen geschnitten ist.
+Inzwischen die Spaghetti kochen.
+Die Zwiebel in kleine W&#252;rfel schneiden und in Sonnenblumen&#246;l anbraten, bis sie glasig sind. Dann den Mangold dazugeben und weiter braten. Die Banane sch&#228;len und in kleine Scheiben schneiden. Das gr&#252;ne Currypulver und die Bananenst&#252;ckchen dazugeben und auf kleiner Stufe weiter braten. Alles evtl. noch mit etwas Salz w&#252;rzen.
+3 Spiegeleier in einer Pfanne braten.
+Die Spaghetti durch ein Sieb schlagen und gut abtropfen lassen.
+Die Spaghetti in tiefe Teller f&#252;llen, das Mangoldgem&#252;se daraufgeben und je Teller obenauf  das Spiegelei anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3126031465843382">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-75030115-5e23-433a-879a-4f0f61c74b4c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Pfanne mit Hack</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -31,23 +31,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomaten, stückige</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomaten, st&#252;ckige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräuter">Kräuter, italienische</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, italienische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -55,18 +55,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold in kaltem Wasser schwimmend von Sand befreien und abtropfen lassen. Ich hatte eine bunte Mangoldmischung. Die pinken St&#228;ngel sieht man auch auf dem Foto.
+Nun die St&#228;ngel vom Mangold "rauszupfen" und in circa 1 cm breite St&#252;cke schneiden. Die Bl&#228;tter vom Mangold ebenfalls grob schneiden, z. B. in 1 cm breite Streifen. Beides getrennt zur Seite stellen.
+Die Zwiebeln w&#252;rfeln und mit dem Oliven&#246;l in eine hohe Pfanne oder Topf geben und bei mittlerer bis hoher Hitze kurz anschwitzen. Direkt die St&#228;ngel vom Mangold dazugeben und beides weiter in der Pfanne braten. Bald das Hackfleisch zugeben, zerteilen und mitbraten.
+Nun den Knoblauch pressen und beif&#252;gen, ebenso das Tomatenmark, die Kr&#228;uter, Salz, Pfeffer und Zucker. Nun die Bl&#228;tter des Mangolds und die Tomaten dazugeben und nach dem Unterr&#252;hren eine Weile mit Deckel k&#246;cheln lassen. Der Mangold f&#228;llt schnell zusammen. Dann l&#228;sst es sich immer besser vermengen.
+Am Schluss noch vorsichtig mit etwas Balsamico abschmecken und gegebenenfalls nachw&#252;rzen. Wer mag, kann noch einen Schlag saure Sahne o. &#228;. unterr&#252;hren.
+Wir m&#246;gen die Mangold-Hackpfanne gern auf Nudeln mit frischem Parmesan dr&#252;ber. Reis oder Kartoffeln schmecken bestimmt auch gut dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

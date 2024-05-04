@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2330101371126986">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-aa8e96aa-d19a-4569-9ed4-6bd38fb9345a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Galette mit Thymian-Geflügelpastete</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Galette mit Thymian-Gefl&#252;gelpastete</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrust, gewürfelt und angefroren, muss eiskalt sein</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbrust, gew&#252;rfelt und angefroren, muss eiskalt sein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
@@ -31,15 +31,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl, oder Pfanzencreme</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">&#214;l, oder Pfanzencreme</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="geflügel">Geflügelleber(n), oder getrocknete Tomaten</fr:igdtName>
+        <fr:igdtName ref="getrocknete_tomaten">Gefl&#252;gelleber(n), oder getrocknete Tomaten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -71,22 +71,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="balsamico">Crema di Balsamico rosso (nur für die Deko)</fr:igdtName>
+        <fr:igdtName ref="balsamico">Crema di Balsamico rosso (nur f&#252;r die Deko)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 TL</fr:igdtQuantity>
-        <fr:igdtName ref="beeren">Preiselbeeren</fr:igdtName>
+        <fr:igdtName ref="preiselbeeren">Preiselbeeren</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ei, Mehl, Flocken, 1 EL &#214;l/Pflanzencreme, Milch und einer Prise Salz verquirlen und kurz ruhen lassen.
+Den dicken Strunk vom Mangold rausschneiden und die Bl&#228;tter zwischen 2 Bl&#228;ttern nassen K&#252;chenpapiers in der Mikrowelle 2 min/400Watt d&#252;nsten, so dass er nicht mehr so hart ist. Ersatzweise 2 min in kochendem Wasser blanchieren.
+Pfanne erhitzen und mit &#214;l bzw. Pflanzencreme auswischen, aus dem Teig 4 d&#252;nne Galette backen.
+In der Pfanne dann 3 EL &#214;l erhitzen und die Gefl&#252;gelleber in ca. 4 min rundherum anbraten (die getrockneten Tomaten nat&#252;rlich nicht).  Den Thymian zu geben und kurz erhitzen. Vom Herd ziehen und abk&#252;hlen lassen.
+Mit dem Stabmixer die eiskalte H&#252;hnerbrust mit Sahne, Salz und Pfeffer p&#252;rieren. Die Leber bzw. die getrocknete Tomate und die Petersilie unterr&#252;hren.
+Klarsichtfolie ausbreiten, darauf zwei Galette und darauf ein Mangoldblatt - soweit es die Form zul&#228;sst rechteckig - mehr breit als lang - mit der Farce bestreichen und mit Hilfe der Folie zu einer festen Rolle rollen. Enden ganz fest aufdrehen und nochmal ganz fest mit Alufolie umwickeln. Das Paket sollte m&#246;glichst Wasserdicht sein. Eine zweite Rolle formen ...
+Wasser in einem gro&#223;en Topf zum Kochen bringen und die Rollen einlegen. 15min sanft garen.
+Rollen herausnehmen, etwas abk&#252;hlen lassen, vorsichtig auswickeln und in Scheiben schneiden.
+Den bunten Salat und die Pfifferlinge auf Teller verteilen, mit den beiden Crema die Balsamico betr&#228;ufeln, etwas frischen Pfeffer dar&#252;ber malen, einen Klecks Preiselbeeren an die Seite geben und mit den Galettesscheiben anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

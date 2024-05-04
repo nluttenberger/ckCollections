@@ -1,0 +1,102 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2fbd8f09-3338-4f0f-8811-9e5c87fd29c9">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Lasagne 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 K&#246;pfe</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter f&#252;r Bechamel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#190; Tasse/n</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl f&#252;r Bechamel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne f&#252;r Bechamel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="teig">Mehl f&#252;r den Teig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="teig">Ei(er) f&#252;r den Teig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat, gerieben, f&#252;r Bechamel</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, Stiele abschneiden und getrennt verarbeiten:
+Mangold klein schneiden, zuerst die Stiele blanchieren, etwas sp&#228;ter die Bl&#228;tter. In Eiswasser Kochvorgang unterbrechen.
+Schalotten in Oliven&#246;l goldgelb Farbe anschwitzen, fein gew&#252;rfelten Knoblauchzehen zugeben und geh&#228;utete Tomaten zugeben.
+Nach Bedarf Tomatenmark zugeben.
+Mit Gew&#252;rzen (Oregano, Estragon, Thymian, sparsam Lavendel, eignen sich) sowie Salz und Pfeffer abschmecken.
+Wichtig: Die Sauce sollte gen&#252;gend Fl&#252;ssigkeit enthalten, damit die Pasta garen kann.
+Bechamel-Sauce herstellen.
+Pasta mit oben benannten Zutaten herstellen, die k&#228;uflichen Schnellkochenden z.B. von Buitoni eigen sich ebenfalls.
+Man ben&#246;tigt an die 10 Bl&#228;tter Lasagne-Pasta.
+In eine gebutterte Form in der Reihenfolge: Tomatensauce, Lasagnebl&#228;tter, Mangold mit Bechamel, Lasagnebl&#228;tter, Tomatensauce, Lasagnebl&#228;tter aufschichten.
+Als oberste Schicht erneut Mangold, darauf etwas Tomatensauce und etwas Bechamel.
+Mit reichlich Parmesan bestreuen.
+Etwa 20-25 Min. im Ofen bei 150&#176;-175&#176;C &#252;berbacken.
+Die Lasagne ist in dieser Zeit gar, auch bei gekaufter Pasta, wenn gen&#252;gend Fl&#252;ssigkeit in der Tomatensauce ist.
+Wenn es schnell gehen muss:
+Statt der Tomaten kann auch eine gro&#223;e Dose "Pelati" herhalten,
+gekaufte Pasta spart Zeit.
+Bechamel-Sauce aber bitte selbst herstellen, zum einen wegen der Menge (ich habe bei meinem Rezept etwa einen Liter verbraucht!)
+zum anderen wegen des Geschmacks, die k&#228;ufliche ist meist sehr Geschmacksintensiv, das ist unerw&#252;nscht, da sonst der feine Mangold-Geschmack &#252;berdeckt wird.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

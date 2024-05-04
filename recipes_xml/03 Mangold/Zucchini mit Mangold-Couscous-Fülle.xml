@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2403911379863027">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5c924938-288a-48cd-b3f5-f204bd594254">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Zucchini mit Mangold-Couscous-Fülle</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Zucchini mit Mangold-Couscous-F&#252;lle</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>10 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter mit Stiel</fr:igdtName>
+        <fr:igdtQuantity>10 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter mit Stiel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n) (Jungzwiebeln)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n) (Jungzwiebeln)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -46,16 +46,8 @@
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="oregano">Oregano</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+        <fr:igdtQuantity>1 B&#252;ndel</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Kr&#228;uter, italienische, frische (z. B. Basilikum, Oregano, Thymian)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -63,22 +55,28 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben zum Überbacken</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben zum &#220;berbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>2 Tassen Salzwasser in einem kleinen Topf zum Kochen bringen, den Couscous einr&#252;hren und zugedeckt quellen lassen. In der Zwischenzeit das Gem&#252;se waschen.
+Die Zucchini der L&#228;nge nach halbieren und aush&#246;hlen, 3/4 des Fruchtfleisches aufheben. Die Mangoldstiele in kleine St&#252;cke schneiden und die Bl&#228;tter grob hacken. Die Jungzwiebel und die Karotte fein schneiden und die Tomaten halbieren.
+In einer Pfanne die gehackten Mangoldstiele mit den fein geschnittenen Karottenst&#252;cken in etwas &#214;l anr&#246;sten, danach die Jungzwiebel und das Zucchinifleisch zuf&#252;gen, zuletzt die gehackten Mangoldbl&#228;tter beimengen.
+Wenn alles gar ist, die Pfanne von der warmen Herdplatte ziehen. Dann den Couscous und den zerbr&#246;ckelten Schafsk&#228;se dazugeben, mit etwas Salz, Pfeffer und der gehackten Petersilie abschmecken.
+In einem Topf die halbierten Tomaten k&#246;cheln lassen und anschlie&#223;end die weich gekochten Tomaten mit einem P&#252;rierstab p&#252;rieren. Mit Zucker, Salz und Pfeffer w&#252;rzen und mit den fein gehackten italienischen Kr&#228;utern abschmecken.
+Die halbierten Zucchini in eine passende Auflaufform geben und mit der Couscousmasse f&#252;llen. Die Tomatenso&#223;e vorsichtig in die Auflaufform gie&#223;en (nicht auf die Zucchini).
+Die gef&#252;llten Zucchini mit K&#228;se bestreuen und zugedeckt f&#252;r ca. 25 Minuten ins auf 180&#176;C (Ober-/Unterhitze) vorgeheizte Backrohr stellen, bis die Zucchini gar ist. Anschlie&#223;end den Deckel entfernen und den K&#228;se braun werden lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

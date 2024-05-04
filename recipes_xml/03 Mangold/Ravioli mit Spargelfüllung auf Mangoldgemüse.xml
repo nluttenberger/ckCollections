@@ -1,29 +1,33 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3833671583747038">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-93ec819c-927d-43ed-8776-aa0c1e2c412d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Ravioli mit Spargelfüllung auf Mangoldgemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Ravioli mit Spargelf&#252;llung auf Mangoldgem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl Tipo 00</fr:igdtName>
+        <fr:igdtName ref="nudeln">Pastamehl Tipo 00</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 g</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Stangen</fr:igdtQuantity>
-        <fr:igdtName ref="grüner_spargel">grüner Spargel</fr:igdtName>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;ner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -31,43 +35,43 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken</fr:igdtName>
+        <fr:igdtName ref="wacholder">Schinken (Wacholderschinken)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="mascarpone">Mascarpone</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Prise</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Prise</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz</fr:igdtName>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -77,12 +81,23 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Nudelteig alle Zutaten kr&#228;ftig zu einem glatten Teig verkneten. Diesen in ein St&#252;ck Folie wickeln und ca. 1 Stunde ruhen lassen.
+Die F&#252;llung:
+In der Zwischenzeit die F&#252;llung herstellen. Dazu den Spargel sch&#228;len, die holzigen Enden abschneiden und die Stangen klein w&#252;rfeln. Butterschmalz in einer Pfanne erhitzen und die Spargelw&#252;rfel darin ca. 2 Minuten braten.
+Den Schinken ebenfalls in kleine W&#252;rfel schneiden und mit dem Spargel und geriebenem Parmesan und Mascarpone verr&#252;hren. Mit etwas Pfeffer abschmecken.
+F&#252;r die Ravioliherstellung:
+Ein K&#252;chentuch mit etwas Mehl best&#228;uben. Vom Nudelteig kleine Portionen abnehmen und mehrmals unter st&#228;ndigem Falten bei Stufe 2 durch die Nudelmaschine geben. Sobald der Teig glatt und elastisch wird, das ist nach ca. 6 - 8 Mal der Fall, die Maschine eine Stufe h&#246;her einstellen und alles wiederholen, bis Stufe 7 erreicht ist.
+Auf den d&#252;nnen Teigplatten, mit dem Ravioliausstecher die Konturen andeuten. Mit einem Kaffeel&#246;ffel die F&#252;llung darauf platzieren und mit einer weiteren Nudelteigplatte abdecken. Mit dem Ausstecher die Ravioli vollst&#228;ndig ausstechen und diese zum Antrocknen auf das bemehlte K&#252;chentuch legen. (12 - 15 Ravioli)
+Ausreichend Wasser zu Kochen bringen, salzen und die Ravioli darin ca. 5 - 7 Minuten kochen.
+F&#252;r das Mangoldgem&#252;se:
+Die Zwiebel sch&#228;len und w&#252;rfeln, den Mangold waschen und in grobe St&#252;cke schneiden. Butterschmalz in einem Topf erhitzen, darin die Zwiebeln etwas anbraten und dann den Mangold zugeben. Dieser f&#228;llt unter R&#252;hren zusammen.
+Das Gem&#252;se mit Muskat, Pfeffer und gek&#246;rnter Gem&#252;sebr&#252;he w&#252;rzen, abdecken und bei kleiner Flamme weich kochen. Zum Schluss einen Essl&#246;ffel Mascarpone unterr&#252;hren.
+Die Ravioli mit dem Gem&#252;se anrichten und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

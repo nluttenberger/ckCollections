@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-852081190699690">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ca57a820-1dd0-4e8f-af64-385ee25f4f6b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Veganer Gemüse-Tofu-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Veganer Gem&#252;se-Tofu-Auflauf</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="">Kokosfett</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), gekochte (gerne auch Reste vom Vortag)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,8 +26,8 @@
         <fr:igdtName ref="brokkoli">Brokkoli, TK, alternativ Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Fleischtomate(n), alternativ 2 mittelgroße Tomaten</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Fleischtomate(n), alternativ 2 mittelgro&#223;e Tomaten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
@@ -47,46 +47,53 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="tofu">Räuchertofu</fr:igdtName>
+        <fr:igdtName ref="tofu">R&#228;uchertofu</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatblüte, gemahlene</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatbl&#252;te, gemahlene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="hefe">Hefeflocken, würzige</fr:igdtName>
+        <fr:igdtName ref="hefe">Hefeflocken, w&#252;rzige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curry">Currypulver, scharfes, indische Art</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilisauce oder Peperonisauce, scharfe, bei Bedarf</fr:igdtName>
+        <fr:igdtName ref="peperoni">Chilisauce oder Peperonisauce, scharfe, bei Bedarf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="pflanzenfett">Pflanzenfett für die Form</fr:igdtName>
+        <fr:igdtName ref="pflanzenfett">Pflanzenfett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>In einer Kasserolle oder einem kleinen Kochtopf das Kokosfett erhitzen. Zwiebel abziehen, klein w&#252;rfeln und in den Topf geben. Ca. 2 Minuten leicht anbraten. Zerkleinertes frisches oder tiefgek&#252;hltes Gem&#252;se zu den Zwiebeln in den Topf geben. Mit 1 Schuss Sojasauce, wei&#223;em Pfeffer, Muskatbl&#252;te, Salz und Currypulver w&#252;rzen. Den R&#228;uchertofu in ca. 2 cm lange und 1 cm dicke W&#252;rfel schneiden und mit in Topf geben. Deckel aufsetzen und alles auf niedriger Temperatur ca. 10 Minuten d&#252;nsten.
+Tipp: Bei tiefgek&#252;hltem Gem&#252;se ist vermutlich kein weiterer Wasserzusatz n&#246;tig, damit es nicht anbrennt. Ansonsten bei Verwendung von Frischgem&#252;se ca. 2 EL Wasser mit in den Topf geben.
+Eine Auflaufform leicht einfetten. Die vorgekochten Kartoffeln in halbe Scheiben schneiden und in die Auflaufform geben. Salzen und pfeffern und Muskatbl&#252;te untermischen. Die Gem&#252;se-Tofu-Mischung ebenfalls in die Auflaufform geben und alles gut vermischen. Die Tomate in Scheiben oder St&#252;cke schneiden und oben drauf legen, leicht salzen und pfeffern.
+Den Backofen auf 180 &#176;C Ober-/Unterhitze vorheizen.
+Inzwischen in einer kleinen Pfanne oder einem Topf die Margarine erhitzen. Mehl hineingeben und mit einem Schneebesen eine Mehlschwitze bzw. Einbrenne durch st&#228;ndiges R&#252;hren zubereiten. Sobald das Mehl anf&#228;ngt leicht zu br&#228;unen, mit der Sojamilch abl&#246;schen und kontinuierlich weiterr&#252;hren, damit sich keine gro&#223;en Kl&#252;mpchen bilden. Senf, Pfeffer, Salz und Muskatbl&#252;te sowie bei Bedarf 2 - 3 Spritzer Chilisauce bzw. Peperonisauce zugeben und unterr&#252;hren. Ganz am Schluss die Hefew&#252;rzflocken einr&#252;hren (falls die Konsistenz sehr fest sein sollte, kann die Sauce mit etwas Wasser und Sojamilch noch verd&#252;nnt werden - aber bitte beachten, dass durch das viele Gem&#252;se dann auch noch viel Wasser beim Backen entsteht). Diese "Hefeschmelz"-Mischung nun &#252;ber die Tomaten oben in der Auflaufform geben, am besten mit Hilfe eines Teigschabers. Ein wenig mit einer Gabel leicht oberfl&#228;chlich "einarbeiten", aber keinesfalls komplett durchmischen.
+Die Auflaufform nun auf der 2. Schiene von unten in den hei&#223;en Backofen schieben und so lange backen, bis die Oberfl&#228;che hellbraun geworden ist. Dies dauert je nach Backofen ca. 30 bis 40 Minuten.
+Dieses Rezept ist f&#252;r Leute, die erst Veganer werden m&#246;chten und bisher dachten, vegan bedeutet automatisch fade und w&#228;ssrig.
+Dazu passt geschmacklich jeder gr&#252;ne Salat mit Essig-&#214;l-Vinaigrette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

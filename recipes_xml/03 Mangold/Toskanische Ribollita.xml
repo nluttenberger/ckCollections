@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2335751371814402">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-16e3b075-8f9d-40a8-a1a7-957f27e724cc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Toskanische Ribollita</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, weiße, toskanische</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, wei&#223;e, toskanische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -35,10 +35,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse (Fontina)</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se (Fontina)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), nach Wunsch mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
-        <fr:igdtName ref="staudensellerie">Staudensellerie oder etwas Knollensellerie</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Staudensellerie oder etwas Knollensellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -55,27 +55,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
         <fr:igdtName ref="fenchelsamen">Fenchelsamen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Glas</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trockener</fr:igdtName>
+        <fr:igdtQuantity>&#189; Glas</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¾ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtQuantity>&#190; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
@@ -85,12 +85,21 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Bohnen &#252;ber Nacht einweichen.
+In ungesalzenem Wasser mit einer angequetschten Tomate und einer kleinen Kartoffel je nach Bohnensorte 25 min bis 1 Stunde kochen. Abseihen und das Bohnenwasser auffangen; kann auf Wunsch als Basis der Gem&#252;sebr&#252;he herhalten (weglassen bl&#228;ht allerdings weniger).
+Kartoffeln, Sellerie, Zwiebel und Karotten in feine W&#252;rfel schneiden und in einem gro&#223;en Kochtopf in etwas &#214;l anbraten. Die Lorbeerbl&#228;tter und 3/4 des in feine Streifen geschnittenen Wirsings und die geviertelten Rosenkohlr&#246;schen zuf&#252;gen. Etwas anr&#246;sten, salzen und mit dem Wei&#223;wein abl&#246;schen.
+Die H&#228;lfte der Bohnen zerstampfen, beide Teile Bohnen dann in den Topf geben, mit der Gem&#252;sebr&#252;he &#252;bergie&#223;en und bei halb geschlossenem Deckel bis zu 2 Stunden kochen lassen. Die Konsistenz soll dickfl&#252;ssig, eintopfartig werden, aber es soll noch Fl&#252;ssigkeit vorhanden sein. Bei Bedarf hei&#223;e Suppe oder hei&#223;es Wasser nachgie&#223;en.
+Tipp: Jetzt kann man das Gericht eigentlich stehen lassen, um es sp&#228;ter wieder aufzukochen.
+Dann das Brot in die Suppe br&#246;ckeln, den in Scheiben geschnittenen Fontina-K&#228;se und den restlichen Wirsing beif&#252;gen und weitere 30 Minuten kochen. Den Eintopf mit &#214;l und Pfeffer abschmecken.
+Je nach Wunsch kann man das Brot auch erst sp&#228;t bzw. beim Servieren hinzuf&#252;gen.
+Mancher Gast isst dazu gerne noch frisch aufgeschnittenes Wei&#223;brot.
+Den Fontinak&#228;se weglassen, falls man keinen bekommt oder durch anderen K&#228;se ersetzen.
+Ein herrlich aromatisches Gericht wie aus Gro&#223;mutters K&#252;che, sehr s&#228;ttigend, hervorragend vorzukochen und dann wieder aufzuw&#228;rmen ("Ribollita = die Wiedergekochte"). Die Zubereitung ist nicht schwierig, braucht aber Zeit.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

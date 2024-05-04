@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-790171182341926">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a0e61425-a90e-43fe-9a49-d93f9c67cb6c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldnudeln mit dreierlei Käse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldnudeln mit dreierlei K&#228;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
@@ -51,22 +51,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Nudeln, grün</fr:igdtName>
+        <fr:igdtName ref="nudeln">Nudeln, gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>In einem gro&#223;en Topf Wasser mit Salz und &#214;l zum Kochen bringen.
+Inzwischen die Mangoldbl&#228;tter in nudeldicke Streifen schneiden. Gorgonzola und Mozzarella sehr fein w&#252;rfeln, Parmesan raspeln. Zwiebel und Knoblauch sehr fein hacken, in der H&#228;lfte der Butter and&#252;nsten. Sahne und Br&#252;he angie&#223;en. Im offenen Topf in etwa zehn Minuten um etwa ein Drittel einkochen. Die H&#228;lfte von Gorgonzola und Parmesan in die Sauce geben und schmelzen lassen, evtl. noch mit Salz nachw&#252;rzen. Nudeln garen, in den letzten zwei Minuten die Mangoldstreifen mitgaren. Dann alles durch ein Sieb abgie&#223;en. Mangold gut abtropfen lassen und in der restlichen Butter schwenken. Nudeln mit dem Mangold vermischen und dem restlichen K&#228;se und auf vorgew&#228;rmten tiefen Tellern anrichten. Mit der Sauce &#252;bergie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

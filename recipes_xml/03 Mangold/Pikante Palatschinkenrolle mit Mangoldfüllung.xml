@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3012831454096650">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-66519065-7226-4731-872e-b23fcf890e50">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Pikante Palatschinkenrolle mit Mangoldfüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Pikante Palatschinkenrolle mit Mangoldf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -31,10 +31,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Ausbacken</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Ausbacken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="schinken">Rohschinken nach Bedarf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,30 +51,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), getrocknete in Öl</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknete in &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Pfannkuchen Eier mit Milch und Mineralwasser versprudeln, salzen und das Mehl einr&#252;hren.
+Den Teig zu Pfannkuchen verarbeiten, wobei beim Einf&#252;llen des Teiges in die Pfanne jeweils 2 - 3 Blatt Rohschinken auf den noch fl&#252;ssigen Teig gelegt werden, sodass sie in den Teig einbacken. Wenden und fertig backen.
+F&#252;r die F&#252;llung Oliven&#246;l in einer Pfanne erhitzen, Zwiebel und Knoblauch sch&#228;len, kleinw&#252;rfelig schneiden und anr&#246;sten. Den geputzten, in Streifen geschnittenen Mangold dazugeben und so lange durchr&#246;sten, bis der Mangold zusammenf&#228;llt. Salzen, pfeffern und die klein geschnittenen, getrockneten Tomaten dazugeben. Noch kurz am ausgeschalteten Herd ziehen lassen. Danach kommen die Pinienkerne, die in einer Pfanne ohne &#214;l anger&#246;stet wurden dazu. Abschmecken mit Salz, Pfeffer und eventuell etwas frisch geriebener Muskatnuss.
+Nun die Pfannkuchen mit der F&#252;llung belegen, einschlagen oder einrollen und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

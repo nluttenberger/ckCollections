@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3046871457293352">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6c7ab636-607e-4917-b87e-29a3f65132fa">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Grüner Smoothie mit Salbei</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gr&#252;ner Smoothie mit Salbei</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="apfel">Äpfel</fr:igdtName>
+        <fr:igdtName ref="apfel">&#196;pfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>0,3</fr:igdtQuantity>
@@ -23,14 +23,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Salat, Spinat, Mangold o.ä. frischer, oder TK-Spinat, TK-Grünkohl o.ä. (dann eine kleine Tasse voll)</fr:igdtName>
+        <fr:igdtName ref="gr&#252;nkohl">Salat, Spinat, Mangold o.&#228;. frischer, oder TK-Spinat, TK-Gr&#252;nkohl o.&#228;. (dann eine kleine Tasse voll)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ingwer">Ingwer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="salbei">Salbei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -41,12 +41,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>&#196;pfel, waschen, Kerngeh&#228;use entfernen und grob zerkleinern. Gurke waschen, sch&#228;len und grob zerkleinern (Bioware muss nicht gesch&#228;lt werden). Zitronensaft auspressen. Wenn frischer Salat, Spinat oder &#228;hnliches verwendet wird, diesen waschen. Ingwer sch&#228;len und grob zerkleinern (Bioware muss nicht gesch&#228;lt werden).
+Alle Zutaten in den Mixer geben, kaltes Wasser nach Belieben einf&#252;llen und fein p&#252;rieren. Fertig.
+Der Smoothie kann mit Honig oder Agavendicksaft ges&#252;&#223;t werden. Es kann auch noch mehr Obst verwendet werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

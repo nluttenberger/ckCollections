@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3405841507271538">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-99115c57-ee7b-4245-bc24-788537f94c4a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lachs auf Mangold mit Ziegenquark-Topping</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>440 g</fr:igdtQuantity>
         <fr:igdtName ref="lachs">Lachsfilet(s) mit Haut</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), grün</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 cm</fr:igdtQuantity>
@@ -49,12 +49,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold putzen und die Stiele in 2 cm breite St&#252;cke schneiden. Chilischoten, Knoblauchzehen und Ingwer fein hacken.
+Das &#214;l in einer Pfanne erhitzen und zuerst die Mangoldstiele anbraten. Wenn die Stiele weich sind, die H&#228;lfte der Chilischoten, den Knoblauch und die H&#228;lfte des Ingwers zugeben und 20 Min. k&#246;cheln lassen. Alles sollte bissfest sein.
+Den Backofen auf 170 Grad Ober-/Unterhitze vorheizen.
+Den Mangold in eine Auflaufform geben. Den Lachs in 3 St&#252;cke schneiden. Den Quark mit Chili, Ingwer und der Fischsauce mischen. Den Fisch auf das Gem&#252;se legen und mit der Quarkmasse bestreichen. Im Ofen ca. 20 Min. auf der mittleren Schiene garen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

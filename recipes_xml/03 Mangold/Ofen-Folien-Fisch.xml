@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-848251190282118">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bb033c80-a61e-4676-84b9-da1e4542e9dc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Ofen-Folien-Fisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Port.</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s) (Wolfsbarsch oder anderer Fisch)</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, rot oder weiß</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, rot oder wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -47,15 +47,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
         <fr:igdtName ref="garnele">Garnele(n) (ohne Schale)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Meersalz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Meersalz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -65,12 +65,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ein gro&#223;es St&#252;ck Alufolie auf die Arbeitsplatte legen.
+Die Mangold Bl&#228;tter von den St&#228;ngeln trennen, die St&#228;ngel in kleine Streifen scheiden, Bl&#228;tter ganz lassen alles ca. 5 Minuten d&#252;nsten. Abtropfen lassen, die St&#228;ngel auf die Mitte der Alufolie legen und die Bl&#228;tter dar&#252;ber. Die geputzten Champignons und Steinpilze in Scheiben schneiden und darum herum verteilen. Die Garnelen halbieren und dazu geben. Die Chilischote halbieren und dazu legen.
+Den Wolfsbarsch leicht anschneiden (damit die Aromen sich im Fisch verteilen k&#246;nnen, nicht durchschneiden!) und auf den Mangold legen. Meersalz und Pfeffer &#252;ber den Fisch (etwas einreiben) und die anderen Zutaten geben. Rosmarin und Thymian ganz lassen und auf den Fisch legen, auch in die Einschnitte dr&#252;cken. Wei&#223;wein und Oliven&#246;l gleichm&#228;&#223;ig dar&#252;ber tr&#228;ufeln.
+Die Alufolie am Rand mit Eigelb einpinseln. Ein gleichgro&#223;es St&#252;ck Alufolie dar&#252;ber legen, an allen Enden gut zusammen dr&#252;cken und die Ecken falten, damit eine luftdichte H&#252;lle entsteht.
+Im vorgeheizten Backofen bei 180&#176;C eine halbe Stunde garen lassen.
+Sofort servieren, erst bei Tisch die Alufolie von oben aufschneiden.
+Hinweis: Kann alternativ alles in einem gro&#223;en P&#228;ckchchen zusammengestellt werden oder aufgeteilt auf zwei kleinere.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

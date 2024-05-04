@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2894481441773877">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e7db42d1-b870-4cf2-8923-33cfbf8390ff">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Hackfleisch-Strudel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl, evtl mit Vollkornanteil</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Traubenkernöl oder Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Traubenkern&#246;l oder Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -31,11 +31,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Bestreichen</fr:igdtName>
+        <fr:igdtName ref="ei">&#214;l zum Bestreichen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl für die Arbeitsfläche</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl f&#252;r die Arbeitsfl&#228;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
@@ -46,7 +46,7 @@
         <fr:igdtName ref="hackfleisch">Hackfleisch, gemischt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,11 +55,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="rosmarin">Kräuter, italienische (Salbei, Thymian, Majoran, Oregano, Rosmarin), frisch</fr:igdtName>
+        <fr:igdtName ref="rosmarin">Kr&#228;uter, italienische (Salbei, Thymian, Majoran, Oregano, Rosmarin), frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -67,22 +67,28 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Alle Zutaten f&#252;r den Teig verkneten. Er sollte nicht mehr kleben, ansonsten noch etwas Mehl hineinkneten. Ist er zu br&#246;selig noch Wasser oder &#214;l einkneten. Er sollte geschmeidig sein und nicht rei&#223;en. Eine Stunde zugedeckt ruhen lassen.
+W&#228;hrenddessen die Hackfleisch-Mangold-F&#252;llung vorbereiten. Die Zwiebeln sch&#228;len und w&#252;rfeln. Den Mangold waschen, klein hacken und in hei&#223;em Wasser ca. 10 Minuten blanchieren, er sollte stark zusammengehen. Dann abseihen und ausdr&#252;cken. Den Knoblauch sch&#228;len und pressen.
+In einem Topf &#214;l erhitzen und die Zwiebeln anbraten. Knoblauch und Hackfleisch dazugeben, wenn die Zwiebeln glasig sind und mitbraten. Dann Creme fra&#238;che, die Kr&#228;uter (vorher hacken) und das Tomatenmark dazugeben. Abschmecken und kurz abk&#252;hlen lassen.
+Den Strudelteig auf ca. 30 x 40 cm ausrollen, dabei sollte man den Teig so d&#252;nn wie m&#246;glich, ggf. mit Streumehl ausrollen. Wer wie ich lieber 2 Strudel mag, rollt 2 gleich gro&#223;e Platten 15 x 20 cm.
+Erst die Hackfleischf&#252;llung auf die komplette Strudelplatte (au&#223;er 1 cm Rand) verteilen, dann den wirklich gut ausgedr&#252;ckten Mangold darauf verteilen, evtl. salzen und pfeffern. Den K&#228;se dar&#252;ber streuen.
+Jetzt die Strudel aufrollen. Dabei das eine Ende der langen Seite nehmen und einfach zur Spirale rollen. Die Ecken und Enden andr&#252;cken und auf ein Backpapier setzen.
+Die Au&#223;enseiten ein&#246;len und bei 180 &#176;C (Ober-/Unterhitze)20 - 30 Minuten backen (bei 2 Strudeln). Wenn man nur 1 Strudel macht, erh&#246;ht sich die Backzeit auf sch&#228;tzungsweise 45 - 50 Minuten. Hei&#223; und frisch essen, am besten zu Salaten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

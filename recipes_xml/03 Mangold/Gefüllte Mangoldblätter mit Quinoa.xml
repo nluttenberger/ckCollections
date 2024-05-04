@@ -1,33 +1,33 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2416591381516843">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2fca3637-ece5-4f08-a295-cbdcf047f535">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Mangoldblätter mit Quinoa</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Mangoldbl&#228;tter mit Quinoa</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
         <fr:igdtName ref="quinoa">Quinoa</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold mit Stiel (große Blätter)</fr:igdtName>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold mit Stiel (gro&#223;e Bl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
         <fr:igdtName ref="fenchel">Fenchel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote(n), grüne</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="paprika">Paprikaschote(n), gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -42,11 +42,11 @@
         <fr:igdtName ref="mozzarella">Mozzarella, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,18 +55,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Quinoa nach Packungsangabe in Gem&#252;sebr&#252;he kochen. In der Zwischenzeit Paprika, Fenchel, Zwiebel und Knoblauch kleinw&#252;rfelig schneiden. Den Herd auf 180&#176;C (Umluft) vorheizen. Anschlie&#223;end die Mangoldbl&#228;tter waschen und kurz blanchieren (Achtung: Die Bl&#228;tter nicht zu weich kochen).
+In einer Pfanne das &#214;l erhitzen und Zwiebel Paprika, Fenchel und Knoblauch glasig anschwitzen. Mit Pfeffer, Salz und Muskat w&#252;rzen. Danach die Quinoa zum Gem&#252;se geben, untermischen und nochmals abschmecken. Dann den geriebenen Mozzarella und die gehackte Petersilie hinzuf&#252;gen.
+Zum Schluss die Mangoldbl&#228;tter mit der Masse belegen, vorsichtig aufrollen und in eine Auflaufform oder auf ein Blech legen und kurz im Rohr braten, bis die Bl&#228;tter braun sind und der K&#228;se geschmolzen ist. Anschlie&#223;end sofort servieren. Ich habe Rahmgurken dazu gereicht.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

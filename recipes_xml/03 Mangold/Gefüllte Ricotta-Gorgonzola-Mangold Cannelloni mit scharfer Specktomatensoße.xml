@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2249801360228923">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f3714414-588f-4a20-9d30-68cce08db5ca">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Ricotta-Gorgonzola-Mangold Cannelloni mit scharfer Specktomatensoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte Ricotta-Gorgonzola-Mangold Cannelloni mit scharfer Specktomatenso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Doppelrahmfrischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Doppelrahmfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
@@ -34,8 +34,8 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -46,8 +46,8 @@
         <fr:igdtName ref="nudeln">Cannelloni</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), stückig</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), st&#252;ckig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
@@ -63,11 +63,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -75,7 +75,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe, Instant</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, Instant</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -91,18 +91,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse (Gouda), gerieben</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda), gerieben</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold waschen, die Stiele abtrennen und diese klein geschnitten mit Oliven&#246;l in einer Pfanne farblos anbraten. Die Bl&#228;tter auch ziemlich klein hacken und dann zu den Stielen geben, Salz und Pfeffer dar&#252;ber streuen, Knoblauch gehackt hinzuf&#252;gen. Wenn die Bl&#228;tter zusammengefallen sind, den Gorgonzola hinzugeben und schmelzen lassen. Die Mischung in einer Schale auf Seite stellen und etwas abk&#252;hlen lassen. W&#228;hrenddessen die restlichen Zutaten f&#252;r die F&#252;llung mischen und dann den Mangold unterr&#252;hren.
+F&#252;r die Tomatenso&#223;e die Speckw&#252;rfel auslassen und dann Zwiebelw&#252;rfel, klein gehackte Peperoni und getrocknete Tomaten mit anbraten, alles mit den Tomaten abl&#246;schen. Gew&#252;rze hinzuf&#252;gen und abschmecken. Kurz aufkochen lassen, jedoch die Tomatenso&#223;e sehr fl&#252;ssig halten, da die Cannelloni die Fl&#252;ssigkeit brauchen. Lieber noch ein Glas Wasser hinzuf&#252;gen.
+Jetzt einen Teil der Tomatenso&#223;e in eine Form, in die alle Cannelloni passen, verteilen. Die Cannelloni mithilfe eines Teel&#246;ffels f&#252;llen und dann in die Form setzen. Die restliche Tomatenso&#223;e dar&#252;ber geben, die Cannelloni sollten bedeckt sein.
+Im Ofen bei Ober- und Unterhitze bei 200 &#176;C ca. 70 Minuten backen, testen ob die Nudeln weich sind und dann den Gouda dar&#252;ber streuen, 15 Minuten gratinieren. Aus dem Ofen nehmen noch 15 Minuten ziehen lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

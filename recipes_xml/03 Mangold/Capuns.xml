@@ -1,0 +1,47 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2d490fe3-108e-4c92-849c-1bd20a53871b">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Capuns</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>20 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, blanchiert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="mettwurst">Landj&#228;ger, kleinw&#252;rflig geschnitten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="speck">Speck, (Kochspeck), gew&#252;rfelt 1</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mit etwas Butter die Landj&#228;ger -, Kochspeck-(1) und Zwiebelw&#252;rfel and&#252;nsten und die H&#228;lfte der Petersilie zugeben und vom Herd nehmen.
+Aus Mehl, Eier und Wasser eine Sp&#228;tzleteig herstellen und w&#252;rzen. Mit den anged&#252;nsteten Zutaten vermengen.
+Die Mangoldbl&#228;tter auf ein Tuch auslegen mit der Teigmischung f&#252;llen, zusammen falten und mit einem Zahnstocher fixieren. Die Capuns in leichtem Salzwasser kochen, wenn sie fest sind, aus dem Wasser nehmen und in eine Platte anrichten. Mit Parmesan bestreuen.
+Die Zwiebelstreifen und Kochspeckw&#252;rfel(2) in der Butter anr&#246;sten und &#252;ber die Capuns geben und mit der restlichen Petersilie bestreuen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

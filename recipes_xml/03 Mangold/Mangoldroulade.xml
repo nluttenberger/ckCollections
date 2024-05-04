@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2348541373459099">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a440b5cd-126c-4e30-b4ad-c81eda5387bb">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldroulade</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>12 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,23 +38,29 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Man ben&#246;tigt etwa pro Person ca. 3 Mangoldbl&#228;tter.
+Die dicken Blattrippen einschneiden. Zu lange Stiele abschneiden. Die Bl&#228;tter mit kochendem Wasser &#252;bergie&#223;en und ca. 3 min. ziehen lassen. Danach die Bl&#228;tter herausnehmen und etwas abtrocknen.
+Das Rinderhack mit dem Quark, der klein geschnittenen Paprikaschote und Zwiebel, dem Mais und dem Ei gut vermischen. Dabei kr&#228;ftig mit Salz, Pfeffer und etwas Curry w&#252;rzen.
+Daraus kleine l&#228;ngliche Bouletten formen und auf ein Mangoldblatt geben. Das Mangoldblatt um das Hack legen. Man brauch nichts verschn&#252;ren.
+Die P&#228;ckchen in &#214;l anbraten. In nicht zu hoher Hitze fertig braten.
+Dazu gibt man Gem&#252;se, z.B. Blumenkohl.
+Die Mahlzeit ist schnell zubereitet und kohlenhydratfrei.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

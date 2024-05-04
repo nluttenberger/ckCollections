@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3672541553110259">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ee7393c7-ef91-4680-a87a-13d40b5c2e66">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Karotten-Kürbis-Mangold-Curry</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Karotten-K&#252;rbis-Mangold-Curry</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ingwer">Ingwer, ca. daumenlang</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kokosöl">Kokosöl oder Ghee</fr:igdtName>
+        <fr:igdtName ref="kokos&#246;l">Kokos&#246;l oder Ghee</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomaten, stückige</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomaten, st&#252;ckige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se), geputzt gewogen</fr:igdtName>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se), geputzt gewogen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -51,31 +51,31 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="senfsamen">Senfkörner, schwarze</fr:igdtName>
+        <fr:igdtName ref="senfsamen">Senfk&#246;rner, schwarze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel (Cumin)</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel (Cumin)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="bockshornklee">Bockshornkleesamen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="koriander">Koriandersamen, frisch gemörsert</fr:igdtName>
+        <fr:igdtName ref="koriander">Koriandersamen, frisch gem&#246;rsert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
         <fr:igdtName ref="garam_masala">Garam Masala</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver oder Chilischote, in Ringe geschnitten</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver oder Chilischote, in Ringe geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -87,18 +87,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="curryblätter">Curryblätter, frische, optional</fr:igdtName>
+        <fr:igdtName ref="currybl&#228;tter">Currybl&#228;tter, frische, optional</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Karotten und K&#252;rbis in mundgerechte W&#252;rfel schneiden. Mangoldstiele quer in St&#252;cke schneiden, Bl&#228;tter in Streifen schneiden.
+Zwiebeln, Knoblauch, Chilischote und Ingwer fein hacken und in Kokos&#246;l oder Ghee anschwitzen. Senfk&#246;rner, Bockshornkleesamen, Koriander, Cumin und Kurkuma dazu geben und ein paar Minuten weiter brutzeln. Mit Kokosmilch und gehackten Tomaten abl&#246;schen und aufkochen lassen. K&#252;rbis und Karotten dazu geben. Je nach Gr&#246;&#223;e der Gem&#252;sew&#252;rfel ca. 20 Minuten k&#246;cheln lassen.
+Wenn das Gem&#252;se fast gar ist, die Mangoldstiele dazu geben und nach weitern 5 Minuten die Bl&#228;tter. Bei Bedarf noch etwas Wasser zugeben. Nach weiteren 5 Minuten mit Garam Marsala, Chilipulver, Limettensaft und Salz abschmecken und die Currybl&#228;tter dazu geben.
+Tipp: Currybl&#228;tter sind evtl. schwierig zu bekommen. Sie lassen sich aber sehr gut einfrieren und somit hat man dann eine Weile einen Vorrat.
+Das Curry mit Reis oder indischem Fladenbrot und evtl. einem Klecks Joghurt anrichten.
+Wenn man auf Ghee und Joghurt verzichtet, ist das Gericht vegan.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

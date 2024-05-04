@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2379171377204456">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ebf927e3-bc63-46f8-8346-01de734bcb76">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Salatvariation im Parmesan-Schälchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Salatvariation im Parmesan-Sch&#228;lchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="grana_padano">Käse, (Grana Padano o. ä.)</fr:igdtName>
+        <fr:igdtName ref="grana_padano">K&#228;se, (Grana Padano o. &#228;.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Spinat-Blätter, frische</fr:igdtName>
+        <fr:igdtName ref="spinat">Spinat - Bl&#228;tter, frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>75 g</fr:igdtQuantity>
@@ -27,27 +27,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>45 g</fr:igdtQuantity>
-        <fr:igdtName ref="friséesalat">Friséesalat</fr:igdtName>
+        <fr:igdtName ref="fris&#233;esalat">Fris&#233;esalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>10 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>10 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="ei">Kleiner Wiesenknopf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>10 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>10 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="kerbel">Kerbel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>5 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="minze">Minze</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>5 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="dill">Dill</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
-        <fr:igdtName ref="blüten">Blüten, essbare</fr:igdtName>
+        <fr:igdtName ref="bl&#252;ten">Bl&#252;ten, essbare</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
@@ -59,22 +59,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zun&#228;chst die Sch&#228;lchen aus K&#228;se herstellen. Sofern man keinen bereits geriebenen K&#228;se gekauft hat, diesen fein reiben. Die Sp&#228;ne d&#252;nn in eine beschichte Pfanne streuen und bei schwacher Hitze zu einer Art Crepes schmelzen lassen. Ca. 3 Minuten. Kurz abk&#252;hlen lassen, wobei der Fladen nicht zu d&#252;nnfl&#252;ssig sein darf, aber auch noch nicht abgek&#252;hlt, damit er noch modellierbar ist. Nun die Masse so &#252;ber eine umgest&#252;lpte Tasse legen, dass sich ein Sch&#228;lchen formt. Abk&#252;hlen lassen. So insgesamt 4 Sch&#228;lchen herstellen.
+Die diversen Salate waschen, trocknen und zerrupfen. Die Kr&#228;uter und die Bl&#252;ten ebenfalls rupfen, und fein hacken, Stiele entsorgen. Tomaten vierteln. Alles zusammen in eine Sch&#252;ssel geben, Essig und &#214;l dazu, salzen und pfeffern, mischen. In den K&#228;se-Sch&#228;lchen anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

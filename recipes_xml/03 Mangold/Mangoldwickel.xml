@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-742241176821785">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f5537391-3d7a-4680-af3e-4e3b51f34826">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldwickel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="geflügel">Geflügelfleisch, ohne Haut und Knochen</fr:igdtName>
+        <fr:igdtName ref="gefl&#252;gel">Gefl&#252;gelfleisch, ohne Haut und Knochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="petersilie">Kräuter (Petersilie, Kerbel o.ä.), gehackt</fr:igdtName>
+        <fr:igdtName ref="petersilie">Kr&#228;uter (Petersilie, Kerbel o.&#228;.), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -50,12 +50,12 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe oder Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he oder H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -65,12 +65,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter in kochendem Salzwasser 30 Sekunden blanchieren, eiskalt abschrecken und auf einem Tuch ausbreiten. Die Schalotten in 1 EL Butter and&#252;nsten und erkalten lassen.
+Das Gefl&#252;gelfleisch in kleine St&#252;cke schneiden, salzen, pfeffern und im Mixer p&#252;rieren. Nach und nach die Sahne unterziehen. Das Fleisch aus dem Mixer nehmen, die Schalotten, den Reis und die Kr&#228;uter untermischen. Mit Salz und Pfeffer abschmecken.
+In einem hohen Topf reichlich Wasser zum Kochen bringen. Den Essig zuf&#252;gen. Die Eier einzeln in eine Tasse aufschlagen und vorsichtig ins Wasser gleiten lassen. Die Hitze reduzieren, das Wasser darf nicht mehr kochen. Die Eier 3-4 Minuten pochieren, mit einer Schaumkelle herausnehmen und sofort in kaltem Salzwasser abschrecken.
+Den Backofen auf 180&#176;C vorheizen. Jeweils 1 Mangoldblatt mit der Gefl&#252;gelmasse bestreichen und je 1 Ei darauflegen. Die R&#228;nder umschlagen, sodass geschlossene P&#228;ckchen entstehen. Mit dem Verschluss nach unten nebeneinander in eine gebutterte Form legen.
+Br&#252;he zugie&#223;en. Die Mangoldwickel mit Parmesan bestreuen und mit der restlichen Butter belegen. Im Backofen 30 Minuten &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

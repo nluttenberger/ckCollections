@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4078541637953779">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d8b973a3-223d-4149-a997-4713681873ad">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vegane Mangoldquiche mit Seidentofu</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>180 g</fr:igdtQuantity>
         <fr:igdtName ref="dinkel">Dinkelmehl Type 1050</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 ml</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
-      <!--<fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName>Mehl für die Arbeitsfläche</fr:igdtName>
-      </fr:igdtListLine>-->
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett und Mehl für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Mehl f&#252;r die Arbeitsfl&#228;che</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="weizenmehl">Fett und Mehl f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), getrocknete in Öl</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknete in &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -71,10 +71,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkumapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -86,8 +86,8 @@
         <fr:igdtName ref="hefe">Hefeflocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -97,12 +97,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig alle Zutaten in eine K&#252;chenmaschine geben und zu einem homogenen Teig verkneten. Alternativ mit den Knethaken des Handr&#252;hrger&#228;ts oder einfach mit den H&#228;nden zu einem homogenen Teig verarbeiten. Anschlie&#223;end abgedeckt in den K&#252;hlschrank stellen.
+F&#252;r das Gem&#252;se den Mangold waschen, in einem Sieb gut abtropfen lassen und in Streifen schneiden. Die Zwiebel und den Knoblauch fein hacken. Das &#214;l in einer Pfanne erhitzen und die Zwiebel bei mittlerer Hitze d&#252;nsten. Mangold und Knoblauch hinzuf&#252;gen und bei geringer Hitze weiter d&#252;nsten, bis die Mangoldbl&#228;tter zusammengefallen sind. Tomaten, Oliven und Kr&#228;uter fein hacken, zur Gem&#252;semischung geben, vermischen und mit Salz w&#252;rzen. Abk&#252;hlen lassen.
+F&#252;r den Guss inzwischen den Tofu im Sieb abtropfen lassen. Mit Speisest&#228;rke, Kurkuma, Kala Namak und Hefeflocken in ein hohes Gef&#228;&#223; geben und mit einem Stabmixer fein p&#252;rieren. Den Guss pikant mit Salz und Pfeffer abschmecken. Anschlie&#223;end die Gem&#252;semischung untermengen.
+Den Ofen auf 180 &#176;C Hei&#223;luft vorheizen.
+Den Teig auf einer bemehlten Arbeitsfl&#228;che etwas gr&#246;&#223;er als die Springform ausrollen und in eine gefettete, bemehlte Springform legen. Dabei einen kleinen Rand hochziehen, die F&#252;llung darauf verteilen und &#252;berstehenden Teig &#252;ber die F&#252;llung klappen. Mit den Pinienkernen bestreuen.
+Im vorgeheizten Ofen etwa 30 Minuten backen.
+Am besten nach dem Backen leicht abk&#252;hlen lassen, dann l&#228;sst sich die Quiche besser schneiden.
+Anmerkung: Kala Namak ist ein Schwefelsalz, das der Quiche einen typischen Eier-Geschmack verleiht. Es ist sehr intensiv. Deshalb am besten erst mal vorsichtig w&#252;rzen und je nach Geschmack nochmal nachw&#252;rzen. Erh&#228;ltlich ist es im Bioladen oder Reformhaus. Die Quiche schmeckt auch, wenn anstelle von Kala Namak ein gew&#246;hnliches Salz verwendet wird. Ausprobieren lohnt sich aber.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

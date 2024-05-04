@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-943661199954608">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e6e18658-6b43-4dfb-8cee-477d4745d84b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vegetarischer Mangold-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="paprika">Paprikaschote(n), rote (geröstete, aus dem Glas), gehackt</fr:igdtName>
+        <fr:igdtName ref="paprika">Paprikaschote(n), rote (ger&#246;stete, aus dem Glas), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, geriebener</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -61,12 +61,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 190&#176;C vorheizen.
+Mangold schneiden und waschen, nicht zu gut abtropfen. In einer Mikrowellensch&#252;ssel mit Deckel ca. 5 Min. auf h&#246;chster Stufe in vorkochen (wenn die Sch&#252;ssel zu klein ist, einfach aufteilen und zweimal kochen).
+In einer gro&#223;en Sch&#252;ssel Eier, Mehl, Milch, Salz und Backpulver gr&#252;ndlich vermischen. Knoblauch, gehackte Paprika, Pesto und Zwiebeln dazugeben und vermischen. Zum Schluss K&#228;se und abgegossenen Mangold unterr&#252;hren.
+Die Butter in eine etwa 20 cm x 30 cm gro&#223;en Auflaufform kurz 2 Min. in den Ofen stellen, bis die Butter geschmolzen ist. Die Form schwenken, bis der Boden mit Butter eingefettet ist. Jetzt die Mangoldmischung in die Form geben.
+In den hei&#223;en Backofen schieben und etwa 40-45 Min. backen.
+Nach dem Backen etwa 5 Min. ausk&#252;hlen lassen.
+Als Vorspeise kann man den Auflauf jetzt in St&#252;cke schneiden und servieren. Als Hauptspeise passt Salat dazu.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

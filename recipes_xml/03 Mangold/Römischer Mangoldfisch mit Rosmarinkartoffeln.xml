@@ -1,0 +1,99 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4749cf93-7fac-498f-809a-7ba57617e6f9">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>R&#246;mischer Mangoldfisch mit Rosmarinkartoffeln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, bunt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), geviertelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 cm</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer, frisch gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 ml</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wein">Wein, rot</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="fisch">Fischfilet(s), (Seelachs) TK</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Limette(n), Saft von</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="emmentaler">K&#228;se (Emmentaler)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>800 g</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), kleine</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
+        <fr:igdtName ref="rosmarin">Rosmarin, abgestreifte Nadeln</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, gut abtropfen lassen und die Stiele herausschneiden. Die Bl&#228;tter in Streifen schneiden, die Stiele in ca. 1-2 cm gro&#223;e St&#252;cke schneiden. Die Zwiebel und die Knoblauchzehe
+sch&#228;len und fein hacken. Den Ingwer sch&#228;len und fein raspeln.
+&#214;l im Topf erhitzen, 1/2 Zwiebel mit dem Knoblauch anbraten. Die Stiele zuf&#252;gen und mit der Br&#252;he und dem Wein auff&#252;llen. 10 Min. k&#246;cheln lassen. Mit Salz und Pfeffer abschmecken.
+In einer Pfanne &#214;l erhitzen und darin die Zwiebel mit dem Knoblauch glasig braten. Den Mangold dazugeben und alles zugedeckt etwa 5 Minuten d&#252;nsten. Mit Salz, Pfeffer, Muskat und Ingwer w&#252;rzen. Die Tomaten in St&#252;cke schneiden. Mit dem Mangold vermischen. Die Stiele ohne Fl&#252;ssigkeit zuf&#252;gen.
+Die aufgetauten Seelachsfilets kalt absp&#252;len, mit K&#252;chenkrepp trockentupfen, salzen, pfeffern und mit dem Limettensaft betr&#228;ufeln. Den Backofen auf 180&#176;C (Umluft 150&#176;C; Gas Stufe 2) vorheizen und eine flache Gratinform (etwa 30 cm lang) mit etwas Butter einfetten.
+Den Boden der Form mit der H&#228;lfte des Mangolds auslegen. Die Fischfilets darauf geben, mit dem restlichen Mangold abdecken.
+Die Sahne, das Ei und den Emmentaler miteinander verr&#252;hren. Mit Salz, Pfeffer und Muskat w&#252;rzen und alles &#252;ber das Gratin gie&#223;en. Das Gratin auf mittlerer Schiene etwa 30 Minuten garen.
+Die Kartoffeln gut abb&#252;rsten. &#214;l in einer Pfanne erhitzen, die Kartoffeln mit den Rosmarinnadeln darin langsam goldbraun braten. Salzen und pfeffern.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

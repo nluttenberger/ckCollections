@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3198371476022864">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3a1b9184-a683-4f93-94ab-ca89f6fb42ac">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Odenwälder Kartoffel-Sushi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Odenw&#228;lder Kartoffel-Sushi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), vorwiegend festkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="weißweinessig">Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -31,15 +31,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="walnussöl">Walnussöl</fr:igdtName>
+        <fr:igdtName ref="walnuss&#246;l">Walnuss&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="räucherlachs">Räucherlachs</fr:igdtName>
+        <fr:igdtName ref="r&#228;ucherlachs">R&#228;ucherlachs</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 TL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 TL</fr:igdtQuantity>
@@ -55,18 +55,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="feldsalat">Salatblätter, ersatzweise Feldsalat zum Garnieren</fr:igdtName>
+        <fr:igdtName ref="feldsalat">Salatbl&#228;tter, ersatzweise Feldsalat zum Garnieren</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln sch&#228;len und in Salzwasser ca. 20 Minuten kochen. Mit einem Kartoffelstampfer m&#246;glichst fein dr&#252;cken, es d&#252;rfen allerdings noch ein paar St&#252;ckchen darin sein. Die Kartoffeln mit Essig, Salz, Pfeffer, Zucker und Meerrettich abschmecken. Zum Schluss etwas Walnuss&#246;l dazugeben.
+Die Mangoldbl&#228;tter von den Stielen trennen und in Salzwasser kurz blanchieren, abschrecken und zwischen zwei K&#252;chent&#252;chern trocknen. Die Salatgurke halbieren und die Kerne mit einem Teel&#246;ffel herauskratzen. Nun die Gurken in lange nicht zu d&#252;nne Streifen schneiden und salzen. Nach einer kurzen Ruhezeit das ausgetretene Wasser mit einem K&#252;chenpapier abtupfen.
+Die Mangoldbl&#228;tter auf einer Klarsichtfolie ausbreiten, dabei sich etwas &#252;berlappen lassen. Nun die Kartoffelmasse ca. 0,5 cm dick darauf streichen. In der Mitte den Lachs verteilen und darauf die Gurkenstreifen mittig platzieren. Etwas Meerrettich darauf reiben. Nun alles wie einen Strudel fest zusammenrollen. Die Rolle 1 Stunde im K&#252;hlschrank ruhen lassen. Zum Servieren die Rolle in dicke Scheiben schneiden.
+Den Salat waschen, gut trocken sch&#252;tteln und zwischen den Sushischeiben  arrangieren. Mit Cr&#232;me fra&#238;che und Kaviar dekorieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

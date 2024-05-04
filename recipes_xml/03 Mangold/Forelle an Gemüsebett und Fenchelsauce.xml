@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3536751528443311">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2a907a29-7204-438f-91c5-ee9c0b8adec1">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Forelle an Gemüsebett und Fenchelsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Forelle an Gem&#252;sebett und Fenchelsauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="forelle">Forelle(n), küchenfertig</fr:igdtName>
+        <fr:igdtName ref="forelle">Forelle(n), k&#252;chenfertig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Port.</fr:igdtQuantity>
         <fr:igdtName ref="feldsalat">Feldsalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Kopf</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Kopf</fr:igdtQuantity>
         <fr:igdtName ref="blattsalat">Blattsalat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -26,11 +26,11 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini, gelbe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="fenchelgrün">Fenchelgrün</fr:igdtName>
+        <fr:igdtName ref="fenchelgr&#252;n">Fenchelgr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="selleriegrün">Selleriegrün</fr:igdtName>
+        <fr:igdtName ref="selleriegr&#252;n">Selleriegr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -51,34 +51,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe (Kaffeetasse, ca. 200 - 250 ml)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he (Kaffeetasse, ca. 200 - 250 ml)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, ca. 200 g</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, ca. 200 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="limette">Limette(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Salate und Mangold waschen und auf eine Platte legen. Die Zucchini waschen und in halbe Scheiben schneiden. Den Knoblauch in St&#252;cke schneiden. Die Limetten pressen. Fenchel- und Selleriegr&#252;n hacken.
+In der Pfanne &#214;l erhitzen und Zucchini, Knoblauch, etwas Fenchelgr&#252;n, Salz, Pfeffer und etwas Selleriegr&#252;n braun und bissfest braten. Auf dem Salat verteilen. In derselben Pfanne den Fisch mit Knoblauch, Fenchelgr&#252;n, Oregano und Selleriegr&#252;n braten. Mit Salz und Pfeffer w&#252;rzen. Den Fisch sch&#246;n auf das Gem&#252;se betten.
+In derselben Pfanne den Frischk&#228;se erw&#228;rmen und 10 Minuten k&#246;cheln lassen. Den Rest Fenchel- und Selleriegr&#252;n dazugeben. Gem&#252;sebr&#252;he und Limettensaft dazugeben und 5 Minuten k&#246;cheln lassen, bis die Sauce eine angenehm cremige Substanz hat. Evtl. mit etwas Br&#252;he verd&#252;nnen.
+Dazu schmecken gekochte Kartoffeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

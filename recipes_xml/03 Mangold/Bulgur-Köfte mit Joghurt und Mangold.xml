@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3501821521710194">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-5a2f85d8-d3eb-4049-8297-0fe77555fe37">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Bulgur-Köfte mit Joghurt und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Bulgur-K&#246;fte mit Joghurt und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
         <fr:igdtName ref="bulgur">Bulgur, feiner</fr:igdtName>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmelpulver</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmelpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -63,7 +63,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
@@ -83,18 +83,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Bulgur in einer Sch&#252;ssel mit 25 - 45 ml kochend hei&#223;em Wasser &#252;bergie&#223;en, gut umr&#252;hren und ca. 15 Minuten abgedeckt quellen lassen.
+Die Zwiebel fein w&#252;rfeln und anschlie&#223;end mit dem gequollenen Bulgur, dem Hackfleisch, 1 TL Paprikamark, Sumach, Kreuzk&#252;mmel, Meersalz und Pul Biber gut mit den H&#228;nden vermengen. (Das Paprikamark kann auch durch 1 TL Tomatenmark und 1 TL Paprikapulver (edels&#252;&#223;) ersetzt werden.)
+Die Bulgur-Masse mit den H&#228;nden zu Walnuss-gro&#223;en Kugeln formen und in etwas Mehl schwenken. Die Bulgur-K&#246;fte mit 1 EL neutralem &#214;l, 1 TL Tomatenmark und einer Prise Zucker in einer Pfanne gleichm&#228;&#223;ig von allen Seiten anbraten.
+F&#252;r den Mangold-Joghurt die Mangoldbl&#228;tter waschen, ggf. den Strunk entfernen und die Bl&#228;tter in ca. 1 cm dicke Streifen schneiden. Diese mit etwas &#214;l in einen Topf geben und mit geschlossenem Deckel bei geringer Hitze ungef&#228;hr 5 bis 10 Minuten d&#252;nsten, bis die Bl&#228;tter weich sind und zusammenfallen. Die Mangoldbl&#228;tter aus dem Topf nehmen und abk&#252;hlen lassen.
+Die Knoblauchzehen fein hacken und mit einer Knoblauchpresse in den Joghurt geben. Den Mangold mit dem Joghurt vermischen und mit Meersalz und Pfeffer abschmecken.
+Die Bulgur-K&#246;fte zusammen mit dem Mangold-Joghurt servieren. Wer es gerne scharf mag, kann noch etwas Pul Biber oder Chili &#214;l hinzugeben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

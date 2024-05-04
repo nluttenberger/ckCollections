@@ -1,0 +1,177 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-473513d6-d568-43bb-9493-93c496c13bec">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Wildenten-Pho mit rosa gebratener Wildente</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knollensellerie">Knollensellerie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchknolle(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer (ca. 200 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 kg</fr:igdtQuantity>
+        <fr:igdtName ref="fleisch">Fleisch / Knochen von Wildenten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="lauch">Lauchstange(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="zitronengras">Zitronengras</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Knolle/n</fr:igdtQuantity>
+        <fr:igdtName ref="galgant">Galgant</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="huhn">Suppenhuhn</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="sternanis">Sternanis</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="zimt">Zimtstange(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner, wei&#223;e</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="nelke">Nelke(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l zum Anbraten:</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="ente">Wildentenbr&#252;ste</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer, frisch gemahlener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter zum Braten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Limette(n), Saft davon</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chiliflocken">Chiliflocken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="fischsauce">Fischsauce (Red Boat)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Koriander</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Minze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Limette(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chili&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Sch&#228;lchen</fr:igdtQuantity>
+        <fr:igdtName ref="mais">Baby-Mais (ca. 50 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;ner</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Stiel/e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Sch&#228;lchen</fr:igdtQuantity>
+        <fr:igdtName ref="pilze">Buchenpilze (ca. 150 g)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10</fr:igdtQuantity>
+        <fr:igdtName ref="shiitake">Shiitake-Pilz(e)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Kirschtomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l zum Anbraten</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="reisnudeln">Reisnudeln</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Backofen auf 180 &#176;C vorheizen.
+Das Wurzelgem&#252;se waschen. Zwiebeln, Knoblauch und Ingwer mit der Schale halbieren. Die Karotten schr&#228;g in Scheiben schneiden, den Sellerie in grobe St&#252;cke schneiden und alles in einer gusseisernen Pfanne ohne &#214;l auf der Schnittfl&#228;che r&#246;sten.
+Die Wildentenkarkassen im Ofen bei 180 &#176;C 30 Minuten r&#246;sten.
+Den Lauch in Ringe schneiden und waschen. Zitronengras und Galgant klein schneiden.
+Das ger&#246;stete Gem&#252;se, die Knochen, das Suppenhuhn, den Lauch und die Gew&#252;rze in einen gro&#223;en Topf geben und mit kaltem Wasser bedecken. Die Br&#252;he langsam erhitzen und mindestens 4 Stunden k&#246;cheln lassen.
+Nach Ende der Garzeit das Suppenhuhn herausnehmen. Die Haut abzupfen und in einer Pfanne mit etwas &#214;l knusprig ausbraten. Das Fleisch des Suppenhuhns wird f&#252;r dieses Rezept nicht gebraucht.
+Die fertig gekochte Br&#252;he durch ein feines Sieb oder Tuch passieren. Nun mit Limettensaft, Chiliflocken, Fischsauce, ein paar Korianderst&#228;ngeln, Minze, Limettensaft, klein geschnittener Chili und Chili&#246;l nach Belieben abschmecken. Danach nochmals durch ein feines Sieb oder Tuch passieren.
+Die Wildentenbr&#252;ste mit Salz und Pfeffer w&#252;rzen und in einer Pfanne mit etwas &#214;l von beiden Seiten kurz anbraten. Bei 175 &#176;C circa 6 Minuten im Ofen garen. Bei einer Kerntemperatur von 51 &#176;C das Fleisch aus dem Ofen holen und an einem warmen Ort ruhen lassen.
+Sp&#228;ter das Fleisch in einer Pfanne mit etwas Butter nachbraten.
+Mini-Mais, gr&#252;nen Spargel und Mangold in St&#252;cke schneiden und in reichlich gesalzenem Wasser garkochen. Die Pilze und die Tomaten klein schneiden und in einer Pfanne mit etwas &#214;l anbraten. Das gegarte Gem&#252;se dazugeben und mitbraten.
+Die Nudeln nach Anleitung kochen.
+Das Gem&#252;se in eine Schale geben, die Nudeln aufrollen und ebenfalls in die Schale geben.
+Die Ente auf der Hautseite noch mal kurz nachbraten, aufschneiden und auf das Gem&#252;se geben.
+Mit der Pho auff&#252;llen und mit gehackter Minze, Koriander und der krossen Haut garnieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

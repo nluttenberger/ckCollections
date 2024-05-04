@@ -1,0 +1,74 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a6f56987-003c-4554-9f12-0a4ae08ed001">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldrouladen 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>16 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="suppengem&#252;se">Suppengr&#252;n</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="haselnuss">Haseln&#252;sse, gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>5 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="reis">Reis (Wildreismischung)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>625 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">K&#228;se (Fontina)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie, fein gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarz</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Von den Mangoldbl&#228;ttern die Stiele herausschneiden, Bl&#228;tter kurz blanchieren. Suppengr&#252;n putzen, zerkleinern. Zwiebel und Knoblauch sch&#228;len und fein hacken.
+Suppengr&#252;n, Zwiebel, Knoblauch und N&#252;sse in 3 EL erhitztem &#214;l kurz d&#252;nsten. Reis zugeben und 500 ml Br&#252;he zugie&#223;en. Bei geringer Hitze 25 Min. k&#246;cheln, dann etwas abk&#252;hlen lassen. K&#228;se reiben. Mit der Petersilie unter den Reis mischen. Mit Salz und Pfeffer w&#252;rzen.
+Backofen auf 150&#176;C vorheizen.
+Reis auf dem Mangold verteilen, aufrollen und in eine feuerfeste Form legen. &#220;briges &#214;l und restliche Br&#252;he dar&#252;ber tr&#228;ufeln. Im Ofen ca. 15 Min. garen.
+Tipp:
+Dazu gelbe Paprikasauce reichen.
+2 gelbe Paprikaschoten fein w&#252;rfeln. In 125 ml Br&#252;he weich d&#252;nsten, p&#252;rieren und mit 1 EL Wei&#223;weinessig abschmecken.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

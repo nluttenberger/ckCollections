@@ -1,36 +1,36 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3781801576720784">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1439218d-357c-481b-8a1b-e1ce53efb5ed">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Bunte Glasnudeln ala Sriwidi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="reisnudeln">Glasnudeln, dünne (Reisnudeln)</fr:igdtName>
+        <fr:igdtName ref="reisnudeln">Glasnudeln, d&#252;nne (Reisnudeln)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), grün, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;n, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
         <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli) (ersatzweise Spinat oder Mangold)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n), rot, vollreif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,15 +43,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12 TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe (Kraftbouillon)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he (Kraftbouillon)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -71,22 +71,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Sesam, weiß</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="blüten">Blüten und Blätter</fr:igdtName>
+        <fr:igdtName ref="bl&#252;ten">Bl&#252;ten und Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Glasnudeln in reichlich lauwarmem Wasser 10 Minuten einweichen, abseihen und mit einer Schere in mundgerechte L&#228;ngen schneiden. Die Zwiebelchen und die Knoblauchzehen an beiden Enden kappen, sch&#228;len und in kleine St&#252;cke schneiden. Den kleinen, gr&#252;nen Chili waschen, quer in d&#252;nne Scheiben schneiden, die K&#246;rner belassen, den Stiel verwerfen. Beim frischen Kailan die Bl&#228;tter vom Stiel abtrennen. Den holzigen Stiel verwerfen. Die d&#252;nnen Blattstiele entlang der Mittelrippe von den Bl&#228;ttern trennen und quer in ca. 4 cm breite R&#246;llchen schneiden. Gro&#223;e Bl&#228;tter quer halbieren. Bl&#228;tter und Stielr&#246;llchen getrennt aufbewahren. TK-Ware abmessen und auftauen. Bei den Tomaten die Stiele entfernen, h&#228;uten, l&#228;ngs vierteln, den gr&#252;nen Strunk und die K&#246;rner entfernen. Die Viertel quer halbieren.
+F&#252;r das R&#252;hrei die Peperoni waschen, Stiel und K&#246;rner entfernen und die Peperoni in kleine W&#252;rfelchen schneiden. Die frische Schnittsellerie waschen, trocken sch&#252;tteln und die makellosen Bl&#228;tter abzupfen, zerkleinern und tiefgefrieren. Die blatt- und makellosen Stiele quer in ca. 3 mm breite R&#246;llchen schneiden. Entsprechende Menge entnehmen. Nicht verbrauchte R&#246;llchen tiefgefrieren. TK-Ware abwiegen und auftauen lassen.
+Die Eier aufschlagen, mit der H&#252;hnerbr&#252;he verquirlen und die Peperoniw&#252;rfelchen zusammen mit den Schnittselleriest&#228;ngeln untermischen. Mit 2 EL vom Sonnenblumen&#246;l in einer Pfanne zu R&#252;hrei braten, gro&#223;e St&#252;cke zerkleinern und bereitstellen.
+Die Zutaten f&#252;r die Sauce homogen mischen.
+In einem Wok das restliche Sonnenblumen&#246;l erhitzen. Zwiebel-, Knoblauch-, Kailanstiel- und Chilist&#252;cke zugeben und 1 Minute pfannenr&#252;hren. Dann die Glasnudeln zugeben und 2 Minuten pfannenr&#252;hren. Zuerst die Sauce, dann die Kailanbl&#228;tter, die Tomatenst&#252;cke und zuletzt die R&#252;hreist&#252;cke unterr&#252;hren. Mit Salz und Pfeffer abschmecken. 2 Minuten mit Deckel bei reduzierter Hitze braten.
+Auf die Servierteller verteilen, garnieren und sofort servieren.
+Anhang:
+Kecap Tim Ikan, siehe:
+http://www.chefkoch.de/rezepte/3483691519091669/Milde-dunkle-malzig-wuerzige-Sojasauce-Kecap-Tim-Ikan.html</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,41 +1,41 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3133441466723039">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7a29a985-6e6a-4811-876f-ff47c1fa99ad">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kalter Udon-Nudelsalat mit Hühnchen und Miso</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Kalter Udon-Nudelsalat mit H&#252;hnchen und Miso</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hühnerkeule(n)</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#252;hnerkeule(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="knollensellerie">Knollensellerie, ca. handtellergroß und 2 cm dick</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Knollensellerie, ca. handtellergro&#223; und 2 cm dick</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), weiße Bäuche und grüne Spitzen</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), wei&#223;e B&#228;uche und gr&#252;ne Spitzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Blatt</fr:igdtQuantity>
-        <fr:igdtName ref="liebstöckel">Liebstöckel</fr:igdtName>
+        <fr:igdtName ref="liebst&#246;ckel">Liebst&#246;ckel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Baby-Spinat oder anderes grünes Gemüse, z. B. Pak Choi, blanchierter Brokkoli, Mangold, Kaiserschoten, etc.</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Baby-Spinat oder anderes gr&#252;nes Gem&#252;se, z. B. Pak Choi, blanchierter Brokkoli, Mangold, Kaiserschoten, etc.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -43,15 +43,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), der mittlere Teil</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), der mittlere Teil</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="huhn">Fleisch von zwei gekochten Hühnerkeulen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="huhn">Fleisch von zwei gekochten H&#252;hnerkeulen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -63,30 +63,39 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="reisessig">Reisessig oder milder Weißweinessig</fr:igdtName>
+        <fr:igdtName ref="wei&#223;weinessig">Reisessig oder milder Wei&#223;weinessig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl oder Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sesam&#246;l oder Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Sesam, geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="sojasauce">Sojasauce nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Dieses Rezept habe ich f&#252;r Erk&#228;ltungen im Sommer entwickelt, wenn man keine hei&#223;e H&#252;hnerbr&#252;he mag. Es mag nicht original japanisch sein, aber es ist eine echte Wohltat bei schw&#252;ler Hitze!
+Ich beschreibe das ganze Rezept inklusive des Kochens von H&#252;hnersuppe. Wer daf&#252;r keine Zeit hat, der kann auch einfach gleich gekochtes H&#252;hnerfleisch und Br&#252;he verwenden und f&#228;ngt dann mit der Zubereitung der Nudeln an. Das eignet sich auch super f&#252;r H&#252;hnerreste vom Vortag.
+Das Suppengem&#252;se in grobe St&#252;cke schneiden und in einen ausreichend gro&#223;en Topf (mind. 2,5 L) geben. Die Zwiebel nicht sch&#228;len und mit der angeschnittenen Seite nach unten in den Topf legen. Das Gem&#252;se f&#252;r kurze Zeit bei gro&#223;er Hitze r&#246;sten, dann die H&#252;hnerschenkel mit der Hautseite nach unten dazugeben und ebenfalls kurz anbraten. Haben sie leicht Farbe erhalten (die Zwiebel kann ruhig richtig dunkel werden), mit hei&#223;em Wasser aufgie&#223;en bis alles bedeckt ist, salzen, den Liebst&#246;ckel und wenn gew&#252;nscht weiteres Suppengew&#252;rz (Lorbeer, Wacholderbeeren, Nelken) dazugeben. 45 Minuten bei schwacher bis mittlerer Hitze kochen. Zwischendurch gucken, dass das Wasser noch reicht und den sich absetzenden Schaum absch&#246;pfen.
+Nach 45 Minuten die Suppe abseihen. 100 ml von der Br&#252;he beiseitestellen - am besten sofort in den K&#252;hlschrank.
+Das Fleisch von zwei H&#252;hnerschenkeln von den Knochen l&#246;sen, in eine gro&#223;e Sch&#252;ssel geben und kalt stellen.
+Wer multi-tasking f&#228;hig ist, kann jetzt die Udon-Nudeln nach Packungsbeilage kochen. Wer nicht, wartet am besten bis ganz zum Schluss damit - sie d&#252;rfen nicht zu lange kochen oder gar unabgeseiht herumstehen.
+Die H&#252;hnerbr&#252;he mit den restlichen Zutaten f&#252;r das Dressing mischen und abschmecken. &#220;ber das H&#252;hnerfleisch geben und wieder ab in den K&#252;hlschrank.
+Den mittleren Teil der Fr&#252;hlingszwiebeln in feine Scheiben schneiden, den Babyspinat waschen und in Streifen schneiden. Das Gem&#252;se in die Salatsch&#252;ssel zu Huhn und Dressing geben.
+Udon abseihen und gut durchsp&#252;len. Je l&#228;nger, desto besser. Die Nudeln m&#252;ssen ganz kalt sein.
+Alles mischen und eventuell mit Sojasauce abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

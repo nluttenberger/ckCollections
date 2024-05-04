@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-967161202386846">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-13dd18bc-ca4b-4f98-88d9-6a6bd2b32c80">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Albertos Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Staude(n)</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -22,12 +22,12 @@
         <fr:igdtName ref="chilischote">Peperoncini (rote Chilischote)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
@@ -41,12 +41,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den unteren Teil der Stauden abschneiden. Mangold gr&#252;ndlich waschen, den wei&#223;en Strunk am Ansatz der gr&#252;nen Bl&#228;tter abschneiden und in St&#252;cke von circa 1 cm Breite schneiden. Die Bl&#228;tter ebenfalls sehr grob schneiden. In kochendem Salzwasser erst die wei&#223;en Strunkst&#252;cke circa 3 Minuten kochen, dann die gr&#252;nen Bl&#228;tter dazu geben und weitere 3 Minuten garen. Abgie&#223;en und sehr kalt absp&#252;len. Mit K&#252;chenpapier trocken tupfen.
+In einer Pfanne Oliven&#246;l, in feine Scheiben geschnittenen Knoblauch und Peperoncino erw&#228;rmen und anschlie&#223;end den Mangold kr&#228;ftig 3 Minuten braten, mit Salz und Pfeffer gut w&#252;rzen. Vom Herd nehmen und lauwarm werden lassen.
+Vor dem Servieren gro&#223;z&#252;gig Oliven&#246;l dazugeben (wer will, kann auch gebratene, grob geschnittene Zwiebeln unterr&#252;hren).
+Als Beilage zu Fleisch oder so mit ger&#246;stetem Ciabatta oder Baguette servieren. In manche Regionen Italiens wird auch geriebener Parmesan darauf gestreut.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

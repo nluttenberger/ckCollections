@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1298121234918006">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0b8fc149-98fa-491e-85c1-30d2af4bde87">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Geflügelpastete mit Thymian-Entenleber</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gefl&#252;gelpastete mit Thymian-Entenleber</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl, für die Pfanne</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l, f&#252;r die Pfanne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -34,12 +34,12 @@
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Jodsalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -54,16 +54,16 @@
         <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
-        <fr:igdtName ref="beeren">Preiselbeeren</fr:igdtName>
+        <fr:igdtName ref="preiselbeeren">Preiselbeeren</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="blattsalat">Salat, zur Dekoration</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="salat">Salat, zur Dekoration</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20</fr:igdtQuantity>
@@ -77,12 +77,18 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>H&#228;hnchenbrust in W&#252;rfel schneiden und ins Gefrierfach legen.
+Mehl mit 1 EL &#214;l, Ei, Milch und Salz zu einem glatten Teig verr&#252;hren.
+Mangold in kochendem Salzwasser 1 Minute blanchieren. Petersilie von den Stielen zupfen und fein hacken.
+Eine Pfanne erhitzen, mit &#214;l ausreiben, aus dem Teig 4 d&#252;nne Crepes backen und beiseite stellen.
+&#214;l in einer Pfanne erhitzen und die Entenleber ca. 4 Minuten rundum anbraten. Thymian hacken und dazugeben. Von der Flamme nehmen und dann abk&#252;hlen lassen.
+Die eiskalten H&#228;hnchenbrustw&#252;rfel mit Sahne, Salz und Pfeffer fein p&#252;rieren. Die Entenleber mit der Gefl&#252;gelfarce und Petersilie vermengen. Jeweils 2 Crepes und ein Mangoldblatt auf Klarsichtfolie als Rechteck auslegen, mit Gefl&#252;gelfarce bestreichen und mit Hilfe der Klarsichtfolie aufrollen. In Alufolie einschlagen und die Enden fest zusammendrehen. Die Rollen in einem Topf mit kochendem Wasser geben und ca. 15 Minuten bei mittlerer Hitze garen. Rollen herausnehmen, von den Folien befreien und in Scheiben schneiden.
+Mit gemischtem Salat, frischen Pfifferlingen und Preiselbeeren servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

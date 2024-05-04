@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2811911433183433">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f43c709b-6550-47d0-a386-0ff5df3973f9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lachs-Zander-Terrine</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="zander">Zanderfilet(s), möglichst frische</fr:igdtName>
+        <fr:igdtName ref="zander">Zanderfilet(s), m&#246;glichst frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="lachs">Lachsfilet(s), möglichst frische</fr:igdtName>
+        <fr:igdtName ref="lachs">Lachsfilet(s), m&#246;glichst frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>450 g</fr:igdtQuantity>
@@ -30,27 +30,38 @@
         <fr:igdtName ref="mangold">Mangold oder Blattspinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gemischte nach Wahl</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gemischte nach Wahl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Sahne im TK-Fach k&#252;hlstellen. Zuerst das frische Zanderfilet grob hacken, gut salzen und ordentlich verr&#252;hren, sodass sich alles gut vermengt. Dann 30 Minuten im K&#252;hlfach durchk&#252;hlen lassen.
+Wenn man noch gefrorenes Zanderfilet hat, dieses leicht antauen lassen, nicht so arg, nur soviel, dass man es schneiden kann. Wenn es soweit ist, das Zanderfilet dann hacken und mit dem Salz ordentlich vermengen.
+Bei dem Lachsfilet aus 200 g Streifen in der L&#228;nge der Terrinenform schneiden bzw. so lange wie m&#246;glich. Die Breite sollte ca. 3 cm betragen. Bei TK-Lachs verh&#228;lt es sich &#228;hnlich, nur so viel antauen, wie man f&#252;r das Schneiden braucht. Vorteilhaft w&#228;re nat&#252;rlich ein frisches Lachsfilet. Restliche Lachsfilets wie den Zander hacken, salzen und kaltstellen.
+Die Lauchstangen l&#228;ngs einmal in der Mitte teilen und gut waschen. In die einzelnen Bl&#228;tter teilen und 2 - 3 Minuten in kochendem Salzwasser garen. Sie sollten weich und geschmeidig sein. Dann herausnehmen, abschrecken und gut abtropfen lassen, ggf. ausdr&#252;cken.
+Den Mangold oder Spinat waschen, die Stiele abschneiden und ggf. dickere Stiele aus den Bl&#228;ttern herausschneiden. Die Mangold- oder Spinatbl&#228;tter 2 Minuten ins hei&#223;e, sch&#246;n sprudelnde Wasser geben, dann abschrecken und ins kalte Wasser legen.
+Ein St&#252;ck Alufolie oder Dauerbackfolie mit dem Lauch belegen (Terrinenform einmal au&#223;enrum). In der gleichen Gr&#246;&#223;e den Mangold oder Spinat auf einem Tuch eng zusammenlegen und plattieren, ggf. braucht man wegen der Fl&#252;ssigkeit ein zweites Tuch. Eine Frischhaltefolie dar&#252;ber geben.
+Mit einem Mixer das Zanderfilet ganz fein p&#252;rieren, dabei langsam 225 g Sahne dazugeben. Dies sollte auf 2 Stufen erfolgen, einmal die H&#228;lfte der Sahne, dann 10 Minuten Tiefk&#252;hlfach und dann noch mal 10 Minuten Tiefk&#252;hlfach. Dann den Zander abschmecken.
+Die Zandermasse gleichm&#228;&#223;ig mit der Winkelpalette auf dem Lauch verteilen. Die Mangold- oder Spinatbl&#228;tter mit der Folie nehmen und mit der Folienseite nach oben auf den Lachs geben. Das Ganze kommt nun in die Terrinenform mit der Frischhaltefolienseite nach oben. Diese sofort abziehen.
+Die Terrine im hei&#223;en Wasserbad bei 100 &#176;C (Ober-/Unterhitze) 45 Minuten im Backofen stocken lassen. Den Lachs mit den gewaschenen Kr&#228;utern, den Mangold- oder Spinatresten und dem Lachsfilet im Mixer fein p&#252;rieren und nach und nach die komplette restliche Sahne (225 g) dazugeben. Nach der H&#228;lfte der Sahnemenge wie beim Zander noch mal 10 Minuten ins TK-Fach. Die fertige Masse noch mal min. 10 Minuten ins TK-Fach stellen und abschmecken.
+Erst die H&#228;lfte der Lachsmasse, dann das mit Salz und ggf. Pfeffer gew&#252;rzte Lachsst&#252;ck und dann den Rest der Lachsmasse in die Terrinenform geben. Das Lachsst&#252;ck oder die St&#252;cke werden in die Mitte der Terrinenform gelegt. Die Terrinenform etwas klopfen, damit die Luftblasen herausgehen.
+Die Terrine nochmals in ein hei&#223;es Wasserbad geben, diesmal nur bei 90 &#176;C mit nicht ganz so hei&#223;em Wasser. Dann ca. 60 Minuten pochieren. Die Kerntemperatur sollte 60 &#176;C betragen, dann ist die Terrine genau richtig.
+Die Terrine abk&#252;hlen lassen, dann mit dem Messer l&#246;sen und mithilfe der Alufolie herausheben. Dazu passt toll die Paprikacreme aus meinem Profil.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

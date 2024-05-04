@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-746901177237742">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4da8b670-4fc0-419c-8fb2-c8219c4a8b26">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Gratin mit Shiitake-Pilzen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
@@ -30,16 +30,16 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="steinpilz">Brühe, Steinpilz-Hefebrühe (Reformhaus)</fr:igdtName>
+        <fr:igdtName ref="steinpilz">Br&#252;he, Steinpilz-Hefebr&#252;he (Reformhaus)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
@@ -55,22 +55,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Vollkornbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Vollkornbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Gewürzmischung, (Gomasio, Sesam-Mischung; Naturkostladen)</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung, (Gomasio, Sesam-Mischung; Naturkostladen)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln in der Schale ca. 15 Minuten garen. Kartoffeln pellen, in Scheiben schneiden und in eine gefettete Auflaufform schichten.
+Mangold putzen, Bl&#228;tter und Stiele klein schneiden. Pilze in Scheiben schneiden. Butter erhitzen, Pilze darin anbraten, w&#252;rzen und herausnehmen. Mangold im Bratfett and&#252;nsten und zusammenfallen lassen. Mangold abtropfen lassen und noch hei&#223; mit Salz, Pfeffer, Muskatnuss und der Steinpilzbr&#252;he w&#252;rzen.
+Den Stielansatz der Tomaten herausschneiden, Tomaten in Spalten schneiden. Mit den Pilzen und Mangold auf den Kartoffeln verteilen. Cr&#232;me fra&#238;che glattr&#252;hren. Mit Salz und Pfeffer w&#252;rzen. &#220;ber das Gem&#252;se gie&#223;en. Parmesan, Paniermehl und Gomasio mischen. Auf dem Gem&#252;se verteilen.
+Bei 200 Grad (Umluft: 180 Grad/Gasherd: Stufe ca. 35 Minuten goldbraun gratinieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

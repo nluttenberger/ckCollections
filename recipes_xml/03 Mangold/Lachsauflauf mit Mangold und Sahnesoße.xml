@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2690891421835162">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4dd14c6b-b452-4b75-8766-6fd1dd80500a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Lachsauflauf mit Mangold und Sahnesoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Lachsauflauf mit Mangold und Sahneso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Blatt</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, rot</fr:igdtName>
@@ -31,22 +31,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Spritzer</fr:igdtQuantity>
-        <fr:igdtName ref="zitrone">Zitronensäure</fr:igdtName>
+        <fr:igdtName ref="zitrone">Zitronens&#228;ure</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den frischen Blattmangold mit k&#252;hlem Wasser abwaschen, die gr&#252;nen Bl&#228;tter in eine Auflaufform legen und leicht an den Boden andr&#252;cken. Den Lachs in Streifen schneiden und auf das Bett aus Mangold legen. Sahne dar&#252;ber gie&#223;en, den Rosmarin auf dem Lachs verteilen und Pfeffer und Salz hinzugeben.
+Den Lachs bei 180 Grad 45 min backen. Aus dem Ofen nehmen und mit Zitronens&#228;ure gro&#223;z&#252;gig bespritzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

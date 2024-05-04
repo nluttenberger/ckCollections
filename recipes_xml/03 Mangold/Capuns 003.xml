@@ -1,0 +1,71 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f30b4fca-934e-40ee-8df4-87c7f3c7918d">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Capuns 003</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 dl</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch - Wasser (1/2 Milch, 1/2 Wasser)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Tasse</fr:igdtQuantity>
+        <fr:igdtName ref="schnittlauch">Kr&#228;uter (Petersilie, Schnittlauch, Rosmarin, Basilikum), gehackt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="salami">Salami (Doppelsalsiz) oder</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schinken">Schinken (B&#252;ndnerfleisch oder Rohschinken)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold oder Lattich</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">K&#228;se zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Mehl in eine Sch&#252;ssel sieben und mit Milchwasser, den Eiern und dem Salz zu einem geschmeidigen Kn&#246;pfliteig (Sp&#228;tzleteig) verr&#252;hren. 30 Minuten ruhen lassen, dann die Kr&#228;uter beif&#252;gen. Die Rohwurst sch&#228;len, in kleine W&#252;rfel schneiden oder das fein geschnittene B&#252;ndner Fleisch in Streifen schneiden und unter den Teig mischen.
+Die Mangold- oder Lattichbl&#228;tter &#252;berbr&#252;hen, sorgf&#228;ltig herausnehmen, abtropfen und auf der Arbeitsfl&#228;che ausbreiten. Kleine Kugeln des Teiges darauf verteilen, die Bl&#228;tter einschlagen und so aufwickeln, dass kleine P&#228;ckchen entstehen.
+Reichlich Wasser erhitzen und die Capuns portionsweise w&#228;hrend 15 - 20 Minuten knapp unter dem Siedepunkt ziehen lassen, mit einem Schauml&#246;ffel herausnehmen, abtropfen und mit K&#228;se &#252;berstreut warm stellen.
+Am Schluss die Zwiebel in Ringe schneiden und in der erhitzten Butter goldbraun r&#246;sten. &#220;ber den Capuns verteilen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

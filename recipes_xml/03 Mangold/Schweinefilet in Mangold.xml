@@ -1,68 +1,69 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-254521100648851">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3ae98fd1-100a-4434-8b4a-2bea26d58a39">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Schweinefilet in Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
         <fr:igdtName ref="schweinefleisch">Schweinefilet(s) (2 Filets)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Brot(e) (Schwarzbrot ohne Rinde)</fr:igdtName>
+        <fr:igdtName ref="schwarzbrot">Brot(e) (Schwarzbrot ohne Rinde)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="essig">Essig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="wacholder">Wacholderbeere(n), zerdrückt</fr:igdtName>
+        <fr:igdtName ref="wacholder">Wacholderbeere(n), zerdr&#252;ckt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName ref="nelke">Gewürznelke(n), gemahlen</fr:igdtName>
+        <fr:igdtName ref="nelke">Gew&#252;rznelke(n), gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
         <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, flüssig</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>2 Schweinefilets mit Salz und Pfeffer w&#252;rzen und in 2 EL hei&#223;em &#214;l kurz anbraten, herausnehmen und abk&#252;hlen lassen. Die Mangoldbl&#228;tter waschen und in kochendes Essigwasser legen, kurz aufwallen lassen, kalt abschrecken und mit einem Leinentuch trocken tupfen. Zerkr&#252;meltes Schwarzbrot durch ein Sieb streichen, mit den Gew&#252;rzen mischen und die fl&#252;ssige Butter unterr&#252;hren, so dass Streusel entstehen.
+Die Mangoldbl&#228;tter ausbreiten und die Brotstreusel dar&#252;ber geben. Schweinefilets darauf legen und in die Bl&#228;tter einh&#252;llen. Die eingeh&#252;llten Filets im &#252;brigen &#214;l kurz rundherum anbraten und im vorgeheizten Backofen bei 100&#176;C ca. 8-10 Minuten weiterbraten. Aus dem Ofen nehmen und 5 Minuten ruhen lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

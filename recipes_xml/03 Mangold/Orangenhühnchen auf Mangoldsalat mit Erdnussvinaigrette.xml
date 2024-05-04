@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2333561371628599">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cd625e22-f705-454c-9b9b-8bac0756db54">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Orangenhühnchen auf Mangoldsalat mit Erdnussvinaigrette</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Orangenh&#252;hnchen auf Mangoldsalat mit Erdnussvinaigrette</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrüste</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbr&#252;ste</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -35,34 +35,41 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse, ungesalzen</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse, ungesalzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ofen auf 160&#176; Umluft bzw. 180&#176; Ober-Unterhitze vorheizen.
+Die Schale einer Orange abreiben, den Saft auspressen und in eine Sch&#252;ssel geben. H&#252;hnchen kalt absp&#252;len und trocken tupfen. Mit 1/2 TL Salz und nach Geschmack mit Pfeffer w&#252;rzen. In die Sch&#252;ssel mit dem Orangensaft und -abrieb geben und ca. 10 - 15 Minuten darin marinieren.
+W&#228;hrenddessen Rucola und Babymangold waschen. Schalotte pellen und fein w&#252;rfeln. Erdn&#252;sse grob hacken.
+In einer Pfanne 2 EL &#214;l erhitzen und das H&#252;hnchen ca. 2 Minuten bei starker Temperatur von beiden Seiten scharf anbraten. Die Marinade hinzuf&#252;gen und aufkochen lassen. Anschlie&#223;end die Pfanne auf mittlerer Schiene ca. 5 - 10 Minuten in den vorgeheizten Backofen geben.
+W&#228;hrenddessen die verbliebene Orange auspressen. Den Saft zusammen mit 1 EL &#214;l, 1 EL Zucker, 2 gro&#223;en geh&#228;uften TL Erdnussbutter, den Schalottenw&#252;rfeln und 1/4 TL Salz und 1/4 TL Pfeffer zu einer Vinaigrette verr&#252;hren.
+H&#252;hnchen aus dem Ofen nehmen und in ca. 0,5 cm dicke Streifen schneiden.
+Rucola und Babymangold in einer Sch&#252;ssel mit der Vinaigrette und 2/3 der gehackten Erdn&#252;sse vermengen.
+Salat mittig auf einen Teller geben und H&#252;hnchenbrust darauf anrichten. Mit den verbliebenen Erdn&#252;ssen dekorieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2189951351506761">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-90c96468-fc1c-415f-ad8f-251b8fc62816">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Minestrone alla ligure</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, dicke, grüne Kerne, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, dicke, gr&#252;ne Kerne, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="wirsing">Wirsing</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="knollensellerie">Sellerie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Fleischtomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,30 +55,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Hörnchen, Nudeln</fr:igdtName>
+        <fr:igdtName ref="nudeln">H&#246;rnchen, Nudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="pesto">Pesto, grünes</fr:igdtName>
+        <fr:igdtName ref="pesto">Pesto, gr&#252;nes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>1 1/4 Liter Wasser zum Kochen bringen. Bohnenkerne dazugeben.
+Wirsing in schmale Streifen schneiden, Sellerie kleinhacken. Die Tomaten enth&#228;uten, w&#252;rfeln. Kartoffeln sch&#228;len, ebenfalls in W&#252;rfel schneiden. Spinat und Mangold feinstreifig schneiden. Zwiebel hacken, Knoblauch zerdr&#252;cken. Das vorbereitete Gem&#252;se mit in den Topf geben. Salzen, pfeffern und 25-30 Minuten bei m&#228;&#223;iger Hitze k&#246;cheln lassen. Das Gem&#252;se soll gar sein, aber nicht zerfallen.
+Inzwischen die Nudeln nach Packungsangabe zubereiten. Mit der Petersilie zur Suppe geben. Zum Schluss das Pesto einr&#252;hren, nochmal erhitzen. Die Suppe anrichten und mit dem gehackten Basilikum garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-341261118052152">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0d34ce47-7d18-4857-93fa-fec0fe783844">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Bratnudeln mit geröstetem Sesam</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Bratnudeln mit ger&#246;stetem Sesam</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), grüne</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -38,20 +38,20 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Nudeln (Weizennudeln), asiatische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="erdnussöl">Öl (Erdnussöl)</fr:igdtName>
+        <fr:igdtName ref="erdnuss&#246;l">&#214;l (Erdnuss&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
@@ -63,26 +63,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Geflügelbrühe</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Öl (Sesamöl)</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">&#214;l (Sesam&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Sesam, geschält und geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam">Sesam, gesch&#228;lt und ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Knoblauch fein hacken. Chili mit Kernen fein hacken. Ingwer sch&#228;len und fein w&#252;rfeln. Fr&#252;hlingszwiebeln putzen, das Wei&#223;e und Hellgr&#252;ne in 2 cm breite Ringe schneiden. H&#228;hnchenbrustfilet in 2 cm gro&#223;e W&#252;rfel schneiden. Paprika halbieren, entkernen und in 1 cm d&#252;nne Streifen schneiden. Mangold putzen und in 2 cm breite Streifen schneiden. H&#228;hnchenbrustw&#252;rfel mit Knoblauch, Chili, Ingwer und Pfeffer mischen und 15 Min. ziehen lassen.
+Nudeln nach Packungsanweisung in Salzwasser kochen und abtropfen lassen. &#214;l in einer breiten Pfanne (oder Wok) erhitzen. H&#228;hnchen darin bei starker Hitze unter gelegentlichem R&#252;hren ca. 3 Min. anbraten. Paprika, Mangold, Fr&#252;hlingszwiebeln dazugeben und 2 Min. braten. Mit Sherry, Sojasauce und Br&#252;he abl&#246;schen. Nudeln unterheben und ca. 3 Min. bei milder Hitze kochen lassen. Eventuell mit Pfeffer abschmecken. Sesam&#246;l und Sesam unterr&#252;hren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

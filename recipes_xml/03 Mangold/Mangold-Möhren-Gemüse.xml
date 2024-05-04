@@ -1,0 +1,67 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9af8a652-110a-4efd-9588-e15721933f20">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-M&#246;hren-Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>350 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Sahne oder Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="knoblauchsalz">Knoblauchsalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und die M&#246;hren sch&#228;len. Die Stiele von den Mangoldbl&#228;ttern trennen und in ca. 1 cm breite St&#252;cke schneiden. Die Mangoldbl&#228;tter je nach Gr&#246;&#223;e der L&#228;nge nach in zwei bis drei St&#252;cke teilen und ebenfalls in ca. 1 cm breite Streifen schneiden. Die gesch&#228;lten M&#246;hren in 0,5 cm breite Scheiben schneiden. Die Sahne kalt und nicht geschlagen mit der Speisest&#228;rke verr&#252;hren.
+Einen EL &#214;l in der Pfanne erhitzen und zuerst die Mangoldstiele und M&#246;hren ca. f&#252;nf Minuten bei mittlerer Hitze d&#252;nsten. Mit Salz, Pfeffer, Knoblauchsalz, Zucker und Muskatnuss w&#252;rzen. Nun die Mangoldbl&#228;tter dazugeben und ebenfalls ca. f&#252;nf Minuten bei mittlerer Hitze mitd&#252;nsten.
+Jetzt das Sahne-St&#228;rke-Gemisch dazugeben und kurz aufkochen, bis eine Bindung entsteht. Wer m&#246;chte, kann noch etwas Wasser hinzugeben und alles noch bei leichter Hitze ein bisschen einkochen und weich werden lassen. Wir m&#246;gen es allerdings, wenn alles noch ein bisschen Biss hat.
+Dazu gibt es bei uns meistens Fisch und Reis.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

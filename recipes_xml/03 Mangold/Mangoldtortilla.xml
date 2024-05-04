@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4125531653206112">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-13d7977f-5019-4232-95ab-72edff17419e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldtortilla</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl zum Braten</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
@@ -33,12 +33,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, abtropfen lassen und klein schneiden. Die Zwiebel hacken.
+In einer Pfanne in etwas &#214;l anbraten. Bei Bedarf kann man auch am Schluss etwas Knoblauch dazugeben. Wenn die Zwiebel glasig wird als Erstes die Mangoldstiele in die Pfanne geben. Gut r&#252;hren, damit nichts anbrennt. Die Hitze reduzieren und die Mangoldbl&#228;tter dazugeben und zusammenfallen lassen. Etwas Wasser hinzugeben, damit alles sch&#246;n gar wird. Mit Salz und Pfeffer w&#252;rzen und abschmecken.
+In der Zwischenzeit die Eier in einer Sch&#252;ssel schaumig schlagen. Eine Pfanne, die gut geeignet ist f&#252;r Pfannkuchen mit etwas &#214;l erhitzen. Den Mangold abgie&#223;en und hei&#223; in die geschlagenen Eier geben. Diese schon leicht gestockte Masse wie einen Pfannkuchen in das hei&#223;e &#214;l geben. Nicht zu hei&#223; backen, damit die Tortilla auch innen gar wird. Mit einer Gabel vorsichtig von au&#223;en etwas in Form bringen. Sobald sich die Tortilla in der Pfanne bewegen l&#228;sst, auf einen gro&#223;en Teller st&#252;rzen, umdrehen und von der anderen Seite backen. Falls es festklebt, mit einem Pfannenwender l&#246;sen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1027511207915319">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-074fd204-ffb2-426a-9f81-a038ae7c50cd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Crepinette vom Schweineknöchla mit Mangold-Pfifferlings-Röllchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Crepinette vom Schweinekn&#246;chla mit Mangold-Pfifferlings-R&#246;llchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Haxe(n) (Schweine-Vorherhaxen, Knöchla)</fr:igdtName>
+        <fr:igdtName ref="wein">Haxe(n) (Schweine-Vorherhaxen, Kn&#246;chla)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 Körner</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>6 K&#246;rner</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Körner</fr:igdtQuantity>
+        <fr:igdtQuantity>3 K&#246;rner</fr:igdtQuantity>
         <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="lorbeer">Lorbeerblatt, frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Handvoll</fr:igdtQuantity>
@@ -47,11 +47,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -59,11 +59,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gänsefett">Schmalz (Gänseschmalz)</fr:igdtName>
+        <fr:igdtName ref="g&#228;nseschmalz">Schmalz (G&#228;nseschmalz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter</fr:igdtName>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
@@ -71,22 +71,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsefond</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="koriander">Koriander (mit Wurzel!)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
         <fr:igdtName ref="quark">Quark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="szechuanpfeffer">Pfeffer (Szechuanpfeffer)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -99,7 +99,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Sud von den Knöchla</fr:igdtName>
+        <fr:igdtName ref="fleischbr&#252;he">Sud von den Kn&#246;chla</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -109,12 +109,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kn&#246;chla mit Pfeffer, Piment, Wacholderbeeren, Lorbeer, Salz und soviel Wasser aufsetzen, dass sie bedeckt sind. In ca. 2 Stunden weich k&#246;cheln. Das magere Fleisch von Knochen,  Fett und Bindegewebe l&#246;sen und mit der Gabel auseinander rei&#223;en. Das Wei&#223;brot entrinden, die Pfifferlinge putzen und das Wei&#223;brot und 2 Handvoll Pfifferlinge in kleine W&#252;rfel schneiden. Mit dem Fleisch und dem Eigelb vermengen, mit Salz, Pfeffer und Chili w&#252;rzen. Das Eiwei&#223; leicht anschlagen und zusammen mit einer fein gew&#252;rfelten Schalotte unterheben. Das gut gew&#228;sserte Schweinenetz in passende St&#252;cke schneiden und jeweils 1/4 der Masse nicht zu fest in ein St&#252;ck Netz wickeln. Die Crepinette in dem G&#228;nseschmalz allseitig braten.
+Die Stiele vom Mangold abschneiden. Das Gr&#252;ne in Salzwasser blanchieren. Den Zartweizen im Gem&#252;sefond bissfest garen. Mit 1 Handvoll klein geschnittener Pfifferlinge vermengen. Die Wurzeln vom Koriander klein schneiden und mit einer fein gew&#252;rfelten Schalotte in etwas Oliven&#246;l anschwitzen. Die Mangoldstiele fein w&#252;rfeln, die Korianderbl&#228;tter fein schneiden, den Quark dazugeben. Alles zusammen gut mischen, mit Szechuanpfeffer w&#252;rzen und jeweils 2-3 EL in jedes Mangoldblatt einrollen. In einem D&#228;mpfkorb &#252;ber kochendem Wasser d&#228;mpfen.
+Den Balsamico und die Sojasauce etwas einreduzieren lassen, eine Schalotte sehr fein w&#252;rfeln und dazugeben. Etwas von dem Kn&#246;chla-Sud dazugeben und nochmals reduzieren lassen. Vom Herd nehmen und mit der Butter binden.
+Anrichten:
+Etwas von der W&#252;rzbutter auf einen vorgew&#228;rmten Teller geben, ein Mangold-R&#246;llchen halbieren, anlegen und ein Crepinette dazu geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

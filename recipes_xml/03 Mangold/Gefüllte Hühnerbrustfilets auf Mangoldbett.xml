@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1674911275481268">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fb96c0a6-1e4a-4c39-8589-867e2d0dd63e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gefüllte Hühnerbrustfilets auf Mangoldbett</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gef&#252;llte H&#252;hnerbrustfilets auf Mangoldbett</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Port.</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hühnerbrust</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#252;hnerbrust</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -19,46 +19,50 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche oder Crème légère</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me_fra&#238;che">Cr&#232;me fra&#238;che oder Cr&#232;me l&#233;g&#232;re</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gemischte, TK oder 1 Bund frisch (gehackt)</fr:igdtName>
+        <fr:igdtQuantity>&#189; Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gemischte, TK oder 1 Bund frisch (gehackt)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, davon 4 Blätter blanchiert</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, davon 4 Bl&#228;tter blanchiert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse mit Kräutern, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se mit Kr&#228;utern, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="huhn">Hähnchengewürz, wenn vorhanden</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="huhn">H&#228;hnchengew&#252;rz, wenn vorhanden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold putzen, 4 gro&#223;e Bl&#228;tter beiseite legen. Die Mangoldbl&#228;tter in breite Streifen schneiden, die wei&#223;en Stiele in d&#252;nnere Streifen schneiden. Die 4 gro&#223;en Bl&#228;tter in der Gem&#252;sebr&#252;he ca. 3 Minuten blanchieren, dann in einem Sieb abtropfen lassen.
+In die H&#252;hnerbr&#252;ste jeweils eine Tasche schneiden. Vom Ricotta 4 EL in eine kleine Sch&#252;ssel geben und mit der H&#228;lfte der Kr&#228;uter vermischen. Die H&#252;hnerbr&#252;ste mit Paprika, H&#228;hnchengew&#252;rz, Salz und Pfeffer kr&#228;ftig innen und au&#223;en w&#252;rzen. Die Ricottamischung in die Taschen f&#252;llen und jeweils 3 Fetaw&#252;rfel mit hinein geben. Jede Brust mit 2 der blanchierten Mangoldbl&#228;tter umwickeln. Bei Bedarf mit K&#252;chengarn zubinden, geht aber auch ohne.
+Den restlichen Ricotta mit der Cr&#232;me fra&#238;che, den Fetaw&#252;rfeln und den restlichen Kr&#228;utern in einer Sch&#252;ssel mischen. Mit Knoblauch und Pfeffer w&#252;rzen. Die geschnittenen Mangoldstreifen untermischen.
+Den Ofen auf 180&#176; vorheizen. Den Bratschlauch vorbereiten: ein gen&#252;gend gro&#223;es St&#252;ck abschneiden, an einer Seite zubinden und den Schlauch weit &#246;ffnen. Zuerst die Mangoldmischung hinein geben, dann die umwickelten H&#228;hnchenbr&#252;ste darauf legen. Die andere Seite des Schlauches zubinden und oben an der Schwei&#223;naht senkrecht ca. 1cm einschneiden. Den Schlauch auf ein kaltes Backblech legen, in den Ofen auf die mittlere Schiene geben und das Gericht in 25-30 Minuten garen.
+Man kann den Mangold auch durch frischen Blattspinat ersetzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

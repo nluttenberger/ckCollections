@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3618151544095224">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-582914ef-19a1-4b1b-9a63-9196bcc2d88a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Entenbrust auf Mangoldgemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Entenbrust auf Mangoldgem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
         <fr:igdtName ref="ente">Entenbrustfilet(s) mit Haut</fr:igdtName>
@@ -31,26 +31,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="curry">Currypulver, gelbes oder Kurkumapulver</fr:igdtName>
+        <fr:igdtName ref="curcuma">Currypulver, gelbes oder Kurkumapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffelstärke</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffelst&#228;rke</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Entenbrustfilets waschen und abtrocknen. Die Haut vorsichtig kreuzweise leicht einschneiden - aber nicht bis aufs Fleisch!
+Die Entenbrustfilets auf der Hautseite ohne weiteres Fett in eine (Eisen-)Pfanne legen und bei etwa 3/4 Hitze braten, bis die Haut dunkelbraun und sch&#246;n kross ist. Dann noch kurz von der anderen Seite im ausgetretenen Fett zuende braten, bis eine Kerntemperatur von 63 - 65 Grad erreicht ist. Danach noch etwas ruhen lassen.
+W&#228;hrenddessen den Mangold putzen und waschen. Die Stiele quer in d&#252;nne Scheiben, das Blattr&#252;n in 1 - 2 cm Strefen schneiden. Die Zwiebeln sch&#228;len und grob hacken. Die Champignons putzen und vierteln.
+In einem Topf das Oliven&#246;l etwas erhitzen und die Zwiebeln darin glasig d&#252;nsten. Das Curry dar&#252;berstreuen, dann die Mangoldstiele und Champignons hinzf&#252;gen, salzen und pfeffern. Zugedeckt etwa 15 Minuten d&#252;nsten. Man kann auch hin und wieder etwas von dem ausgetretenen Entenfett hinzuf&#252;gen. Danach das Blattgr&#252;n unterheben und offen noch ungef&#228;hr weitere 5 Minuten d&#252;nsten.
+Von der Orange die Schale abreiben und den Saft auspressen. Die Kartoffelst&#228;rke mit etwas vom Orangensaft glatt r&#252;hren.
+Die ausgetretene Fl&#252;ssigkeit von Mangold und Champignons mit der Kartoffelst&#228;rke leicht binden. Achtung: Nur so viel anger&#252;hrte St&#228;rke nehmen, wie erforderlich ist, um eine leichte Bindung zu erzielen - keinen Brei erstellen! Noch etwas k&#246;cheln lassen und so viel Orangensaft hinzuf&#252;gen, bis die passende Konsistenz und ein leicht s&#252;&#223;-s&#228;uerlicher Geschmack nach Orange erreicht ist. Mit Salz und Pfeffer abschmecken. Falls noch etwas S&#228;ure fehlt, mit einem kleinen Schuss Wei&#223;weinessig oder Zitronensaft nachhelfen.
+Die Entenbrust salzen und pfeffern und in Scheiben schneiden. Die Scheiben auf dem Mangoldgem&#252;se anrichten, noch einmal etwas salzen und pfeffern und mit der abgeriebenen Orangenschale bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

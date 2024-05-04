@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1154681221715834">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cbaa4f4c-3917-4c05-bb78-c369196dc449">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Oliventarte</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Weizenmehl (Type 405)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 EL</fr:igdtQuantity>
@@ -43,30 +43,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er) für den Guss</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er) f&#252;r den Guss</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">süße Sahne für den Guss</fr:igdtName>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne f&#252;r den Guss</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl zum Braten</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig 250 g Mehl, 10 EL Wasser und 8 EL Oliven&#246;l in einer R&#252;hrsch&#252;ssel zu einem Teig zusammenkneten. Zu einer Kugel formen und 60 Minuten in Klarsichtfolie eingepackt im Gem&#252;sefach des Eisschrankes ruhen lassen.
+Inzwischen die Zwiebeln sch&#228;len und hacken. In 4 EL Oliven&#246;l ca. 10 Minuten anschwitzen, ohne Farbe nehmen zu lassen. Inzwischen den Mangold waschen, abtropfen lassen und die dicken Blattrippen entfernen, dann in kleine St&#252;cke schneiden. Wenn die Zwiebeln auf der Zunge zergehen, den Mangold zuf&#252;gen. Ebenso die klein gehackten Knoblauchzehen sowie den Thymian zugeben. Solange kochen, bis die ganze Fl&#252;ssigkeit verdampft ist.
+In der Zwischenzeit die kleinen schwarzen Oliven entsteinen, falls gr&#246;&#223;ere Oliven verwendet werden, diese vierteln.
+In einer R&#252;hrsch&#252;ssel die Eier mit der Sahne vermischen und gut durchschlagen. Diese Mischung zu der abgek&#252;hlten Zwiebel-Mangoldmischung geben, mit Pfeffer w&#252;rzen und gut vermengen. Nicht mehr salzen, da die Oliven schon salzig genug sind.
+Den Backofen auf 200&#176;C vorheizen.
+Den Teig auf einem runden Tortenblech flachdr&#252;cken und gleichm&#228;&#223;ig ausbreiten. Einen Rand dabei stehen lassen und daraus eine Krempe formen. Die Mangold-Zwiebelmischung auf den Teig geben und mit einer Gabel verteilen, dann mit den Oliven bestreuen.
+In den hei&#223;en Backofen schieben und ca. 25-30 Minuten backen, bis die Tarte goldbraun ist.
+Die Tarte kann hei&#223; oder kalt gegessen werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-260831101807340">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4f631e2a-fcbc-47b3-b92a-363732235025">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kabeljau in Dillsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="kabeljau">Kabeljaufilet(s)</fr:igdtName>
@@ -18,16 +18,16 @@
         <fr:igdtName ref="zitrone">Zitronensaft, frisch gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß, trocken; oder Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Wein, wei&#223;, trocken; oder Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -49,12 +49,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kabeljaufilets waschen, trocken tupfen, mit dem Zitronensaft betr&#228;ufeln und mit etwas Salz und Pfeffer bestreuen. Den Wei&#223;wein oder die Gem&#252;sebr&#252;he im Wok erhitzen. Inzwischen den Mangold putzen, dabei eventuelle grobe Blattrippen flach schneiden und die Bl&#228;tter gut waschen. Gro&#223;e Bl&#228;tter l&#228;ngs halbieren und quer in Streifen schneiden. Die Mangoldstreifen in den Wok geben und bei geschlossenem Deckel etwa 5 Minuten zusammenfallen lassen. Die Kabeljaufilets auf den Mangold legen und alles etwa 5 Minuten d&#252;nsten. Das Fischfilet aus dem Wok nehmen und warm stellen. Den Schmand und den gefrorenen TK-Dill in den Weinsud geben, umr&#252;hren und die Sauce im offenen Wok etwas einkochen lassen. Mit Salz, Pfeffer und Muskatnuss abschmecken. Den Fisch mit dem Mangold servieren.
+Eiwei&#223; 38 g
+Fett 9 g
+Kohlenhydrate 5 g</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

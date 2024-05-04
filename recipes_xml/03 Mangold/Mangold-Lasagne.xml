@@ -1,0 +1,67 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b2a9698e-2ee9-4a3b-a7bc-2a9c7ac2d947">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Lasagne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), passiert</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und in ca. 5 mm breite Streifen schneiden. Die Tomaten waschen, halbieren und mit einem L&#246;ffel das Innere entfernen. Danach die Tomaten st&#252;ckig schneiden. Die Zwiebeln und den Knoblauch w&#252;rfeln.
+Die Zwiebeln in einer Pfanne mit Butter anschwitzen, den Knoblauch hinzugeben und and&#252;nsten. Den Mangold hinzugeben, sowie die Tomaten hinzuf&#252;gen und and&#252;nsten. Passierte Tomaten hinzugeben und mit den Gew&#252;rzen abschmecken. Am Schluss einen Schuss Wei&#223;wein hinzuf&#252;gen.
+Die Lasagneplatten und die zubereitete Sauce nacheinander in eine Auflaufform schichten. Zum Schluss mit dem K&#228;se &#252;berstreuen.
+Die Auflaufform bei 200 &#176;C Hei&#223;luft f&#252;r ca. 30 Minuten in den Ofen geben.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

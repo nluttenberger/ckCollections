@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-985151203935865">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-582d52ee-7fd4-47c8-9ba3-d57d83ce7c2e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Grüne Hähnchen-Camembert-Rouladen mit Mangold-Kartoffelpüree und glasierten Möhrchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gr&#252;ne H&#228;hnchen-Camembert-Rouladen mit Mangold-Kartoffelp&#252;ree und glasierten M&#246;hrchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="camembert">Camembert(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -31,27 +31,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, für die Form</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
@@ -66,16 +66,16 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="milch">Milch, heiß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="milch">Milch, hei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -86,23 +86,34 @@
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, nach Bedarf</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he, nach Bedarf</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebel fein hacken und in der Butter glasig and&#252;nsten, dann die Semmelbr&#246;sel zugeben und noch einige Minuten goldgelb r&#246;sten. Abk&#252;hlen lassen.
+Das H&#228;hnchenbrustfilet mit einem schweren Messer fein hacken und in eine Sch&#252;ssel geben. Die Zwiebel-Br&#246;selmischung und das Ei zugeben, salzen, pfeffern und gut verr&#252;hren.
+Die Stiele vom Mangold abschneiden, es sollten etwa 200 g sein, waschen und in 2 cm breite Streifen schneiden.
+4 sch&#246;ne Bl&#228;tter aussuchen und waschen. Bl&#228;tter und Stiele getrennt jeweils 2 Minuten in kochendem Wasser blanchieren, in Eiswasser geben, dann abtropfen lassen.
+Aus der Mitte des Camemberts 4 dicke Scheiben schneiden (Randst&#252;cke anderweitig verwenden).
+Die Bl&#228;tter ausbreiten, jeweils &#188; der H&#228;hnchenfarce darauf streichen, auf die breite Seite der Bl&#228;tter jeweils 1 Scheibe Camembert legen, das Blattende dar&#252;ber klappen und zu einer Roulade aufrollen.
+Den Backofen auf 200&#176;C vorheizen. Eine flache feuerfeste Form ausbuttern und die Rouladen nebeneinander hineinsetzen. Br&#252;he und Wein angie&#223;en und die Form f&#252;r 30-40 Minuten in den Ofen setzen, w&#228;hrend der Zeit 1-2mal mit Sud &#252;bergie&#223;en.
+Die Rouladen warm stellen, den Sud, in den etwas vom K&#228;se gelaufen ist, in einen kleinen Topf abgie&#223;en und etwas einkochen, die Sahne zugeben und weiter einkochen, bis die Sauce cremig ist (nach Belieben auch mit ganz wenig Mehlbutter binden).
+W&#228;hrend dieser Zeit gesch&#228;lte Kartoffeln im Salzwasser kochen, abgie&#223;en und durch die Presse dr&#252;cken. Mit hei&#223;er Milch verr&#252;hren.
+Die Mangoldstiele in der hei&#223;en Butter leicht br&#228;unen, salzen, pfeffern und mit dem P&#252;ree vermischen, nochmals abschmecken.
+F&#252;r die glasierten M&#246;hren die Butter in einem breiten Topf erhitzen, den Zucker zugeben und schmelzen lassen, dann die geputzten M&#246;hren tropfnass in den Topf geben, salzen und gegebenenfalls wenig Br&#252;he angie&#223;en. Bei geschlossenem Deckel garen, bis sie fast fertig sind, dann den Deckel abnehmen und die restliche Fl&#252;ssigkeit verdampfen lassen, dabei den Topf r&#252;tteln, so dass die M&#246;hren rundum sch&#246;n gl&#228;nzen.
+Auf Portionstellern jeweils 1 Mangoldroulade mit etwas Kartoffelp&#252;ree und glasierten M&#246;hren anrichten, etwas Sauce angie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

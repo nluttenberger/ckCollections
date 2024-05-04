@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3042801456934675">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-13343057-3196-4e11-8f14-9cd75f4dbad0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Rahm-Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Rahm-Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kopf</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Bauchspeck (Gelderländer Zwilling)</fr:igdtName>
+        <fr:igdtName ref="speck">Bauchspeck (Gelderl&#228;nder Zwilling)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -30,7 +30,7 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -47,22 +47,25 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe (ich nehme Wasser und mein eigenes Brühpulver)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he (ich nehme Wasser und mein eigenes Br&#252;hpulver)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Als erstes den Speck in feine Streifchen schneiden und auf mittlerer Hitze in einer gro&#223;en Pfanne mit hohem Rand anbraten.
+Da das von alleine geht, kann man in der Zeit die Zwiebeln nicht zu fein w&#252;rfeln, den Knoblauch daf&#252;r um so feiner hacken. Den Mangold als ganze Staude waschen, auch so weit es geht zwischen den Bl&#228;ttern. Unsch&#246;ne Stellen und gelbe Bl&#228;tter entfernen, aber die Staude zusammen lassen, weil es sich so viel einfacher schneidet. Dort anfangen, wo der Kohl nicht zusammengewachsen ist und die Bl&#228;tter in feine Streifen schneiden und noch ein paar Mal quer. Die Streifen beiseitelegen. Den helleren Teil am einfachsten auf einem Gem&#252;sehobel oder V-Hobel schneiden. Dann hat man sch&#246;ne schmale Streifen.
+In der Zwischenzeit ist der Speck ausgelassen. Die Zwiebeln sowie den Knoblauch dazugeben. Diese ein paar Minuten anschwitzen und dann die hellen Teile, nicht die Bl&#228;tter des Mangolds in die Pfanne geben. Alles sparsam salzen, gut pfeffern, das Muskat dar&#252;berreiben und etwa 10 Minuten braten. Dann die Bl&#228;tter ebenfalls hinzuf&#252;gen und nochmals ein paar Minuten braten. Das Mehl dar&#252;berstreuen und gut durchr&#252;hren. Die Br&#252;he angie&#223;en, durchr&#252;hren und alles bei geschlossenem Deckel auf kleiner Flamme nochmals 5 Minuten d&#252;nsten. Die Sahne einr&#252;hren, aufkochen lassen und das Gericht endg&#252;ltig abschmecken.
+Wir essen es gerne mit Pellkartoffeln und einem sch&#246;nen Salat.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

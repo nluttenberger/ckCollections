@@ -1,72 +1,72 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2423421382384406">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-83ca0d2e-6219-4108-ac14-d4ddc09f6b34">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Karotten-Mangold-Zucchini-Cannelloni</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Cannelloni</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>15 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter (ohne Stiel)</fr:igdtName>
+        <fr:igdtQuantity>15 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter (ohne Stiel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini, geraspelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 m.-große</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Karotte(n), geschält, geraspelt</fr:igdtName>
+        <fr:igdtQuantity>5 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Karotte(n), gesch&#228;lt, geraspelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, kalorienreduzierter</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, kalorienreduzierter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="mandelmus">Mus, (Mandelmus) 1 gut gehäufter EL</fr:igdtName>
+        <fr:igdtName ref="mandelmus">Mus, (Mandelmus) 1 gut geh&#228;ufter EL</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
         <fr:igdtName ref="curry">Currypulver, (Farben von Jaipur) aus dem Bioladen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-großer</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;er</fr:igdtQuantity>
         <fr:igdtName ref="blumenkohl">Blumenkohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="pecorino">Käse, (Pecorino) frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="pecorino">K&#228;se, (Pecorino) frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -86,12 +86,12 @@
         <fr:igdtName ref="petersilie">Petersilie, krause</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="liebstöckel">Liebstöckel</fr:igdtName>
+        <fr:igdtQuantity>5 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="liebst&#246;ckel">Liebst&#246;ckel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
@@ -101,12 +101,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Blumenkohl putzen, in kleine R&#246;schen schneiden und in der kochenden Gem&#252;sebr&#252;he 5 Minuten kochen, dann herausnehmen, zur Seite stellen. Den Mangold putzen, Stiele anderweitig verwenden, Bl&#228;tter klein schneiden und 2 Minuten in der Br&#252;he kochen und dann herausnehmen, ausdr&#252;cken, zur Seite stellen. Eine Zwiebel sehr klein schneiden und in einer gro&#223;en Pfanne in Oliven&#246;l anbraten, bis sie glasig sind. Knoblauch sch&#228;len, Keim herausnehmen, zu den Zwiebeln geben. Den Thymian dazugeben und alles leicht br&#228;unen lassen. Die Karotten dazugeben, kurz mitbraten lassen, mit etwa 2 Kellen Gem&#252;sebr&#252;he abl&#246;schen. Die Zucchini dazugeben und alles mit einem gestrichenen L&#246;ffel Zucker, Salz und Pfeffer nach Geschmack und etwa einem gestrichenen L&#246;ffel Currymischung (ich nehme eine mittelscharfe Mischung aus dem Bioladen) abschmecken. Schlie&#223;lich das Mandelmus dazugeben, dieses dickt die F&#252;lle an. Diese Masse etwas stehen lassen, damit sie abk&#252;hlen kann und man sich beim Cannellonif&#252;llen nicht die Finger verbrennt.
+Den Ofen auf 175 Grad aufheizen.
+Die zweite Zwiebel fein schneiden, in Oliven&#246;l anbraten, bis die Zwiebeln anbr&#228;unen. Den Mangold und die &#252;brigen klein geschnittenen Kr&#228;uter hineingeben, ganz kurz mitbraten, mit etwa 3 bis 4 Kellen Gem&#252;sebr&#252;he abl&#246;schen. Jetzt den Frischk&#228;se und die Sahne einr&#252;hren und mit Salz und Pfeffer und Zucker abschmecken. Die Cannelloni mit der Karottenmischung f&#252;llen und in eine flache Auflaufform legen. Die Blumenkohlr&#246;schen au&#223;en herum und auf die Cannelloni legen. Den geriebenen K&#228;se darauf verteilen und schlie&#223;lich die Mangoldso&#223;e dar&#252;bergeben. Alles etwa 40 Minuten (30 Minuten davon mit Deckel) auf Ober-/ Unterhitze backen.
+Salat dazu reichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

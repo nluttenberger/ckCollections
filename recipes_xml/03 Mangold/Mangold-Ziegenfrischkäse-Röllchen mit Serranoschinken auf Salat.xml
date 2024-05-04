@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-631371163757585">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-899d14d8-82b2-4608-802b-855703937c1c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Ziegenfrischkäse-Röllchen mit Serranoschinken auf Salat</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Ziegenfrischk&#228;se-R&#246;llchen mit Serranoschinken auf Salat</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -43,26 +43,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="ziegenfrischkäse">Ziegenfrischkäse</fr:igdtName>
+        <fr:igdtName ref="ziegenfrischk&#228;se">Ziegenfrischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, grob gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, grob gemahlen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Wasser mit etwas Br&#252;he aufsetzen (z. B. Gefl&#252;gelbr&#252;he). Die Mangoldbl&#228;tter weitgehend von den wei&#223;en Stielen befreien, in kochendem Wasser mit Br&#252;he ca. 5 - 7 min. garen.
+W&#228;hrenddessen die Salate auf 3 Tellern sternf&#246;rmig anrichten. Aus dem Honigsenf, dem Balsamico und 3 Essl&#246;ffeln Oliven&#246;l ein cremiges Dressing r&#252;hren.
+Die Tomate entkernen, in  schmale Scheiben und danach in Rauten (ca. 1/2 cm Durchmesser) schneiden.
+Die Schinkenscheiben jeweils der L&#228;nge nach halbieren.
+Die Mangoldbl&#228;tter leicht abtropfen lassen und auf einem K&#252;chenbrett ausbreiten. Mit einem Teel&#246;ffel Frischk&#228;se f&#252;llen und vorsichtig einrollen, dazu zuerst die Seiten umklappen und dann aufrollen. Mit jeweils einer halbem Schinkenscheibe umwickeln.
+Oliven&#246;l mit einer zerdr&#252;ckten Knoblauchzehe in einer beschichteten Pfanne erhitzen, die Mangold-R&#246;llchen vorsichtig zuerst mit der &#252;berlappenden Schinkenseite nach unten hineinsetzen und von jeder Seite ca. 1 min braten.
+Auf dem Salatbett jeweils 3 R&#246;llchen pro Teller anrichten, mit den Tomaten-Rauten bestreuen und das Dressing dekorativ kreisf&#246;rmig um die R&#246;llchen verteilen.
+Mit grob gemahlenem Pfeffer w&#252;rzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

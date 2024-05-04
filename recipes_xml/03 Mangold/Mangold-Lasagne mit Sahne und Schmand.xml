@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4128181654123466">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d3d53c2a-3e41-4442-80eb-ec0c5b00a06c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Lasagne mit Sahne und Schmand</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Bund</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,26 +27,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Beutel</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Gratinkäse, ca. 200 g</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">Gratink&#228;se, ca. 200 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtQuantity>3 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zu Beginn die gr&#252;nen Bl&#228;tter von den wei&#223;en St&#228;ngeln trennen.
+Einen gro&#223;en Topf mit Salzwasser zum Kochen bringen und die wei&#223;en St&#228;ngel ca. 7 Minuten darin kochen. Die Bl&#228;tter ca. 2 Minuten sp&#228;ter dazugeben und die restlichen 5 Minuten mitkochen.
+W&#228;hrenddessen in einem mittelgro&#223;en Topf die Schlagsahne mit dem Schmand erw&#228;rmen und Gem&#252;sebr&#252;hepulver und Muskat dazugeben.
+Nach der Kochzeit die St&#228;ngel und Bl&#228;tter aus dem Wasser nehmen, etwas abk&#252;hlen lassen und klein schneiden. Die klein geschnittenen Mangoldst&#252;cke in den mittelgro&#223;en Topf zur Sauce geben.
+Anschlie&#223;end in einer Auflaufform Mangold, Sauce und Lasagneplatten schichten, bis alles aufgebraucht ist. Wer mag, kann ein bisschen Butter auf die Mangoldschicht verteilen. Es endet mit einer Mangoldschicht. Darauf kommt der K&#228;se.
+Im auf 220 &#176;C Ober-/Unterhitzen oder 200 &#176;C Umluft vorgeheizten Backofen etwa 30 Minuten auf der mittleren Schiene backen.
+Anmerkung: Manche Leute variieren mit angebratenem Hackfleisch in der Sauce, mir pers&#246;nlich geht aber der Mangoldgeschmack dabei verloren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

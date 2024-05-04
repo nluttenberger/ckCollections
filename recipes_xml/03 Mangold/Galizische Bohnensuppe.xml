@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1406531245489325">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3d46f77a-43fd-41bb-9007-966d5487e1da">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Galizische Bohnensuppe</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken, geräucherter Vorderschinken</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken, ger&#228;ucherter Vorderschinken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffel(n), in Würfel</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffel(n), in W&#252;rfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 gr. Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, weiße, vorgegahrt</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, wei&#223;e, vorgegahrt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -31,26 +31,28 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>&#220;ber Nacht den Vorderschinken in einem Topf mit reichlich Wasser w&#228;ssern.
+Das Wasser absch&#252;tten, dann zu dem Vorderschinken Lorbeerbl&#228;tter zugeben und mit ca. 1,5 l Wasser angie&#223;en und zum Kochen bringen. Temperatur verringern und das Ganze f&#252;r ungef&#228;hr 1,5 Stunden leicht simmern lassen. Das Fleisch herausnehmen und in St&#252;cke schneiden. Die Fleischst&#252;ckchen mit den Kartoffelw&#252;rfeln in den Topf geben, mit Paprikapulver w&#252;rzen. Das Ganze f&#252;r 20 Minuten im geschlossenen Topf k&#246;cheln lassen. Von den Mangoldbl&#228;ttern die Stiele abschneiden und dann die Bl&#228;tter in Streifen schneiden, mit den Bohnen in den Topf geben und f&#252;r weitere 10 Minuten mitkochen lassen.
+Mit Salz und Pfeffer abschmecken und hei&#223; mit Landbrot servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

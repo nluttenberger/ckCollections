@@ -1,0 +1,81 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-89758f17-a99a-4428-b0b9-9ee3cf67db0a">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldr&#246;llchen mit Fischf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Stauden, (nach Gr&#246;&#223;e unterschiedlich!)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="barsch">Rotbarschfilet(s) (oder &#228;hnlichen Fisch)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="lachs">Lachsfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Peperoni, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="fischsauce">Fischsauce, (asiatisch)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="austernsauce">Austernsauce, (asiatisch)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, die gr&#252;nen Bl&#228;tter von den Stielen trennen, beides blanchieren. Die blanchierten Stiele l&#228;ngs in Streifen trennen, nach Belieben in St&#252;cke schneiden und die gebutterte Auflaufform damit auslegen.
+Schalotten klein w&#252;rfeln und anschwitzen, kleingew&#252;rfelten Knoblauch dazu geben, ebenfalls die kleingew&#252;rfelte Chili (nur ganz kurz!).
+Fisch s&#228;ubern, entgr&#228;ten, in W&#252;rfel schneiden und in der K&#252;chenmaschine zu Mousse verarbeiten. Nach und nach dabei die Schalotten-Knoblauch-Chili-Mischung zugeben, mit Fischsauce, Austernsauce, Pfeffer und Salz (vorsichtig!) abschmecken. Sahne mitmixen.
+Diese Farce auf die Mangoldbl&#228;tter verteilen und aufrollen. Die R&#246;llchen auf die Stiele in der Auflaufform geben (falls man mal Mangold erwischt, der leicht einrei&#223;t, kann man auch einen geschichteten Auflauf machen: in diesem Fall Mangoldbl&#228;tter abwechselnd mit der Fischfarce schichten). Mit H&#252;hnerbr&#252;he angie&#223;en, im Ofen bei ca. 200&#176; etwa 1 Std..
+Dazu passen Pell- und Salzkartoffeln, Reis und sogar Pasta.
+[Den Fisch kann man variieren, auch bei den Gew&#252;rzen ist jede Menge Spielraum drin!)</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

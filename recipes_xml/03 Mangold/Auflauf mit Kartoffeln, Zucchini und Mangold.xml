@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3283471487718267">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3b5f7ef4-1db3-4b06-86b0-01c3ffa09fe2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Auflauf mit Kartoffeln, Zucchini und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
@@ -39,26 +39,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gewürz(e) nach Wahl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rz(e) nach Wahl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl oder Butterschmalz für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butterschmalz">&#214;l oder Butterschmalz f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Eine gro&#223;e Sch&#252;ssel mit einem Geschirrtuch auslegen.
+Die rohen Kartoffeln sch&#228;len und grob reiben, ebenso die Zucchini. Alles in die Sch&#252;ssel geben, die mit dem Geschirrtuch ausgelegt wurde. Die Masse ca. 10 Minuten ruhen lassen.
+In der Zwischenzeit die Zwiebel und den Mangold schneiden.
+Eine m&#246;glichst gro&#223;e Auflaufform mit &#214;l oder Butterschmalz auspinseln.
+Das Backrohr auf 200 &#176;C vorheizen.
+Das Geschirrtuch &#252;ber der Sch&#252;ssel zu einem "Binkerl" hochnehmen, das hei&#223;t, das Geschirrtuch wird mit einer Hand so gefasst, dass die geriebenen Kartoffeln und Zucchini nicht rausfallen k&#246;nnen. Mit der anderen Hand das Geschirrtuch unten kneten, und zwar so lange, bis nur noch wenig Fl&#252;ssigkeit austritt. Die Fl&#252;ssigkeit wegsch&#252;tten.
+Die Kartoffel-Zucchini-Masse zur&#252;ck in die Sch&#252;ssel geben und nun die restlichen Zutaten hinzuf&#252;gen. Mit den H&#228;nden gut verkneten.
+Die Masse in die vorbereitete Auflaufform f&#252;llen und im vorgeheizten Backrohr 50 - 60 Minuten backen.
+Dazu passt eine Joghurtsauce wie Tzatziki und/oder ein bunter Blattsalat.
+Gut schmeckt es auch als Beilage zu Gegrilltem, dann reicht die H&#228;lfte der angegebenen Zutaten.
+Es eignet sich auch zum kalt Essen, z. B. gut zum Mitnehmen in die Arbeit.
+Als Gew&#252;rze kann man neben Salz und Pfeffer z. B. Muskatnuss, Paprikapulver, Currypulver, Chilipulver oder auch eine asiatische Gew&#252;rzmischung verwenden.
+Das Rezept kann ohne Probleme variiert werden: mehr Mangold und weniger Zucchini, oder auch anderes Gem&#252;se, K&#228;sew&#252;rfel, Speck- oder Schinkenw&#252;rfel, andere Gew&#252;rze - ganz nach Belieben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

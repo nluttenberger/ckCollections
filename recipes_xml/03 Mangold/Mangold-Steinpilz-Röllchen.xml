@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2138961343743954">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7ace382a-83df-4961-bfcc-7950041c3657">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Steinpilz-Röllchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Steinpilz-R&#246;llchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Handvoll</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,18 +27,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gehackte</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -50,27 +50,34 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gemischte, gehackte</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gemischte, gehackte</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus dem Mehl, den Eiern und der Milch einen Pfannkuchenteig bereiten, in die Teigmasse 3 EL gehackte gemischte Kr&#228;uter, Salz und Pfeffer geben, dann ca. 1/2 Stunde ruhen lassen.
+Die Steinpilze einweichen, dann gut ausdr&#252;cken.
+Den Mangold waschen, putzen und in Salzwasser blanchieren.
+Zwiebel und Knoblauch in einer Pfanne anr&#246;sten, die klein geschnittenen Steinpilze dazu geben, noch weiter gut durchr&#246;sten lassen. Den  blanchierten Mangold sehr gut ausdr&#252;cken, kleinschneiden und den Pilzen beif&#252;gen, salzen und pfeffern. Dann Frischk&#228;se, Creme fraiche und Kr&#228;uter unterr&#252;hren, ca. 3 Minuten k&#246;cheln lassen. Die Mischung sollte nicht fl&#252;ssig sein.
+Die Masse &#252;berk&#252;hlen lassen. In der Zwischenzeit aus dem Teig Pfannkuchen herausbacken.
+Auf jeden Pfannkuchen ca. 2 EL der Mangold/Pilzmischung geben, verstreichen und dann eng einrollen.
+Entweder sofort warm servieren oder ausgek&#252;hlt in Scheiben geschnitten (auch sehr gut als Fingerfood).
+Dazu passt sehr gut eine Kr&#228;uter-Knoblauch-Joghurtsauce.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

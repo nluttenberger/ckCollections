@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1487961253976328">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bff3affd-129b-47cc-ace4-30ff5303d403">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Pikante Pfannkuchen mit Käse und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Pikante Pfannkuchen mit K&#228;se und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
@@ -35,15 +35,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskat, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Öl, geschmacksneutral (z. B. Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l, geschmacksneutral (z. B. Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -51,18 +51,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold verlesen, waschen und in Streifen schneiden.
+Die gehackte Zwiebel in 2 EL &#214;l d&#252;nsten, dann den Mangold hinzugeben und in knapp 5 Minuten garen. Mit Salz, Pfeffer und Muskat abschmecken.
+Die Eier trennen.
+Das Mehl mit der Milch und dem Eigelb mit einem Schneebesen gut verr&#252;hren. Mit 1 TL Salz und Pfeffer w&#252;rzen.
+W&#228;hrend der Teig quillt, das Eiwei&#223; steif schlagen und den K&#228;se reiben.
+Zuerst den K&#228;se, dann das steife Eiwei&#223; unter den Pfannkuchenteig heben.
+Etwas &#214;l in der Pfanne erhitzen und 1/5 des Teigs hineingeben. 1/5 des Gem&#252;ses dar&#252;ber streuen, den Deckel auflegen und den Pfannkuchen bei schwacher Hitze ca. 3 Minuten stocken lassen.
+Nicht wenden! Wenn der Teig oben leicht trocken ist und der Pfannkuchen sich l&#246;sen l&#228;sst, ist er fertig.
+Die Masse reicht f&#252;r 5 dicke Mangold-Pfannkuchen.
+Bei 5 Pfannkuchen hat eine Portion 567 Kcal.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

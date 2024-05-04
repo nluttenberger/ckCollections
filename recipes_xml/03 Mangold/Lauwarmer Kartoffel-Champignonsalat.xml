@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3297291489568698">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9914de58-557e-4724-ac84-9e07ee26fb0d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lauwarmer Kartoffel-Champignonsalat</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), fest kochende</fr:igdtName>
@@ -31,34 +31,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse oder Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se oder Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
         <fr:igdtName ref="balsamico">Balsamico, milder</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="himbeeren">Früchte nach Wahl, z. B. Himbeeren, Mango, Orangen</fr:igdtName>
+        <fr:igdtName ref="himbeeren">Fr&#252;chte nach Wahl, z. B. Himbeeren, Mango, Orangen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln in Salzwasser garen. In der Zwischenzeit Zwiebel und Knoblauch klein schneiden und in eine Pfanne mit etwas Oliven&#246;l geben. Glasig werden lassen.
+W&#228;hrenddessen die Pilze in etwa 5 mm dicke Scheiben schneiden oder vierteln und zu Zwiebeln und Knoblauch geben. Mit Salz und Pfeffer abschmecken. Ca. 5 min. mitbraten.
+Falls der Salat mit Fr&#252;chten gemacht wird, diese jetzt in der Pfanne kurz anr&#246;sten. Vorher die Pilze aus der Pfanne nehmen.
+Die Pilze und evtl. Fr&#252;chte mit dem Mangold mischen, die Kartoffeln klein schneiden und mit Balsamico, Salz und etwas &#214;l anmachen. Den Schafsk&#228;se dar&#252;ber zerbr&#246;seln und abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

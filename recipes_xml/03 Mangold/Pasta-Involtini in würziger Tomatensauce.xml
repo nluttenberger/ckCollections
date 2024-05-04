@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2661141417865954">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-77cb7d04-0aa9-4096-9c17-069d182b7945">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Pasta-Involtini in würziger Tomatensauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Pasta-Involtini in w&#252;rziger Tomatensauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="kürbis">Kürbis(se), geschält und in 1,5 cm große Stücke gewürfelt</fr:igdtName>
+        <fr:igdtName ref="k&#252;rbis">K&#252;rbis(se), gesch&#228;lt und in 1,5 cm gro&#223;e St&#252;cke gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -27,10 +27,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>3 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,11 +43,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -59,42 +59,52 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), gewürfelt, frisch oder aus der Dose</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), gew&#252;rfelt, frisch oder aus der Dose</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="basilikum">Kräuter, gehackt (Thymian, Oregano, Basilikum)</fr:igdtName>
+        <fr:igdtName ref="basilikum">Kr&#228;uter, gehackt (Thymian, Oregano, Basilikum)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Gratinkäse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">Gratink&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus dem Mehl, den Eiern, dem Oliven&#246;l (1 EL auf 500 g Mehl) und etwas Salz einen geschmeidigen Nudelteig zubereiten. Daf&#252;r etwa alle Zutaten im Thermomix 8 Minuten lang auf Knetstufe, dann kurz von Hand zusammenkneten. Den Teig luftdicht verschlossen im K&#252;hlschrank ruhen lassen.
+F&#252;r die Tomatensauce das Oliven&#246;l in einer Pfanne erhitzen. Die Zwiebel anr&#246;sten, die Tomatenw&#252;rfel, zwei Drittel der passierten Tomaten und Kr&#228;uter zugeben und mit Salz und Chili abschmecken. Auf kleiner Stufe k&#246;cheln lassen.
+F&#252;r das K&#252;rbismus das Backrohr auf 180 &#176;C Hei&#223;luft vorheizen.
+Die K&#252;rbisw&#252;rfel mit Koriander, Kreuzk&#252;mmel, dem Salz und dem Oliven&#246;l gut vermischen und auf dem mit Backpapier ausgelegten Backblech verteilen. Etwa 30 Minuten lang backen. Noch warm mit einer Gabel zerdr&#252;cken und beiseitestellen.
+F&#252;r die Spinat-Mischung die H&#228;lfte des Knoblauchs pressen oder in d&#252;nne Scheiben schneiden. Das Oliven&#246;l in einer Pfanne erhitzen. Den Knoblauch kurz darin schwenken und dann den Spinat bei mittlerer Hitze anbraten. Mit Salz und Muskat abschmecken und beiseitestellen.
+F&#252;r die Hack-Tomaten-Mischung den Rest der Knoblauchs pressen oder in d&#252;nne Scheiben schneiden. Das Oliven&#246;l in einer Pfanne erhitzen. Die Zwiebel anr&#246;sten und darin das Hackfleisch kr&#252;melig anbraten. Die restlichen passierten Tomaten und den Knoblauch zugeben und mit Salz und Pfeffer abschmecken und beiseitestellen.
+F&#252;r die Pasta-Involtini den Nudelteig auf einer bemehlten Arbeitsfl&#228;che sehr d&#252;nn zu Rechtecken von etwa 10 cm auf 30 cm ausrollen. Oder mit der Nudelmaschine auf der d&#252;nnsten Stufe zu Streifen verarbeiten und dann auf etwa 30 cm abl&#228;ngen. Zu je einem Drittel mit dem K&#252;rbis, dem Spinat und der Hack-Tomaten-Mischung belegen. Den Feta &#252;ber den Spinat und den K&#252;rbis br&#246;ckeln. Der Breite nach eng aufrollen und in 3 Teile schneiden.
+Eine Auflaufform mit der Tomatensauce bef&#252;llen, die Rollen nebeneinander in die Form setzen. Darauf achten, dass zwischen den R&#246;llchen &#252;berall Tomatensauce ist. Mit Gratink&#228;se bestreuen.
+Bei 180 &#176;C Hei&#223;luft 35 bis 40 Minuten lang backen. Die Involtini auf einem Teller anrichten und eventuell mit frisch geriebenem Parmesan garnieren.
+Vor dem Backen l&#228;sst sich das Gericht gut 1 bis 2 Tagen im K&#252;hlschrank lagern.
+Hinweise: Schmeckt auch immer noch k&#246;stlich, wenn es nach dem Backen ausgek&#252;hlt und tiefgefroren wird. Zum Erw&#228;rmen wieder in den Backofen schieben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

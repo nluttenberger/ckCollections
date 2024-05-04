@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3911561596593144">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-10ca6c79-9ec5-46c3-82b4-0ac4ab70bcf5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Würzige Hackfleischbällchen mit Cap-Cay und Reis</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>W&#252;rzige Hackfleischb&#228;llchen mit Cap-Cay und Reis</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
         <fr:igdtName ref="reis">Basmatireis</fr:igdtName>
@@ -23,11 +23,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot vom Vortag</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot vom Vortag</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, gekörnte</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -51,27 +51,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="knollensellerie">Schnittsellerieblätter, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="knollensellerie">Schnittselleriebl&#228;tter, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer, frisch aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -79,7 +79,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;es</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -94,7 +94,7 @@
         <fr:igdtName ref="peperoni">Peperoni, rote, lang, mild</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="paprika">Paprikaschote(n), rote</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -103,11 +103,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), grün, frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;n, frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -115,23 +115,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="kokoswasser">Kokoswasser (Asiashop, Getränke)</fr:igdtName>
+        <fr:igdtName ref="kokoswasser">Kokoswasser (Asiashop, Getr&#228;nke)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="fischsauce">Fischsauce, helle, (z. B. kecap ikan &quot;King Lobster&quot;)</fr:igdtName>
+        <fr:igdtName ref="fischsauce">Fischsauce, helle, (z. B. kecap ikan King Lobster)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Hühnerbrühe, gekörnte</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">H&#252;hnerbr&#252;he, gek&#246;rnte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
         <fr:igdtName ref="chiliflocken">Chiliflocken (z.B. Pul Biber)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="">Frittieröl</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="">Frittier&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -142,19 +142,27 @@
         <fr:igdtName ref="gurke">Salatgurke(n), kernlos</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="dill">Dillspitzen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Reis waschen, abseihen und gut abtropfen lassen. Das Wasser zuf&#252;gen und zum Kochen bringen. Die Butter zugeben, mit dem Reis verr&#252;hren und mit Deckel ca. 12 Minuten k&#246;cheln lassen. Vom Herd nehmen, kurz durchmischen und mit Deckel in ca. 30 Minuten ausquellen lassen.
+In der Zwischenzeit das Wei&#223;brot in kleine W&#252;rfelchen schneiden. Die Eier mit der Milch verquirlen und &#252;ber die Wei&#223;brotw&#252;rfel gie&#223;en. Nach 10 Minuten gut durchmischen, aber nicht homogenisieren. Ein St&#252;ck Karotte waschen, am unteren Ende kappen und komplett sch&#228;len. Mit einem Julienne-Hobel die Karotte zu Seidenf&#228;den schneiden. Erforderliche Menge bereit halten. Die frische Schnittsellerie waschen, trocken sch&#252;tteln, die makellosen Bl&#228;tter abzupfen und zerkleinern. Davon die erforderliche Menge sofort verwenden und die restlichen Bl&#228;tter getrennt von den zerkleinerten St&#228;ngeln tiefgefrieren. TK-Ware abwiegen und auftauen lassen.
+Die Zwiebelchen und die Knoblauchzehen an beiden Enden kappen, sch&#228;len und grob in St&#252;cke schneiden. Das Sonnenblumen&#246;l in einer hinreichend gro&#223;en Pfanne erhitzen, Zwiebeln und Knoblauch zugeben und r&#246;sten bis die Zwiebeln beginnen braun zu werden.
+Alle Zutaten f&#252;r die Fleischb&#228;llchen in einer gro&#223;en Sch&#252;ssel gut vermengen und im K&#252;hlschrank abgedeckt 30 Minuten ziehen lassen. Das Backpulver unter die Fleischmasse mischen. Die Fleischmasse zu gut tischtennisballgro&#223;en B&#228;llchen formen und diese etwas flach dr&#252;cken. Das Frittier&#246;l auf 180 Grad erhitzen. Die B&#228;llchen darin hellbraun frittieren und auf K&#252;chenkrepp abtropfen lassen.
+Die Zutaten f&#252;r die Sauce mischen und in eine Pfanne geben. Die Fleischb&#228;llchen zuf&#252;gen und abgedeckt in der Sauce simmern lassen. Restliche Fleischb&#228;llchen tiefgefrieren.
+F&#252;r das Cap Cay beim gewaschenen Brokkoli den Stiel unten 2 cm kappen und die R&#246;schen etwa 3 cm mit Stiel von oben her abnehmen. Gro&#223;e R&#246;schen mundgerecht zerkleinern. Die oberen, unverholzten Stielteile quer in ca. 6 mm breite R&#246;llchen schneiden. Die am Rand verholzten Stiele sch&#228;len und l&#228;ngs in Streifen schneiden und auf ca. 2 cm k&#252;rzen. Stiele und R&#246;schen getrennt bereithalten. Eventuell vorhandene Bl&#228;tter grob zerkleinern und mitverwenden. Eine kleine Karotte waschen, an beiden Enden kappen, sch&#228;len und quer in ca. 4 x 4 mm d&#252;nne Stifte hobeln.
+Die frische rote Peperoni waschen, den Stiel entfernen, diagonal in ca. 8 mm breite St&#252;cke schneiden und die K&#246;rner belassen. Bei der roten Paprika den Stiel entfernen, l&#228;ngs aufschneiden, aufklappen und 1 H&#228;lfte entkernen. Diese l&#228;ngs in ca. 1 cm breite Streifen und dann quer in ca. 2 cm lange St&#252;cke schneiden. Den frischen Kailan waschen, die Bl&#228;tter vom St&#228;ngel abtrennen. Den im unteren Teil holzigen St&#228;ngel unterhalb des 2. Blattes abtrennen und verwerfen. Die d&#252;nnen Blattstiele entlang der Mittelrippe von den Bl&#228;ttern trennen, dabei die Bl&#228;tter l&#228;ngs halbieren. Die Blattstiele und den St&#228;ngel quer in d&#252;nne R&#246;llchen schneiden. Die Bl&#228;tter grob klein schneiden. Bl&#228;tter und Stielr&#246;llchen getrennt bereit halten. Nicht gebrauchte Ware tiefgefrieren. TK-Ware abmessen und auftauen. Die kleinen, gr&#252;nen Chilis waschen und als Ganzes verwenden.
+Den Reis auf die vorgew&#228;rmten Teller platzieren. Mit Gurkenscheiben und Dill die Teller garnieren.
+Einen Wok erhitzen und 2 EL vom Sonnenblumen&#246;l zugeben und hei&#223; werden lassen. Die ersten 4 Zutaten vom Gem&#252;se und vom Kailan nur die St&#228;ngel zugeben und 2 Minuten pfannenr&#252;hren. Die restlichen Zutaten zuf&#252;gen und 1 Minute pfannenr&#252;hren. Mit 4 EL von der Sauce abl&#246;schen und das Cap Cay zum Reis geben. Die Fleischb&#228;llchen mit etwas Sauce dazu legen. Die restliche Sauce im extra K&#228;nnchen mitservieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

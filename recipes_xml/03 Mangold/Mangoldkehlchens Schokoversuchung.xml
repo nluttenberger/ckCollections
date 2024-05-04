@@ -1,0 +1,66 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-05d7485c-d470-4ef4-a9f7-3a08359e3669">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldkehlchens Schokoversuchung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8 EL</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>8 EL</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
+        <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="nutella">Nutella</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="kakao">Kakaopulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kl. Flasche/n</fr:igdtQuantity>
+        <fr:igdtName ref="rum">Rumaroma</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="kuvert&#252;re">Kuvert&#252;re, geschmolzen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Raps&#246;l, oder Sonnenblumen-</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Ofen auf 190-200&#176;C Hei&#223;luft vorheizen. Eine Muffinform mit Papierf&#246;rmchen vorbereiten.
+Zucker und Eier in einer Sch&#252;ssel mit dem Mixer schaumig schlagen, nach und nach Mehl mit Backpulver, Nutella, Kakao, Rumaroma, Milch und &#214;l zuf&#252;gen, dabei immer weiter r&#252;hren, bis eine lockere, cremige Masse entsteht. Den Teig gleichm&#228;&#223;ig einf&#252;llen, die F&#246;rmchen sollten nur 3/4 gef&#252;llt sein. Ca. 12-15 Minuten backen. Nach 12 Minuten den St&#228;bchentest machen. Die K&#252;chlein sollten nicht zu trocken sein, aber auch nicht mehr fl&#252;ssig. Die Muffins ca. 20 Minuten abk&#252;hlen lassen und dann mit der geschmolzenen Kuvert&#252;re &#252;berziehen.
+Servierfertig sobald die Kuvert&#252;re fest geworden ist.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2374561376590803">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-12e228b1-14a1-4458-ac5d-76a19569ba6d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Avocado-Grapefruit Salat mit Paprikamandeln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="mandel">Mandel(n), geschält</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandel(n), gesch&#228;lt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß, geräuchert</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;, ger&#228;uchert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -23,14 +23,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel, zerstoßen</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel, zersto&#223;en</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chili, gemahlen</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chili, gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kl. Bund</fr:igdtQuantity>
-        <fr:igdtName ref="kerbel">Kerbel, die Blätter</fr:igdtName>
+        <fr:igdtName ref="kerbel">Kerbel, die Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), rot, in dünnen Ringen</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), rot, in d&#252;nnen Ringen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -59,7 +59,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olive">Öl, Oliven-</fr:igdtName>
+        <fr:igdtName ref="olive">&#214;l, Oliven-</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -71,18 +71,21 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ofen auf 130&#176; heizen.
+Mandeln mit 50 ml Wasser, 1/2 TL Salz, Paprika, Kreuzk&#252;mmel, Chili und Knoblauch in einer Sch&#252;ssel gut vermengen. Auf einem Blech mit Backpapier ausbreiten und im Ofen auf der unteren Schiene 60-80 Min. trocknen lassen. Es sollte alle Feuchtigkeit entwichen sein. Zwischendurch mehrfach wenden.
+Grapefruits sch&#228;len und filetieren. Reste auspressen. Diesen Saft mit Limettensaft, Oliven&#246;l, Honig aufschlagen und mit Salz und Pfeffer abschmecken. Salatbl&#228;tter, Avocadospalten, Kerbel, Zwiebelringe und Grapefruitfilets auf Tellern anrichten, mit dem Dressing betr&#228;ufeln und Mandeln dar&#252;bergeben.
+Ich mache meist die doppelte bis dreifache Menge Mandeln, da sie sich gut als Snack eignen. Man kann sie in einem luftdicht verschlossenen Gef&#228;&#223; auch eine Weile aufbewahren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

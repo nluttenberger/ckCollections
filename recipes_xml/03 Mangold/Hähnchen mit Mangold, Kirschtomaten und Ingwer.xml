@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2347661373356699">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-38d8f925-ce9d-4af4-93b6-6e01a70aeeb5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Hähnchen mit Mangold, Kirschtomaten und Ingwer</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>H&#228;hnchen mit Mangold, Kirschtomaten und Ingwer</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hähnchenfilet(s)</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#228;hnchenfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
@@ -31,11 +31,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse, gehackt und geröstet</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse, gehackt und ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferschote(n), rot</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferschote(n), rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
@@ -65,12 +65,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das H&#228;hnchenfilet in d&#252;nne Scheiben schneiden. Den Ingwer sch&#228;len und fein hacken. Die Pfefferschote und die Knoblauchzehe fein hacken. Die H&#228;lfte des Ingwers, Knoblauchs und der Pfefferschoten mit 1 TL Speisest&#228;rke und 2 EL Sojasauce verr&#252;hren und mit dem Fleisch mischen.
+Mangold putzen und die Bl&#228;tter in 1 cm breite Streifen und die Stiele in &#189; cm breite Streifen schneiden. Die Kirschtomaten halbieren.
+Das Fleisch abtropfen lassen und in 2 EL hei&#223;em &#214;l im Wok oder einer beschichteten Pfanne unter R&#252;hren braun anbraten, anschlie&#223;end herausnehmen. Die Mangoldstiele, den restlichen Ingwer, Knoblauch und die Pfefferschoten mit 2 EL &#214;l in den Wok geben und unter R&#252;hren 3 Minuten braten. Die Mangoldbl&#228;tter und die Tomaten dazugeben und 1 Minute weiter braten. Die Gem&#252;sebr&#252;he, 3 EL Sojasauce und 1 TL Speisest&#228;rke miteinander verr&#252;hren und mit dem Fleisch in den Wok geben, gut aufkochen lassen. Mit Sojasauce, Zucker und 1-2 TL Zitronensaft abschmecken und mit den Erdn&#252;ssen bestreut servieren.
+Dazu passt Minzreis. Rezept in meinem Profil.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

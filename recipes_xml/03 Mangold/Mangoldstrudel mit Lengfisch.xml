@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-744361177009397">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f71ec973-f4d5-4ecb-aed6-f65582cb1922">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldstrudel mit Lengfisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
         <fr:igdtName ref="olive">Oliven, schwarz, entsteint</fr:igdtName>
@@ -19,18 +19,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Stauden (ca. 600 g)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Stauden (ca. 600 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="fisch">Fischfilet(s) (Leng, ca. 1,3 kg)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,15 +39,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="räucherspeck">Bacon</fr:igdtName>
+        <fr:igdtName ref="r&#228;ucherspeck">Bacon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -61,12 +61,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Oliven und Kapern mit &#214;l im Mixer p&#252;rieren. Die Mangoldbl&#228;tter putzen, waschen und in kochendem Salzwasser 3 Minuten blanchieren, kalt abschrecken und zwischen 2 Geschirrt&#252;chern trocknen. Anschlie&#223;end die Stielans&#228;tze keilf&#246;rmig herausschneiden. Die Mangoldbl&#228;tter auf einem Geschirrtuch zu einem Rechteck von 50 x 40 cm auslegen.
+Die Fischfilets waschen und trocken tupfen. Ein Filet auf den Mangold legen und mit der Olivenpaste bestreichen. Das andere Filet darauflegen, auf der Oberseite salzen und mit 20 g fl&#252;ssiger Butter begie&#223;en. Den Backofen auf 200&#176;C (Umluft 175&#176;C) vorheizen.
+Die Fettpfanne vom Backofen einfetten. Den Fisch, wie einen Strudel, mithilfe des Geschirrtuchs in die Mangoldbl&#228;tter einrollen, dabei die Seiten etwas einschlagen. Dann diagonal in die Fettpfanne setzen.
+Die Mangoldstiele waschen und w&#252;rfeln. Zusammen mit den Zwiebeln in der restlichen Butter glasig d&#252;nsten. Cr&#232;me fraiche zugie&#223;en und beides bei starker Hitze ca. 10 Minuten cremig einkochen lassen. Salzen und &#252;ber den Strudel gie&#223;en.
+Die Strudel mit dem Fr&#252;hst&#252;cksspeck belegen. Die Tomaten halbieren, mit der Schnittfl&#228;che nach unten in die Fettpfanne setzen und salzen. Nun alles im vorgeheizten Backofen ca. 35 Minuten garen.
+Vor dem Servieren die Haut von den Tomaten abziehen und alles mit der Petersilie bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

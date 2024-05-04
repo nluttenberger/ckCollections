@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-899061195311296">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e37b6c8e-17ea-468d-9bcf-e0ada1057d63">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold mit Reisnudeln und Sojasauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, möglichst den Rotstieligen</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, m&#246;glichst den Rotstieligen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -27,15 +27,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sojasauce">Sojasauce, möglichst chinesische</fr:igdtName>
+        <fr:igdtName ref="sojasauce">Sojasauce, m&#246;glichst chinesische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hühnerfleisch, gekocht</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#252;hnerfleisch, gekocht</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, geräuchert</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, ger&#228;uchert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -45,12 +45,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Speck fein schneiden und in einer Pfanne auslassen.
+Den gewaschenen Mangold mit Stiel in feine Streifen schneiden, Karotte in feine, lange Stifte schneiden.
+Mangold und Karotte im Speck anbraten und mit Sojasauce begie&#223;en, bissfest braten, geschnittene Pilze kurz mitbraten,
+Reisnudeln nach Vorschrift kochen.
+Eier zu R&#252;hrei verarbeiten und zur Seite stellen.
+H&#252;hnerfleisch in mundgerechte St&#252;cke schneiden, mit den Reisnudeln zum Mangold geben und das R&#252;hrei untermischen. Kurz ziehen lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

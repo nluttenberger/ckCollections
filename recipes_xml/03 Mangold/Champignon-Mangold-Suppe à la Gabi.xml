@@ -1,0 +1,70 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-53fd91a5-469b-449c-8a03-3cd9c807db1d">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Champignon-Mangold-Suppe &#224; la Gabi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="champignon">Champignons, braune</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="bohnenkraut">Bohnenkraut, getrocknetes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein (Sauvignon Blanc)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 ml</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne (30 % Fettgehalt)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>50 g</fr:igdtQuantity>
+        <fr:igdtName ref="gruy&#232;re">Gruy&#232;re, gerieben</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Meersalz und Pfeffer, schwarzer, aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Knoblauchzehe sch&#228;len und fein w&#252;rfeln. Champignons vierteln. Mangoldbl&#228;tter in grobe St&#252;cke schneiden.
+Butter in einem Topf zerlassen und die Knoblauchw&#252;rfel hierin leicht br&#228;unlich and&#252;nsten. Champignons zuf&#252;gen und mitd&#252;nsten. Mit Bohnenkraut bestreuen und mit Salz und Pfeffer w&#252;rzen. Die Mangoldbl&#228;tter zugeben und d&#252;nsten, bis sie weich, aber noch leicht bissfest sind. Wein und Gem&#252;sebr&#252;he angie&#223;en und einige Minuten k&#246;cheln lassen. Sahne und Gruy&#232;re zuf&#252;gen, umr&#252;hren und mit Salz, Pfeffer und Muskat abschmecken.
+Tipp: Mit Cro&#251;tons bestreut servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

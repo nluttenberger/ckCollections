@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3296541489439960">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-eb9439f7-821a-411a-8590-1d9cddd93ce5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Pilzrisotto mit Mangold, Kräuterseitlingen und Garnelen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Pilzrisotto mit Mangold, Kr&#228;uterseitlingen und Garnelen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuterseitling(e)</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uterseitling(e)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>125 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsefond</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sefond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>225 g</fr:igdtQuantity>
@@ -49,12 +49,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebeln und den Knoblauch fein w&#252;rfeln, dann zuerst die Zwiebeln bei mittlerer Hitze etwas glasig braten, den Reis hinzugeben und weiter braten. Dann den Knoblauch bei geringer Hitze kurz mit anbraten.
+Alles mit dem Wei&#223;wein abl&#246;schen. Bei niedriger Hitze ca. 25 bis 30 Minuten k&#246;cheln lassen, dabei nach und nach den Fond in kleinen Schlucken aufgie&#223;en. Das Risotto muss alle paar Minuten umger&#252;hrt werden. Es brennt sonst sehr schnell an.
+Kurz bevor das Risotto gar ist, die geputzten und grob gew&#252;rfelten Kr&#228;uterseitlinge, den in d&#252;nne Streifen geschnittenen Mangold und die rohen Garnelen hinzugeben. Falls die Garnelen schon vorgekocht, also nicht mehr grau sondern rosa sind, erst etwas sp&#228;ter hinzuf&#252;gen. 5 - 10 Minuten garen lassen, die Pilze und der Mangold sollten nicht zu weich werden.
+Als letztes den am besten frisch gehobelten Parmesan dazugeben.
+Falls ihr wollt, k&#246;nnt ihr noch ein kleines St&#252;ck Butter dazugeben, das ist aber nicht bei den angegebenen Kalorien eingerechnet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

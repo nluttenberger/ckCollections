@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3822661581840608">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bae8e4e2-af30-4d19-a8a0-c5f0f3e1344f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Geschmorte Lammkoteletts mit Ofengemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Geschmorte Lammkoteletts mit Ofengem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
         <fr:igdtName ref="schweinefleisch">Lammkotelett(s)</fr:igdtName>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig, flüssiger</fr:igdtName>
+        <fr:igdtName ref="honig">Honig, fl&#252;ssiger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -35,10 +35,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer aus der Mühle, schwarz</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle, schwarz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,18 +51,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="auberginen">Aubergine(n)</fr:igdtName>
+        <fr:igdtName ref="gin">Aubergine(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -74,19 +74,19 @@
         <fr:igdtName ref="kartoffel">Kartoffel(n), sehr klein, festkochend</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer aus der Mühle, schwarz</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle, schwarz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -97,12 +97,20 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r das Fleisch:
+Die Lammkoteletts waschen und trockentupfen. Knoblauch sch&#228;len und reiben. &#214;l mit geriebenem Knoblauch, Honig, Zimt, Rosmarin und Pfeffer verr&#252;hren und das Fleisch auf beiden Seiten einstreichen. Die Koteletts in eine verschlie&#223;bare Dose oder Gefrierbeutel geben und ca. 3 Stunden durchziehen lassen.
+Die Tomaten halbieren, vom Stielansatz befreien und dann achteln.
+Butterschmalz in einer ofenfesten Pfanne erhitzen und die Lammkoteletts darin scharf anbraten, dann salzen. Die Tomatenachtel dazugeben, die  Marinade mit ca. 200 ml Wasser aus der Dose (Gefrierbeutel) l&#246;sen und alles damit abl&#246;schen. Die Pfanne abdecken und im vorgeheizten Rohr bei 200 &#176;C ca. 1 Stunde schmoren lassen. Zwischendurch die Fl&#252;ssigkeit &#252;berpr&#252;fen und eventuell etwas Wasser nachgie&#223;en.
+F&#252;r das Gem&#252;se:
+Die Aubergine - ohne Stielansatz - in ca. 1 cm dicke Scheiben schneiden. Die Scheiben mit Salz bestreuen und ca. 15 Minuten ziehen lassen. Die Auberginenscheiben abtrocknen, beidseitig leicht mit Oliven&#246;l bestreichen, auf ein Backblech legen und zum Fleisch ins Rohr schieben. Ca. 15 Minuten backen. Nach dem Herausnehmen die Scheiben in mundgerechte St&#252;cke schneiden.
+Zwiebeln und Karotte sch&#228;len, Pilze s&#228;ubern. Zwiebel achteln, Karotte in Stifte schneiden und Pilze halbieren. Die Kartoffeln (Pflaumengr&#246;&#223;e) abb&#252;rsten und halbieren. Mangold waschen und in St&#252;cke schneiden. Das ganze Gem&#252;se in einer Auflaufform mit &#214;l, Rosmarin, Salz und Pfeffer mischen und die letzte halbe Stunde abgedeckt zum Fleisch in die R&#246;hre stellen. Wenn das Gem&#252;se weich ist, die Auberginenst&#252;cke dazugeben und vermischen.
+Fleisch mit geschmorten Tomaten und Gem&#252;se auf angew&#228;rmten Tellern anrichten und sofort servieren.
+Wer gern So&#223;e haben m&#246;chte, den Bratensatz mit Wasser l&#246;sen und nach Bedarf und Geschmack w&#252;rzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

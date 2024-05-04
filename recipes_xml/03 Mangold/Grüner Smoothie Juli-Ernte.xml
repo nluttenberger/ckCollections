@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2852211437300406">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f1d9c8c6-9e50-4e74-a0c2-f7531c117257">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Grüner Smoothie Juli-Ernte</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gr&#252;ner Smoothie Juli-Ernte</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>145 g</fr:igdtQuantity>
         <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold (Mangoldblätter)</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold (Mangoldbl&#228;tter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="salbei">Salbeiblätter</fr:igdtName>
+        <fr:igdtName ref="salbei">Salbeibl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>2 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="kapuzinerkresse">Kapuzinerkresse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,19 +46,20 @@
         <fr:igdtName ref="zimt">Zimt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zucchini in St&#252;cke schneiden und in den Mixer geben. Die Mangoldbl&#228;tter, Salbeibl&#228;tter und Bl&#228;tter der Kapuzinerkresse hinzuf&#252;gen. Die gesch&#228;lte Banane in St&#252;cken dazugeben. Die Sauerkirschen entsteinen und mit dem Zitronenst&#252;ck und den roten Stachelbeeren in den Mixer geben. Den Zimt zugeben und den Mixer mit Wasser bis zur 1-Liter-Marke auff&#252;llen. Alles bei h&#246;chster Stufe etwa 2 Minuten mixen.
+Hinweise: ggf. nur das Blattgr&#252;n des Mangolds verwenden, der erdige Mangoldgeschmack ist dann nicht so intensiv.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

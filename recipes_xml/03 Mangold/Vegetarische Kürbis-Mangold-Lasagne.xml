@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1836511297779027">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-fdfa891e-a24c-45bf-93a4-5f725b9f1d31">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegetarische Kürbis-Mangold-Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegetarische K&#252;rbis-Mangold-Lasagne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-großer</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se)</fr:igdtName>
+        <fr:igdtQuantity>1 m.-gro&#223;er</fr:igdtQuantity>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Stauden</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Stauden</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -31,10 +31,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche oder Crème légère</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me_fra&#238;che">Cr&#232;me fra&#238;che oder Cr&#232;me l&#233;g&#232;re</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Pck.</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Pck.</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Lasagneplatte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -73,12 +73,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Backofen auf 190 Grad vorheizen.
+Parmesan fein reiben. Den Hokkaidok&#252;rbis waschen, entkernen und in W&#252;rfel schneiden. 1 - 2 Stauden Mangold (genauso geht auch Wirsing o. &#228;.) waschen und in breitere Streifen schneiden. Es sollte mengenm&#228;&#223;ig ungef&#228;hr genau so viel sein wie der K&#252;rbis. Knoblauch sch&#228;len und durch eine Knoblauchpresse dr&#252;cken oder klein hacken.
+Ca. 2 EL Oliven&#246;l in einem Topf hei&#223; werden lassen, den K&#252;rbis hineingeben und bei mittlerer Hitze ca. 3 Minuten anbraten. Immer mal wieder umr&#252;hren dabei. Den Knoblauch dazugeben, verr&#252;hren und nochmal kurz etwas anbraten. Dann den Mangold dazugeben, sowie auch die Gew&#252;rze: z. B. Kurkuma, Oregano, s&#252;&#223;es Paprikapulver, Cayennepfeffer und auf jeden Fall einiges an Muskatnuss. Gut verr&#252;hren und nochmal ca. 1 Minuten anr&#246;sten. Anschlie&#223;end die Gem&#252;sebr&#252;he angie&#223;en und das alles mit aufgelegtem Deckel leicht k&#246;cheln lassen. Das Gem&#252;se sollte dann auf jeden Fall noch Biss haben. Vom Herd nehmen, ca. 3/4 der Parmesanmenge und 3/4 der Cr&#232;me fra&#238;che bzw. l&#233;g&#232;re nacheinander einr&#252;hren.
+Den Boden einer Auflaufform mit etwas Oliven&#246;l bepinseln und eine Lage Lasagnebl&#228;tter darauf legen. Mit Gem&#252;se und Sauce bedecken und wieder Nudelplatten darauf schichten. So verfahren, bis das Gem&#252;se aufgebraucht ist. Dabei immer darauf achten, dass die Nudelplatten &#252;berall mit F&#252;llung bedeckt sind. Als oberste Schicht mit Nudelplatten abschlie&#223;en und diese mit der restlichen Cr&#232;me fra&#238;che bzw. l&#233;g&#232;re bestreichen. Den restlichen Parmesan dar&#252;ber streuen. Eine Kugel Mozzarella in kleine St&#252;cke zupfen und darauf verteilen.
+Die Lasagne auf der mittleren Schiene im hei&#223;en Ofen ca. 30 Minuten backen, bis die Oberfl&#228;che sch&#246;n gebr&#228;unt ist.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

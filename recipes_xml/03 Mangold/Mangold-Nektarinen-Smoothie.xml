@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2905381442862132">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-574fb25a-aa22-4012-bd21-aee412806b53">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Nektarinen-Smoothie</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="gurke">Salatgurke(n)</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="mangold">Mangold, ca. 100 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="vanille">Vanilleschote(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName ref="">Eiswürfel</fr:igdtName>
+        <fr:igdtName ref="ei">Eisw&#252;rfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -41,12 +41,13 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Gurke waschen, putzen und in grobe St&#252;cke schneiden. Die Nektarinen waschen, trocken reiben, halbieren und die Steine entfernen. Die Nektarinen in Spalten schneiden und ein paar f&#252;r die Garnierung zur Seite legen. Den Mangold putzen, waschen und etwas klein schneiden. Die halbe Vanilleschote der L&#228;nge nach halbieren und mit dem Messerr&#252;cken das Mark herauskratzen.
+Nun alle Zutaten, auch das Mineralwasser mit Eisw&#252;rfeln, in den Mixer geben und so lange mixen, bis der Smoothie sch&#246;n fein ist. In h&#252;bsche Gl&#228;ser f&#252;llen, die Nektarinenspalten an den Glasrand setzen und servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

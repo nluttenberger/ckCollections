@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3939011603034787">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ab00b1d5-c947-477f-b350-06c24f4805dc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vegetarische Capuns</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>10 Stiel/e</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, großblättrig</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;bl&#228;ttrig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizenmehl">Mehl (Knöpflimehl)</fr:igdtName>
+        <fr:igdtName ref="weizenmehl">Mehl (Kn&#246;pflimehl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ¼ dl</fr:igdtQuantity>
-        <fr:igdtName ref="">Flüssigkeit (1/2 Milch / 1/2 Wasser)</fr:igdtName>
+        <fr:igdtQuantity>1 &#188; dl</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Fl&#252;ssigkeit (1/2 Milch / 1/2 Wasser)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,50 +39,59 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="tofu">Räuchertofu</fr:igdtName>
+        <fr:igdtName ref="tofu">R&#228;uchertofu</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse (Bündner Bergkäse) oder rezenter Hartkäse</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se (B&#252;ndner Bergk&#228;se) oder rezenter Hartk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>4 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Stängel</fr:igdtQuantity>
-        <fr:igdtName ref="minze">Pfefferminze, Blätter davon</fr:igdtName>
+        <fr:igdtQuantity>&#189; St&#228;ngel</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Pfefferminze, Bl&#228;tter davon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ dl</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Gemüsebouillon</fr:igdtName>
+        <fr:igdtQuantity>1 &#189; dl</fr:igdtQuantity>
+        <fr:igdtName ref="fleischbr&#252;he">Gem&#252;sebouillon</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 dl</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Vollrahm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ dl</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtQuantity>&#189; dl</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Gewürzmischung, ayurvedisch (Agni Plus)</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL, gestr.</fr:igdtQuantity>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung, ayurvedisch (Agni Plus)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Fett zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mehle, Salz und Pfeffer in einer Sch&#252;ssel mischen. Das Ei zum Milchwasser geben und verquirlen. Milch-Ei-Wasser zum Mehl geben, mit einem Kochl&#246;ffel mischen und klopfen, bis der Teig gl&#228;nzt und Blasen wirft. 30 Minuten zugedeckt bei Raumtemperatur ruhen lassen.
+Den in ganz feine W&#252;rfel geschnittene Tofu in einer Bratpfanne mit wenig Fett, knusprig anbraten, beiseitestellen und abk&#252;hlen lassen.
+Mangold-Bl&#228;tter von den Stielen befreien, dicke Blattadern flachdr&#252;cken: In viel hei&#223;em Salzwasser (nicht sprudelnd) 1 Minute blanchieren, sofort in kaltem Wasser abschrecken. Auf einem Tuch sorgf&#228;ltig ausbreiten, abtrocknen.
+Backofen auf 60 &#176;C vorw&#228;rmen, um die zubereiteten Capuns warmzustellen, wenn nicht alles in der Bratpfanne Platz hat.
+Petersilie und Pfefferminze ganz fein hacken
+Tofuw&#252;rfel, Petersilie und Pfefferminze zu der Teigmasse geben und gut mischen. Je 1 - 2 Essl&#246;ffel der Teigmasse auf die Mangold-Bl&#228;ttern geben. Die Mangold-Bl&#228;tter sch&#246;n zusammenrollen, so dass keine Teigmasse sichtbar ist
+Gem&#252;sebouillon, Agni Plus, Rahm und Wei&#223;wein in eine gro&#223;e Pfanne geben, aufkochen. Die Mangold-Taschen sorgf&#228;ltig in die Fl&#252;ssigkeit geben. Hitze reduzieren und ca. 8 Minuten zugedeckt weiter k&#246;cheln lassen
+Falls nicht alle Mangold-Taschen auf einmal in der Pfanne Platz haben, diese herausnehmen, auf einem Teller im vorgeheizten Backofen beiseitestellen, restliche Taschen zubereiten. Kurz vor Ende die warmgestellten Capuns wieder dazugeben
+In einem Suppenteller mit der &#252;briggebliebenen Fl&#252;ssigkeit servieren und mit dem geriebenen Bergk&#228;se bestreuen..
+Bleibt Teigmasse &#252;brig, kann diese als Sp&#228;tzli weiterverarbeitet werden. Diese anbraten und am Schluss zu den Capuns auf den Teller geben. Die zubereiteten Capuns k&#246;nnen zugedeckt im K&#252;hlschrank 1 - 2 Tage aufbewahrt werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

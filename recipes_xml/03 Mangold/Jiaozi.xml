@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1015491206734281">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8b47cae4-f4ab-4f6e-ab14-84e59c6cb582">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Jiaozi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kg</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kg</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="haselnuss">Ingwer, etwa haselnussgroß</fr:igdtName>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="haselnuss">Ingwer, etwa haselnussgro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,18 +39,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="chinakohl">Gemüse (Blattgemüse), z. B. Spinat,Chinakohl, Mangold</fr:igdtName>
+        <fr:igdtName ref="chinakohl">Gem&#252;se (Blattgem&#252;se), z. B. Spinat,Chinakohl, Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Schuss</fr:igdtQuantity>
         <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="essig">Essig, chinesischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -69,12 +69,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus Wasser, Mehl und Salz einen festen Teig kneten, der sich gut ausrollen l&#228;sst. Den Teig 30 min. ruhen lassen.
+F&#252;r die F&#252;llung die Fr&#252;hlingszwiebeln, Ingwer, Knoblauch und Gem&#252;se sehr fein hacken und unter das Hackfleisch mischen. Sojaso&#223;e und Salz dazu.
+F&#252;r die So&#223;e den Knoblauch sehr fein hacken. Sojaso&#223;e und Essig mischen und den Knoblauch dazugeben.
+Den Teig zu einer Rolle kneten, ca. 4 cm dick. Von dieser Rolle St&#252;cke von etwa 1 cm abschneiden. Die St&#252;cke mit einem Nudelholz oder Glas zu runden Fladen ausrollen (ca. 10 cm im Durchmesser). Auf jeden Fladen 1 - 2 TL F&#252;llung geben, an den R&#228;ndern zusammendr&#252;cken und in reichlich Salzwasser gar kochen lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

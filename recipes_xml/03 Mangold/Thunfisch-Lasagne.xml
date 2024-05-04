@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-609201160813567">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8677ab8f-0fbd-4e7d-9c6f-c3fd2a59765a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Thunfisch-Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="thunfisch">Thunfisch, abgetropfter</fr:igdtName>
+        <fr:igdtName ref="thunfisch">Thunfisch, abgetropfter z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelte</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -51,30 +51,36 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse (Gouda), geriebener</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se (Gouda), geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Pesto (Basilikumpesto)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold bzw. Spinat putzen und klein schneiden (ich nehme auch die wei&#223;en Str&#252;nke vom Mangold - schneide sie halt sehr klein). In einer Pfanne mit etwas erhitztem &#214;l so lange anbraten, bis die Bl&#228;tter zerfallen - zum Schlu&#223; die beiden Knoblauchzehen sch&#228;len und dar&#252;ber pressen. Abk&#252;hlen lassen.
+Die 50 ml &#214;l in einem Topf erhitzen und die gew&#252;rfelten Zwiebeln darin glasig braten. Das Mehl hinzuf&#252;gen und gut umr&#252;hren. Nach und nach den Liter Milch hinzuf&#252;gen und unter R&#252;hren aufkochen lassen. Jetzt sollte die So&#223;e sch&#246;n s&#228;mig sein. Zum Schlu&#223; den abgetropften Thunfisch und den Senf hinzuf&#252;gen. Die Thunfischmasse nach Geschmack salzen und pfeffern.
+Den Ofen auf 180 C&#176; vorheizen.
+Eine Form mit dem Basilikumpesto einfetten (hier kann man sicherlich auch einfach nur &#214;l nehmen - aber ich mag den Basilikumgeschmack so gerne).
+Die Form folgenderma&#223;en schichten: Thunfisch &#8211; Lasagneplatten &#8211; Thunfisch - Spinat bzw. Mangold &#8211; Lasagneplatten &#8211; Thunfisch - Tomatenscheiben (diese auch mit Basilikumpesto bestreichen) &#8211; Lasagneplatten &#8211; Thunfisch &#8211; K&#228;se als letzte Schicht
+Die Form mit Alufolie bedecken und in den Ofen schieben. Nach 25 Minuten die Folie entfernen und noch weitere 20 Minuten garen lassen.
+Hinweis: F&#252;r Freunde der kalten K&#252;che &#252;brigens hervorragend geeignet - die Lasagne schmeckt kalt eigentlich noch besser als warm.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,108 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a750e309-13c0-4dd2-8bc0-93438c664aee">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gr&#252;ner Bohnensalat mit Falafel &amp; Ajvar-Dressing</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="kichererbsen">Kichererbsen, getrocknete</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="kidneybohnen">Kidneybohnen (Dose)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="minze">Minze</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Koriander</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="backpulver">Weinsteinbackpulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Salz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmelpulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Msp.</fr:igdtQuantity>
+        <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Frittieren</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="gr&#252;ne_bohnen">Prinzessbohnen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zuckerschote(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gelber</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="kichererbsen">Kichererbsen (265 g Abtropfgewicht)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="ajvar">Ajvar, mildes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l, neutrales</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="weinessig">Branntweinessig, milder</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, ger&#228;uchertes</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Limette(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer (frisch gemahlen)</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Falafel Kichererbsen &#252;ber Nacht in 2 Liter kaltem Wasser einweichen. Am n&#228;chsten Tag gut abtropfen lassen. Die Kidneybohnen in einem Sieb absp&#252;len und dann ebenfalls abtropfen lassen. 3 EL Kidneybohnen f&#252;r den Salat beiseitestellen. Eingeweichte Kichererbsen und die restlichen Kidneybohnen im Mixer sehr fein p&#252;rieren (falls das P&#252;ree sehr fest ist, noch etwas Wasser zuf&#252;gen).
+Kr&#228;uter absp&#252;len, trocken tupfen, Bl&#228;tter abzupfen und, bis auf ein paar Minzebl&#228;tter f&#252;r die Deko, fein hacken. Gehackte Kr&#228;uter, Backpulver, Salz, Kreuzk&#252;mmel und Cayennepfeffer gr&#252;ndlich unter das Kichererbsenp&#252;ree r&#252;hren und abschmecken. Das P&#252;ree mit gut angefeuchteten H&#228;nden zu etwa 12 walnussgro&#223;en B&#228;llchen formen.
+F&#252;r den Salat Prinzessbohnen und Zuckerschoten putzen und absp&#252;len. Bohnen in reichlich Salzwasser 6 - 8 Minuten bissfest kochen. Zuckerschoten f&#252;r die letzten 1 - 2 Minuten zu den Bohnen geben und mitkochen. Dann abgie&#223;en, eiskalt absp&#252;len und abtropfen lassen.
+Mangold putzen und absp&#252;len. Mangoldbl&#228;tter von den Stielen schneiden und in grobe St&#252;cke zupfen. Stiele in 3 - 4 cm lange St&#252;cke schneiden. Kichererbsen aus der Dose in einem Sieb absp&#252;len und abtropfen lassen.
+F&#252;r das Dressing Ajvar, &#214;l, Essig und Paprikapulver verr&#252;hren. Limettensaft auspressen und das Dressing mit etwa 3 - 4 EL Limettensaft, Salz und Pfeffer abschmecken.
+&#214;l zum Frittieren in einem weiten flachen Topf auf etwa 180 Grad erhitzen. Die Temperatur ist richtig, wenn von einem auf den Topfboden getauchten Holzl&#246;ffel kleine Bl&#228;schen aufsteigen. Die Kichererbsenb&#228;llchen darin portionsweise etwa 5 Minuten goldgelb frittieren. Mit einer Schaumkelle herausnehmen und auf K&#252;chenpapier kurz abtropfen lassen.
+Alle Salatzutaten und die restlichen Kidneybohnen mit dem Dressing mischen. Mit den fertig frittierten Falafeln und der restlichen Minze anrichten.
+Das Rezept reicht f&#252;r 3 - 4 Portionen.
+Pro Portion bei 3 Portionen: E 25 g, F 24 g, KH 64 g = 585 kcal</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

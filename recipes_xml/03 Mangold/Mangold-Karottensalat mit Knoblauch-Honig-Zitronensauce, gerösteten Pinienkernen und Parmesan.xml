@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2940491446332658">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-550cc759-357e-43f6-b97a-60dc75d810ee">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Karottensalat mit Knoblauch-Honig-Zitronensauce, gerösteten Pinienkernen und Parmesan</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Karottensalat mit Knoblauch-Honig-Zitronensauce, ger&#246;steten Pinienkernen und Parmesan</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter, frische</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter, frische</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Zehe/n</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -31,19 +31,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, hochwertiges</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, hochwertiges</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitrone(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan am Stück oder frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan am St&#252;ck oder frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
@@ -53,12 +53,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Knoblauchzehe sch&#228;len und fein hacken. Den Honig mit Salz, Pfeffer, gehacktem Knoblauch und Essig verr&#252;hren. Die Marinade beiseite stellen.
+Die Pinienkerne in einer Pfanne ohne Fett r&#246;sten, dabei st&#228;ndig r&#252;hren, da Pinienkerne schnell verbrennen, und von der Herdstelle nehmen, sobald sie braun sind. Die ger&#246;steten Pinienkerne beiseite stellen.
+Die Mangoldbl&#228;tter gr&#252;ndlich waschen und auf K&#252;chenkrepp abtropfen lassen, den unteren Teil der St&#228;ngel entfernen, dann die Bl&#228;tter von den Stielen schneiden, in mundgerechte St&#252;cke rei&#223;en und in eine kleine Salatschale geben.
+Die Stiele l&#228;ngsseitig in mehrere Streifen schneiden, die Streifen dann quer in kleine St&#252;ckchen hacken. Die klein geschnittenen St&#252;ckchen &#252;ber die Mangoldbl&#228;tter geben.
+Die M&#246;hre mit Sparsch&#228;ler von der Schale befreien, das untere (gr&#252;ne) Ende abschneiden. Die M&#246;hre vierteln und dann in Scheiben schneiden, die M&#246;hrenscheiben auf die Mangoldbl&#228;tter geben.
+&#220;ber den M&#246;hrenst&#252;cken den Saft einer halben Zitrone auspressen, damit diese ihre sch&#246;ne Farbe behalten. Au&#223;erdem gibt die Zitrone dem Gericht den letzten Pfiff.
+Den Parmesan in feine Scheiben hobeln oder mit der K&#228;sereibe reiben. Das vorbereitete Dressing &#252;ber den Salat gie&#223;en und mit dem Salat vermischen, den Parmesan dar&#252;ber geben, obenauf die ger&#246;steten Pinienkerne.
+Passt hervorragend zu Pastagerichten, besonders zu Pasta mit Gem&#252;seso&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

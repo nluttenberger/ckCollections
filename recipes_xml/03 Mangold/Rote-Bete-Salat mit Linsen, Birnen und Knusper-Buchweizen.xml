@@ -1,40 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4141101658517018">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-50623122-80c5-4ec6-b9bc-ccf79b3659da">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Rote-Bete-Salat mit Linsen, Birnen und Knusper-Buchweizen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
         <fr:igdtName ref="rote_bete">Rote Bete</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmelsamen</fr:igdtName>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmelsamen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName ref="rote_bete">Rote Bete</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmelsamen</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -58,7 +46,7 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote (80 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 ½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>2 &#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="dijonsenf">Dijonsenf</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -74,27 +62,32 @@
         <fr:igdtName ref="buchweizen">Buchweizen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189;</fr:igdtQuantity>
         <fr:igdtName ref="birne">Birne(n), reif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 ½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>2 &#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, cremig</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, cremig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>1. Rote Bete putzen, sch&#228;len (K&#252;chenhandschuhe benutzen!) und in 2&#8239;cm dicke Spalten schneiden. Spalten in einer Sch&#252;ssel mit 2&#8239;EL &#214;l mischen. Kreuzk&#252;mmel und etwas Salz im M&#246;rser fein zerkleinern und mit den Rote-Bete-Spalten mischen. Auf einem Backblech verteilen und im vorgeheizten Backofen bei 200&#8239;Grad (Gas&#8239;3, Umluft 180&#8239;Grad) auf der mittleren Schiene 30 - 40&#8239;Minuten backen.
+2. Inzwischen den Knoblauch mit der breiten Seite eines gro&#223;en K&#252;chenmessers andr&#252;cken. Mit Lorbeer und Linsen in 400 ml kochendes Wasser geben, salzen und zugedeckt bei milder Hitze nach Packungsanweisung garen.
+3. Zwiebeln in feine W&#252;rfel schneiden und in einem Sieb mit kochendem Wasser &#252;bergie&#223;en, abschrecken und abtropfen lassen. Senf, Essig, 3 EL kaltes Wasser, Salz und restliches &#214;l mit einem Schneebesen verquirlen. Zwiebeln und Rote Bete unterheben und beiseitestellen. Linsen in einem Sieb abtropfen lassen, den Sud dabei auffangen. 1&#8239;Stunde abk&#252;hlen lassen.
+4. Buchweizen in einer Pfanne ohne Fett goldbraun r&#246;sten und auf einem Teller abk&#252;hlen lassen. Mangold verlesen, waschen und trocken schleudern. Birnen waschen, vierteln und das Kerngeh&#228;use entfernen. Birnenviertel in Spalten schneiden und mit 2 - 3 EL Zitronensaft betr&#228;ufeln.
+5. Linsen mit den Roten Beten mischen. Birnenspalten und Mangold unterheben, eventuell essl&#246;ffelweise Linsensud untermischen. Salat mit zerbr&#246;seltem Feta und Buchweizen bestreuen und anrichten.
+Pro Portion&#8239;21 g E, 23 g F, 42 g KH = 494 kcal (2072 kJ)</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

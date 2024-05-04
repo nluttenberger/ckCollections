@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1633581270994782">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-20d0e0dd-fb90-412f-9896-09bfc6f0bfb6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangoldgratin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="brot">Brötchen, eventuell vom Vortag, aber nicht ganz trocken; ersatzweise auch helles Graubrot</fr:igdtName>
+        <fr:igdtName ref="brot">Br&#246;tchen, eventuell vom Vortag, aber nicht ganz trocken; ersatzweise auch helles Graubrot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
@@ -31,15 +31,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="schmand">Schmand oder Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="schmand">Schmand oder Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse, geriebener (Emmentaler)</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se, geriebener (Emmentaler)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -62,27 +62,31 @@
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Auflaufform</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Auflaufform</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Br&#246;tchen vierteln, in einer Sch&#252;ssel mit hei&#223;em Wasser (oder Gem&#252;sebr&#252;he) &#252;bergie&#223;en, sodass sie von allen Seiten nass werden und beiseite stellen. Den Mangold waschen; hat man kleine Mangoldbl&#228;tter mit d&#252;nnen Stielen, die Stiele abschneiden und nur das Gr&#252;n verwenden. Hat man gro&#223;bl&#228;ttrigen Mangold mit dicken saftigen (nicht holzigen) Stielen, werden die Stiele mit verwendet. Das Gr&#252;ne in 5 cm breite Streifen, die Stiele in 0,5 cm dicke Scheiben schneiden. In einen flachen Topf oder eine hinreichend ger&#228;umige Pfanne  das &#214;l geben und den nassen Mangold darin bei mittlerer Hitze d&#252;nsten, bis er zusammenf&#228;llt. Umr&#252;hren und leicht salzen.
+Den Quark in einer hohen Sch&#252;ssel mit den Eiern und so viel Milch, wie n&#246;tig ist, um eine dicke So&#223;e zu erzielen, den Gew&#252;rzen und etwas Salz verr&#252;hren. Die Petersilie waschen und hacken, die Bl&#228;tter grob, die St&#228;ngel ganz fein.
+Inzwischen sollten die Br&#246;tchen durchgeweicht sein; &#252;bersch&#252;ssiges Wasser abgie&#223;en und die Br&#246;tchen dabei leicht ausdr&#252;cken. Die Br&#246;tchenmasse mit Butter, Schmand, ein wenig Salz und der gehackten Petersilie verr&#252;hren.
+Eine Auflaufform mit Butter oder &#214;l einfetten, d&#252;nn Semmelbr&#246;sel auf den Boden der Form streuen, die Quarkso&#223;e darauf gie&#223;en und verteilen. Den Mangold darauf verteilen und mit der Br&#246;tchenmasse abdecken. Den Auflauf dick mit Semmelbr&#246;seln bestreuen. Die Semmelbr&#246;sel nach Belieben zuvor mit geriebenem K&#228;se vermischen.
+Den Auflauf in den kalten Backofen stellen und bei 190&#176; (175&#176; Umluft) ungef&#228;hr 1 Stunde (Aufheizzeit eingeschlossen) backen. Die Oberfl&#228;che muss sich etwas w&#246;lben und die Kruste leicht knusprig sein.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

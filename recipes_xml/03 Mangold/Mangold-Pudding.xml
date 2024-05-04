@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4024621619099155">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d8daf9a3-ac08-4225-881e-a8ef76c998af">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Pudding</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, rot, gelb und grün</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, rot, gelb und gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -19,11 +19,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl, nativ</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, nativ</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan am Stück</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan am St&#252;ck</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
@@ -39,34 +39,46 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="hirse">Salz für die Hirse</fr:igdtName>
+        <fr:igdtName ref="hirse">Salz f&#252;r die Hirse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, nach Geschmack, für die Puddingmasse</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, nach Geschmack, f&#252;r die Puddingmasse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter oder Margarine für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pflanzenfett">Butter oder Margarine f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paniermehl">Semmelbrösel für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Als erstes Wasser, Hirse und Salz in einen Topf geben, aufkochen lassen und bei geringer Hitze 10 Minuten k&#246;cheln lassen. In einem Sieb abgie&#223;en und auf einem Teller zum Ausk&#252;hlen ausbreiten. Die Hirse sollte noch sehr viel Biss haben.
+Mangold waschen, die Stiele herausschneiden. Das unansehnliche Stielende abschneiden und die Stiele in ca. 1,5 - 2 cm gro&#223;e St&#252;cke schneiden. Bei Seite stellen. Ich habe die Mangoldbl&#228;tter ungekocht je nach Gr&#246;&#223;e der L&#228;nge nach halbiert, bzw. geviertelt und in Streifen von etwa 3 cm Breite geschnitten. Zwiebeln sch&#228;len und fein w&#252;rfeln.
+Oliven&#246;l in einer Pfanne vorsichtig erhitzen und darin die Zwiebelw&#252;rfel anbraten. Sie sollen keine Farbe nehmen. Nach 2 Minuten die Mangoldstiele dazugeben und unter R&#252;hren weiter 2 Minuten schmoren lassen. Nun die Bl&#228;tter dazugeben und zusammenfallen lassen. Sollte das Ganze zu trocken sein, einfach ein oder zwei EL Wasser dazugeben. Aus der Pfanne nehmen und abk&#252;hlen lassen.
+Die Mandeln mit der braunen Haut in einen Zerkleinerer geben und so fein hacken/zerkleinern, dass die gr&#246;&#223;ten St&#252;cke noch ca. 2 - 3 mm gro&#223; sind.  Parmesan auf einer nicht zu feinen Raffel reiben.
+Die Eier in eine Sch&#252;ssel geben, verquirlen und mit Salz und Pfeffer w&#252;rzen. Dann Mandeln, Parmesan, gekochte Hirse und Mangoldmasse dazugeben und gr&#252;ndlich vermischen.
+Die Puddingform (Wasserbadform mit Deckel) gr&#252;ndlich einfetten und mit Semmelbr&#246;seln ausstreuen. Die Masse in die Form geben, glatt streichen und mit dem Deckel verschlie&#223;en.
+Einen Topf, der gro&#223; genug f&#252;r die Form ist, mit Wasser f&#252;llen. Die Form sollte zu etwa 2/3 im Wasser stehen. Ein Hinweis dazu: Die Form sollte nicht im Wasser schwimmen. Das Wasser aufkochen lassen und dann den Topf auf die kleinste Hitze stellen und 1 Stunde (mit geschlossenem Topfdeckel) sachte k&#246;cheln lassen.
+Die Form aus dem Topf nehmen und zum Abschrecken kurz in kaltes Wasser stellen.
+Den Pudding st&#252;rzen.
+Zum Servieren in Scheiben schneiden.
+Ich hatte eine einfache Tomatenso&#223;e dazu. Kann mir aber auch gut eine Sahne- oder K&#228;seso&#223;e vorstellen.
+Ein kleiner Tipp
+Reste lassen sich in Scheiben geschnitten sehr gut in einer Pfanne braten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

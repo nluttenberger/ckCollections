@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1226341227858802">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-452bee40-cc4e-444c-87a7-bcde1f31a56a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldtaschen mit Schafskäse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldtaschen mit Schafsk&#228;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
@@ -30,36 +30,36 @@
         <fr:igdtName ref="mangold">Mangold, blanchiert, gut abgetropft und fein gehackt)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speck, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="speck">Speck, fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken, roher. fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken, roher. fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, gehäuft</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, geh&#228;uft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, oder anderer fester Schafskäse, fein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, oder anderer fester Schafsk&#228;se, fein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -69,12 +69,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Auf einer Arbeitsfl&#228;che Mehl und Butter miteinander verbr&#246;seln, salzen, dann den Quark dazu geben und alles schnell zu einem glatten Teig verarbeiten, es d&#252;rfen keine Butterst&#252;ckchen mehr zu sehen sein. Zu einer Kugel formen, mit Frischhaltefolie abdecken und im K&#252;hlschrank rasten lassen.
+F&#252;r die F&#252;llung die fein gehackte Zwiebel in etwas Oliven&#246;l angehen lassen, die Speckw&#252;rfel dazu geben und knusprig braun braten. Danach in ein Sieb geben und das Fett abtropfen lassen. Den Mangold in einer Sch&#252;ssel mit den Zwiebeln, dem Speck und den anderen Zutaten vermischen und fein abschmecken.
+Den Teig auf einer bemehlten Arbeitsfl&#228;che d&#252;nn ausrollen und Kreise ausstechen. Auf eine H&#228;lfte jeweils 1 bis 1 &#189; Teel&#246;ffel der F&#252;llung geben, dabei die R&#228;nder frei lassen, die R&#228;nder mit Ei bestreichen und die Teigkreise zusammenklappen. Die R&#228;nder gut andr&#252;cken (rendeln oder mit einer Gabel eindr&#252;cken), die Teigtaschen mit Eidotter bestreichen und mit einem kleinem Spie&#223; 3 kleine L&#246;cher in die Oberseite "stupfen". Auf ein Backblech geben und bei 180 Grad in ca. 20 Minuten hellbraun backen.
+Lauwarm oder kalt genie&#223;en.
+Tipps: Die Taschen lassen sich wunderbar einfrieren und nach Bedarf wieder gut aufbacken. Manchmal gebe ich auch noch 100 g gehackte Waln&#252;sse zur F&#252;llung.   Wer nicht Teig kneten will, kann auch Bl&#228;tterteig verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

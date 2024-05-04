@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1088931214816125">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9de60135-d723-46f7-9c21-663f0fa3b9be">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldpäckchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldp&#228;ckchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>16 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter</fr:igdtName>
+        <fr:igdtQuantity>16 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName ref="thunfisch">Thunfisch</fr:igdtName>
+        <fr:igdtName ref="thunfisch">Thunfisch z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -38,23 +38,27 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter waschen, 2 Minuten blanchieren und in Eiswasser abschrecken. Die Paprikaschote waschen und entkernen, die Fr&#252;hlingszwiebeln ebenfalls reinigen und die Knoblauchzehe h&#228;uten. Paprika, Fr&#252;hlingszwiebeln und Knoblauchzehe in kleine W&#252;rfel schneiden.
+Den Thunfisch zerpfl&#252;cken mit dem Ei und dem Frischk&#228;se verr&#252;hren. Die Gem&#252;sew&#252;rfelchen untermischen. Mit Salz, Pfeffer und Cayennepfeffer abschmecken.
+Die Mangoldbl&#228;tter ausbreiten und das Thunfischgemisch auf den Bl&#228;ttern verteilen. Den Mangold so aufrollen, dass sich kleine P&#228;ckchen bilden.
+Die P&#228;ckchen in einen gelochten Einsatz geben und 15 Minuten bei 100&#176;C im Dampfgarer d&#228;mpfen.
+Dazu schmecken Kartoffeln und eine Wei&#223;weinso&#223;e.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

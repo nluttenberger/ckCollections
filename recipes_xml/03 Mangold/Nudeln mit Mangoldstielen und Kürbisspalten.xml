@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3252911483879429">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-71ea21ed-41de-48fa-9373-c904247d6994">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Nudeln mit Mangoldstielen und Kürbisspalten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Nudeln mit Mangoldstielen und K&#252;rbisspalten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>180 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Nudeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se), kleiner</fr:igdtName>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se), kleiner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -23,42 +23,46 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Bund</fr:igdtQuantity>
         <fr:igdtName ref="schnittlauch">Schnittlauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker, brauner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Nudeln nach Packungsanleitung bissfest garen. Vom Mangold die Bl&#228;tter mit einem Schnitt entfernen und anderweitig verwenden. Die Stiele in grobe Streifen schneiden und waschen. Den K&#252;rbis waschen, entkernen und in Spalten schneiden.
+In zwei Pfannen etwas &#214;l, z. B. Oliven&#246;l, hineingeben und in der einen die K&#252;rbisspalten anbraten, bis sie Farbe bekommen und in der anderen Pfanne die geschnittenen Mangoldstiele hineingeben und mit Deckel ca. 10 Minuten d&#252;nsten. Den Deckel abnehmen und das Gem&#252;se etwas anbraten.
+Die hei&#223;en K&#252;rbisspalten mit Salz und Pfeffer w&#252;rzen und mit dem braunen Zucker bestreuen. Den Mangold mit Salz und Pfeffer w&#252;rzen. Beides warm halten.
+Einen kleinen Topf f&#252;r die Sauce auf den Herd stellen. Frischk&#228;se und Sahne darin erw&#228;rmen. Schnittlauchr&#246;llchen und Gem&#252;sebr&#252;hepulver hinzuf&#252;gen und mit dem Schneebesen vermischen. Den geriebenen Parmesan hinzugeben und verr&#252;hren. Mit Salz und Pfeffer abschmecken.
+K&#252;rbisspalten, Mangoldstiele und Nudeln nebeneinander auf dem Teller anrichten und nach Belieben mit der Sauce begie&#223;en. Nach Bedarf noch mit Pfeffer aus der M&#252;hle w&#252;rzen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

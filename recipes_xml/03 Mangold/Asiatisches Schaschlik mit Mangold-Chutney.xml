@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1213111227034610">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-02268a73-4aa6-474e-bd68-57f6e23a8b35">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Asiatisches Schaschlik mit Mangold-Chutney</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="pute">Putenschnitzel, á ca. 140 g</fr:igdtName>
+        <fr:igdtName ref="pute">Putenschnitzel, &#225; ca. 140 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
-        <fr:igdtName ref="teig">Teig-Blätter für Frühlingsrollen, ca. 20 x 20 cm</fr:igdtName>
+        <fr:igdtName ref="teig">Teig - Bl&#228;tter f&#252;r Fr&#252;hlingsrollen, ca. 20 x 20 cm</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
-        <fr:igdtName ref="walnuss">Ingwerwurzel, walnussgroß, ca.</fr:igdtName>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="walnuss">Ingwerwurzel, walnussgro&#223;, ca.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilisauce, sweet</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilisauce, sweet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
@@ -39,26 +39,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Öl (Sesamöl), geröstet</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">&#214;l (Sesam&#246;l), ger&#246;stet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Öl (Sonnenblumenöl)</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">&#214;l (Sonnenblumen&#246;l)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ingwer sch&#228;len, sehr fein hacken, mit Sojasauce und 1 EL Sesam&#246;l mischen. Putenschnitzel abbrausen, trocken tupfen, flach klopfen, in die Sojamischung legen und dann mit Folie abgedeckt ca. 1 Stunde in den K&#252;hlschrank stellen.
+Mangold putzen, waschen und Stiele abtrennen, diese fein w&#252;rfeln. Zwiebel abziehen und in W&#252;rfel schneiden. &#220;briges Sesam&#246;l in einem kleinen Topf erhitzen und Zwiebel und Mangoldstiele darin glasig d&#252;nsten, mit Salz und Pfeffer w&#252;rzen.
+Backofen auf 220&#176; vorheizen.
+Mangoldbl&#228;tter in kochendem Salzwasser ca. 1/2 Min. vorgaren, kalt abschrecken, die Bl&#228;tter nebeneinander legen und trocken tupfen.
+2 Bl&#228;tter Fr&#252;hlingsrollenteig &#252;bereinander legen und mit Mangoldbl&#228;ttern belegen. 1 Putenschnitzel auf die untere H&#228;lfte legen und alles zusammen einrollen. Die Rollen in 3-4 cm breite Scheiben schneiden und auf Holzspie&#223;e stecken. Mit den restlichen Zutaten entsprechend verfahren.
+&#214;l in einer Pfanne erhitzen und darin kurz von beiden Seiten anbraten. Dann auf ein Backblech legen und im Backofen ca. 10 Minuten knusprig braten.
+Anschlie&#223;end auf Teller verteilen und mit Mangold-Chutney servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

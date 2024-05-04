@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2278771363612649">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-32acca9b-325a-4f93-a2aa-d728d84752ec">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Reis-Pfanne mit Feta, Pinienkernen und frischem Ingwer</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Schälchen</fr:igdtQuantity>
+        <fr:igdtQuantity>1 Sch&#228;lchen</fr:igdtQuantity>
         <fr:igdtName ref="reis">Reis, gekochter (z. B. Basmati)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, laktosefrei</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, laktosefrei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
@@ -34,12 +34,12 @@
         <fr:igdtName ref="zitrone">Zitronensaft, frisch oder Konzentrat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl zum Anbraten</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l zum Anbraten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -49,12 +49,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Einen Topf mit Wasser aufsetzen und zum Kochen bringen. Derweil die Zutaten vorbereiten: Stiele und Blattgr&#252;n des Mangolds trennen und in Streifen schneiden, Ingwer w&#252;rfeln, Feta-K&#228;se w&#252;rfeln.
+Wenn das Wasser kocht, etwas Salz hinzugeben, dann den Mangold darin blanchieren. Zuerst die Stiele 5 Minuten, dann die Bl&#228;tter hinzuf&#252;gen und je nach deren Dicke 3 - 5 Min. weiterkochen. Dann den Mangold absch&#252;tten, kalt absp&#252;len und &#252;bersch&#252;ssiges Wasser ausdr&#252;cken.
+In einer Bratpfanne die Pinienkerne und den Ingwer mit dem Oliven&#246;l kurz anbraten, dann den gekochten Reis, den Feta-K&#228;se und den Mangold hinzuf&#252;gen. Mit Pfeffer, Salz und einigen Spritzern Zitronensaft nach Belieben w&#252;rzen. Alles zusammen in der Pfanne gut vermengen und hei&#223; werden lassen, bis der Feta-K&#228;se anf&#228;ngt, F&#228;den zu ziehen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

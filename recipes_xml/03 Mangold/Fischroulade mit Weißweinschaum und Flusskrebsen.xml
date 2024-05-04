@@ -1,0 +1,104 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-be1f328c-7101-4f10-8d8c-b0e17d6dbeb0">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Fischroulade mit Wei&#223;weinschaum und Flusskrebsen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="fisch">Fischfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 &#189; Scheibe/n</fr:igdtQuantity>
+        <fr:igdtName ref="schinken">Serranoschinken</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="zitrone">Zitronenabrieb</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="fleisch">Flusskrebsfleisch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6</fr:igdtQuantity>
+        <fr:igdtName ref="radieschen">Radieschen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;ner</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;weinessig">Wei&#223;weinessig</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>300 ml</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; Pck.</fr:igdtQuantity>
+        <fr:igdtName ref="gelatine">Gelatine</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Karotte(n) (Rainbow)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="zucker">Zucker</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Kr&#228;uter&#246;l (Petersilien&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="dill">Dill</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Radieschen in feine Scheiben schneiden und mit Essig, Salz und Pfeffer marinieren. F&#252;r ein paar Stunden in den K&#252;hlschrank stellen.
+Die Karotten sch&#228;len und in d&#252;nne Scheiben hobeln. Kurz blanchieren und zu einer Blume aufrollen. Mit Salz w&#252;rzen.
+Den Spargel blanchieren und herunterk&#252;hlen. Anschlie&#223;end mit Salz, Pfeffer und Oliven&#246;l w&#252;rzen und dann in der Pfanne anr&#246;sten.
+Das Fischfilet vorsichtig zwischen Frischhaltefolie platt klopfen. Etwas Zitronenabrieb, etwas Mangold und den Schinken m&#246;glichst passgenau darauflegen. Mit der Frischhaltefolie vorsichtig einrollen, in Form halten und im Dampfgarer ca. 10 - 15 Minuten garen. Das Flusskrebsfleisch kurz vor Schluss mit dazu geben, um es anzuw&#228;rmen.
+Die Radieschenscheiben zu einem Schuppengebilde auf einem St&#252;ck Frischhaltefolie auslegen.
+Den Fisch aus der Folie nehmen und mit den Radieschenschuppen bedecken.
+Die Schalotte fein w&#252;rfeln und im Wei&#223;wein k&#246;cheln lassen, bis der Wein fast komplett eingekocht ist. Die Sahne dazu gie&#223;en. Die Gelatine in etwas Wasser quellen lassen, einr&#252;hren und aufl&#246;sen. Die Sauce mit Zucker und Salz abschmecken. Mit dem P&#252;rierstab schaumig aufschlagen und mit Hilfe eines L&#246;ffels auf den Teller geben.
+Etwas Petersilien&#246;l auf den Teller geben.
+Mit ein wenig frischem Dill servieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

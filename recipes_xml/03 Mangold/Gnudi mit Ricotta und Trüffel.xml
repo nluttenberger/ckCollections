@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1643511271937605">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-647b6164-6b4c-4a1e-94a9-53f1b89035ee">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gnudi mit Ricotta und Trüffel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gnudi mit Ricotta und Tr&#252;ffel</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="ricotta">Ricotta</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="mangold">Spinat, ggf. auch Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 großes</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;es</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,10 +39,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,18 +51,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="trüffelöl">Trüffel, weißer (alternativ Trüffelöl)</fr:igdtName>
+        <fr:igdtName ref="tr&#252;ffel&#246;l">Tr&#252;ffel, wei&#223;er (alternativ Tr&#252;ffel&#246;l)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Ricotta gut abtropfen lassen. Den gewaschenen und entstielten Spinat in einem Topf bei mittlerer Hitze zusammenfallen lassen. Abgie&#223;en und gut abtropfen lassen. Den Spinat zu einer Kugel formen und m&#246;glichst viel Fl&#252;ssigkeit ausdr&#252;cken, danach hacken.
+Ein gro&#223;es Ei und zwei Eigelb, den Ricotta und den gehackten Spinat in eine Sch&#252;ssel geben. Den geriebenen Parmesan und das Mehl dazugeben und alles mit den H&#228;nden zu einem geschmeidigen Teig vermischen. Mit frisch geriebener Muskatnuss sowie Salz und Chili abschmecken und  kleine Kl&#246;&#223;chen (ca. 4 cm Durchmesser) aus dem Teig  formen. Die Kl&#246;&#223;chen leicht mit Mehl best&#228;uben und k&#252;hl stellen.
+In einem Topf Wasser zum Kochen bringen und salzen. Die gek&#252;hlten Kl&#246;&#223;chen vorsichtig in das kochende Salzwasser geben und ziehen lassen, bis sie aufsteigen. Mit dem Schauml&#246;ffel herausnehmen und in eine vorgew&#228;rmte Sch&#252;ssel geben. Die Gnudi mit zerlassener Butter vermischen und 50 g wei&#223;e Tr&#252;ffel ganz d&#252;nn dar&#252;ber hobeln. Man kann auch sehr gut Tr&#252;ffel&#246;l verwenden, dann aber die Butter weglassen.
+Die Gnudi auf vorgew&#228;rmten Tellern anrichten, mit einem Spinatblatt dekorieren und servieren.
+Anstelle von Tr&#252;ffeln passen auch sehr gut in Butter kross gebratene Salbeibl&#228;tter zu den Gnudi. Dann &#252;ber das fertige Gericht Parmesan hobeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

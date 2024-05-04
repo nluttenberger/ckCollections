@@ -1,0 +1,58 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-40663e4e-98f9-46cd-ad4f-77bf229c8aa0">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Kartoffelsuppe 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>250 g</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Liter</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he, instant</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>evtl.</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>evtl.</fr:igdtQuantity>
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, grobe Stiele entfernen und in Streifen schneiden. Die Kartoffeln sch&#228;len und in kleine W&#252;rfel schneiden. Den Lauch waschen und in d&#252;nne Ringe, den Knoblauch in d&#252;nne Scheiben schneiden.
+Knoblauch und Lauch in einem EL Oliven&#246;l glasig anschwitzen. Mangold und Kartoffeln bei und etwas mitd&#252;nsten. Mit ein wenig Mehl &#252;berstauben und die Gem&#252;sebr&#252;he aufgie&#223;en. Die Suppe nun ca. 20 Min. bei mittlerer Hitze k&#246;cheln lassen.
+Jetzt mit einem Stabmixer alles p&#252;rieren und die Sahne aufgie&#223;en. Meistens reicht geschmacklich die W&#252;rze der Gem&#252;sebr&#252;he, man kann aber ggf. mit Salz, Pfeffer, Muskat nachw&#252;rzen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2592441407100862">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-bfc1c1c0-9b56-4180-a12c-37558c74abb9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Börek mit Rinderhack und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>B&#246;rek mit Rinderhack und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="teigblätter">Teigblätter, (Yufkateig), 5 große Blätter</fr:igdtName>
+        <fr:igdtName ref="teigbl&#228;tter">Teigbl&#228;tter, (Yufkateig), 5 gro&#223;e Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -30,7 +30,7 @@
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,46 +47,50 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, aus Schafmilch</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, aus Schafmilch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmel, gemahlen</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmel, gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver, (Pulbiber)</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver, (Pulbiber)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="schwarzkümmel">Schwarzkümmel</fr:igdtName>
+        <fr:igdtName ref="schwarzk&#252;mmel">Schwarzk&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="sesam">Sesam</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebeln und Knoblauch w&#252;rfeln und in Oliven&#246;l and&#252;nsten. Das Rinderhack zugeben und kr&#252;melig braten. Mit Kreuzk&#252;mmel, Pulbiber, Salz (nicht zu viel, der Feta ist auch recht salzig) und Pfeffer w&#252;rzen. Den Mangold in der Zwischenzeit in feine Streifen schneiden und zum Hackfleisch geben. So lange braten, bis er zusammengefallen und gar ist. Den Feta in kleine W&#252;rfel schneiden oder zerkr&#252;meln und zur Hack-Mangold-Mischung geben.
+Die Butter schmelzen und mit den Eiern, Joghurt und Milch verquirlen.
+Eine Auflaufform mit etwas Oliven&#246;l einpinseln und mit einer gro&#223;en Yufka-Platte auslegen. Die Teigplatte an den R&#228;nder &#252;berstehen lassen, diese wird, wenn alles fertig geschichtet ist, &#252;ber das B&#246;rek geklappt. Die Teigplatte mit der Joghurt-Mischung einpinseln. Die n&#228;chste Teigplatte entweder auf die Gr&#246;&#223;e der Auflaufform zuschneiden oder in kleine St&#252;cke rei&#223;en und auf die erste Schicht legen. Wieder einpinseln. Wiederholen, so dass 3 Yufkaschichten entstehen. Die dritte Platte nicht einpinseln, sondern darauf die H&#228;lfte des Hackfleisch-Mangold-Mischung geben. Mit einer Schicht Yufka abdecken, die restliche Hackmischung darauf geben. Wieder mit Yufka abdecken und diese Platte wieder einpinseln. Nochmals eine Lage Yufka darauf geben, nun die &#252;berlappende erste Lage dar&#252;ber schlagen und mit der restlichen Joghurt-Mischung einpinseln. Mit Schwarzk&#252;mmel und Sesam bestreuen. Wenn die Joghurt-Mischung bei den letzten beiden Lagen knapp wird mit etwas Milch "strecken".
+Backofen auf 180&#176; Ober-/Unterhitze oder 160&#176; Umluft vorheizen und das B&#246;rek 30 Minuten backen.
+Dazu passt ein Blattsalat mit ein paar Tomaten und Gurken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

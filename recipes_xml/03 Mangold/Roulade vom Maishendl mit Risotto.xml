@@ -1,37 +1,37 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1247451229689991">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-257b20ad-3996-4ae2-bc66-68fadbcb19f9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Roulade vom Maishendl mit Risotto</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="huhn">Huhn (Maishendl)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, die Stiele entfernt oder frischer Spinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="räucherlachs">Lachs (Räucherlachs)</fr:igdtName>
+        <fr:igdtName ref="r&#228;ucherlachs">Lachs (R&#228;ucherlachs)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Frühstücksspeck und 100 g Schweinenetz</fr:igdtName>
+        <fr:igdtName ref="speck">Fr&#252;hst&#252;cksspeck und 100 g Schweinenetz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
@@ -47,18 +47,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 cl</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>7 dl</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrühe">Geflügelfond</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbr&#252;he">Gefl&#252;gelfond</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -77,12 +77,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Maishendl zerlegen und von Haut und Knochen befreien. Dann das Fleisch d&#252;nn ausklopfen, salzen (nicht zu viel, es kommen noch R&#228;ucherlachs und Speck dazu) und pfeffern.
+Jeweils das Fleisch einer Keule und einen Teil vom Brustfleisch leicht &#252;berlappend auflegen (Vorgang wiederholen), mit Mangold und Lachs belegen, auf das ausgebreitete Schweinsnetz geben und das Ganze einrollen. Die Roulade mit Speck umwickeln, in &#214;l anbraten und im Rohr bei 160&#176;C ca. 15 Min. fertig garen.
+F&#252;r das Risotto Zwiebel in &#214;l glasig anschwitzen, den Reis beigeben und das Ganze mit Wein abl&#246;schen. Nach und nach den Fond zugie&#223;en und unter st&#228;ndigem R&#252;hren einkochen lassen. Das bissfest gegarte Risotto mit Salz und Cayennepfeffer w&#252;rzen und mit Parmesan und Butter verfeinern. Die Roulade schr&#228;g aufschneiden und auf dem Risotto anrichten.
+Einfacher und schneller geht es, Brust und Keule extra zu f&#252;llen und einzuwickeln, dann ben&#246;tigt man auch kein Schweinenetz, die kleinen Rouladen h&#228;lt der Speck zusammen. Um dem Reis ein bisschen Farbe zu geben, kann man eine Prise Kurkuma dazugeben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

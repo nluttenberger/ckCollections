@@ -1,32 +1,32 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3077801460448296">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0667edb8-7cd8-474d-a4a4-11cea536403f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Freekeh Salat-Firik salatası</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Freekeh Salat-Firik salatas&#305;</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="grünkern">Freekeh (gerösteter grüner Weizen), ersatzweise Grünkern, im türkischen Supermarkt heißt es firik</fr:igdtName>
+        <fr:igdtName ref="gr&#252;nkern">Freekeh (ger&#246;steter gr&#252;ner Weizen), ersatzweise Gr&#252;nkern, im t&#252;rkischen Supermarkt hei&#223;t es firik</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="petersilie">Petersilie,fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,20 +34,20 @@
         <fr:igdtName ref="zitrone">Zitrone(n), frisch gepresster Saft und etwas Zitronenzeste</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>4 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="minze">Minze,fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="spitzpaprika">Spitzpaprika, rot und grün, klein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="spitzpaprika">Spitzpaprika, rot und gr&#252;n, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n), in feine Ringe geschnitten)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n), in feine Ringe geschnitten)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold oder Babyspinat</fr:igdtName>
+        <fr:igdtName ref="babyspinat">Mangold oder Babyspinat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
@@ -55,18 +55,20 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="granatapfelsirup">Granatapfelsirup (nar eksi im türkischen Supermarkt)</fr:igdtName>
+        <fr:igdtName ref="granatapfelsirup">Granatapfelsirup (nar eksi im t&#252;rkischen Supermarkt)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Freekeh unter flie&#223;endem Wasser gut waschen und abtropfen lassen. Salz, Wasser und Freekeh in einem Topf auf den Herd stellen. Zuerst kurz aufkochen lassen und anschlie&#223;end bei geringer Hitze in 16 - 18 min. mit geschlossenem Deckel gar kochen, bis kein Wasser mehr vorhanden ist. Zitronensaft und Oliven&#246;l beif&#252;gen, umr&#252;hren und erkalten lassen.
+W&#228;hrenddessen Petersilie, Minze, Spitzpaprika, Fr&#252;hlingszwiebeln, Spinat oder Mangold vorbereiten. Granatapfelkerne, evtl. auch etwas Granatapfelsirup und etwas Zitronenzesten dazu geben und alles mit dem Freekeh mischen.
+Unterschied zwischen Gr&#252;nkern und Freekeh: Gr&#252;nkern ist aus Dinkel und Freekeh aus Weizen. In guten Reformh&#228;usern zu finden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

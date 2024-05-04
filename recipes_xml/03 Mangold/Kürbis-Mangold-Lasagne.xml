@@ -1,29 +1,29 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2943761446635493">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-52a5407f-57ef-49e2-9048-7f7b4c4558cf">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Kürbis-Mangold-Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>K&#252;rbis-Mangold-Lasagne</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se) oder 1/2 Butternusskürbis</fr:igdtName>
+        <fr:igdtName ref="butternussk&#252;rbis">Hokkaidok&#252;rbis(se) oder 1/2 Butternussk&#252;rbis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), stückige</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), st&#252;ckige</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
@@ -50,8 +50,8 @@
         <fr:igdtName ref="milch">Milch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -63,18 +63,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, gerieben</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, gerieben</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Ofen auf 200 Grad vorheizen. Den K&#252;rbis entkernen und in gr&#246;&#223;ere Schnitze schneiden. Mit &#214;l, Salz und Pfeffer mischen und ca. 30 Minuten im Ofen schmoren, bis er weich ist und zu br&#228;unen beginnt. Mit einem L&#246;ffel das Fruchtfleisch von der Schale l&#246;sen und in St&#252;cke zerteilen.
+F&#252;r die Tomatensauce den Knoblauch w&#252;rfeln und in &#214;l and&#252;nsten, Tomatenst&#252;cke und Thymian dazugeben und 20 Minuten k&#246;cheln lassen. Salzen und pfeffern.
+F&#252;r die Bechamel-Sauce die Butter schmelzen, das Mehl einr&#252;hren und 2 - 3 Minuten leicht anbr&#228;unen, danach mit der Milch abl&#246;schen und 5 Minuten bei schwacher Hitze k&#246;cheln lassen. Mit Salz und Pfeffer w&#252;rzen.
+Das Blattgem&#252;se grob zerschneiden und in wenig &#214;l in einer gro&#223;en Pfanne and&#252;nsten, bis es zusammengefallen ist. Salzen und pfeffern.
+Eine Auflaufform mit Butter ausstreichen, Blattgem&#252;se, Lasagneplatten, Tomatensauce und K&#252;rbisst&#252;cke einschichten und mit der Bechamel &#252;bergie&#223;en. Mit dem Reibek&#228;se bestreuen und im Ofen bei 180 Grad ca. 50 Minuten garen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

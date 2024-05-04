@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3297651489605047">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-49b310d1-27f9-411c-8266-3b408db89231">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Roberts Pfannkuchentorte mit Hackfleisch und Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl, gesiebt</fr:igdtName>
@@ -19,19 +19,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), Größe M</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), Gr&#246;&#223;e M</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Meersalz aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Meersalz aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>30 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 EL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity>3 EL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 g</fr:igdtQuantity>
@@ -39,19 +39,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), geschält, klein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gesch&#228;lt, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), rote, gewaschen, halbiert, entkernt, klein gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n), rote, gewaschen, halbiert, entkernt, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), geschält, fein gewürfelt, für das Hack</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt, fein gew&#252;rfelt, f&#252;r das Hack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Café de Paris (Gewürz)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Caf&#233; de Paris (Gew&#252;rz)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>600 ml</fr:igdtQuantity>
@@ -59,7 +59,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
@@ -67,34 +67,41 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), geschält, fein gewürfelt, für den Mangold</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n), gesch&#228;lt, fein gew&#252;rfelt, f&#252;r den Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), geschält, gewürfelt</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="schalotten">Schalotte(n), gesch&#228;lt, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse geraspelt, Art nach Geschmack, z. B. Gouda oder Emmentaler</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se geraspelt, Art nach Geschmack, z. B. Gouda oder Emmentaler</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zuerst wird ein Pfannkuchenteig aus dem Mehl, Milch und den Eiern mit Meersalz hergestellt. Praktisch geht dies in einer K&#252;chenmaschine. Schnell r&#252;hren, bis Blasen kommen und darauf achten, dass keine Mehlklumpen entstehen. Dann in einer geeigneten Pfanne (sollte den Durchmesser einer runden Kuchenform haben) etwas Butter schmelzen und eine gro&#223;e Sch&#246;pfkelle des Teiges reingeben, gleichm&#228;&#223;ig verteilen und den Pfannkuchen braun backen. Mit dem Rest des Teiges genauso vorgehen.
+In einer Pfanne das Oliven&#246;l warm werden lassen und dann das Hackfleisch und die Zwiebeln dazugeben. Wichtig ist, dass das Hackfleisch keine Klumpen hat. Dies ist etwas aufwendig, sollte aber unbedingt gemacht werden. W&#252;rzen und Knoblauch hinzugeben, eine weitere Minute brutzeln, dann die passierten Tomaten hinzuf&#252;gen, hei&#223; werden lassen und von der Herdplatte nehmen.
+Den Backofen auf 200 &#176;C vorheizen.
+In einer weiteren Pfanne Oliven&#246;l hei&#223; werden lassen, den Mangold mit den Schalotten und Knoblauch hinzugeben, Deckel drauf, zusammen fallen lassen, umr&#252;hren und dann weitere 6 Minuten bei geschlossenem Deckel d&#252;nsten. Von der Herdplatte nehmen.
+Die runde Kuchenform mit der Butter fetten. Einen Pfannkuchen reingeben, dann zwei gro&#223;e geh&#228;ufte L&#246;ffel des Hackfleisches drauf verteilen (nach Gef&#252;hl), wieder einen Pfannkuchen dr&#252;ber, dann die H&#228;lfte des Mangolds drauf verteilen, einen weiteren Pfannkuchen drauf, Hackfleisch, Pfannkuchen, Hackfleisch, Pfannkuchen, Mangold, Pfannkuchen und zum Schluss den K&#228;se gro&#223;z&#252;gig dr&#252;ber verteilen. Ab in den vorgew&#228;rmten Ofen f&#252;r ca. 20 Minuten. Evtl. zum Schluss die Grillfunktion einschalten, um die gew&#252;nschte Br&#228;unung zu erreichen.
+Wenn Kinder mitessen, dann bitte die Chilischote weglassen und mit Chiliflocken am Tisch w&#252;rzen.
+Bei Kindern empfiehlt es sich, zum Teil auch nur die H&#228;lfte Mangold zu nehmen und nur eine Schicht zu machen.
+Dazu passt ein erfrischender Salat oder angebratene Maibr&#252;bchen mit einer tollen Vinaigrette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

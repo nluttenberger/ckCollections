@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1007341205852587">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6cf340b4-0b6b-4dbd-8d25-6e4236b0ef91">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Kohlrabi-Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Hartweizengrieß (Semola di Grano duro)</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Hartweizengrie&#223; (Semola di Grano duro)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
@@ -23,10 +23,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,7 +38,7 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kohlrabi">Kohlrabi, (je 250 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,11 +46,11 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -70,12 +70,12 @@
         <fr:igdtName ref="tomate">Tomate(n), frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter, für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter, f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="provolone">Käse (Provolone), alt, frisch gerieben, ersatzweise alten Gouda</fr:igdtName>
+        <fr:igdtName ref="provolone">K&#228;se (Provolone), alt, frisch gerieben, ersatzweise alten Gouda</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
@@ -89,12 +89,21 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mehl und Hartweizengrie&#223; in einer Sch&#252;ssel oder auf einer Arbeitsfl&#228;che mischen und eine Mulde in die Mitte dr&#252;cken.
+Den TK-Spinat auftauen lassen und etwas ausdr&#252;cken, grob zerteilen und dann mit dem Zauberstab oder im Mixer sehr fein p&#252;rieren. Das Spinatp&#252;ree in die Mehlmulde geben und mit den Eiern, &#214;l, Zucker und Salz langsam mit einer Gabel mit dem Mehl verarbeiten, bis ein Teigklo&#223; entstanden ist. Diesen weiter mit den H&#228;nden kneten, bis ein glatter Teig entstanden ist, diesen in Folie wickeln und 30 Min. Ruhen lassen.
+Kohlrabi sch&#228;len und das holzige Ende entfernen. Kohlrabi in 2 mm dicke Scheiben schneiden, das geht sehr gut mit einem Gem&#252;sehobel. Die zarten Innenbl&#228;ttchen in Streifen schneiden.
+In einem gro&#223;en flachen Topf die H&#228;lfte der Butter schmelzen und die Kohlrabischeiben und Bl&#228;tterstreifen darin anschwitzen, mit Mehl best&#228;uben und dann die Milch dazugie&#223;en. Mit Pfeffer, Salz und Muskatnuss kr&#228;ftig w&#252;rzen 10 Min. k&#246;cheln lassen. In eine Sch&#252;ssel f&#252;llen und abk&#252;hlen lassen.
+Die Schalotten pellen und fein w&#252;rfeln. Die Mangoldstiele von den Bl&#228;ttern trennen, die F&#228;den abziehen und in 2 cm lange St&#252;cke schneiden. Restliche Butter in einer Pfanne erhitzen Schalottenw&#252;rfel und Mangoldstiele darin anschwitzen. Von den Bl&#228;tter die Mittelrippe entfernen, Bl&#228;tter in Streifen schneiden und zu den Stielen geben. Stiele und Bl&#228;tter unter den Kohlrabi mischen.
+Tomaten kurz blanchieren, h&#228;uten, halbieren, Stielans&#228;tze und Samen entfernen und das Fruchtfleisch in Streifen schneiden.
+Lasagneteig noch einmal gut durchkneten und dann auf einer gut bemehlten Arbeitsfl&#228;che d&#252;nn ausrollen. Den ausgerollten Teig in Rechtecke schneiden.
+Salzwasser in einem gro&#223;en Topf zum Kochen bringen und die Lasagnebl&#228;tter darin portionsweise 3-4 Min. kochen, auf einem K&#252;chenhandtuch abtropfen lassen.
+Eine Lasagneform mit Butter einfetten und mit Nudelbl&#228;ttern auslegen. Je 1/3 der Gem&#252;sef&#252;llung, Tomatenstreifen und K&#228;se darauf verteilen, den Vorgang noch 2x wiederholen. Mit Lasagnebl&#228;ttern abschlie&#223;en.
+Sahne mit dem Eigelb verquirlen und &#252;ber der Lasagne verteilen. Lasagne im Ofen bei 180&#176; 40 - 45 Min. backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

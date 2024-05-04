@@ -1,65 +1,45 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-731731175857736">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-70e3779a-72ac-463c-9cb4-a0113580db98">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldrolle mit Gemüse und Körnern</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldrolle mit Gem&#252;se und K&#246;rnern</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="weizen">Weizen, ganze Körner</fr:igdtName>
+        <fr:igdtName ref="weizen">Weizen, ganze K&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe -Extrakt</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="zucchini">Zucchini</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="lauch">Porree</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprika">Paprikaschoten</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="staudensellerie">Staudensellerie</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="karotte">Möhren oder Kohlrabi</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he -Extrakt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="staudensellerie">Gemüse, gemischtes (Zucchini, Porree. Paprikaschoten, Staudensellerie, Möhren oder Kohlrabi), fein gewürfe</fr:igdtName>
+        <fr:igdtName ref="staudensellerie">Gem&#252;se, gemischtes (Zucchini, Porree. Paprikaschoten, Staudensellerie, M&#246;hren oder Kohlrabi), fein gew&#252;rfe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="thymian">Thymian, getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>10 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>10 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -70,27 +50,31 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett, für die Folie</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett, f&#252;r die Folie</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Weizen mit Wasser und Br&#252;he aufkochen und zugedeckt bei schwacher Hitze 1 Std. garen, anschlie&#223;end 1 Std. quellen lassen.
+&#214;l in einer gro&#223;en Pfanne erhitzen, Gem&#252;se, Zwiebeln und Thymian darin unter R&#252;hren schmoren, bis die Fl&#252;ssigkeit, die sich bildet, wieder verdampft ist. Abk&#252;hlen lassen.
+Ein gro&#223;es St&#252;ck Alufolie einfetten.
+Die gewaschenen Mangoldbl&#228;tter in reichlich Salzwasser ca. &#189; Min. kochen lassen, bis sie weich genug zum Rollen sind. Vorsichtig herausnehmen, zum Abtropfen auf Geschirrt&#252;cher legen und abk&#252;hlen lassen. Die Bl&#228;tter als gro&#223;es Rechteck auf der Alufolie so ausbreiten, dass sie an den R&#228;ndern leicht &#252;berlappen.
+Quark mit Eiern verr&#252;hren. Gem&#252;se und den abgetropften Weizen untermischen. Mit Salz, Pfeffer und Muskat kr&#228;ftig abschmecken. Quarkf&#252;llung vorsichtig auf die Mangoldbl&#228;tter streichen. Bl&#228;tter mit Hilfe der Folie fest aufrollen. Folie an beiden Enden zusammendr&#252;cken, damit beim Garen nichts auslaufen kann. In einem breiten Topf reichlich Wasser zum Kochen bringen. Mangoldrolle zugedeckt darin bei mittlerer Hitze 15 Min. sanft gar ziehen lassen. Herausnehmen, etwas abk&#252;hlen lassen, aus der Folie rollen und in Scheiben schneiden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

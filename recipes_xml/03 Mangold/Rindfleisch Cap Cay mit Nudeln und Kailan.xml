@@ -1,0 +1,147 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-537927ee-9900-43df-9536-e8009a17ffdf">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Rindfleisch Cap Cay mit Nudeln und Kailan</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="rindfleisch">Rindergulasch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="austernsauce">Austernsauce</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sojasauce">Sojasauce light</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 g</fr:igdtQuantity>
+        <fr:igdtName ref="fleisch">Papayafruchtfleisch, p&#252;riert, TK</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Tapiokamehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), ersatzweise Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Peperoni, rote, lang, mild, zum Garnieren</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>350 g</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>7 g</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>120 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">chinesische Eiernudeln (Type Linguine)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>10 g</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>15 g</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n), gr&#252;ne, lang, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="peperoni">Peperoni, rote, lang, mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="gr&#252;ne_bohnen">Schlangenbohne(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, dunkles</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="">Kochwasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="oregano">Oregano, gerebelt</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>30 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomatensaft">Tomatensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sojasauce">Sojasauce, light</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Tapiokamehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="reiswein">Reiswein, dunkel, w&#252;rzig-mild</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, roter, frisch aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Fleischst&#252;cke quer zur Faserrichtung halbieren. Gr&#246;&#223;ere St&#252;cke vierteln. Alle Zutaten f&#252;r die Marinade in einer Schale homogen verquirlen. Die Fleischst&#252;cke darin &#252;ber Nacht abgedeckt im K&#252;hlschrank marinieren. 3 Mal mindestens durchmischen. Am n&#228;chsten Tag auf Raumtemperatur bringen und abseihen.
+Jeweils die unteren beiden Bl&#228;tter beim gewaschenen Kailan an den St&#228;ngeln abschneiden. Die blanken St&#228;ngel unten ca. 1 cm kappen und sch&#228;len. Die makellosen Bl&#228;tter mitverwenden und mit dem Kailan bereithalten.
+Die Peperoni zum Garnieren von unten nach oben, bis ca. 1 cm vor den Stielen l&#228;ngs halbieren. Die K&#246;rner entfernen und die H&#228;lften l&#228;ngs vierteln. In kaltem Wasser aufbl&#252;hen lassen.
+Das Wasser f&#252;r die Nudeln zum Kochen bringen und das Gem&#252;sebouillon darin aufl&#246;sen. Die Nudeln zugeben und nach Packungsangabe al dente kochen. Abseihen, Nudeln und Br&#252;he bereithalten.
+Knoblauchzehen und Ingwer sch&#228;len und fein hacken. Die gewaschene Chilischote quer in d&#252;nne Scheiben schneiden, die K&#246;rner belassen und den Stiel verwerfen. Die gewaschenen Peperoni diagonal in ca. 4 mm breite St&#252;cke schneiden, diese entkernen und die Stiele verwerfen.
+Die Fr&#252;hlingszwiebel waschen, welke Bl&#228;tter und Wurzeln entfernen. Die wei&#223;en und die gr&#252;nen Teile in ca. 4 cm lange St&#252;cke schneiden und l&#228;ngs halbieren. Wei&#223;e und gr&#252;ne Teile getrennt bereithalten.
+Die Schlangenbohnen waschen, an beiden Enden kappen und quer in ca. 3 cm lange St&#252;cke schneiden. Ein ca. 4 cm langes St&#252;ck einer Karotte von oben abschneiden, waschen, sch&#228;len und l&#228;ngs in ca. 3 x 3 mm d&#252;nne Stifte schneiden.
+Alle Zutaten f&#252;r die Sauce homogen mischen, mit Salz und roter Pfeffer frisch aus der M&#252;hle abschmecken und bereithalten.
+Den Kailan und die losen Bl&#228;tter zusammen 2 Minuten blanchieren. Nicht abschrecken und warm bereithalten.
+Das Sonnenblumen&#246;l in einem Wok sehr hei&#223; werden lassen. Die gut abgetropften Fleischst&#252;cke zugeben (Achtung Spritzgefahr) und 1 Minute pfannenr&#252;hren. Mit einer Schaumkelle aus dem Wok nehmen und warm bereithalten.
+Weitere 2 EL Sonnenblumen&#246;l im Wok sehr hei&#223; werden lassen. Knoblauchzehen, Ingwer, Chili und Peperoni zugeben und 1 Minute pfannenr&#252;hren. Die wei&#223;en Teile der Fr&#252;hlingszwiebel, die Schlangenbohnen und die Karottenstifte zugeben und 2 Minuten pfannenr&#252;hren. Mit der Sauce abl&#246;schen, Hitzezufuhr reduzieren und das Gemisch im Wok 2 Minuten k&#246;cheln lassen. Das Sesam&#246;l, die Nudeln und dann die Fleischst&#252;cke untermischen.
+Mit den Kailanbl&#228;ttern zwei Servierschalen auslegen. Das Gemisch aus dem Wok in die Servierschalen platzieren, mit den Peperonibl&#252;ten garnieren, servieren und genie&#223;en.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,29 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2408201380382171">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-43094859-4062-4cfe-bc17-fb16382520b4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Vegetarische Lasagne</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="olive">Oliven, schwarz (ohne Stein)</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
+        <fr:igdtName ref="knoblauch">Oliven, schwarz (ohne Stein), in Knoblauch eingelegt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -42,7 +38,7 @@
         <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,18 +51,19 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Fett, für die Form</fr:igdtName>
+        <fr:igdtName ref="">Fett, f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen und waschen. Die Bl&#228;tter von den Stielen streifen; die Stiele w&#252;rfeln. Nacheinander die Stiele in Salzwasser 2 Minuten, die Bl&#228;tter 1 Minute kochen. Durch ein Sieb gie&#223;en und gut abtropfen lassen.
+Den Backofen auf 200&#176; (Umluft 180&#176;) vorheizen. Oliven in Scheiben schneiden und mit den Mangoldstielw&#252;rfeln mischen. Schafsk&#228;se fein zerbr&#246;seln. Eier, Eigelbe, Milch und Sahne verr&#252;hren, mit 1 TL Salz und Cayennepfeffer w&#252;rzen. Eine eckige, ofenfeste Form einfetten. 1/4 der Eiermilch hineingie&#223;en. 3 Lasagnebl&#228;tter in die Form legen und mit einer Schicht Mangoldbl&#228;tter bedecken. Die H&#228;lfte der Mangold-Olivenmischung darauf geben und mit 1/3 des Schafsk&#228;ses bestreuen und etwas Eiermilch dar&#252;ber gie&#223;en. Eine zweite Lage ebenso einschichten. Die letzten Lasagnebl&#228;tter obenauf legen und leicht andr&#252;cken. Mit der restlichen Eiermilch begie&#223;en und mit dem &#252;brigen Schafsk&#228;se bestreuen. Die Butter in Fl&#246;ckchen darauf verteilen und die Lasagne im 200&#176; (Umluft 180&#176;) hei&#223;en Backofen auf der zweiten Schiene von unten etwa 40 Minuten backen, nach 30 Minuten mit Alufolie bedecken und so die letzten 10 Minuten weiter backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

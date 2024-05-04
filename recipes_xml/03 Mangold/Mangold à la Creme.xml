@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3243271482623966">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ba9a0125-ac07-43e1-b3b3-a7ec36f1b564">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold à la Creme</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold &#224; la Creme</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="speck">Speckwürfel</fr:igdtName>
+        <fr:igdtName ref="speck">Speckw&#252;rfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -27,18 +27,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">süße Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe, instant, am besten selbst gemacht</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he, instant, am besten selbst gemacht</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben, knapp gemessen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl oder Butter, gutes</fr:igdtName>
+        <fr:igdtName ref="butter">&#214;l oder Butter, gutes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -57,12 +57,14 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebel pellen und w&#252;rfeln, den Speck auch w&#252;rfeln, den Knoblauch nur andr&#252;cken und pellen. Auf kleiner Hitze den Speck mit dem &#214;l oder der Butter in einer Pfanne auslassen. Wenn er beginnt zu br&#228;unen, die Zwiebel dazugeben. Das dauert seine Zeit; derweil den Mangold vorbereiten: Dort, wo das Gr&#252;n ins Wei&#223;e &#252;bergeht den Mangold quer teilen. Das Wei&#223;e in feine Streifen schneiden oder hobeln, beim Gr&#252;nen die dicken Blattadern rausschneiden und diese ebenfalls fein schneiden. Das Gr&#252;ne auch fein schneiden, aber getrennt vom Wei&#223;en bereit stellen. Nun alles Gew&#252;rze richten, so dass man sie nur noch hinzugeben muss.
+F&#252;r die Themomix-Variante die wei&#223;en Teile des Mangolds auf Stufe 5 2 Mal 10 Sekunden p&#252;rieren, dabei mit dem Spatel runterschieben. Das P&#252;ree 10 Minuten bei 100&#176; C d&#228;mpfen. Danach den Knoblauch sowie alles andere in den Mixtopf geben - nur die Sahne noch nicht - und noch 2 Mal 10 Sekunden auf Stufe 5 p&#252;rieren. Nun weiter  bei 100&#176; C ca. 15 Minuten garen. Gegen Ende die Sahne zuf&#252;gen und die Mangold-Creme nochmals abschmecken. Die Creme in eine Sch&#252;ssel umf&#252;llen und den gebratenen Speck mit den Zwiebeln obendrauf geben.
+F&#252;r die Kochtopf-Variante das Wei&#223;e vom Mangold im Topf anschwitzen und bald p&#252;rieren. Etwa 10 Minuten auf kleiner Flamme d&#228;mpfen, dann den Rest bis auf die Sahne zuf&#252;gen und gut p&#252;rieren. Die Masse 15 Minuten leicht d&#228;mpfen. Gegen Ende die Sahne zuf&#252;gen und nochmals gut durchmixen. Die Mangold Creme abschmecken, in eine Sch&#252;ssel umf&#252;llen und den braunen Speck mit Zwieblen dar&#252;bergeben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

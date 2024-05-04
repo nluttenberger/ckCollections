@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2847621436796468">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ac261159-c4f5-476d-9e23-4908f7c22e31">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Paprika-Omelettewürfel mit Tomaten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Paprika-Omelettew&#252;rfel mit Tomaten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>70 g</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinkenwürfel</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinkenw&#252;rfel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -39,30 +39,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, bunter, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, bunter, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Paprikaschoten h&#228;uten, halbieren, entkernen, die wei&#223;en Trennw&#228;nde entfernen und anschlie&#223;end klein w&#252;rfeln. Die Zwiebel abziehen und fein w&#252;rfeln. Die Tomaten absp&#252;len, bei einem Drittel das Gr&#252;n dran lassen und die restlichen putzen und halbieren. Mangold putzen und waschen.
+In einem Topf 1 - 2 EL Butter zerlassen und den Mangold darin zusammenfallen lassen. In einer gro&#223;en Pfanne 1 - 2 EL Oliven&#246;l erhitzen und die Zwiebelw&#252;rfel darin glasig d&#252;nsten. Paprika- und Schinkenw&#252;rfel sowie alle Tomaten zugeben und mitd&#252;nsten. Nach 2 Minuten die ganzen Tomaten herausnehmen und beiseitelegen. Nun den Mangold zugeben und alles mit etwas Salz, etwas frisch geriebener Muskatnuss und einigen Umdrehungen buntem Pfeffer aus der M&#252;hle w&#252;rzen. Anschlie&#223;end vom Herd nehmen.
+In einer Sch&#252;ssel die Eier verquirlen und mit etwas Salz, einigen Umdrehungen buntem Pfeffer aus der M&#252;hle sowie mit etwas frisch geriebener Muskatnuss w&#252;rzen. Die Pfanne mit der Gem&#252;semischung wieder erhitzen und die verquirlten Eier dar&#252;bergie&#223;en. Bei kleiner Hitze zugedeckt etwa 25 Minuten stocken lassen.
+Anschlie&#223;end das Omelette in W&#252;rfel schneiden und  je 1 W&#252;rfel mit 1 ganzen Tomate auf Spie&#223;e stecken und anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

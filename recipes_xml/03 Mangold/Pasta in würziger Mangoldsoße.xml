@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-242501097824761">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-0a611ec4-0a5c-481d-83f0-b8a86547d7b2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Pasta in würziger Mangoldsoße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Pasta in w&#252;rziger Mangoldso&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Nudeln (Pasta)</fr:igdtName>
+        <fr:igdtName ref="basilikum">Nudeln (Pasta ), z.B. mit Knoblauch und/oder Basilikum</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -23,42 +23,43 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="basilikum">Kräuter, Ital. z.B. Basilikum, Majoran, Thymian, frisch oder getrocknet</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="basilikum">Kr&#228;uter, Ital. z.B. Basilikum, Majoran, Thymian, frisch oder getrocknet</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter von den Stielen trennen. Stiele klein schneiden, Bl&#228;tter in Streifen schneiden, getrennt waschen. Zwiebel und Knoblauch in kleine W&#252;rfel schneiden. Oliven&#246;l in einer hohen Pfanne erhitzen, Zwiebel- und Knoblauchw&#252;rfel glasig and&#252;nsten, dann die Stiele zuf&#252;gen und kurz mitd&#252;nsten. Mit der Gem&#252;sebr&#252;he aufgie&#223;en und ca. 5 Minuten zugedeckt k&#246;cheln lassen. Dann die Bl&#228;tterstreifen beigeben, mitk&#246;cheln lassen, bis diese zusammenfallen, dabei h&#228;ufig umr&#252;hren. Den Schmand unterr&#252;hren, die Kr&#228;uter beigeben, mit Parmesan, Salz und Pfeffer herzhaft abschmecken und auf kleiner Flamme zugedeckt weiter garen, dabei immer wieder umr&#252;hren.
+In der Zwischenzeit die Pasta nach Packungsanweisung kochen, abgie&#223;en, gut abtropfen lassen und in die Pfanne zum Gem&#252;se geben, unterheben. Mit Parmesan servieren. Dazu passen Blattsalate.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

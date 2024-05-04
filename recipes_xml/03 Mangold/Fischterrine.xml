@@ -1,36 +1,36 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-96631038151216">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a9d65c49-b420-4c06-99c2-674778ef7a8c">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fischterrine</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>375 g</fr:igdtQuantity>
         <fr:igdtName ref="lachs">Lachsfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), weißes , (Hecht, Zander, Hoki)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), wei&#223;es , (Hecht, Zander, Hoki)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Spinat, frischer oder Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Spinat, frischer oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="sahne">süße Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, gemischt (oder 2 Pckg TK)</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, gemischt (oder 2 Pckg TK)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,16 +38,16 @@
         <fr:igdtName ref="zitrone">Zitrone(n), ungespritzt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, weißer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
@@ -55,18 +55,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Ei(er), davon das Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Ei(er), davon das Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Wei&#223;e Fischfilets und ca. die H&#228;lfte vom Lachs in W&#252;rfel schneiden und ca. 20 Minuten anfrosten (es geht auch sehr gut, gefrorene Filets zu nehmen, diese kurz anzutauen und dann in W&#252;rfel zu schneiden!). Fisch mit Salz, Pfeffer und abgeriebener Zitronenschale w&#252;rzen. Die wei&#223;en Fischw&#252;rfel und den Lachs getrennt portionsweise p&#252;rieren, dabei Sahne und Eiwei&#223; untermischen (bei schlechter Bindung mehr Eiwei&#223; untergeben).
+Die H&#228;lfte der wei&#223;en Fischfarce mit Kurkuma gelb f&#228;rben, 1/3 mit den Kr&#228;utern gr&#252;n (TK - Kr&#228;uter gehen hervorragend und man schmeckt keinen Unterschied zu frischen, weil das ganze sowieso noch gegart wird!). Das restliche Sechstel bleibt wei&#223;.
+Spinatbl&#228;tter kurz in Salzwasser blanchieren und gut ausdr&#252;cken. Auf Frischhaltefolie auslegen (als Viereck mit der L&#228;nge der Terrinenform und ca. 20 cm breit). Die H&#228;lfte der gelben Farce auf den Spinat geben, darauf die restlichen Lachsfilets. Spinat aufrollen. &#220;brigens: Ich habe das auch schon mit jungem Wirsing und Chinakohl gemacht, wenn es keinen frischen Spinat oder Mangold gab - geht auch gut!
+Boden einer Terrinenform mit Alufolie auslegen und leicht einfetten (mit Alufolie ausgelegte Kastenform geht auch). Die Lachsfarce einf&#252;llen und glatt streichen. Auf die Mitte der Lachsfarce die Spinatrolle legen. Eine Seite neben der Lachsrolle mit der wei&#223;en Fischfarce f&#252;llen, die andere mit der H&#228;lfte der gr&#252;nen Farce. Das ganze abdecken mit dem Rest der gelben und der gr&#252;nen Farce (dabei logischerweise die gelbe Farce auf die gr&#252;ne geben und die gr&#252;ne auf die wei&#223;e!).
+Terrinenform mit gefetteter Alufolie und dem Deckel abdecken (notfalls reicht auch nur die Alufolie, wenn man eine Kastenform verwendet!). In ein mit Wasser gef&#252;lltes Gef&#228;&#223; stellen und im vorgeheizten Backofen bei 160 Grad ca. 1 Stunde garen. Terrine &#252;ber Nacht kalt stellen.
+Saure Sahne und frisch gehackten Dill verr&#252;hren, mit Salz und wei&#223;em Pfeffer abschmecken und dazu reichen.
+Die Terrine kann prima ganz oder portionsweise eingefroren werden!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

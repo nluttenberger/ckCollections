@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-795861183183567">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cfc221ee-0168-401a-ba49-38869720fc2d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Torta di biete e carciofi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -27,11 +27,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="artischocke">Artischocke(n), junge, zarte</fr:igdtName>
+        <fr:igdtName ref="artischocke">Artischocke(n), junge, zarte (ersatzweise aus der Dose)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="majoran">Majoran, frischer</fr:igdtName>
+        <fr:igdtName ref="majoran">Majoran, frischer (oder 1/2 TL getrockneter)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -51,38 +51,46 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="weizenmehl">Mehl zum Ausrollen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Bestreichen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="ei">&#214;l zum Bestreichen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser, kaltes</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig 500 g Mehl auf ein Backbrett h&#228;ufen, 1 TL Salz, 4 EL Oliven&#246;l und 1/4 l kaltes Wasser zuf&#252;gen. Zutaten sorgf&#228;ltig so lange miteinander verkneten, bis ein glatter und homogener Teig entstanden ist. Zugedeckt ruhen lassen.
+F&#252;r die F&#252;llung den Mangold waschen, die Rippen herausschneiden. Bl&#228;tter zerpfl&#252;cken, tropfnass in einen hei&#223;en Topf geben und zusammenfallen lassen. Auspressen und klein hacken. Artischocken putzen, &#228;u&#223;ere, harte Bl&#228;tter und die Spitzen abschneiden, Heu herauszupfen. Artischocken in d&#252;nne Scheibchen schneiden.1 Zwiebel sch&#228;len und fein hacken.
+3 EL Oliven&#246;l erhitzen, Zwiebel und Artischocken zugeben und darin anbraten (Artischockenherzen aus der Dose aber erst ganz zum Schluss zur F&#252;llung geben!). Mangold untermischen und kurz mit anbraten.
+50 g Butter in einer kleinen Pfanne zerlassen und 2 EL Semmelbr&#246;sel darin anr&#246;sten. 150 g Parmesan und die Butterbr&#246;sel zu den Artischocken geben. 2 EL Oliven&#246;l, 1 TL Majoran, Salz und Pfeffer zuf&#252;gen, alles gr&#252;ndlich mischen und abschmecken.
+Backofen auf 200&#176;C Ober-/Unterhitze (Gas: Stufe 3) vorheizen. Eine runde, flache Form (26 cm Durchmesser) &#246;len.
+Teig halbieren und zwei d&#252;nne Kreise ausrollen, mit einem Kreis die Form auskleiden. 1 EL Semmelbr&#246;sel aufstreuen. Die F&#252;llung auftragen und 2 cm dick verstreichen. Mit der zweiten Teigplatte abdecken, den Rand dabei fest dr&#252;cken. Aus Teigresten eventuell eine d&#252;nne Rolle formen, um den Rand legen.
+Die Oberfl&#228;che der Torte mit &#214;l bestreichen, mit einer Gabel einige L&#246;cher einstechen.
+In den vorgeheizten Backofen schieben und 55 Min. backen.
+Lauwarm oder kalt servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1523351257542328">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-538086c3-824e-41bc-a936-74e35d3af1ae">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold auf Toast oder Baguette</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>25 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>25 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, roter ist intensiver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -18,31 +18,34 @@
         <fr:igdtName ref="knoblauch">Knoblauch, am besten chinesischer Knollenknoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="brot">Toastbrot, oder Baguette</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="wei&#223;brot">Toastbrot, oder Baguette</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold waschen und die dicken Stiele entfernen. Die Mangoldbl&#228;tter kurz blanchieren und abtropfen lassen. Etwas kleiner rupfen.
+Knoblauch und Zwiebel in kleine W&#252;rfel schneiden.
+Etwas Oliven&#246;l in eine hei&#223;e Pfanne geben und die Zwiebel und den Knoblauch darin glasig d&#252;nsten. Mangoldbl&#228;tter dazugeben und unter st&#228;ndigem R&#252;hren unterheben. Kr&#228;ftig mit Salz und Pfeffer w&#252;rzen.
+Nach ca. 5-7 Minuten den Mangold auf Toast oder frisch gebackenes Baguette verteilen. Noch einige Tropfen Oliven&#246;l dar&#252;ber geben.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

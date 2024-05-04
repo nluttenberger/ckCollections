@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-894231194942454">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ee87e936-5521-4b9d-95f2-d75e31d3c036">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Geschmortes Kaninchen bretonische Art</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="kaninchen">Kaninchen, in 6 Stücke geteilt</fr:igdtName>
+        <fr:igdtName ref="kaninchen">Kaninchen, in 6 St&#252;cke geteilt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Flasche</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß, trocken</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;, trocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Wurzel/n</fr:igdtQuantity>
@@ -46,43 +46,43 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 Körner</fr:igdtQuantity>
+        <fr:igdtQuantity>2 K&#246;rner</fr:igdtQuantity>
         <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Körner</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarzer</fr:igdtName>
+        <fr:igdtQuantity>5 K&#246;rner</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Körner</fr:igdtQuantity>
+        <fr:igdtQuantity>5 K&#246;rner</fr:igdtQuantity>
         <fr:igdtName ref="koriander">Koriander</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zweig/e</fr:igdtQuantity>
         <fr:igdtName ref="thymian">Thymian</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -93,12 +93,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das gesamte Gem&#252;se waschen, putzen und in grobe W&#252;rfel schneiden, die Backpflaumen halbieren. Das Gem&#252;se dann kurz in etwas Oliven&#246;l and&#252;nsten, salzen, pfeffern, mit dem Wei&#223;wein abl&#246;schen, alle Gew&#252;rze und die Pflaumen dazu, alles einmal aufkochen.
+Die Kaninchenteile in eine Sch&#252;ssel legen und mit der hei&#223;en Marinade auff&#252;llen. (Falls nicht alles bedeckt ist, mit kochendem Wasser aufgie&#223;en). Abk&#252;hlen lassen und im K&#252;hlschrank mindestens 24 Stunden marinieren.
+Zur Zubereitung die Kaninchenst&#252;cke aus der Marinade nehmen und sorgf&#228;ltig mit K&#252;chenkrepp abtrocknen. Von allen Seiten salzen, pfeffern und sanft in Oliven&#246;l goldbraun anbraten. Dann die St&#252;cke (bis auf den R&#252;cken) in eine ofenfeste Form legen, die Marinade zum Kochen bringen und &#252;ber das Kaninchen gie&#223;en, mit allem Gem&#252;se. Die Form bei 100 &#176;C etwa 1 Stunde lang in den Ofen stellen, dann den R&#252;cken hineinlegen und noch einmal 30 Minuten im Ofen ziehen lassen.
+Die Marinade durch ein Sieb abgie&#223;en, das Fleisch im abgeschalteten Ofen unter dem Gem&#252;se warm halten.
+Die Marinade im offenen Topf auf die H&#228;lfte einkochen, noch einmal abschmecken. In der Zwischenzeit den Mangold waschen und putzen, in einzelne Bl&#228;tter zerlegen, das Gr&#252;n von den St&#228;ngeln abschneiden, diese in l&#228;ngliche Streifen schneiden, das Gr&#252;n ebenfalls. Dann zun&#228;chst die St&#228;ngel in etwas Oliven&#246;l and&#252;nsten, mit Zitrone, Salz und Pfeffer w&#252;rzen, mit wenig Wasser im geschlossenen Topf etwa 10 Minuten vorsichtig d&#252;nsten. Danach das Gr&#252;n hinzuf&#252;gen, umr&#252;hren und alles zusammen noch einmal etwa 10 Minuten d&#252;nsten, bis die St&#228;ngel weich, aber noch bissfest sind. Zum Schluss mit etwas Muskat abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

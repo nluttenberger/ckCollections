@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2824311434492994">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-103b19e4-a94a-4cd9-a9d4-532a212212d5">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Karotten-Ingwer-Süppchen nach Mangoldkehlchen Art</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Karotten-Ingwer-S&#252;ppchen nach Mangoldkehlchen Art</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl oder Rapsöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l oder Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -23,15 +23,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 ml</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="tandoori_masala">Tandoori Masala, ersatzweise Koreander, Kreuzkümmel, Knoblauch, Chili</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="tandoori_masala">Tandoori Masala, ersatzweise Koreander, Kreuzk&#252;mmel, Knoblauch, Chili</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -43,15 +43,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), mit Grün</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), mit Gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trockener, guter</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trockener, guter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="kardamom">Kardamomkapsel(n), grün, aufgebrochen</fr:igdtName>
+        <fr:igdtName ref="kardamom">Kardamomkapsel(n), gr&#252;n, aufgebrochen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -59,11 +59,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème">Creme (Schlagcreme), vegan</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Creme (Schlagcreme), vegan</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -75,22 +75,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilifäden</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilif&#228;den</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter, frisch</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter, frisch</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Schalotten mit dem Knoblauch in Raps- oder Sonnenblumen&#246;l anbraten und die vier klein geschnitten Karotten dazugeben. Den Ingwer, Tandoori Masala und Kurkuma zuf&#252;gen, kurz erhitzen und dann mit dem Wei&#223;wein abl&#246;schen. Die gr&#252;ne Kardamomkapsel dazugeben und alles bei niedriger Hitze k&#246;cheln lasen. Nun die Br&#252;he angie&#223;en. Wenn die Karotten weich sind, die Kokosmilch angie&#223;en.
+Die Suppe p&#252;rieren und zum Anrichten nach Belieben mit Universal Schlagcreme und Kr&#228;utern wie Petersilie und Koriander, Chilif&#228;den und Liebst&#246;ckel auf dem Teller garnieren.
+Nat&#252;rlich muss man sich nicht an diese  vegane laktosefreie Rezeptur halten. Das Rezept funktioniert genau so gut mit Sahne. Anstelle der Gem&#252;sebr&#252;he kann man eine gute H&#252;hnerbr&#252;he verwenden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

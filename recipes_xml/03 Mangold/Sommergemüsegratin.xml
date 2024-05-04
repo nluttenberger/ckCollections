@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3456481515065930">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-23cd9b25-2d64-4c83-8838-028a14b026a9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Sommergemüsegratin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Sommergem&#252;segratin</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="brokkoli">Brokkoli, ca. 250 g</fr:igdtName>
@@ -30,12 +30,12 @@
         <fr:igdtName ref="zucker">Maiskolben (Zuckermais)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zehe/n</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, schwarz, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -63,22 +63,26 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter für die Auflaufform</fr:igdtName>
+        <fr:igdtName ref="butter">Butter f&#252;r die Auflaufform</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>einige</fr:igdtQuantity>
-        <fr:igdtName ref="basilikum">Basilikumblätter zum Bestreuen</fr:igdtName>
+        <fr:igdtName ref="basilikum">Basilikumbl&#228;tter zum Bestreuen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Brokkoli, den Mangold und die Zucchini waschen. Die Brokkolir&#246;schen abtrennen, den Brokkolistiel sch&#228;len und in etwa 1 cm gro&#223;e W&#252;rfel schneiden. Die Mangoldbl&#228;tter von den Stielen l&#246;sen und grob hacken. Die Mangoldstiele in Streifen schneiden. Von den Zucchini die Enden abschneiden und die Zucchini w&#252;rfeln. Die Paprikaschote waschen, halbieren, putzen und die H&#228;lften in Streifen schneiden. Vom Maiskolben die H&#252;llbl&#228;tter abl&#246;sen und die K&#246;rner mit einem Messer vom Kolben abschneiden.
+In einem Topf Wasser zum Kochen bringen und leicht salzen. Den Brokkoli darin etwa zwei Minuten garen. Anschlie&#223;end die Mangoldstiele und die Maisk&#246;rner zugeben und etwa eine Minute mitgaren. Dann die Mangoldbl&#228;tter zugeben und nur zusammenfallen lassen. Das Gem&#252;se in ein Sieb abgie&#223;en, kalt abschrecken und abtropfen lassen. Die Fr&#252;hlingszwiebeln putzen, absp&#252;len und in Ringe schneiden. Die Knoblauchzehen abziehen und sehr fein hacken. Den Backofen auf 200 &#176;C vorheizen.
+Eine Auflaufform mit etwas Butter einfetten. Das Gem&#252;se mit den Paprikastreifen, Fr&#252;hlingszwiebeln und dem Knoblauch mischen, mit etwas Salz und einigen Umdrehungen schwarzem Pfeffer aus der M&#252;hle w&#252;rzen und in der Auflaufform verteilen. Von der Zitrone die Schale fein abreiben und in die Sahne r&#252;hren, diese dann &#252;ber das Gem&#252;se gie&#223;en. Den Parmesan dar&#252;ber streuen. Die Butter in Fl&#246;ckchen dar&#252;ber verteilen. Das Gratin im vorgeheizten Backofen (Mitte) etwa 30 Minuten backen.
+Anschlie&#223;end herausnehmen und kurz ruhen lassen. Mit einigen Basilikumbl&#228;ttern bestreut servieren.
+Dazu passen Kartoffeln, kurz gebratenes Fleisch oder einfach nur frisches Baguette.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,81 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-cb7e8c54-ab33-44ed-9f2f-85357cb64927">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-R&#246;llchen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="hackfleisch">Hackfleisch vom Rind</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="r&#228;ucherspeck">R&#228;ucherbauch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n), st&#252;ckige</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold putzen, die Stiele entfernen und die Mittelrippe flach schneiden. Die Bl&#228;tter in kochendem Wasser kurz blanchieren, damit sie geschmeidig werden. Danach kalt abschrecken und abtropfen lassen.
+Gem&#252;se und Feta-K&#228;se fein w&#252;rfeln. Oliven&#246;l erhitzen, die gew&#252;rfelten Zwiebeln darin anschwitzen, bis sie weich sind. Danach M&#246;hren, Knoblauch und Mangoldstiele unterr&#252;hren und ebenfalls weich d&#252;nsten. Die Gem&#252;semischung abk&#252;hlen lassen.
+Aus Rinderhack, Bauchspeck, Eiern und Feta-K&#228;se einen Teig bereiten, diesen mit Thymian, Salz und Pfeffer w&#252;rzen. Das Chilipulver kann nach Geschmack beigef&#252;gt werden, um dem Gericht ein wenig Sch&#228;rfe zu verleihen.
+Auf jedes Blatt ca. 1 EL der F&#252;llung geben und in das Mangoldblatt einwickeln. Das R&#246;llchen mit einem festen Baumwollfaden zusammenbinden. Das Backrohr auf 200&#176;C vorheizen.
+Oliven&#246;l in einem Br&#228;ter erhitzen, die R&#246;llchen darin von allen Seiten anbraten. Nachdem die R&#246;llchen angebraten sind, Tomatenst&#252;cke hinzuf&#252;gen. Den Br&#228;ter abdecken und im vorgeheizten Backrohr etwa 30 Minuten garen.
+Nach dem Braten kann die So&#223;e bei Bedarf noch mit Salz, Pfeffer, Thymian und Chilipulver abgeschmeckt werden. Als Beilage passen Reis, Nudeln oder Wei&#223;brot.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

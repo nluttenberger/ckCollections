@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-381041124462466">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8dd76de2-dabb-421a-80b1-b568ba6aa3dd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Schweinefilet im Mangoldmantel</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="schweinefleisch">Schweinefilet(s) (ca. 500 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 große</fr:igdtQuantity>
-        <fr:igdtName ref="schweinefleisch">Mangoldblätter (das Schweinefilet muss darin Platz haben)</fr:igdtName>
+        <fr:igdtQuantity>4 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="schweinefleisch">Mangoldbl&#228;tter (das Schweinefilet muss darin Platz haben)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -31,26 +31,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter (Frankfurter grüne Kräuter), frisch oder TK</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter (Frankfurter gr&#252;ne Kr&#228;uter), frisch oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Schweinefilet mit Salz und Pfeffer gut einreiben. Die Mangoldbl&#228;tter kurz blanchieren, die dicken St&#228;ngel entfernen.
+F&#252;r die Farce das H&#228;hnchenfilet in grobe St&#252;cke schneiden, die Sahne und die Fr&#252;hlingszwiebeln zugeben und im Mixer fein p&#252;rieren (es geht auch gut mit dem Zauberstab!). Dann das Ei und die Kr&#228;uter unterziehen und w&#252;rzen.
+Auf die Arbeitsplatte ein gro&#223;es St&#252;ck Alufolie legen, darauf in gleicher Gr&#246;&#223;e Klarsichtfolie geben.
+Die Mangoldbl&#228;tter in der Gr&#246;&#223;e des Filets auf der Folie ausbreiten, mit der Farce bestreichen und das Schweinefilet darauf legen. Mit den beiden Folien einwickeln und gut zudr&#252;cken (quasi wie einen Serviettenklo&#223;).
+Im leicht k&#246;chelnden Wasser 30 Min. garen, herausnehmen und kurz im 70 &#176;C warmen Ofen nachziehen lassen. Vorsichtig auswickeln und aufschneiden.
+Das Fleisch ist dann noch leicht rosa und wunderbar zart.
+Dazu gab es bei uns ein Steinpilzrisotto.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

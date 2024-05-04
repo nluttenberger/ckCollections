@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2178781349793697">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1f685f81-82c4-4706-aa6d-74aa581bf464">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sesam-Fisch mit Rahm-Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="sesam">Knäckebrot, (Sesam-)</fr:igdtName>
+        <fr:igdtName ref="sesam">Kn&#228;ckebrot, (Sesam-)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), Seelachsfilet (ohne Haut, küchenfertig)</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), Seelachsfilet (ohne Haut, k&#252;chenfertig)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -46,7 +46,7 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -59,7 +59,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -77,12 +77,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zubereitung Sesam-Fisch:
+Ein Blech im Backofen auf 220&#176; auf der mittleren Schiene vorheizen (Umluft nicht empfehlenswert).
+Kn&#228;ckebrot in grobe St&#252;cke brechen und in einen Gefrierbeutel geben. Mit einem Topfboden zu Br&#246;seln zerkleinern. Fisch quer in 3 cm breite St&#252;cke schneiden. Butterschmalz zerlassen. Mehl, Br&#246;sel und Eier jeweils in tiefe Teller geben. Eier verquirlen. Fischst&#252;cke salzen und pfeffern. Zuerst im Mehl wenden, dann durch das Ei ziehen und anschlie&#223;end mit den Br&#246;seln panieren. Das hei&#223;e Blech mit Backpapier belegen. Die H&#228;lfte des Butterschmalzes auf dem Backpapier verteilen. Fischst&#252;cke darauflegen und mit dem restlichen Schmalz betr&#228;ufeln. Im hei&#223;en Ofen auf der mittleren Schiene 12 Minuten backen, zwischendurch einmal wenden.
+Zitrone in Spalten schneiden und zum Sesam-Fisch servieren.
+Zubereitung Rahm-Mangold:
+Mangold putzen. Die Stiele in 1 cm gro&#223;e St&#252;cke, die Bl&#228;tter in 3 cm breite Streifen schneiden. Zwiebel fein w&#252;rfeln. In einem weiten Topf reichlich Salzwasser zum Kochen bringen. Butter in einem weiteren Topf zerlassen. Zwiebeln darin bei mittlerer Hitze 2 Minuten d&#252;nsten. Mit Mehl best&#228;uben und unter R&#252;hren kurz mitd&#252;nsten. Schlagsahne und 50 ml Wasser zugie&#223;en und aufkochen. So&#223;e 5 Minuten kochen, ab und zu umr&#252;hren. Mit Salz, Pfeffer und frisch geriebener Muskatnuss und einigen Spritzern Zitronensaft w&#252;rzen. Mangoldstiele im kochenden Salzwasser 3 Minuten garen. Bl&#228;tter zugeben und 2 Minuten mitgaren. Mangold abgie&#223;en, gut abtropfen lassen und mit der Zitronensahne mischen. Evtl. mit Salz und Pfeffer nachw&#252;rzen und mit der fein abgeriebenen Zitronenschale bestreut zum Sesam-Fisch servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

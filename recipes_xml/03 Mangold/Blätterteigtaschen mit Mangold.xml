@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-930201198327876">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2eae43b8-36e4-4c4e-bd6c-f08c1aa3acc3">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Blätterteigtaschen mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Bl&#228;tterteigtaschen mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
@@ -38,12 +38,12 @@
         <fr:igdtName ref="petersilie">Petersilie, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, TK</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -53,12 +53,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangoldbl&#228;tter vom Stiel entfernen, in grobe Streifen schneiden, waschen und gut abtropfen lassen.
+Schalotte und Knoblauchzehe in feine W&#252;rfel schneiden. Butterschmalz in einer Pfanne erhitzen, Schalotten und Knoblauchw&#252;rfel darin glasig d&#252;nsten. Gehackte Mangoldbl&#228;tter in den Topf geben und ca. 5 Minuten mitd&#252;nsten.
+Den gew&#252;rfelten K&#228;se mit dem aus dem Topf genommenen und abgetropften Gem&#252;segemisch, Quark und Petersilie gut vermischen und mit Salz und Pfeffer abschmecken.
+Den Bl&#228;tterteig auf einer bemehlten Arbeitsfl&#228;che ausrollen und halbieren. Jede H&#228;lfte mit 2 Essl&#246;ffel F&#252;llung belegen. Das Eigelb verquirlen und die R&#228;nder damit bestreichen. Die Teigplatten zusammenklappen und die R&#228;nder mit einer Gabel leicht andr&#252;cken.
+Die Taschen auf ein mit Backpapier ausgelegtes Backblech legen. Im vorgeheizten Ofen bei 200&#176;C 15-20 Minuten goldbraun ausbacken.
+Mit verschiedenen Blattsalaten, je nach Saison, servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

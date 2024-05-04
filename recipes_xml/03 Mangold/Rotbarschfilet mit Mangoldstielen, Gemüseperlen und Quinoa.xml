@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1198981225798171">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8e0d61cb-ef8e-431f-801d-f48c26241cd8">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Rotbarschfilet mit Mangoldstielen, Gemüseperlen und Quinoa</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Rotbarschfilet mit Mangoldstielen, Gem&#252;seperlen und Quinoa</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="barsch">Rotbarschfilet(s)</fr:igdtName>
@@ -23,10 +23,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="kohlrabi">Kohlrabi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,34 +35,39 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Tasse</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsemischung">Gemüse, (Brunoise)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;semischung">Gem&#252;se, (Brunoise)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="schnittlauch">Schnittlauch, in Röllchen</fr:igdtName>
+        <fr:igdtName ref="schnittlauch">Schnittlauch, in R&#246;llchen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Quinoa auch Andenhirse oder Perureis genannt sind senfkorngro&#223;e Samen, die eine getreide&#228;hnliche Zusammensetzung haben. Die K&#246;rner sind glutenfrei und haben kaum Eigengeschmack.
+Zun&#228;chst die K&#246;rner in hei&#223;em Wasser waschen und anschlie&#223;end wie Reis in knapp kochender Br&#252;he etwa 20 Minuten ziehen lassen. Durch ein Sieb abgie&#223;en und abtropfen lassen. F&#252;r die Brunoise, das sind feinste Gem&#252;sew&#252;rfel von 1-2 mm Kantenl&#228;nge, M&#246;hre und Kohlrabi w&#252;rfeln. Butter in einer Pfanne schmelzen und die gekochten Quinoak&#246;rner zusammen mit der Brunoise hinein geben, vermischen und bei mittlerer Hitze braten. Hin und wieder wenden und mit Pfeffer und Salz w&#252;rzen. Die K&#246;rner sollen leicht gebr&#228;unt und knusprig sein und die Brunoise noch Biss haben.
+Mangoldstiele aus den Bl&#228;ttern herausschneiden und l&#228;ngs vierteln. Etwa 1 Minute blanchieren, abschrecken und mit K&#252;chenkrepp trocknen.
+Aus M&#246;hre und Kohlrabi mit einem Kugelausstecher (15 mm) Perlen heraussch&#228;len und diese etwa 2 Minuten in kochendem Wasser blanchieren, eiskalt abschrecken und trocknen. Wer keinen Kugelausstecher besitzt, kann das Gem&#252;se auch in W&#252;rfel mit einer Kantenl&#228;nge von 1 cm schneiden. 1 EL Butter in einer Pfanne schmelzen, die Gem&#252;sesorten darin erhitzen, hin und wieder wenden und dabei mit Pfeffer und Salz w&#252;rzen.
+Rotbarschfilets von den letzten Gr&#228;ten befreien, auf der Hautseite salzen und in das Mehl dr&#252;cken. &#220;bersch&#252;ssiges Mehl abklopfen und mit dieser Seite in geschmolzener Butter bei mittlerer Hitze braten bis das Filet etwa zwei Drittel durchgegart ist. Man kann es gut an den Seiten beobachten, wenn das glasige Fleisch langsam wei&#223; wird. Dann die Filets wenden und auf ausgestellter Platte knapp durchgaren lassen.
+Rotbarschfilets mit Gem&#252;se und Quinoak&#246;rnern zusammen dekorativ anrichten und mit den Schnittlauchr&#246;llchen bestreuen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

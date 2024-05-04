@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-744381177020966">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e9ec8ea9-cb16-4e37-8d4f-20bd5cbdb6c6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Fischroulade mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="seezunge">Seezunge(n)</fr:igdtName>
@@ -19,15 +19,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold-Blätter, blanchiert</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold - Bl&#228;tter, blanchiert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="steinpilz">Steinpilze, in Öl</fr:igdtName>
+        <fr:igdtName ref="steinpilz">Steinpilze, in &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="garnele">Garnele(n), die Köpfe</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="garnele">Garnele(n), die K&#246;pfe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -38,8 +38,8 @@
         <fr:igdtName ref="tomatensauce">Tomatensauce</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -57,12 +57,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Garnelen br&#252;hen und sch&#228;len. Fischfilets auf einem feuchten Tuch ausgebreitet etwas flach klopfen. Je zwei Fischfilets auf zwei blanchierten Mangoldbl&#228;ttern ausbreiten. Je 2 Garnelenschw&#228;nze und einige fein geschnittene Pilzscheiben darauflegen.
+Die gef&#252;llten Bl&#228;tter zu Rouladen einrollen, fest in Bratfolie wickeln und k&#252;hl stellen.
+F&#252;r die Sauce die Schalotte in der Butter glasig d&#252;nsten, die Garnelenk&#246;pfe anbraten und den Brandy dazugie&#223;en. Einige Minuten einkochen lassen. Tomatensauce dazugeben. Nach 5 Minuten Sahne zuf&#252;gen und nochmals einige Minuten kochen lassen. Salzen, pfeffern und alles durch ein feines Sieb geben.
+Seezungenrollen d&#228;mpfen. Aus der Folie nehmen und mit der Sauce servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2996941452532158">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-53259a76-e6fd-44be-9bca-d12ba64315ac">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kokoscurry mit Garnelen indonesisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
@@ -26,12 +26,12 @@
         <fr:igdtName ref="garnele">Garnele(n), TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="schalotten">Schalotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bohnen">Bohnen, grüne</fr:igdtName>
+        <fr:igdtName ref="bohnen">Bohnen, gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
@@ -39,14 +39,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="auberginen">Aubergine(n)</fr:igdtName>
+        <fr:igdtName ref="gin">Aubergine(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stängel</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#228;ngel</fr:igdtQuantity>
         <fr:igdtName ref="zitronengras">Zitronengras</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="koriander">Koriander, frisch, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -79,18 +79,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Garnelen vorher auftauen lassen und anschlie&#223;end waschen. Diese werden dann, sofern sie bereits gegart sind, erst f&#252;nf Minuten vor Kochzeitende dem Gericht hinzugegeben. Jetzt zuerst die Chilischote waschen, entkernen und fein hacken. Den Ingwer sch&#228;len, putzen und auch fein hacken, das Zitronengras putzen, waschen und in feine Ringe schneiden. Den Koriander waschen, die Bl&#228;tter abzupfen und diese grob hacken. Separat beiseitestellen.
+Jetzt die Kartoffeln sch&#228;len, w&#252;rfeln und waschen. Dann die Mangoldbl&#228;tter von den Stielen l&#246;sen und in breite Streifen schneiden. Die Stiele selbst, wer sie mit verarbeiten mag, in feine Streifen schneiden. Jetzt die Pilze putzen und in grobe St&#252;cke schneiden. Die Schalotte abziehen und auch fein w&#252;rfeln. Nun die Bohnen waschen, putzen und halbieren. Die Karotten sch&#228;len und in d&#252;nne Streifen schneiden. Die Aubergine waschen und in W&#252;rfel schneiden. Auch diese Zutaten beiseite stellen.
+Nun zuerst die gehackte Chili, das Zitronengras und den Ingwer im Wok oder einer gro&#223;en Pfanne
+in Sonnenblumen&#246;l anbraten. Dann den Honig und das Currypulver hinzuf&#252;gen und mit der Sojasauce abl&#246;schen. Direkt danach die Kokosmilch dazugeben und das Ganze zum Kochen bringen. Jetzt alle restlichen Zutaten zusammen in die Sauce geben und alles ca. 10 bis 15 Minuten, je nach gew&#252;nschter Bissfestigkeit, leicht vor sich hin k&#246;cheln lassen.
+5 Minuten vor Ende der Garzeit dann die Garnelen zuf&#252;gen und noch etwas mitziehen lassen. Alles unter st&#228;ndigem R&#252;hren zu Ende garen. Kurz vor Ende den gehackten Koriander unterheben und ggf. etwas f&#252;r die Dekoration des Men&#252;s zur&#252;ck behalten.
+Dazu schmeckt Reis am besten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,37 +1,37 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3291911488784351">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1e203f0d-b1aa-4508-bb38-d95b1c624e6b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Rote Bete-Carpaccio mit Frischkäse-Millefeuille, Blattsalat, Orangensauce und Jakobsmuscheln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Rote Bete-Carpaccio mit Frischk&#228;se-Millefeuille, Blattsalat, Orangensauce und Jakobsmuscheln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="rote_bete">Rote Bete, frisch, nicht vorgekocht</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+        <fr:igdtName ref="k&#252;mmel">K&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="szechuanpfeffer">Szechuanpfeffer, fein gemörsert für die Rote Bete-Scheiben</fr:igdtName>
+        <fr:igdtName ref="szechuanpfeffer">Szechuanpfeffer, fein gem&#246;rsert f&#252;r die Rote Bete-Scheiben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, körniger</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, k&#246;rniger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>20 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>20 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Basilikum, sehr fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), getrocknete, in sehr feine Würfel geschnitten, 3 mm Kantenlänge</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), getrocknete, in sehr feine W&#252;rfel geschnitten, 3 mm Kantenl&#228;nge</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prise(n)</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="piment">Piment d'Espelette oder eine Mischung aus edelsüßem und Rosenpaprika plus Cayennepfeffer</fr:igdtName>
+        <fr:igdtName ref="cayennepfeffer">Piment d'Espelette oder eine Mischung aus edels&#252;&#223;em und Rosenpaprika plus Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
@@ -55,14 +55,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="teigblätter">Strudelblätter bzw. Filo Teigblätter aus dem Kühlregal</fr:igdtName>
+        <fr:igdtName ref="teigbl&#228;tter">Strudelbl&#228;tter bzw. Filo Teigbl&#228;tter aus dem K&#252;hlregal</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>25 g</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter, flüssig</fr:igdtName>
+        <fr:igdtName ref="butter">Butter, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Puderzucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -71,15 +71,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="balsamico">Balsamico</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -107,7 +107,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8</fr:igdtQuantity>
@@ -115,22 +115,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Rote Beten in einem kleinen Topf in Salzwasser mit dem K&#252;mmel 30 Minuten kochen, danach abgie&#223;en und ausk&#252;hlen lassen. Dann die Haut absch&#228;len und die Beten auf der Aufschnittmaschine oder mit einem sehr guten Messer in Scheiben von 2 - 3 mm Dicke schneiden. Man sollte 25 bis 30 d&#252;nne, gleichm&#228;&#223;ige Scheiben erhalten.
+Vier Essteller am &#228;u&#223;eren Rand mit je 6 - 8 Scheiben nebeneinander auslegen und ein wenig Szechuanpfeffer dar&#252;ber streuen.
+Den Frischk&#228;se mit Basilikum und getrockneten Tomaten vermengen, nach Geschmack salzen, mit Piment d&#180;Espelette und Curry pikant abschmecken. Cr&#232;me fra&#238;che und Zitronensaft dazu geben und mischen.
+Ein Blatt Strudelteig d&#252;nn mit fl&#252;ssiger Butter ausstreichen und ein zweites Blatt genau dar&#252;ber legen und andr&#252;cken. Mit einer runden Form von etwa 3 - 4 cm Durchmesser 16 oder 20 Kreise ausstechen und auf Backpapier nebeneinander legen. Mit der restlichen fl&#252;ssigen Butter einpinseln und jeweils etwas Puderzucker dar&#252;ber streuen. 5 - 6 Minuten im 180 Grad hei&#223;en Ofen backen, bis die Teigkreise leicht gebr&#228;unt sind. Abk&#252;hlen lassen.
+Mittig auf jeden Teller einen Teigkreis legen, 1/2 cm hoch mit der Frischk&#228;secreme bestreichen, wieder einen Teigkreis darauf setzen und leicht andr&#252;cken. So weiter verfahren, bis alle Kreise verbraucht sind.
+Den gewaschenen Salat mit 3 EL Oliven&#246;l und 1 EL Balsamico mischen und vorsichtig zwischen Rote Beten und Millefeuille platzieren.
+Von der gewaschenen Bio-Orange Zesten schneiden und locker &#252;ber die Teller streuen. Die Orangen ausdr&#252;cken, den Saft durchseihen und mit den Gew&#252;rzen auf die H&#228;lfte einkochen. Die Gew&#252;rze entfernen und die Orangensauce mit der kalten Butter binden.
+Die Jakobsmuscheln in Oliven&#246;l auf beiden Seiten 1 - 2 Minuten jeweils braten, salzen, pfeffern und auf den Tellern verteilen. Zum Schluss die Orangensauce und insgesamt 3 EL Oliven&#246;l dar&#252;ber tr&#228;ufeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

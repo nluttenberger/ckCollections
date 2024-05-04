@@ -1,0 +1,82 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-66fc6896-088d-4918-b99f-86764566f965">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangold-Lasagne 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>20 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="paprika">Paprikaschote(n), gr&#252;ne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>500 g</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="petersilie">Petersilie</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="thymian">Thymian</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="salbei">Salbei</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="">Meersalz</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se mit Kr&#228;utern</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
+        <fr:igdtName ref="saure_sahne">Sauerrahm</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>12</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">Lasagneplatte(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>80 g</fr:igdtQuantity>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebener, zum Bestreuen</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Butter in einem gro&#223;en Topf erw&#228;rmen. Die Bl&#228;tter vom Mangold von den Stielen trennen. Die dann Stiele fein schneiden und zusammen mit den Zwiebelw&#252;rfeln etwa 5 Min. anschwitzen. Die gr&#252;ne Paprikaschote putzen, in Streifen schneiden und zugeben. Die Knoblauchzehen abziehen, zerdr&#252;cken und ebenfalls dazugeben. Die Tomaten waschen, w&#252;rfeln und ca. 3 Min. mitd&#252;nsten. Nun den Bund Petersilie und die Mangoldbl&#228;tter fein hacken und zuf&#252;gen. Mit Thymian, Salbei und Meersalz w&#252;rzen. Nun noch die H&#228;lfte vom Frischk&#228;se mit der H&#228;lfte des Sauerrahms verr&#252;hren und untermengen.
+Die Lasagneplatten abwechselnd mit dem Gem&#252;se in eine Auflaufform schichten. Den restlichen Frischk&#228;se mit dem &#252;brigen Sauerrahm und dem geriebenen K&#228;se vermischen. Die letzte Schicht Lasagneplatten damit bestreichen.
+Ca. 45 Min. im vorgeheizten Backofen bei 180&#176;C backen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

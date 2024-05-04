@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-385461125159435">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9a3bd5da-f6ce-42ac-8d94-a05b99e628fe">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Wiesenklee-Muffins</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>6 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, TK</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -27,18 +27,18 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken (Schwarzwälder), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken (Schwarzw&#228;lder), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, weiß, gemörsert</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, wei&#223;, gem&#246;rsert</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat, frisch gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,26 +47,24 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="butterkäse">Butterkäse, gerieben</fr:igdtName>
+        <fr:igdtName ref="wiesenklee">K&#228;se (Butterk&#228;se), gerieben, 150 g Wiesenkleebl&#228;tter, blanchiert, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="wiesenklee">Wiesenkleeblätter, blanchiert und gehackt</fr:igdtName>
-      </fr:igdtListLine>
-      <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="grieß">Grieß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="grie&#223;">Grie&#223;</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Bl&#228;tterteig auftauen lassen und die Scheiben etwas ausrollen, so dass mit einer Scheibe zwei Muffinfelder im Blech ausgef&#252;llt werden k&#246;nnen. Das Muffinblech mit Wasser einstreichen und mit Grie&#223; ausstreuen. Die Bl&#228;tterteigscheiben halbieren und in die Muffinmulden einsetzen. &#220;berstehende R&#228;nder nicht abschneiden. Butter erhitzen und darin die Schalotten anschwitzen. Dann die Schinkenw&#252;rfel zugeben und kurz mit anziehen lassen. Nun den Spinat und den Wiesenklee zugeben, alles einmal kr&#228;ftig durchr&#252;hren und vom Herd nehmen.
+Die verschlagenen Eier mit den Gew&#252;rzen abschmecken und mit dem K&#228;se unter das Gem&#252;se mischen. Nun die K&#228;se-Gem&#252;se-Masse in die vorbereiteten Muffinmulden f&#252;llen. Die &#252;berstehenden Bl&#228;tterteigr&#228;nder locker dar&#252;ber legen und das Blech bei 220&#176;C f&#252;r ca. 20 Minuten abbacken.
+Diese "Muffins" harmonieren perfekt zu Fleischgerichten mit eigenst&#228;ndiger Sauce. Als Vorspeise passen sie zu milden Fischgerichten sehr gut, und als Snack zu einem guten Wein sind sie gar k&#246;stlich.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

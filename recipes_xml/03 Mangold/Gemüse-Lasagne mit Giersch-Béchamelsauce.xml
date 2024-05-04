@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4016971617471386">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-c962dc29-41cd-4cd3-86a5-966b25da14bd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gemüse-Lasagne mit Giersch-Béchamelsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gem&#252;se-Lasagne mit Giersch-B&#233;chamelsauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kleiner</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,30 +31,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Natives Olivenöl extra</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Natives Oliven&#246;l extra</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Lasagneblätter</fr:igdtName>
+        <fr:igdtName ref="nudeln">Lasagnebl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Weizenmehl Type 550</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -67,15 +67,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskatnuss, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskatnuss, frisch geriebene</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -87,18 +87,22 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gruyère">Greyerzer</fr:igdtName>
+        <fr:igdtName ref="gruy&#232;re">Greyerzer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Lasagne den Mangold s&#228;ubern und in Streifen schneiden. Die Zwiebel sch&#228;len und fein w&#252;rfeln. 20 g Butter und drei EL &#214;l in einem Topf erhitzen. Mangold und Zwiebeln darin anschwitzen. Mit Muskat, Salz, Pfeffer und Gem&#252;sebr&#252;he w&#252;rzen.
+Karotten und Kohlrabi sch&#228;len und beides in kleine W&#252;rfel schneiden. Die &#252;brige Butter mit dem &#214;l in einem separaten Topf erhitzen und die Gem&#252;sew&#252;rfel darin and&#252;nsten. Mit Salz, Pfeffer und Gem&#252;sebr&#252;he w&#252;rzen.
+F&#252;r die B&#233;chamelsauce, in einem Topf die Butter zergehen lassen. Das Mehl einr&#252;hren und mit Milch und Wasser aufgie&#223;en. Darauf achten, dass keine Kl&#252;mpchen entstehen. Den Frischk&#228;se in die Sauce r&#252;hren. Mit Muskat, Salz, Pfeffer und etwas Zucker abschmecken. Den Giersch hacken und unter die Sauce r&#252;hren.
+Den K&#228;se reiben. Eine Auflaufform etwas fetten und die ersten Lasagnebl&#228;tter hineinpassen. Mit einem Drittel der B&#233;chamelsauce bedecken. Den Mangold darauf verteilen und ein Drittel des geriebenen K&#228;ses dar&#252;ber streuen. Mit einer zweiten Lage Nudelbl&#228;tter bedecken. Wieder ein Drittel Sauce, dann das Karotten-Kohlrabigem&#252;se, etwas K&#228;se und zum Schluss alles mit Lasagnebl&#228;ttern bedecken. Den Rest der B&#233;chamelsauce dar&#252;ber gie&#223;en und den restlichen K&#228;se darauf streuen.
+Im auf 180 &#176;C Umluft vorgeheizten Backofen ca. 45 Minuten auf der mittleren Schiene backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

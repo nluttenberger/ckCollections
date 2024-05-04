@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-458721138966931">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f176fe63-23b2-4223-b804-b30c41e3826d">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kartoffel-Mangold-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ kg</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; kg</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="senf">Senf, süß</fr:igdtName>
+        <fr:igdtName ref="senf">Senf, s&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
@@ -51,30 +51,32 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, Gouda, mittelalt</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, Gouda, mittelalt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln kochen, abgie&#223;en, abd&#228;mpfen, pellen und ausk&#252;hlen lassen. Zwiebeln fein w&#252;rfeln und in 3/4 der Buttermenge and&#252;nsten. Mit dem Mehl best&#228;uben und kurz anschwitzen. Nach und nach die Milch dazugeben, glatt r&#252;hren und bei mittlerer Hitze ca.30-40 Min. kochen. Die Sahne in die So&#223;e geben, aufkochen lassen und passieren. Senf unterr&#252;hren, mit Salz und Pfeffer w&#252;rzen.
+Den Mangold putzen, die Bl&#228;tter abschneiden und kurz in Salzwasser blanchieren. Sofort in Eiswasser tauchen. Abtropfen lassen und in Streifen schneiden. Die Stiele in feine Streifen schneiden und in der restlichen Butter and&#252;nsten, mit den Bl&#228;ttern mischen und mit Salz und Pfeffer w&#252;rzen. Die Kartoffeln in Scheiben schneiden.
+Eine feuerfeste Form gut einfetten. Einen Teil der Kartoffeln dachziegelartig einschichten, Mangold drauflegen, mit etwas Thymian bestreuen und mit So&#223;e bedecken. So fortfahren bis alle Zutaten verbraucht sind. Die letzte Schicht sollte aus Kartoffeln bestehen. Mit K&#228;se bestreuen und im vorgeheizten Backofen bei 190&#176; Grad (Gas 2-3, Umluft 170&#176; Grad) auf der 2.Einschubleiste von unten 40 Min. backen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

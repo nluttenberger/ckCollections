@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3272511486242237">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-e9075066-629a-4492-b086-ef27f134e6be">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lachs Mangold Kuchen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
         <fr:igdtName ref="lachs">Lachsfilet(s)</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="blätterteig">Blätterteig, aus dem Kühlregal</fr:igdtName>
+        <fr:igdtName ref="bl&#228;tterteig">Bl&#228;tterteig, aus dem K&#252;hlregal</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Kugel</fr:igdtQuantity>
@@ -38,11 +38,11 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -51,7 +51,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -61,12 +61,20 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zuerst den Backofen auf 220 Grad Ober-/Unterhitze aufheizen.
+Dann von dem Mangold den Strunk abschneiden und von den Bl&#228;ttern das Wei&#223;e keilf&#246;rmig heraustrennen. Je nach Geschmack kann man mehr oder weniger von dem wei&#223;en Stiel dran lassen. Den Mangold in einem gro&#223;en Topf mit etwas Oliven&#246;l kurz and&#252;nsten, herausnehmen und in einem Nudelsieb abtropfen und abk&#252;hlen lassen. Manchmal bekommt man im Supermarkt den Mangold nur f&#252;nfhundertgrammweise. Ich f&#252;lle dann mit TK-Blattspinat auf.
+In der Zwischenzeit den Lachs, falls noch nicht geschehen, h&#228;uten und in kleine W&#252;rfel schneiden, etwa 5/5 mm, maximal 1/1 cm. Die Sardellenfilets, am besten die in Salzlake eingelegten, abbrausen und alle, bis auf zwei in kleine St&#252;cke schneiden.
+Den Mangold gut ausdr&#252;cken und anschlie&#223;end klein schneiden. Falls mit Spinat erg&#228;nzt wurde, den TK-Spinat auftauen lassen und ebenfalls sehr gut ausdr&#252;cken.
+Mangold, Lachs, Schmand, Sardellenst&#252;ckchen, Eier und eine Handvoll Semmelbr&#246;sel in einer Sch&#252;ssel vermengen und mit Salz, Pfeffer, Parmesan und Zitronensaft abschmecken. Wenn es die Zeit erlaubt, gerne eine halbe Stunde durchziehen lassen. Wenn die Masse zu fl&#252;ssig erscheint, mit Semmelbr&#246;seln binden. Besonders w&#252;rzig wird es, wenn ein gut gereifter Parmesan verwendet wird.
+Den fertigen Bl&#228;tterteig auf einem Backblech ausrollen. Idealerweise eine Backform nehmen, die so gro&#223; wie der Bl&#228;tterteig ist. Auf dem Bl&#228;tterteig die Lachs-Schmand-Masse gleichm&#228;&#223;ig verteilen. Anschlie&#223;end die beiden beiseitegelegten Sardellenfilets halbieren und oben drauf legen.
+Die Backform zuerst direkt auf dem Backofenboden stellen und den Kuchen zehn Minuten backen. Danach den Mozzarella in Scheiben darauf verteilen und die Backform auf die mittlere Schiene stellen. In 15 Minuten bei 200 Grad Ober-/Unterhitze fertig backen.Wenn der Mozzarella noch nicht gebr&#228;unt sein sollte, kann der Kuchen ganz kurz auf h&#246;chster Stufe &#252;berbacken werden.
+Kleiner Tipp, Kinder m&#246;gen Sardellen h&#228;ufig nicht so sehr. Ich lasse die Sardellenst&#252;ckchen dann zuerst weg, verteile die H&#228;lfte der Masse auf einer H&#228;lfte des Bl&#228;tterteigs, mische dann die Sardellenst&#252;ckchen unter die restliche Masse und verteile diese auf der anderen Bl&#228;tterteigh&#228;lfte. Diese Seite markiere ich mit den beiseitegestellten Sardellenfilets.
+Noch ein Tipp, dazu passt hervorragend ein trockener Ros&#233; aus S&#252;dfrankreich, ich pers&#246;nlich bevorzuge einen Chateau du Galoupet.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

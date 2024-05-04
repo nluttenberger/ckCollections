@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2800521432148646">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2a5c7fe9-32b9-4054-b825-a57ce28cea4f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Penne mit Mangold, Thunfisch und Gorgonzola überbacken</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Penne mit Mangold, Thunfisch und Gorgonzola &#252;berbacken</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Penne, glutenfrei</fr:igdtName>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
-        <fr:igdtName ref="thunfisch">Thunfisch im eigenen Saft</fr:igdtName>
+        <fr:igdtName ref="thunfisch">Thunfisch im eigenen Saft z.B. Saupiquet Thunfisch-Filets Naturale &#8211; ohne &#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
@@ -35,38 +35,47 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 ml</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="saucenbinder">Saucenbinder oder Stärke, glutenfrei</fr:igdtName>
+        <fr:igdtName ref="saucenbinder">Saucenbinder oder St&#228;rke, glutenfrei</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Stiele</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter (Pilzkraut), falls zur Hand</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter (Pilzkraut), falls zur Hand</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 TL, gehäuft</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Suppengewürz</fr:igdtName>
+        <fr:igdtQuantity>1 TL, geh&#228;uft</fr:igdtQuantity>
+        <fr:igdtName ref="gew&#252;rz">Suppengew&#252;rz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Penne in Salzwasser bissfest garen, abschrecken und in eine gefettete Auflaufform f&#252;llen. Nach Geschmack pfeffern und sehr wenig salzen.
+Den Backofen auf 180&#176; vorheizen
+Den Mangold, waschen. Die Stiele in 1 cm St&#252;cke, die Bl&#228;tter in Streifen schneiden.
+In einem Topf Wasser zum Kochen bringen und zuerst die Stiele ca. 5 Minuten kochen lassen, dann die Bl&#228;tter f&#252;r 2 Minuten zugeben und die Platte ausschalten. Blanchieren, abgie&#223;en und gut abtropfen lassen.
+Den abgetropften Mangold auf den gew&#252;rzten Nudeln gleichm&#228;&#223;ig verteilen.
+In der Zwischenzeit die getrockneten Tomaten in kleine St&#252;cke, den Gorgonzola in kleine W&#252;rfel schneiden und den Thunfisch abtropfen lassen.
+Sahne, Wein, Muskat, Suppenw&#252;rze, nur 200 g Gorgonzola, Pilzkraut, die geschnittenen Tomaten und den Thunfisch in einen Topf geben und hei&#223; werden lassen. Der K&#228;se soll schmelzen. Mit etwas St&#228;rke nur wenig andicken.
+Die hei&#223;e So&#223;e gleichm&#228;&#223;ig mit einem Sch&#246;pfer auf die Nudeln geben und die restlichen 200 g Gorgonzola darauf verteilen.
+Bei 180&#176; mit Umluft im Backofen 10 Minuten &#252;berbacken.
+Wer keine Glutenunvertr&#228;glichkeit hat, kann nat&#252;rlich normale Nudeln verwenden. Auf das Pilzkraut kann auch verzichtet werden. F&#252;r Vegetarier ist das Gericht auch ohne Thunfisch m&#246;glich; das schmeckt ebenfalls sehr lecker.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3375171502048095">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d7265ba4-d5a2-4d45-963b-ca4ec419efdd">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangoldröllchen in Sahnesauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangoldr&#246;llchen in Sahnesauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 große</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter</fr:igdtName>
+        <fr:igdtQuantity>8 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -31,14 +31,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -47,7 +47,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
-        <fr:igdtName ref="crème">Cremefine oder Sahne</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cremefine oder Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 ml</fr:igdtQuantity>
@@ -55,18 +55,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold gut waschen, Bl&#228;tter vom Stiel entfernen und beiseitelegen. Rest vom Mangold und die Stiele klein schneiden f&#252;r die So&#223;e.
+In einer hohen Sch&#252;ssel 1 Zwiebel, 2 Knoblauchzehen, das Hackfleisch, 1 Ei, Paniermehl, Petersilie und die Gew&#252;rze gut durchkneten.
+Mangoldbl&#228;tter auf das Brett legen und mit Hackfleisch belegen, rollen (auch die Seiten mit Einschlagen) und mit Zwirn zusammen wickeln. So nach einander mit allen Bl&#228;ttern verfahren.
+Backofen mit Backblech auf 120 &#176;C Umluft vorheizen.
+In einer Pfanne Fett oder Oliven&#246;l erhitzen. Dann die R&#246;llchen von allen Seiten gut anbraten.
+Fertig gebratene R&#246;llchen zum Warmhalten in den Backofen schieben.
+Zwiebeln und Knoblauch in der Pfanne scharf anbraten (ich habe die Pfanne genommen, in der die R&#246;llchen gebraten wurden). Den klein geschnittenen Mangold hinzugeben und scharf anbraten und mit Gew&#252;rzen w&#252;rzen.
+Die R&#246;llchen im Ofen zwischendurch wenden.
+Angebratenes Mangoldgem&#252;se in einen Topf geben und mit Cremefine und Milch aufkochen. Dann die R&#246;llchen f&#252;r ca. 15 Minuten in die So&#223;e zum Ziehen legen.
+Dazu passt Reis als Beilage.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

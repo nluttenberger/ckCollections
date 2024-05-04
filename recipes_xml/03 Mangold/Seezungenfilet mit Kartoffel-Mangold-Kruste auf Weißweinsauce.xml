@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-335781117151711">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-808b0b56-3f7f-4cd9-a784-add0d83a7e6a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Seezungenfilet mit Kartoffel-Mangold-Kruste auf Weißweinsauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Seezungenfilet mit Kartoffel-Mangold-Kruste auf Wei&#223;weinsauce</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="seezunge">Seezungenfilets à 180 g</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s) (Seezunge,&#224; 180 g)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>12 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold, blanchiert, in feinen Streifen geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,43 +34,43 @@
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>62 ml</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>5 Körner</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>5 K&#246;rner</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5</fr:igdtQuantity>
         <fr:igdtName ref="wacholder">Wacholderbeere(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fisch-Abschnitte</fr:igdtName>
+        <fr:igdtName ref="fisch">Fisch - Abschnitte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Stange/n</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Stange/n</fr:igdtQuantity>
         <fr:igdtName ref="lauch">Lauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -91,7 +91,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -105,12 +105,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Seezungenfilets mit einer Plastikfolie plattieren und mit Salz und Zitronensaft w&#252;rzen. Die rohen Erd&#228;pfel grob rei&#223;en, mit Salz Pfeffer w&#252;rzen, mit dem fein geschnittenen Mangold und Eidottern vermischen. Diese Masse auf den Seezungenfilets gleichm&#228;&#223;ig verteilen und etwas mit Mehl best&#228;uben. Die Seezungenfilets mit der Erd&#228;pfelkruste zuerst in die hei&#223;e Pfanne (mit Butter und Rosmarinzweig) geben und langsam braten. Wenn die Kruste sch&#246;n goldbraun, die Filets wenden und fertig braten.
+F&#252;r die Wei&#223;weinsauce kaltes Wasser mit allen anderen Zutaten (Wein bis Sellerie) aufkochen lassen. Ca. 2 Stunden ziehen lassen und immer wieder absch&#228;umen. Ausk&#252;hlen lassen und abseihen.
+Aus ca. 50 g Butter und 30 g Mehl eine helle Einmach zubereiten, mit dem Fischfond aufgie&#223;en und durchkochen lassen. Die helle Sauce mit Stabmixer aufmixen und abwechselnd Creme fraiche, Butter und Sahne untermischen. Nochmals aufkochen lassen und mit Salz und Pfeffer abschmecken.
+Als Beilage reicht man frisches Gem&#252;se in Butter geschwenkt.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

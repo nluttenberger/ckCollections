@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2656191417094940">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1c738f07-397c-4d59-9d75-5ac1ae96b816">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Sobanudeln mit Limette-Erdnussdressing</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>225 g</fr:igdtQuantity>
         <fr:igdtName ref="nudeln">Sobanudeln, optional eine andere Nudelsorte</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="lauchzwiebel">Frühlingszwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="lauchzwiebel">Fr&#252;hlingszwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="erdnuss">Erdnüsse</fr:igdtName>
+        <fr:igdtName ref="erdnuss">Erdn&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 EL</fr:igdtQuantity>
@@ -51,26 +51,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>20 g</fr:igdtQuantity>
-        <fr:igdtName ref="honig">Honig</fr:igdtName>
+        <fr:igdtName ref="agavendicksaft">Honig oder Agavendicksaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), getrocknet</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), getrocknete</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pflanzenöl</fr:igdtName>
+        <fr:igdtName ref="">Pflanzen&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Schale der Limette abreiben, die Limette auspressen. Die Erdn&#252;sse fein hacken. Den Knoblauch fein w&#252;rfeln.
+Die Sojaso&#223;e mit Erdnussbutter, der H&#228;lfte der Erdn&#252;sse, der abgeriebenen Limettenschale, dem Saft der ausgepressten Limette, Honig oder Agavendicksaft, Knoblauch, Chili und &#214;l in ein hohes Gef&#228;&#223; geben und mit einem Mixstab fein p&#252;rieren. Mit Salz und Pfeffer nach Geschmack w&#252;rzen.
+Pak Choi waschen, vom Strunk befreien und in mundgerechte St&#252;cke schneiden. Die Fr&#252;hlingszwiebeln in feine Ringe schneiden. Minzbl&#228;tter fein hacken. Die Gurke l&#228;ngs vierteln und in 5 mm breite St&#252;cke schneiden.
+Die Nudeln nach Packungsanweisung garen. Anschlie&#223;end den Pak Choi in den Topf geben und alles zusammen eine Minute im Wasser ziehen lassen. Die Sobanudeln mit Pak Choi abgie&#223;en und im zuvor verwendeten Topf mit dem Erdnussdressing vermengen. Fr&#252;hlingszwiebeln, Gurke, restliche Erdn&#252;sse und Minze ebenfalls in den Topf geben und verr&#252;hren.
+Dieses Rezept wird bei uns immer dann abgewandelt, wenn ich keinen Pak Choi oder Sobanudeln finde.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

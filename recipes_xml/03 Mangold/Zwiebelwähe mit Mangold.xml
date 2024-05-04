@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1803281291634013">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-13542536-cb06-4c3b-8c8a-94dac5de4cd8">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Zwiebelwähe mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Zwiebelw&#228;he mit Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pkt.</fr:igdtQuantity>
-        <fr:igdtName ref="teig">Teig, aus dem Kühlregal, für ein rundes 30 cm Blech</fr:igdtName>
+        <fr:igdtName ref="teig">Teig, aus dem K&#252;hlregal, f&#252;r ein rundes 30 cm Blech</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ EL</fr:igdtQuantity>
-        <fr:igdtName ref="kümmel">Kümmel</fr:igdtName>
+        <fr:igdtQuantity>&#189; EL</fr:igdtQuantity>
+        <fr:igdtName ref="k&#252;mmel">K&#252;mmel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -30,16 +30,16 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="chilischote">Chilischote(n), rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#188; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="appenzeller">Käse (Appenzeller), vollreif</fr:igdtName>
+        <fr:igdtName ref="appenzeller">K&#228;se (Appenzeller), vollreif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
@@ -47,34 +47,42 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Speisestärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Speisest&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>wenig</fr:igdtQuantity>
-        <fr:igdtName ref="muskat">Muskat, aus der Mühle</fr:igdtName>
+        <fr:igdtName ref="muskat">Muskat, aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebeln sch&#228;len, halbieren, in Streifen schneiden. Vom Mangold das Gr&#252;n in 2 cm, die St&#228;ngel in 1 cm breite Streifen schneiden. Die Chili entkernen und in feine Ringe schneiden. Den Appenzellerk&#228;se in kleine W&#252;rfel schneiden.
+Den K&#252;mmel in einer weiten Bratpfanne ohne Fett r&#246;sten, herausnehmen, beiseite stellen. In derselben Pfanne die Butter warm werden lassen. Die Zwiebeln und den Mangold portionenweise bei mittlerer Hitze ca. 12 Min. and&#228;mpfen. Den K&#252;mmel beigeben und mit Salz und Pfeffer w&#252;rzen. Ausk&#252;hlen und abtropfen lassen.
+Den Ofen auf 200&#176; vorheizen.
+Alle Zutaten f&#252;r den Guss mischen. Gut abschmecken.
+Das Kuchenblech mit einem Backpapier auslegen. Das Kuchenblech mit dem Teig auslegen. Den Rand sch&#246;n hochziehen. Den Boden dicht mit einer Gabel einstechen. Etwas k&#252;hl stellen. Die H&#228;lfte der Gem&#252;semischung auf dem Boden verteilen, die H&#228;lfte des K&#228;ses dar&#252;ber streuen. Das restliche Gem&#252;se einf&#252;llen, den restlichen K&#228;se dar&#252;ber verteilen. Den Guss dar&#252;ber gie&#223;en.
+In der unteren H&#228;lfte des Ofens 30 Min. backen
+Dazu passt ein gr&#252;ner Salat.
+Tipp:
+Sie k&#246;nnen in den Belag auch noch ca. 70 g Schinken- oder Speckw&#252;rfeli beimischen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

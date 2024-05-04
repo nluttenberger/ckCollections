@@ -1,52 +1,55 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-353571120659297">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-edba23b6-bc19-44e6-a4e7-256a8a987e02">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lammroulade mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="lachs">Lammlachs(e), natur, nicht zu dick</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="schinken">Schinken (Coppa o.ä.)</fr:igdtName>
+        <fr:igdtName ref="schinken">Schinken (Coppa o.&#228;.)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, mittelgroß</fr:igdtName>
+        <fr:igdtQuantity>1 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, mittelgro&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pkt.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse o.ä.</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se o.&#228;.</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="senf">Senf, grobkörnig</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="senf">Senf, grobk&#246;rnig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="estragon">Kräuter-Sträußchen (Estragon, Thymian, Rosmarin)</fr:igdtName>
+        <fr:igdtName ref="estragon">Kr&#228;uter - Str&#228;u&#223;chen (Estragon, Thymian, Rosmarin)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Lammlachse von beiden Seiten flach klopfen. Dann beide Seiten mit dem Senf bestreichen, danach je eine Scheibe Coppa, Mangold ( Spinat oder B&#228;rlauch geht auch), Fetak&#228;se o.&#228;. der L&#228;nge nach darauf verteilen und die Gew&#252;rzstr&#228;u&#223;chen quer legen. Dann alles zusammenrollen, wie eine Rinderroulade. Zubinden oder klammern. Der Mangold (Spinat, B&#228;rlauch) muss nicht blanchiert und in St&#252;cke gezupft werden.
+Oliven&#246;l in eine hei&#223;e Pfanne geben. Die Rouladen von allen Seiten braun braten. Bei der letzten Seite die Pfanne mit einem Deckel bedecken, Temperatur herunter drehen oder Herd ausmachen und das Fleisch gut durchziehen lassen. Dann ist es noch rosig von innen.
+Wenn man allerdings Sauce dazu haben m&#246;chte, die Lammlachse herausnehmen und in Alufolie wickeln und ein wenig warm stellen. Bratenfond abl&#246;schen mit Rotwein, Balsamico, einem Spritzer Sojaso&#223;e oder nach eigenem Gusto und eink&#246;cheln lassen.
+Beilage nach Lust und Laune, z.B. kleine Rosmarin-Kart&#246;ffelchen und extra d&#252;nne, gr&#252;ne B&#246;hnchen im Coppamantel.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

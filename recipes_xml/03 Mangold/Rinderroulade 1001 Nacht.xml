@@ -1,32 +1,32 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3544101529938051">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b2437048-f827-4873-9b08-ff91a90a3140">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Rinderroulade 1001 Nacht</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
         <fr:igdtName ref="rindfleisch">Rinderroulade(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangoldblätter, rot</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter, rot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Schafskäse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>40 g</fr:igdtQuantity>
-        <fr:igdtName ref="haselnuss">Haselnüsse, gehackte</fr:igdtName>
+        <fr:igdtName ref="haselnuss">Haseln&#252;sse, gehackte</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="ras_el_hanout">Ras el Hanout</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -38,12 +38,12 @@
         <fr:igdtName ref="rotwein">Rotwein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter oder Margarine</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pflanzenfett">Butter oder Margarine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
@@ -51,26 +51,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
         <fr:igdtName ref="lauch">Lauchstange(n) (Porree)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="saucenbinder">Saucenbinder, falls nötig</fr:igdtName>
+        <fr:igdtName ref="saucenbinder">Saucenbinder, falls n&#246;tig</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Man ben&#246;tigt Rouladennadeln oder K&#252;chengarn.
+Den Mangold waschen, die Stiele entfernen und die Bl&#228;tter klein schneiden. Die Stiele aufheben. Die Bl&#228;tter kurz in etwas Butter anschwitzen, dann ausk&#252;hlen lassen.
+Die Rouladen absp&#252;len, trocken tupfen und m&#246;glichst d&#252;nn ausklopfen, anschlie&#223;end mit Pfeffer, etwas Salz (sparsam verwenden, der Schafsk&#228;se ist salzig!) und mit Ras el Hanout w&#252;rzen. Den abgek&#252;hlten Mangold gleichm&#228;&#223;ig auf den Rouladen verteilen, dabei einen Rand zum Einschlagen frei lassen. Die gehackten Haselnusskerne und 2/3 der Rosinen gleichm&#228;&#223;ig auf dem Mangold verteilen. Den Schafsk&#228;se in 4 Teile schneiden und auf die Rouladen legen. Die Mangoldstiele auf die L&#228;nge des Schafk&#228;se zuschneiden und je zwei St&#252;cke an den Schafsk&#228;se legen. Nun den Rand der Rouladen einklappen, die Rouladen wickeln und mit Rouladennadeln, K&#252;chengarn o.&#228;. fixieren.
+Zwiebel, M&#246;hre und Porree putzen und grob zerkleinern.
+Die Rouladen in hei&#223;em Fett in einer tiefen Pfanne scharf von allen Seiten anbraten, das Gem&#252;se dazugeben und mit dem Rotwein abl&#246;schen. Die restlichen Rosinen dazugeben. Das Fleisch ca. 2 Stunden mit Deckel schmoren lassen. Die Rouladen herausnehmen, So&#223;e durch ein Sieb geben und ggf. mit etwas Ras el Hanout und etwas Salz abschmecken.
+Dazu passen Kartoffelp&#252;ree oder die Couscous-Muffins von "Angelkassel":
+https://www.chefkoch.de/rezepte/2286411364564570/Couscous-Muffin.html
+Guten Appetit!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1939301315810494">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a6aadac9-6bd1-4842-bc9b-491b1e55c1a9">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Asiatische Mangold-Nudeln mit Sesam</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 Stück(e)</fr:igdtQuantity>
+        <fr:igdtQuantity>1 St&#252;ck(e)</fr:igdtQuantity>
         <fr:igdtName ref="ingwer">Ingwerwurzel, frisch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="hühnerbrust">Hähnchenbrustfilet(s)</fr:igdtName>
+        <fr:igdtName ref="h&#252;hnerbrust">H&#228;hnchenbrustfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -47,18 +47,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Brühe, zwiebelarm, weizenfrei</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Br&#252;he, zwiebelarm, weizenfrei</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Sesam in einer tiefen Pfanne ohne Fett bei mittlerer Hitze r&#246;sten bis er "schwitzt", beiseite stellen.
+Paprika und Mangold putzen, in Streifen schneiden. H&#228;hnchenfleisch ebenfalls in Streifen schneiden. Ingwer sch&#228;len und klein w&#252;rfeln.
+H&#228;hnchenfleisch mit Ingwer in &#214;l gut anbraten. Gem&#252;se dazugeben, leicht and&#252;nsten. Mit Sherry, Sojaso&#223;e und Br&#252;he abl&#246;schen, etwa 5 Minuten leicht k&#246;cheln lassen. Mit Salz und Pfeffer abschmecken.
+Reisnudeln in einer Sch&#252;ssel mit hei&#223;em Wasser &#252;bergie&#223;en, etwas ziehen lassen, dann abtropfen.
+Sesam zum Gem&#252;se und Fleisch hinzuf&#252;gen, mit Reisnudeln servieren.
+Low FODMAP ist der Name einer in Australien entwickelten Di&#228;t f&#252;r Personen mit multiplen Unvertr&#228;glichkeiten und bedeutet arm an
+Fermentierbaren
+Oligo-
+Di-
+Mono-Sacchariden
+und
+Polyolen.
+Es ist also frei von bzw. arm an Lactose, Gluten, Fructose, Fructan, Gallactan und Zuckeralkohol.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3749791570156120">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4818d6ea-6991-43e8-8dc2-e6c4c94b1560">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Knusprig frittierte Eiernudeln mit Cap Cay Seafood-Tami Goreng Cap Cay Seafood</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="shrimps">Shrimps, roh, geschält, TK</fr:igdtName>
+        <fr:igdtName ref="shrimps">Shrimps, roh, gesch&#228;lt, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>12</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischbällchen (bakso ikan), TK, Asiashop</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischb&#228;llchen (bakso ikan), TK, Asiashop</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>140 g</fr:igdtQuantity>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="süß_saure_sauce">Lee Kum Kee Süß-Saure Sauce Thai-Art Nr. 3, siehe Anhang</fr:igdtName>
+        <fr:igdtName ref="s&#252;&#223;_saure_sauce">Lee Kum Kee S&#252;&#223;-Saure Sauce Thai-Art Nr. 3, siehe Anhang</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="kokoswasser">Kokoswasser, Asiashop, Getränke</fr:igdtName>
+        <fr:igdtName ref="kokoswasser">Kokoswasser, Asiashop, Getr&#228;nke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -43,11 +43,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="arak">Reiswein (Arak Masak)</fr:igdtName>
+        <fr:igdtName ref="reiswein">Reiswein (Arak Masak)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl, helles</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, helles</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="ketjap_manis">Ketjap Manis</fr:igdtName>
+        <fr:igdtName ref="anis">Ketjap Manis</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
@@ -71,11 +71,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), nur die Blätter, ersatzweise Mangold</fr:igdtName>
+        <fr:igdtName ref="brokkoli">Kailan (Chinesischer Brokkoli), nur die Bl&#228;tter, ersatzweise Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="chinakohl">Chinakohl oder Weißkohl</fr:igdtName>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="chinakohl">Chinakohl oder Wei&#223;kohl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>10 g</fr:igdtQuantity>
@@ -83,26 +83,40 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 kleine</fr:igdtQuantity>
-        <fr:igdtName ref="chilischote">Chilischote(n), frische, grün oder TK</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilischote(n), frische, gr&#252;n oder TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Liter</fr:igdtQuantity>
-        <fr:igdtName ref="">Frittieröl</fr:igdtName>
+        <fr:igdtName ref="">Frittier&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Shrimps und Fischb&#228;llchen auftauen lassen. Die Fischb&#228;llchen l&#228;ngs halbieren. Die Nudeln aus der Packung nehmen und mit ausreichend viel Wasser 1 Minute w&#228;ssern. Abseihen und auf einem frischen Geschirrtuch zum Abtrocknen auslegen.
+Die Zutaten f&#252;r die Sauce in einem Sch&#228;lchen mischen und bereitstellen. F&#252;r das optionale Sambal die Chilis waschen und quer in d&#252;nne Scheiben schneiden. In 2 Sch&#228;lchen verteilen und das Kecap Manis dar&#252;ber geben.
+F&#252;r das Gem&#252;se die Karotte waschen, an beiden Enden kappen, sch&#228;len und diagonal in ca. 3 mm dicke Scheiben hobeln.
+Den Blumenkohl waschen, den Stiel am unteren Ende kappen, den Stiel sch&#228;len und quer in d&#252;nne Scheiben schneiden. Die R&#246;schen auftrennen, mundgerecht zerteilen und alles nochmals absp&#252;len.
+Den frischen Kailan waschen, die Bl&#228;tter vom St&#228;ngel abtrennen. Den im unteren Teil holzigen St&#228;ngel ca. 2 - 4 cm oberhalb des 1. Blattes abtrennen und verwerfen. Die d&#252;nnen Blattstiele entlang der Mittelrippe von den Bl&#228;ttern trennen, dabei die Bl&#228;tter l&#228;ngs halbieren. Die Blattstiele und den St&#228;ngel quer in d&#252;nne R&#246;llchen schneiden. Die Blatth&#228;lften quer halbieren und bereit halten. Die R&#246;llchen frittieren. TK-Ware abmessen und auftauen.
+Beim Wei&#223;kohl nur makellose Bl&#228;tter verwenden. Die Bl&#228;tter waschen. Die mittlere Rippe nur verwenden, wenn diese nicht bitter schmeckt. Die Rippe quer in d&#252;nne Scheiben schneiden, die Bl&#228;tter in ca. 2 x 2 cm gro&#223;e St&#252;cke zerkleinern.
+Den frischen Ingwer waschen, sch&#228;len, quer in ca. 4 cm lange St&#252;cke teilen. Die St&#252;cke l&#228;ngs in d&#252;nne Scheiben schneiden und diese zu Streifen zerkleinern. Die Streifen quer zu kleinen W&#252;rfelchen verarbeiten. TK-Ware abwiegen und auftauen lassen.
+Die kleinen, gr&#252;nen Chilis waschen, quer in d&#252;nne Scheiben schneiden, die K&#246;rner belassen, den Stiel verwerfen.
+Das Frittier&#246;l auf 200 &#176;C erhitzen. Die Nudeln in 2 Portionen in ca. 12 Sekunden knusprig frittieren, aber nicht braun werden lassen. Auf die Servierteller geben.
+Die rohen Shrimps in einem Sieb &#252;ber kochendem Wasser d&#228;mpfen. Sobald sie ihre Farbe auf rosa gewechselt haben, sofort entfernen und bereit halten.
+Das Sonnenblumen&#246;l in einem Wok erhitzen. Die Karottenscheiben mit den Blumenkohlscheiben 1 Minute pfannenr&#252;hren. Ingwer und Chili zugeben und 30 Sekunden pfannenr&#252;hren. Die Blumenkohlr&#246;schen mit den Kohlstielen und den Fischb&#228;llchen zugeben und ebenfalls 30 Sekunden pfannenr&#252;hren. Die Kailanbl&#228;tter und die Shrimps zugeben und kurz pfannenr&#252;hren.
+Mit der Sauce abl&#246;schen. Das Cap Cay mit der Sauce &#252;ber die Nudeln geben und sofort mit dem Sambal servieren.
+Anhang: Kecap Tim Ikan: http://www.chefkoch.de/rezepte/3483691519091669/Milde-dunkle-malzig-wuerzige-Sojasauce-Kecap-Tim-Ikan.html
+S&#252;&#223;-Sauer-Scharf-Sauce, Thai-Art Nr. 3:
+https://www.chefkoch.de/rezepte/3344901497085589/Suess-Sauer-Scharf-Sauce-Thai-Art-Nr-3.html</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

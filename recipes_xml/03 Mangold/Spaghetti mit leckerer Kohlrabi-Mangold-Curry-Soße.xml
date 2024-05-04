@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2868111439043592">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b3f38571-e96b-4b5f-9976-8493b29a4e95">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spaghetti mit leckerer Kohlrabi-Mangold-Curry-Soße</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Spaghetti mit leckerer Kohlrabi-Mangold-Curry-So&#223;e</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große Blätter</fr:igdtName>
+        <fr:igdtQuantity>3 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e Bl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kohlrabi">Kohlrabi</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,40 +30,40 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>3 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Rapsöl</fr:igdtName>
+        <fr:igdtName ref="">Raps&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="frischkäse">Frischkäse, fettreduziert, ca. 17% Fettgehalt</fr:igdtName>
+        <fr:igdtName ref="frischk&#228;se">Frischk&#228;se, fettreduziert, ca. 17% Fettgehalt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="curry">Currypulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Msp.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver, nach Belieben auch mehr</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver, nach Belieben auch mehr</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
@@ -73,12 +73,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter waschen und in ca. 1 cm breite Streifen schneiden. Kohlrabi sch&#228;len, vierteln und in ca. 2 mm breite St&#252;cke schneiden. Die Tomaten waschen und je nach Gr&#246;&#223;e vierteln oder achteln. Zwiebel abziehen und zerkleinern, Knoblauchzehe sch&#228;len und pressen oder ganz fein schneiden.
+Das Nudelwasser aufsetzen. Wenn es kocht, etwas salzen, und die Nudeln zugeben. Laut Packungsanweisung garen. Dann absch&#252;tten.
+In der Zwischenzeit 1 EL &#214;l in einer Pfanne erhitzen und die Zwiebeln zugeben. Unter R&#252;hren etwa 2 Minuten glasig d&#252;nsten. Die zerkleinerte Knoblauchzehe (oder 0,5 TL Knoblauchmus) dazugeben und eine weitere Minute d&#252;nsten lassen. Die Kohlrabi zugeben und etwa die H&#228;lfte des Wassers (ca. 50 ml). Pfanne mit einem Deckel schlie&#223;en und circa 3 Minuten garen lassen. Die Hitze auf mittlere Stufe reduzieren. Zwischendurch immer mal schauen, ob noch genug Wasser in der Pfanne ist. Der Boden sollte leicht bedeckt sein, damit die Kohlrabi nicht anbrennt. Wenn Wasser fehlt, noch etwas dazugeben.
+Die zerkleinerten Tomaten und den Frischk&#228;se hinzuf&#252;gen. Falls die So&#223;e zu dick ist noch mit etwas Wasser verd&#252;nnen.
+Die tropfnassen Mangoldbl&#228;tter darauf legen und abdecken. Wenn sie zusammen fallen, alles umr&#252;hren.
+Mit Kurkuma, Curry- und Paprikapulver, Pfeffer, Chilipulver und Salz herzhaft abschmecken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

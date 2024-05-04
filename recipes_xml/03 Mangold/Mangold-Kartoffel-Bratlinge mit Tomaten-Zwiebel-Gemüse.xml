@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2642861415281070">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-95d3540a-ddf2-43e2-bebd-dcba3deede2b">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Kartoffel-Bratlinge mit Tomaten-Zwiebel-Gemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Kartoffel-Bratlinge mit Tomaten-Zwiebel-Gem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,46 +27,54 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Semmelmehl</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Semmelmehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), reif, gehäutet und in Achtel geschnitten</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), reif, geh&#228;utet und in Achtel geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), halbiert und in feine Ringe geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Bund</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; Bund</fr:igdtQuantity>
         <fr:igdtName ref="basilikum">Basilikum, fein geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Rapsöl, oder anderes Pflanzenöl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Raps&#246;l, oder anderes Pflanzen&#246;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarz, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln sch&#228;len, in feine W&#252;rfel schneiden und im D&#228;mpfer oder in Salzwasser garen.
+Mangold gut waschen, Stiele in d&#252;nne Scheiben schneiden. In einem Schmortopf &#214;l erhitzen, den Knoblauch darin anschwitzen und die Stiele danach einstreuen. Auf kleiner Flamme 5 min d&#252;nsten.
+Inzwischen die Mangoldbl&#228;tter in 2 cm breite Streifen schneiden, den Mangoldstielen hinzuf&#252;gen und unter R&#252;hren weich d&#252;nsten.
+Die gegarten Kartoffeln ohne das Kochwasser dazugeben und mit dem Mangold mischen. Mit einem Kartoffelstampfer die Kartoffeln grob zerdr&#252;cken, sodass ein st&#252;ckiger Brei entsteht. Eventuell etwas Kartoffelwasser hinzuf&#252;gen. Mit gemahlenem schwarzen Pfeffer abschmecken und alles abk&#252;hlen lassen.
+Das Ei darunter r&#252;hren und das Semmelmehl hinzuf&#252;gen, bis die Masse so fest ist, dass daraus Bratlinge geformt werden k&#246;nnen.
+In einer Pfanne &#214;l erhitzen und die Bratlinge von beiden Seiten knusprig braun braten.
+In einer anderen Pfanne oder einem Topf &#214;l erhitzen, die Zwiebelringe goldgelb anschwitzen. Die st&#252;ckigen Tomaten dazugeben, alles ungef&#228;hr 5 min schmoren, mit Salz und Pfeffer w&#252;rzen und zum Schluss das Basilikum dar&#252;ber streuen.
+Das Tomatengem&#252;se zu den Bratlingen reichen.
+Ich mache das Essen als Resteessen. Das Kartoffel-Mangold-Gem&#252;se ist eigentlich ein dalmatinisches Rezept und kann allein oder zu Fisch gegessen werden. Dementsprechend bereite ich am Vortag die doppelte Menge von Kartoffeln und Mangold zu und mache dann am n&#228;chsten Tag aus dem Rest mache dann am n&#228;chsten Tag aus dem Rest die Bratlinge.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

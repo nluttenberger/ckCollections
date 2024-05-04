@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3691261557055975">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3f016e5b-2409-4a64-9462-4d2c6884a977">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spinatblätter mit Rindfleisch à la Hongkong</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Spinatbl&#228;tter mit Rindfleisch &#224; la Hongkong</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>400 g</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Blattspinat oder Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Blattspinat oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="sojasauce">Sauce (Kecap Tim Ikan 2, siehe meine Rezepte i.d. Datenbank)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n), vollreif</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,15 +35,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>120 g</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser (Kochwasser, siehe Zubereitung)</fr:igdtName>
+        <fr:igdtName ref="ei">Wasser (Kochwasser, siehe Zubereitung)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 g</fr:igdtQuantity>
-        <fr:igdtName ref="fleischbrühe">Rinderbouillon, gekörnt</fr:igdtName>
+        <fr:igdtName ref="fleischbr&#252;he">Rinderbouillon, gek&#246;rnt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="süß_saure_sauce">Sauce (Süß-Sauer-Scharf-Sauce, Thai-Art Nr. 3, s. meine Rezepte i.d. Datenbank)</fr:igdtName>
+        <fr:igdtName ref="s&#252;&#223;_saure_sauce">Sauce (S&#252;&#223;-Sauer-Scharf-Sauce, Thai-Art Nr. 3, s. meine Rezepte i.d. Datenbank)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -51,26 +51,30 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="sonnenblumenöl">Sonnenblumenöl</fr:igdtName>
+        <fr:igdtName ref="sonnenblumen&#246;l">Sonnenblumen&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="sesamöl">Sesamöl, hell</fr:igdtName>
+        <fr:igdtName ref="sesam&#246;l">Sesam&#246;l, hell</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="peperoni">Peperoni, rote, gewürfelt</fr:igdtName>
+        <fr:igdtName ref="peperoni">Peperoni, rote, gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das leicht angefrorene Rindersteak quer zur Faserrichtung in d&#252;nne Streifen schneiden. Mit Kecap Tim Ikan ca. 15 Minuten marinieren.
+Die Spinat- oder Mangoldbl&#228;tter waschen und mit den Blattstielen als Ganzes verwenden. Gro&#223;e Mangoldbl&#228;tter quer und l&#228;ngs halbieren. Die Tomaten waschen, den Stiel entfernen, h&#228;uten und l&#228;ngs achteln. Die K&#246;rner belassen. Die rote Peperoni waschen, den Stiel entfernen und zu 3/4 von unten her diagonal in ca. 1 cm breite St&#252;cke schneiden. Die K&#246;rner belassen. Das obere Viertel einseitig aufschneiden, aufklappen, entkernen und quer in d&#252;nne Streifen schneiden. Die Streifen zu kleinen W&#252;rfelchen verarbeiten. Die roten Chilischoten waschen, den Stiel auf ca. 1 mm k&#252;rzen und die Chilischoten als Ganzes verwenden.
+Die Spinat- oder Mangoldbl&#228;tter in 300 g schwach gesalzenem Wasser kochen, bis die Bl&#228;tter zusammenfallen (ca. 1 Minute). Abseihen und das Kochwasser f&#252;r die Sauce verwenden. Die Zutaten f&#252;r die Sauce mischen.
+Einen Wok erhitzen, das Sonnenblumen&#246;l zugeben und hei&#223; werden lassen. Die marinierten Fleischst&#252;cke zusammen mit den Peperonist&#252;cken und den Chilischoten zugeben und 2 Minuten bei gr&#246;&#223;ter Hitze pfannenr&#252;hren. Dann auf die vorgew&#228;rmten Servierteller geben. Die Spinat- oder Mangoldbl&#228;tter mit der Sauce und den Tomaten im Wok kurz erhitzen und auf die Servierteller verteilen. Nach Belieben garnieren und warm als Beilage servieren.
+Anmerkung: Kangkung (bot. Ipomea reptans) wird h&#228;ufig Wasserspinat genannt, weil er in flachen Gew&#228;ssern gez&#252;chtet und wie Spinat verarbeitet und gegessen wird. Auf Lombok ist es DAS Gem&#252;se und auf den Speisekarten der Restaurants finden sich stets mehrere Kangkunggerichte. Der Kangkung hat keinen ausgepr&#228;gten Geschmack und wird meist mit viel Sauce serviert. Ein guter Ersatz daf&#252;r ist frischer Blattspinat oder Mangold.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

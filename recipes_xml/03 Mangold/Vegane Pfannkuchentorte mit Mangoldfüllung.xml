@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3379901502808656">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6569125e-da6c-4043-b28c-641ecf7fbd69">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegane Pfannkuchentorte mit Mangoldfüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegane Pfannkuchentorte mit Mangoldf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>60 g</fr:igdtQuantity>
         <fr:igdtName ref="dinkel">Dinkelmehl</fr:igdtName>
@@ -18,11 +18,11 @@
         <fr:igdtName ref="linsen">Linsenmehl, rotes</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="backpulver">Backpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -31,7 +31,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>350 g</fr:igdtQuantity>
@@ -46,20 +46,20 @@
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¾ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#190; TL</fr:igdtQuantity>
         <fr:igdtName ref="muskat">Muskat, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>170 g</fr:igdtQuantity>
@@ -70,23 +70,26 @@
         <fr:igdtName ref="hefe">Hefeflocken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¾ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#190; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¾ TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity>&#190; TL</fr:igdtQuantity>
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r die Pfannkuchen alle Zutaten in einer Sch&#252;ssel verr&#252;hren und 10 min. quellen lassen. W&#228;hrenddessen den Mangold (Stiel und Bl&#228;tter) in d&#252;nne Streifen schneiden und die Zwiebel w&#252;rfeln, den Knoblauch pressen.
+In einem Topf das Oliven&#246;l erhitzen und Zwiebel und Knoblauch anschwitzen, dann den Mangold dazugeben. Das Gem&#252;se braten, bis es gar ist und die Fl&#252;ssigkeit verdampft ist. Mit den Gew&#252;rzen abschmecken und abk&#252;hlen lassen.
+In einer Pfanne etwas &#214;l erhitzen und aus dem Teig vier Pfannkuchen von beiden Seiten ausbacken. Solange die Pfannkuchen in der Pfanne braten, den Sojaquark mit den Hefeflocken und den Gew&#252;rzen glattr&#252;hren.
+Nun die Pfannkuchentorte zusammenbauen. Daf&#252;r Pfannkuchen, Sojacreme und Mangold in dieser Reihenfolge stapeln. Die Sojacreme nicht ganz bis zum Rand verstreichen, damit sie nicht rausquillt.  Mit Sojacreme und Mangold als Topping abschlie&#223;en.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3082451460902986">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-39b292f4-2058-4381-b622-3e10a383e950">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Bauchlappensteak-Räder</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Bauchlappensteak-R&#228;der</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1.000 g</fr:igdtQuantity>
         <fr:igdtName ref="rindfleisch">Flanksteak</fr:igdtName>
@@ -19,34 +19,44 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="spinat">Blattspinat oder Mangold</fr:igdtName>
+        <fr:igdtName ref="mangold">Blattspinat oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
         <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="parmesan">Parmesan oder Pecorino</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="mandel">Mandelblättchen</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="mandel">Mandelbl&#228;ttchen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="pesto">Pesto</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Holzspie&#223;e</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Garn</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Damit das Bauchlappenst&#252;ck - Flanksteak - aufgeklappt werden kann, sollte es vom Metzger l&#228;ngs im Butterflycut durchgeschnitten werden. Jetzt aufklappen und die Innenseite mit Tomatenmark bestreichen. Wichtig: am oberen Rand einen Streifen von zwei Zentimeter frei lassen.
+Als n&#228;chste Schicht kommt Blattspinat und dann eine Schicht Kochschinken auf das Flanksteak. Ganzfl&#228;chig belegen und ein paar Spritzer Pesto darauf verstreichen. Zum Abschluss noch ein wenig Mandelbl&#228;ttchen und Parmesan auf das Flanksteak und dann ist es bereit zum Rollen. Vorsichtig das untere Ende einrollen und darauf achten, dass es ganz fest eingerollt wird. Jetzt k&#246;nnt ihr die Rolle mit Holzspie&#223;en fixieren und mit einem Bratgarn verbinden.
+Das Flanksteak jetzt in gleichm&#228;&#223;ig dicke Scheiben schneiden und je nach Dicke f&#252;r 15 Minuten auf den Grill legen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

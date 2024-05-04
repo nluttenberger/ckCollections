@@ -1,52 +1,52 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-940861199701419">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d00ca300-275d-489e-a941-cd0d63ede9e4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spargel-Mangold-Rollen auf Weißweinsauce mit Lachsnockerl</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Spargel-Mangold-Rollen auf Wei&#223;weinsauce mit Lachsnockerl</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="lachs">Lachsfilet(s)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="ei">Eiweiß</fr:igdtName>
+        <fr:igdtName ref="ei">Eiwei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, weißer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, wei&#223;er</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="meerrettich">Meerrettich, gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="dill">Dill, feingehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Scheibe/n</fr:igdtQuantity>
-        <fr:igdtName ref="weißbrot">Weißbrot ohne Rinde (z.B. Toastbrot)</fr:igdtName>
+        <fr:igdtName ref="wei&#223;brot">Wei&#223;brot ohne Rinde (z.B. Toastbrot)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>8 Stange/n</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, weiß</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Stange/n</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, grün</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, gr&#252;n</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -55,7 +55,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="hartweizengrieß">Grieß (Hartweizengrieß</fr:igdtName>
+        <fr:igdtName ref="hartweizengrie&#223;">Grie&#223; (Hartweizengrie&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -67,10 +67,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butterschmalz">Butterschmalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -79,10 +79,10 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 ml</fr:igdtQuantity>
-        <fr:igdtName ref="wein">Wein, weiß</fr:igdtName>
+        <fr:igdtName ref="wein">Wein, wei&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -90,11 +90,11 @@
         <fr:igdtName ref="schalotten">Schalotte(n), fein gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="cayennepfeffer">Cayennepfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -105,12 +105,22 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Lachs und Wei&#223;brot w&#252;rfeln, zusammen mit Eiwei&#223;, Salz, Pfeffer, Zitronensaft und Meerrettich zu einer homogenen Masse p&#252;rieren. Die Zutaten m&#252;ssen kalt sein, am besten in einer Metallsch&#252;ssel im Eiswasserbad verarbeiten. Es muss eine Konsistenz entstehen, aus der man Nockerl formen kann, gegebenenfalls noch etwas Wei&#223;brot dazugeben. Zum Schluss den Dill untermengen. Bis zur Weiterverarbeitung k&#252;hl stellen.
+Mit etwas bemehlten H&#228;nden Nockerl formen, diese ca. 7 Minuten in knapp siedendem Wasser ziehen, aber nicht kochen lassen.
+Spargel sch&#228;len und je nach Dicke 4 &#8211; 6 Minuten kochen, auf einem Geschirrtuch abk&#252;hlen lassen. 4 Stangen gr&#252;nen Spargel mitkochen lassen, den ben&#246;tigen wir f&#252;r die Sauce. Vom Mangold die groben Stiele entfernen und die Bl&#228;tter ca. 1 Minute im sprudelnden Spargelsud blanchieren, in kaltes Wasser geben, auf Geschirrt&#252;chern ausbreiten, den Sud aufheben.
+Aus Mehl, Hartweizengrie&#223;, Eiern, Salz, Muskat und &#214;l einen geschmeidigen Teig kneten, abgedeckt ruhen lassen.
+Die Spargelstangen leicht salzen, in die Mangoldbl&#228;tter wickeln. Den Nudelteig d&#252;nn ausrollen, in ca. 2 cm breite und 60 cm lange Bandnudeln schneiden. Spiralf&#246;rmig vom Fu&#223; bis kurz vor den Kopf um die Spargelstangen wickeln, sodass sich die R&#228;nder jeweils etwas &#252;berlappen. Portionsweise auf einem Siebeinsatz in Pfanne oder Topf abgedeckt 10 Minuten d&#228;mpfen, vorsichtig herausnehmen.
+2 Schalotten in etwas Butter anbraten, mit 100 ml Spargelfond und 100 ml gutem, trockenem Wei&#223;wein abl&#246;schen. Die Sauce um ca. 1/4 reduzieren. 100 ml s&#252;&#223;e Sahne, einen guten Spritzer Zitronensaft, Salz und Cayennepfeffer dazugeben, kurz aufkochen lassen, zusammen mit dem gr&#252;nen Spargel p&#252;rieren und durch ein Sieb streichen, abschmecken und bis zum Servieren warm halten.
+Butterschmalz in der Pfanne erhitzen, die Spargelstangen rundum goldbraun knusprig braten. Mit einem S&#228;gemesser jeweils in drei Teile schneiden, senkrecht auf dem Teller anrichten, mit der So&#223;e einen Spiegel darum gie&#223;en, mit den Lachsnockerl servieren.
+Varianten:
+Statt Mangold kann Spinat verwendet werden oder auch hauchd&#252;nn geschnittener, gekochter Schinken.
+Die fertig gewickelten Spargelrollen mit fl&#252;ssiger Butter einpinseln, in eine Gratinform geben, mit Parmesan bestreuen und unter dem Gro&#223;fl&#228;chengrill bei 240&#176; goldbraun gratinieren. So kann man das Gericht gut vorbereiten und muss nur noch den Ofen einschalten.
+Eine Bildanleitung ist zu finden unter diesem Link: http://www.chefkoch.de/forum/2,33,329079/Hias-quot-30-aus-40-Zutaten-Menue-quot-nach-einer-Idee-von-Alberto.html</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

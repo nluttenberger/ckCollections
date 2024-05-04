@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1995891323271594">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d07c4f29-2d02-4d04-962e-b1288881e012">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Albertos Mangold-Ravioli mit Chickenwings und Shiitake-Pilze</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>300 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl, 405</fr:igdtName>
@@ -27,7 +27,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, junger, nur das Grüne</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, junger, nur das Gr&#252;ne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="dijonsenf">Dijonsenf, (Provençale)</fr:igdtName>
+        <fr:igdtName ref="dijonsenf">Dijonsenf, (Proven&#231;ale)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
@@ -58,20 +58,20 @@
         <fr:igdtName ref="knoblauch">Knoblauch, frischen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="piment">Piment</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName ref="huhn">Hähnchenflügel, ohne Flügelspitzen</fr:igdtName>
+        <fr:igdtName ref="huhn">H&#228;hnchenfl&#252;gel, ohne Fl&#252;gelspitzen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -86,27 +86,31 @@
         <fr:igdtName ref="sahne">Sahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Butter und Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Butter und Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="piment">Piment, frisch aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="piment">Piment, frisch aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mit den Zutaten f&#252;r den Nudelteig einen geschmeidigen, jedoch festen Teig herstellen. Nach einer Stunde Ruhezeit mit der Maschine d&#252;nne Bahnen auswalzen.
+Mangoldbl&#228;tter in gesalzenem Wasser 3-4 Minuten kr&#228;ftig kochen, mit der Sch&#246;pfkelle die Bl&#228;tter heben, kurz abtropfen lassen und ins Eiswasser tauchen. Bl&#228;tter gut pressen bis kein Wasser mehr austritt und zusammen mit dem Knoblauch sehr fein hacken. Anschlie&#223;end alle Zutaten f&#252;r die F&#252;llung miteinander mischen, abschmecken und kurz ruhen lassen.
+Aus den Teigbahnen Scheiben ausschneiden, diese mit der F&#252;llung belegen, mit einer zweiten Scheibe passend zudecken und den Rand gut durch pressen verschlie&#223;en. Evtl. R&#228;nder anfeuchten.
+Chickenwings genau am Gelenk in zwei Teile trennen. Butter und Oliven&#246;l in einem breiteren Topf aussch&#228;umen lassen, die Chickenwings hinein geben und so lange anbraten, bis sie rundherum sch&#246;n goldbraun geworden sind. Dabei ziemlich oft umr&#252;hren.
+Chickenwings mit der Sch&#246;pfkelle aus dem Topf nehmen, w&#252;rzen und erkalten lassen. Fett entsorgen und die Kruste mit der Br&#252;he vom Topfboden aufl&#246;sen. Pilze dazugeben und ein paar Minuten k&#246;cheln. Das Fleisch von den Knochen der Chickenwings trennen, das Fleisch mit der Sahne, den Oliven in den Topf geben und alles auf niedriger Hitze reduzieren lassen. Etwas Butter darin schmelzen lassen und, nach dem die Ravioli ca. 3-4 Minuten gegart wurden, mit Parmesansp&#228;nen servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

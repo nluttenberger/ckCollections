@@ -1,28 +1,28 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-219321091284337">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d9ffe709-755b-412c-8d9e-e98ad4647091">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold mit Vinaigrette</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="balsamico">Balsamico, evtl. auch etwas mehr-je nach Geschmack</fr:igdtName>
+        <fr:igdtName ref="balsamico">Balsamico, evtl. auch etwas mehr - je nach Geschmack</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,19 +30,26 @@
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>15 Körner</fr:igdtQuantity>
-        <fr:igdtName ref="">Nelke(n) - Pfeffer oder Koriander (fein zerstoßen)</fr:igdtName>
+        <fr:igdtQuantity>15 K&#246;rner</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Nelke(n) - Pfeffer oder Koriander (fein zersto&#223;en)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen, die Bl&#228;tter von den Stielen trennen und beides getrennt in mundgerechte St&#252;cke schneiden.
+Die Stiele in kochendem Salzwasser ca. 5 Minuten garen, die Bl&#228;tter dazugeben, aufkochen lassen und dann zusammen noch ca. 3 Minuten garen.
+Danach das Wasser abgie&#223;en und das Gem&#252;se sofort mit kaltem Wasser abschrecken (damit es seine Farbe beh&#228;lt) und auf einem Sieb abtropfen lassen.
+Die &#252;brigen Zutaten f&#252;r die Vinaigrette gut verr&#252;hren.
+Den Mangold in eine flache Sch&#252;ssel geben und mit der Vinaigrette &#252;bergie&#223;en und einige Zeit ziehen lassen.
+Sehr fein schmeckt das Ganze, wenn man vor dem servieren etwas grob geraspelten Pecorino dar&#252;ber gibt.
+Lecker als Vorspeise!
+Dazu passt gut ein Ciabatta.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

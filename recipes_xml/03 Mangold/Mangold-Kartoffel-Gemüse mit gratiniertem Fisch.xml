@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2465861388417361">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-90f1b8d1-40aa-425f-b68f-7afe473623eb">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Kartoffel-Gemüse mit gratiniertem Fisch</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Kartoffel-Gem&#252;se mit gratiniertem Fisch</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>750 g</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
@@ -19,7 +19,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 Zehe/n</fr:igdtQuantity>
@@ -35,14 +35,14 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfefferkörner</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfefferk&#246;rner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -61,12 +61,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Gem&#252;se:
+Kartoffeln mit Schale ca. 20 Min. kochen, derweil Mangold waschen und in St&#252;cke schneiden. Die Kartoffeln pellen und in ca. ein Zentimeter dicke St&#252;cke schneiden.
+Die Butter in einer Pfanne langsam zum Schmelzen bringen, Zwiebeln und die H&#228;lfte vom gehackten Knoblauch kurz and&#252;nsten, den Mangold dazugeben und nach weiteren 10 Min. die Kartoffelw&#252;rfel zuf&#252;gen.
+Koriandersamen und Pfefferk&#246;rner m&#246;rsern, zum Gem&#252;se geben und mit Salz und Muskatnuss abschmecken.
+Fisch:
+In einer f&#252;r den Backofen geeigneten Pfanne etwas Butter, die andere H&#228;lfte des Knoblauchs und den Fisch von beiden Seiten anbraten.
+Tomaten zuf&#252;gen, kurz mitbraten, salzen und pfeffern nach Geschmack.
+Mit Parmesan zudecken und bei 200 Grad Oberhitze oder Grillfunktion im Ofen gratinieren lassen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

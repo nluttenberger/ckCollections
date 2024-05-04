@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2261421361464184">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d86519cc-b56a-4300-84e3-19193f4fa4cf">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kabeljaufilet mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
         <fr:igdtName ref="kabeljau">Kabeljaufilet(s)</fr:igdtName>
@@ -18,7 +18,7 @@
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salzwasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -42,11 +42,11 @@
         <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -57,12 +57,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold vom Strunk befreien und gr&#252;ndlich waschen, quer zum Stiel in ca. 1 - 2 cm gro&#223;e St&#252;cke schneiden. In Salzwasser 3 - 4 Minuten blanchieren und mit kaltem Wasser abschrecken. Beiseite stellen.
+Die Zwiebeln klein schneiden, mit der Margarine in die kalte Pfanne geben und glasig anschwitzen. Den Speck zugeben und braten, den Mangold zugeben und alles in der hei&#223;en Pfanne vermengen. Zitronensaft und die Gew&#252;rze zugeben und die Kabeljaufilets auf die Mischung legen.
+Die Thymianzweige auf die Kabeljaufilets legen und mit geschlossenem Deckel ca. 20 - 30 Minuten d&#252;nsten (ich warte immer auf die fertigen Kartoffeln, die ich zeitgleich mit den Zwiebeln anschalte). Lecker anrichten und servieren.
+Wer m&#246;chte, kann einen Teil des Gemischs aus der Pfanne (ohne den Fisch) noch in einem weiteren Topf p&#252;rieren und mit Sahne oder Fischfond, etc. zu einer So&#223;e pimpen - aber das ist Geschmackssache.
+Achtung: Die meisten Kabeljaufilets haben trotz "Filet" Gr&#228;ten - also bitte Vorsicht.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-609651160899396">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8308cca2-01af-433a-a2c2-cc3b1aefef83">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Lasagne mit Mangold und Tomatensauce</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ kg</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n) aus der Dose oder Reste an Tomatensaucen</fr:igdtName>
+        <fr:igdtName ref="tomatensauce">Tomate(n) aus der Dose oder Reste an Tomatensaucen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
@@ -43,30 +43,33 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Paniermehl, am besten selbst geriebenes trockenes Weißbrot</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Paniermehl, am besten selbst geriebenes trockenes Wei&#223;brot</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebeln und Knoblauch kleinhacken und mit dem kleingeschnittenen Mangold (Stiele und Bl&#228;tter) in etwas &#214;l weich d&#252;nsten. Parallel die Tomaten k&#246;cheln, salzen und pfeffern, mit Chili nach Bedarf sch&#228;rfen. In eine feuerfeste Form abwechselnd einschichten: Mangold, Lasagnebl&#228;tter und gew&#252;rfelten Mozzarella, Tomatensauce und frische Basilikumbl&#228;tter, geriebenen Parmesan. Mit einer Schicht gew&#252;rfeltem Mozzarella, vermischt mit Parmesan und Paniermehl enden.
+Den Auflauf ca. 45 Minuten bei 180 Grad im Ofen backen.
+Die Lasagnebl&#228;tter m&#252;ssen weich sein, die K&#228;se/Brotmischung knusprig braun gebacken sein.
+Das Gericht eignet sich hervorragend zur Resteverwertung von "roten" Pastasaucen, wie z.B.: Sauce Bolognese oder Thunfischtomatensauce oder nur einfacher Tomatensauce. Wir finden die Kombination von Mangold und Tomate einfach genial.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

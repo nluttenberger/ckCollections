@@ -1,0 +1,95 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d3f42c27-5bed-42fb-941c-4b417786224b">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Dal mit Roten Linsen und Mangold</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>150 g</fr:igdtQuantity>
+        <fr:igdtName ref="linsen">Linsen, rote</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Dose</fr:igdtQuantity>
+        <fr:igdtName ref="kokosmilch">Kokosmilch, ca. 400 g</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>etwas</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="sonnenblumen&#246;l">Ghee, Butterschmalz (vegan Kokosfett, Sonnenblumen&#246;l)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="curcuma">Kurkumapulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+        <fr:igdtName ref="koriander">Korianderpulver</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmelsamen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>&#189;</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kl. St&#252;ck(e)</fr:igdtQuantity>
+        <fr:igdtName ref="ingwer">Ingwerwurzel</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Spritzer</fr:igdtQuantity>
+        <fr:igdtName ref="limette">Zitronensaft oder Limettensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Handvoll</fr:igdtQuantity>
+        <fr:igdtName ref="koriandergr&#252;n">Koriandergr&#252;n, optional</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebel, Ingwer und Knoblauch fein w&#252;rfeln. Mangold gut waschen. Die groben Stiele w&#252;rfeln und die Bl&#228;tter in Streifen schneiden. Die Chilischote fein schneiden. M&#246;hre putzen und in W&#252;rfel schneiden. Linsen waschen.
+Gekl&#228;rte Butter, alternativ Kokosfett, Sonnenblumen&#246;l oder Butterschmalz in einer Pfanne bei mittlerer Temperatur erhitzen. Kreuzk&#252;mmelsamen etwas anr&#246;sten, Zwiebel dazugeben und glasig werden lassen. Gew&#252;rze und Tomatenmark dazugeben und ebenfalls etwas r&#246;sten. Gew&#252;rfelte Mangoldstiele, M&#246;hre und Chili mitbraten. Knoblauch dazugeben. Die abgetropften Linsen beif&#252;gen und mit Kokosmilch aufgie&#223;en. Mit Salz und Pfeffer w&#252;rzen. Bei kleiner Hitze ca. 10 Min. k&#246;cheln lassen, bis die Linsen gar sind. Bei Bedarf etwas Wasser dazu gie&#223;en.
+Den frischen Koriander klein schneiden und mit den Mangoldbl&#228;ttern dazugeben. Solange mitkochen, bis der Mangold zusammen gefallen ist. Anschlie&#223;end die Pfanne von der Hitze nehmen. Das Gericht mit einem Spritzer Zitronen- oder Limettensaft abrunden.
+Dazu passt Reis oder Naan Brot.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

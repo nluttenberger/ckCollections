@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3862021588012818">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-7e44434f-281a-423e-8012-d2034f7dd7fc">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Käsebuchteln auf Mangoldgemüse</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>K&#228;sebuchteln auf Mangoldgem&#252;se</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="dinkel">Dinkelmehl Type 630</fr:igdtName>
@@ -26,19 +26,19 @@
         <fr:igdtName ref="milch">Milch, zimmerwarme</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="zucker">Zucker</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl extra vergine</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l extra vergine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kleine</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -50,16 +50,16 @@
         <fr:igdtName ref="emmentaler">Emmentaler, fein gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ EL</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; EL</fr:igdtQuantity>
         <fr:igdtName ref="mascarpone">Mascarpone</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Butter und geriebener Parmesan für die Form</fr:igdtName>
+        <fr:igdtName ref="parmesan">Butter und geriebener Parmesan f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -79,7 +79,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühepulver</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;hepulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -91,7 +91,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -105,12 +105,19 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Hefeteig Mehl und Salz mischen. Die Hefe mit Zucker in der Milch aufl&#246;sen und dann zum Mehl geben. Das &#214;l einlaufen lassen und alles gut verkneten. Der Teig soll sich vom Sch&#252;sselrand l&#246;sen. Abgedeckt ca. 1 Stunde gehen lassen.
+F&#252;r die F&#252;llung in der Zwischenzeit die Zwiebel sch&#228;len und eine H&#228;lfte davon ganz fein w&#252;rfeln. In etwas Fett anbraten. Mit fein geriebenem Parmesan, Emmentaler und Mascarpone mischen und mit Salz und Pfeffer nach Gusto w&#252;rzen.
+Den Teig in vier Teile teilen und jedes Teil etwas ausrollen. Ein Viertel der F&#252;llung darauf geben und den Teig um die F&#252;llung schlie&#223;en.
+Eine geeignete Auflaufform buttern und mit geriebenem Parmesan ausstreuen. Die Teigteile mit der Nahtstelle nach unten in die Form geben, das Ganze abdecken und ca. 1 Stunde gehen lassen.
+Das Rohr auf 180 &#176;C Ober-/Unterhitze vorheizen und die gef&#252;llten Buchteln darin ca. 25 Minuten backen. Jetzt mit dem restlichen Emmentaler bestreuen und nochmals ca. 5 Minuten backen, bis der K&#228;se zerlaufen ist.
+F&#252;r das Gem&#252;se den Mangold s&#228;ubern und in grobe Streifen schneiden. Eine Zwiebel sch&#228;len (oder die restliche Zwiebel von der F&#252;llung mit verwenden) und w&#252;rfeln.
+Butterschmalz in einem Topf erhitzen und den Mangold zusammen mit den Zwiebelw&#252;rfeln darin angehen lassen. Sobald er zusammengefallen ist, mit Gem&#252;sebr&#252;he, Muskatnuss, Salz und Pfeffer w&#252;rzen. Eine Knoblauchzehe sch&#228;len, fein w&#252;rfeln und ebenfalls zum Gem&#252;se geben. Eventuell etwa Wasser zugeben und den Mangold weichkochen. Den Mangold mit etwas Mehl best&#228;uben und zum Schluss die Sahne unterr&#252;hren.
+Die gebackenen K&#228;sebuchteln auf dem Gem&#252;se anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

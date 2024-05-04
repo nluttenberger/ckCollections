@@ -1,24 +1,24 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1925481313931119">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-51592244-8ff1-4a99-bf95-543e43a245a6">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Kalbskotelett mit Mangold</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="kalbfleisch">Kalbskotelett(s) oder Kalbsschnitzel</fr:igdtName>
+        <fr:igdtName ref="schweinefleisch">Kotelett(s), oder Schnitzel vom Kalb</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>4 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="kartoffel">Kartoffel(n), gelbe</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -34,27 +34,31 @@
         <fr:igdtName ref="sherry">Sherry</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Kartoffeln sch&#228;len und in kleine W&#252;rfel schneiden. Knoblauchzehe sch&#228;len und w&#252;rfeln. Mangoldstrunk aufschneiden, waschen und zuerst wei&#223;es Stielgem&#252;se in Stifte, gr&#252;ne Bl&#228;tter in Rollen schneiden.
+In einem recht gro&#223;en Topf mit passendem Deckel Kartoffeln mit Knoblauch in &#214;l anbraten, umr&#252;hren, wei&#223;e Stiele hinzuf&#252;gen und 2 Minuten anbraten, umr&#252;hren, tropfnasse gr&#252;ne Mangoldbl&#228;tter hinzuf&#252;gen, Temperatur herunter schalten und Deckel auflegen. Ca. 15-20 Minuten d&#252;nsten, mit Zitronensaft, Salz, Pfeffer und Muskat w&#252;rzen.
+In der Zwischenzeit Kalbskoteletts salzen und pfeffern und entweder in einer Pfanne in Butter oder Oliven&#246;l anbraten oder in einer kleinen Auflaufform bei 200 Grad im Ofen grillen, dann wird eventuell die Schwarte knuspriger. Bei beiden Zubereitungsarten kann am Ende der Bratensatz mit einem Spritzer Zitronensaft oder Sherry losgekocht werden.
+Schmeckt fantastisch und liefert viel Eisen, Magnesium und Fols&#228;ure. Je nach Hunger mit mehr oder weniger Kartoffeln zuzubereiten.
+Sehr schnell, einfach und ideal in der Schwangerschaft!</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

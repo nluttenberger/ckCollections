@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1167061222776307">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-db44d3f2-7c1c-47ed-8e7b-4702f6e146eb">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Vegetarische Cannelloni mit Mangold und Nüssen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Vegetarische Cannelloni mit Mangold und N&#252;ssen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -27,15 +27,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), (fein gewürfelt)</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), (fein gew&#252;rfelt)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 gr. Dose/n</fr:igdtQuantity>
-        <fr:igdtName ref="tomate">Tomate(n), in Stücken</fr:igdtName>
+        <fr:igdtName ref="tomate">Tomate(n), in St&#252;cken</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Handvoll</fr:igdtQuantity>
-        <fr:igdtName ref="nüsse">Nüsse</fr:igdtName>
+        <fr:igdtName ref="n&#252;sse">N&#252;sse, (gehackt)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -59,38 +59,47 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="käse">Käse, geriebenen</fr:igdtName>
+        <fr:igdtName ref="k&#228;se">K&#228;se, geriebenen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
         <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus den 250g Mehl, den Eiern und etwas Wasser einen elastischen Nudelteig kneten und dann in Folie gewickelt ruhen lassen.
+2 EL &#214;l in einem 2 Liter fassenden Topf erhitzen und eine Zwiebel darin glasig d&#252;nsten. Die st&#252;ckigen Tomaten dazu geben, sowie das Tomatenmark, den fein gehackten Knoblauch und etwas Ketchup. Gut durchr&#252;hren und dann leise k&#246;cheln lassen.
+In der Zwischenzeit den Mangold grob hacken. In einer gro&#223;en Pfanne (oder beschichteten Topf) das restliche &#214;l erhitzen und die andere Zwiebel darin glasig d&#252;nsten. Die gehackten N&#252;sse dazu geben und diese leicht r&#246;sten. Dann den Mangold dazugeben, durchgaren und mit Salz und Pfeffer abschmecken.
+Die Butter in einem kleine Topf zerlassen und die 2 EL Mehl hineingeben. Nach und nach die Br&#252;he hinzugeben, bis eine s&#228;mige, bechamelartige So&#223;e entstanden ist.
+Aus dem Nudelteig per Hand oder Nudelmaschine 1-2mm dicke und ca. 10 x 15 gro&#223;e Platten herstellen.
+Den Ofen auf 200&#176;C vorheizen.
+In eine passende Auflaufform (nicht zu flach und nicht zu hoch, ca. 6cm hoher Rand) die H&#228;lfte der bechamelartigen So&#223;e hineingeben.
+Die Nudelplatten mit der Mangold-Nuss-Mischung bef&#252;llen und zu nach beiden Seiten offenen R&#246;llchen zusammenrollen. Diese dann in die Auflaufform geben.
+Die Tomatenso&#223;e nach Geschmack mit Salz, Zucker, Pfeffer und Oregano abschmecken. Dann die R&#246;llchen mit dieser So&#223;e bedecken. (Sollte man Probleme mit dem Platz bekommen, kann man die R&#246;llchen auch in 2 Schichten legen, dazwischen muss dann aber Tomatenso&#223;e, da sie sonst an den Auflagestellen nicht gut garen.) Obenauf noch den Rest der anderen So&#223;e und das Ganze mit geriebenem K&#228;se bestreuen.
+Den Ofen auf 180&#176;C (Umluft 160-170&#176;C) herunterregeln und die Cannelloni hinein geben. Wenn der K&#228;se eine leichte Br&#228;unung annimmt, sind die Nudelr&#246;llchen gar.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

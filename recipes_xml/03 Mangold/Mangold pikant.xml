@@ -1,56 +1,59 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2940521446365427">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-b7036dcc-8c26-4889-84c1-ee43fdb12a25">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold pikant</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsezwiebel">Gemüsezwiebel(n)</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Zehe/n</fr:igdtQuantity>
         <fr:igdtName ref="knoblauch">Knoblauch</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="olivenöl">Olivenöl, kalt gepresst</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l, kalt gepresst</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
         <fr:igdtName ref="gorgonzola">Gorgonzola</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Tasse</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein oder Wasser</fr:igdtName>
+        <fr:igdtQuantity>&#189; Tasse</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein oder Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebeln und den Knoblauch sch&#228;len und klein hacken. Den Mangold waschen und die harten Str&#252;nke entfernen. Den Gorgonzola in kleine W&#252;rfel teilen.
+In einem ausreichend gro&#223;en Topf oder einer Pfanne das Oliven&#246;l erhitzen und bei mittlerer Temperatur zun&#228;chst die Zwiebeln glasig braten. Anschlie&#223;end den Knoblauch 1 Min mitd&#252;nsten, dann die Pinienkerne ca. &#189; min anr&#246;sten. Mit &#189; Tasse Wei&#223;wein oder Wasser abl&#246;schen. Nun den Mangold zuf&#252;gen, gut salzen und ca. 5 min d&#252;nsten, bis er beginnt zusammenzufallen. Der Mangold sollte noch bissfest sein.
+Den Herd ausstellen und die Gorgonzolaflocken auf dem Mangold verteilen und mit geschlossenem Deckel kurz warten, bis der K&#228;se geschmolzen ist.
+Das pikante Gem&#252;se ist gut zu kombinieren mit Schweizer R&#246;sti und mit gebratenem Lachs.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

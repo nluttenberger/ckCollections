@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3715671562349504">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-17ce2a55-7a75-445a-bd04-61e0f472ea01">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Erbsencurry mit Bockshornklee</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>3 EL</fr:igdtQuantity>
         <fr:igdtName ref="pflanzenfett">Pflanzenmargarine</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
-        <fr:igdtName ref="zwiebel">Zwiebel(n), ca. 140 g, klein gewürfelt</fr:igdtName>
+        <fr:igdtName ref="zwiebel">Zwiebel(n), ca. 140 g, klein gew&#252;rfelt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 TL, gestr.</fr:igdtQuantity>
-        <fr:igdtName ref="cumin">Kreuzkümmelpulver</fr:igdtName>
+        <fr:igdtName ref="cumin">Kreuzk&#252;mmelpulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL, gestr.</fr:igdtQuantity>
@@ -59,34 +59,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="bockshornklee">Bockshornkleeblätter oder frischer Spinat oder Mangold</fr:igdtName>
+        <fr:igdtName ref="bockshornklee">Bockshornkleebl&#228;tter oder frischer Spinat oder Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="erbsen">Erbsen, TK</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>140 g</fr:igdtQuantity>
-        <fr:igdtName ref="cashew">Cashewnüsse</fr:igdtName>
+        <fr:igdtName ref="cashew">Cashewn&#252;sse</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>400 ml</fr:igdtQuantity>
-        <fr:igdtName ref="mandel">Mandeldrink oder Sojadrink, nicht so süß</fr:igdtName>
+        <fr:igdtName ref="mandel">Mandeldrink oder Sojadrink, nicht so s&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zuerst die Cashewn&#252;sse in warmem Wasser 20 Min. einweichen. Danach absch&#252;tten und mit dem Pflanzendrink zu einer So&#223;e mixen.
+Die Margarine erhitzen, Zwiebeln, Chili, Ingwer und Knoblauch etwa 2 Min. darin anschwitzen. Die restlichen Gew&#252;rzpulver kurz mit anschwitzen und mit der gemixten So&#223;e auff&#252;llen.
+Die Bockhornkleebl&#228;tter waschen, trocknen und etwas kleinschneiden. Zur So&#223;e geben und ca. 5 Min. k&#246;cheln lassen. &#214;fter mal umr&#252;hren.
+Dann die Erbsen untermischen, aufkochen und nochmal ca. 5 Min unter R&#252;hren k&#246;cheln lassen. Evtl. noch mit Pflanzendrink etwas verd&#252;nnen. Mit Salz und Pfeffer abschmecken.
+Servieren kann man mit Reis oder Fladenbrot.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

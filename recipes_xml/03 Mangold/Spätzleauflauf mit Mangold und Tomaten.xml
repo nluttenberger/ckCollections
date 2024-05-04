@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2267351362126976">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4b46c9e3-5f38-4338-8b99-1e86f8fc7c20">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Spätzleauflauf mit Mangold und Tomaten</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Sp&#228;tzleauflauf mit Mangold und Tomaten</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Spätzle</fr:igdtName>
+        <fr:igdtName ref="nudeln">Sp&#228;tzle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
@@ -23,7 +23,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="bergkäse">Bergkäse</fr:igdtName>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -34,11 +34,11 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Meersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -53,12 +53,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Sp&#228;tzle nach Packungsanweisung garen.
+Mangold putzen, waschen und gut abtropfen lassen. Bl&#228;tter in grobe Streifen schneiden und die Stiele fein hacken. Tomaten in kochendem Wasser blanchieren, h&#228;uten, vierteln und entkernen. K&#228;se entrinden und grob raspeln. Zwiebel sch&#228;len und in feine Ringe schneiden.
+Zwiebeln in einer gro&#223;en Pfanne in der Butter and&#252;nsten, Sp&#228;tzle und die Mangoldstiele dazugeben, leicht mit Salz und Muskat w&#252;rzen und 1-2 Min. braten. Mangoldbl&#228;tter, Tomaten, Sahne und Milch  dazugeben, gut mischen und einmal aufkochen lassen.
+Die Mischung in eine Auflaufform geben, den K&#228;se gut untermengen und im vorgeheizten Backofen auf der zweiten Schiene von unten bei 220 Grad (Gas 3-4, Umluft bei 200 Grad) 20 Min. &#252;berbacken.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3710711561242522">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1dedf4d2-5563-4ffa-9caa-d783f09657a4">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Spargel-Päckchen à la Gabi</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Spargel-P&#228;ckchen &#224; la Gabi</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>800 g</fr:igdtQuantity>
-        <fr:igdtName ref="kartoffel">Kartoffeln, festkochende, geschält, fächerartig eingeschnitten</fr:igdtName>
+        <fr:igdtName ref="kartoffel">Kartoffeln, festkochende, gesch&#228;lt, f&#228;cherartig eingeschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
@@ -23,27 +23,27 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>700 g</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, Blätter blanchiert, Stiele in Stücke geschnitten</fr:igdtName>
+        <fr:igdtName ref="mangold">Mangold, Bl&#228;tter blanchiert, Stiele in St&#252;cke geschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1.000 g</fr:igdtQuantity>
-        <fr:igdtName ref="spargel">Spargel, weißer, geschält, harte Enden abgeschnitten</fr:igdtName>
+        <fr:igdtName ref="spargel">Spargel, wei&#223;er, gesch&#228;lt, harte Enden abgeschnitten</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), rote, gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Tasse</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsebrühe">Gemüsebrühe</fr:igdtName>
+        <fr:igdtName ref="gem&#252;sebr&#252;he">Gem&#252;sebr&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer, schwarzer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer, schwarzer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -57,12 +57,15 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Ein Backblech mit Backpapier auslegen, die Kartoffeln darauf verteilen, mit 2 EL &#214;l bepinseln, salzen und im vorgeheizten Backofen bei 180 Grad ca. 30 Min. backen. Nach 15 Min. mit Rosmarin und Parmesan bestreuen.
+Die Mangoldbl&#228;tter auf eine Arbeitsfl&#228;che geben, den Spargel quer darauf legen, Mangoldbl&#228;tter dar&#252;berklappen, Spargelspitzen sichtbar lassen, -enden einpacken. Evtl. mit K&#252;chengarn umwickeln.
+Das restliche &#214;l in einer beschichteten Pfanne erhitzen, Zwiebeln und Mangoldstiele hierin and&#252;nsten, Gem&#252;sebr&#252;he angie&#223;en und die Mangoldp&#228;ckchen darin 10 Min. garen.
+Herausnehmen und auf einer vorgew&#228;rmten Platte anrichten. Gem&#252;sesud mit Butter, Salz, Pfeffer und Petersilie w&#252;rzen, auf den Mangoldp&#228;ckchen verteilen und mit den Parmesankartoffeln servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

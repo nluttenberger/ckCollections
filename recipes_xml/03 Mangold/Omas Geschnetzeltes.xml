@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2974221450004754">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-65899099-e43b-4830-8740-182a6bf1338a">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Omas Geschnetzeltes</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="schweinefleisch">Schweinefleisch, nicht zu mager</fr:igdtName>
@@ -26,16 +26,16 @@
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ Liter</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein, trocken, z.B. Silvaner</fr:igdtName>
+        <fr:igdtQuantity>&#189; Liter</fr:igdtQuantity>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein, trocken, z.B. Silvaner</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>5 Prise(n)</fr:igdtQuantity>
@@ -50,19 +50,22 @@
         <fr:igdtName ref="essig">Essiggurke(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Fett zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Fleisch klein schneiden und in Fett stark anbraten. Die Zwiebel, Gurken und die Tomate w&#252;rfeln und dazugeben und weiter anbraten. Mit dem Wein abl&#246;schen und solange einkochen, bis nur noch sehr wenig Fl&#252;ssigkeit &#252;brig ist, danach die geputzten und in Scheiben geschnittenen Pilze dazugeben.
+Den Mangold waschen und danach in feine Streifen schneiden. (Stiel und Bl&#228;tter verarbeiten.) Den Mangold zum Fleisch geben und leicht anschwitzen. Etwas Wasser angie&#223;en, bis der Mangold zusammen gefallen ist, danach mit Wasser angie&#223;en und mit Salz, Pfeffer und Essiggurkenwasser (ca. 4 - 5 EL) und Muskatnuss abschmecken. Es sollte alles mit Wasser bedeckt sein.
+Danach f&#252;r ca 1h bei kleiner Stufe weiter k&#246;cheln. Am Schluss mit Mehl abbinden und noch einmal aufkochen.
+Am besten schmecken dazu Nudeln. Wenn man es mag, kann man dazu noch Preiselbeeren reichen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

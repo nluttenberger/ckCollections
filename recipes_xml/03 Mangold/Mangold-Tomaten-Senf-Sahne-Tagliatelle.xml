@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-210281087993915">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-a1342f4c-89a5-4c16-abd9-dcfa91f3d9cf">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Tomaten-Senf-Sahne-Tagliatelle</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="mangold">Mangold (Menge s. Rezeptbeschreibung)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -30,31 +30,38 @@
         <fr:igdtName ref="nudeln">Tagliatelle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="tomate">Tomate(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="parmesan">Parmesan, frisch gerieben</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="parmesan">Parmesan, frisch geriebener</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold waschen und gr&#252;ndlich putzen. Ich nehme immer 1 bis 3 Stauden Mangold, kommt drauf an, wie gro&#223; sie sind. Lieber sind mir die jungen, kleinen Stauden, davon nehme ich 2 bis 3.
+Anschlie&#223;end die Bl&#228;tter von den Stielen trennen (an der Rippe entlang schneiden). Einige Stiele aufheben, am besten von den jungen Bl&#228;ttern. Die Bl&#228;tter in breite Streifen schneiden, Stiele fein w&#252;rfeln. Tomaten waschen, bei sehr fester Schale h&#228;uten, die Kerne entfernen und das Fruchtfleisch in kleine W&#252;rfel schneiden.
+Eine gro&#223;e Pfanne erhitzen, die H&#228;lfte der Butter hinein geben. Die gew&#252;rfelten Stiele dazugeben und glasig d&#252;nsten. Anschlie&#223;end den Mangold zuf&#252;gen, restliche Butter oben drauf legen und mit einem Deckel (oder Alufolie) zugedeckt etwa 8 - 10 min garen lassen.
+Die Nudeln in einem gro&#223;en Topf mit sprudelndem Salzwasser al dente kochen.
+Die Sahne mit Senf verr&#252;hren und gut aufschlagen. Mit etwas Salz und Pfeffer w&#252;rzen.
+Wenn der Mangold zusammengefallen ist, die Senfsahne hinzugeben und etwas 3 - 5 min leicht k&#246;cheln lassen. Anschlie&#223;end die Tomatenw&#252;rfel hinzugeben und nochmals zugedeckt etwa 5 min garen lassen. Mit Salz, Pfeffer und Muskat abschmecken.
+Die Nudeln gut abtropfen lassen und in die Pfanne zur Sauce geben. Vorsichtig vermischen, sofort mit frisch geriebenem Parmesan servieren.
+Dazu passt ein sch&#246;ner Blattsalat mit Balsamico-Dressing</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

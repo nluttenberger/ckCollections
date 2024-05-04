@@ -1,20 +1,20 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3205571477153529">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-39e9e745-3a14-4547-836d-3e4cef933699">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gemüse-Linsen-Vollkorn-Auflauf</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gem&#252;se-Linsen-Vollkorn-Auflauf</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>125 g</fr:igdtQuantity>
-        <fr:igdtName ref="nudeln">Vollkornnudeln (Dinkelnudeln)</fr:igdtName>
+        <fr:igdtName ref="dinkel">Vollkornnudeln (Dinkelnudeln)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 ½ Liter</fr:igdtQuantity>
+        <fr:igdtQuantity>1 &#189; Liter</fr:igdtQuantity>
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,7 +39,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
-        <fr:igdtName ref="karotte">Möhre(n)</fr:igdtName>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>TL</fr:igdtQuantity>
@@ -55,30 +55,35 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="">Pfeffer, frisch gemahlen</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Pfeffer, frisch gemahlen</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>g</fr:igdtQuantity>
-        <fr:igdtName ref="emmentaler">Käse, gerieben (z.B. Emmentaler)</fr:igdtName>
+        <fr:igdtName ref="emmentaler">K&#228;se, geriebener (z.B. Emmentaler)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
-        <fr:igdtName ref="butter">Butter oder alternativ 1 EL Olivenöl</fr:igdtName>
+        <fr:igdtName ref="oliven&#246;l">Butter oder alternativ 1 EL Oliven&#246;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse in Scheiben (z.B. Gouda)</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se in Scheiben (z.B. Gouda)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Wasser in einem Topf zum Kochen bringen und die Dinkel-Vollkornnudeln nach Anweisung der Packungsbeilage weich kochen. Danach abgie&#223;en und mit einem Messer klein schneiden.
+Die roten Linsen in ein Sieb geben und mit Wasser waschen. Dann in einem anderen Topf geben und zusammen mit etwa 500 ml Wasser zum Kochen bringen. Dazwischen den Ingwer sehr fein schneiden und mit in den Linsentopf geben. Die Linsen 15 bis 20 Minuten kochen, bis sie zu einem weichen Brei zerkocht sind und der Brei auch nicht mehr fl&#252;ssig ist. Dann die Gew&#252;rze hinzuf&#252;gen.
+Mangold und Lauch waschen und klein schneiden. Die M&#246;hre mit dem Sparsch&#228;ler sch&#228;len und sehr fein schneiden. Das Gem&#252;se dann mit in den Linsentopf geben (nicht mehr erhitzen) und alles gut durchr&#252;hren. Dann die Vollkornnudeln und den geriebenen K&#228;se hinzuf&#252;gen und alles gut durchmischen.
+Eine gr&#246;&#223;ere Auflaufform mit Butter oder Oliven&#246;l fetten und dann die Gem&#252;se-Nudel-Linsen-K&#228;se-Masse darauf verteilen. Zum Schluss noch die K&#228;sescheiben darauf legen.
+Bei 160 &#176;C (Umluft) im Backofen ca. 30 Minuten backen.
+Tipp: Das Gericht eignet sich hervorragend zur Resteverwertung, denn es kann mit jeglicher Pasta und mit allem m&#246;glichen Gem&#252;se zubereitet werden.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

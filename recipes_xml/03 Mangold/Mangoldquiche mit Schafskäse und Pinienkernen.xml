@@ -1,0 +1,106 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-142efc3b-7c3e-49f6-85db-278a555a8a3b">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Mangoldquiche mit Schafsk&#228;se und Pinienkernen</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>320 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Weizenmehl Type 1050</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>160 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter, kalte</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">Wasser</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1.200 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>3 EL</fr:igdtQuantity>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>75 g</fr:igdtQuantity>
+        <fr:igdtName ref="pinienkerne">Pinienkerne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>n. B.</fr:igdtQuantity>
+        <fr:igdtName ref="chilischote">Chilischote(n), getrocknete</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">s&#252;&#223;e Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4</fr:igdtQuantity>
+        <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>60 g</fr:igdtQuantity>
+        <fr:igdtName ref="bergk&#228;se">Bergk&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Aus Mehl, Butter und Wasser einen M&#252;rbeteig kneten und k&#252;hlstellen.
+Eine Quicheform mit 32 cm Durchmesser fetten, mit dem Teig auslegen, dabei einen Rand hochziehen.
+Den Mangold waschen und Bl&#228;tter sowie Stiele in Streifen schneiden.
+Die kleingew&#252;rfelten Zwiebeln zusammen mit den gepressten Knoblauchzehen und den Stielen and&#252;nsten.
+Derweil die Pinienkerne in einer Pfanne ohne Fett kurz anr&#246;sten.
+Die in Streifen geschnittenen Bl&#228;tter zusammen mit den Pinienkernen zu den Mangoldstielen geben und mit Salz, Pfeffer und getrockneten Chilis w&#252;rzen. Wenn die Bl&#228;tter zusammenfallen, die Pfanne beiseitestellen und den Inhalt etwas abk&#252;hlen lassen.
+Den Schafsk&#228;se in W&#252;rfel schneiden und wenn der Mangold etwas erkaltet ist, hinzuf&#252;gen.
+F&#252;r den Guss saure Sahne, s&#252;&#223;e Sahne, Eier und Gew&#252;rze mischen.
+Etwa die H&#228;lfte des Gusses unter den Belag heben und auf den Teig geben, den restlichen Guss dar&#252;ber gie&#223;en und mit dem Bergk&#228;se bestreuen.
+Im vorgeheizten Ofen bei Ober- und Unterhitze 220 Grad auf der unteren Einschubleiste ca. 30 Minuten backen. Die Eigenschaften des eigenen Ofens beachten!
+Variation: Man kann die Pinienkerne auch sehr gut durch Waln&#252;sse ersetzen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

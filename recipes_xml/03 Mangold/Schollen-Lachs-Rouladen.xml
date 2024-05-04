@@ -1,21 +1,21 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1270781232376185">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-03bb6063-1ecc-4234-bb98-6ef4e2744479">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Schollen-Lachs-Rouladen</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>4</fr:igdtQuantity>
-        <fr:igdtName ref="fisch">Fischfilet(s), (Schollenfilets), ohne Haut à ca. 180 g</fr:igdtName>
+        <fr:igdtName ref="fisch">Fischfilet(s), (Schollenfilets), ohne Haut &#224; ca. 180 g</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>8 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="kohlrabi">Kohlrabi, (Kohlrabiblätter), alternativ Mangoldblätter oder große Spinatblätter</fr:igdtName>
+        <fr:igdtQuantity>8 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="kohlrabi">Kohlrabi, (Kohlrabibl&#228;tter), alternativ Mangoldbl&#228;tter oder gro&#223;e Spinatbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -34,23 +34,26 @@
         <fr:igdtName ref="sahne">Schlagsahne</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Das Zanderfilet in W&#252;rfel schneiden und leicht anfrieren lassen. Danach die Fischw&#252;rfel mit Sahne, Salz und Pfeffer im Mixer zu einer glatten Farce verarbeiten. Das Ei trennen, den Dotter anderweitig verwenden, das Eiklar zu Schnee schlagen. Den Eischnee vorsichtig unter die Zanderfarce heben.
+Die Gem&#252;sebl&#228;tter kurz in kochendem Wasser oder im Dampfgarer blanchieren, in Eiswasser abschrecken und mit K&#252;chenpapier abtupfen. Den Lachs in d&#252;nne Streifen schneiden. Die Schollenfilets auf der Hautseite mit etwas Zanderfarce bestreichen und mit den Gem&#252;sebl&#228;ttern belegen. Erneut mit Farce bestreichen und mit Lachsstreifen belegen.
+Die Schollenfilets vorsichtig aufrollen und in eine leicht gefettete gelochte Garform geben. Bei 85&#176; ca. 20 Minuten im Dampf garen.
+Die R&#246;llchen schmecken sehr gut zu Topinamburp&#252;ree mit Rote Bete Julienne oder mit Weinschaumsauce zu Rote Bete Gem&#252;se.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

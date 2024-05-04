@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1169551223042985">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-9a400141-2973-4951-a7d8-3fe2dff1686f">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Krautstielgratin</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold (Krautstiele)</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,8 +46,8 @@
         <fr:igdtName ref="ei">Ei(er)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Prise(n)</fr:igdtQuantity>
@@ -55,22 +55,29 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>80 g</fr:igdtQuantity>
-        <fr:igdtName ref="gruyère">Käse (Gruyère), geriebener</fr:igdtName>
+        <fr:igdtName ref="gruy&#232;re">K&#228;se (Gruy&#232;re), geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="butter">Butter für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="butter">Butter f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Krautstiele waschen. Die Bl&#228;tter von den Stielen trennen und die Stiele in fingerbreite Streifen schneiden. Diese Streifen in ca. 5 cm lange St&#252;cke schneiden.
+In einer Pfanne nun Milch und Wasser aufkochen. Salzen und die Stiele hinein geben. W&#228;hrend ca. 10-15 Min. weich garen. Dann absch&#252;tten und gut abtropfen lassen.
+W&#228;hrend die Stiele garen, in einer anderen Pfanne die Butter erhitzen. Die Krautstielbl&#228;tter beif&#252;gen, leicht salzen und unter Wenden so lange and&#252;nsten, bis sie zusammengefallen sind. In ein Sieb sch&#252;tten und gut abtropfen lassen.
+Die Schinkentranchen nun in Streifen schneiden.
+Eine Gratinform ausbuttern. Die Stiele, den Schinken und zwei Drittel der Bl&#228;tter in die Form geben.
+Die restlichen Bl&#228;tter mit dem Quark, dem Rahm, den Eiern, Salz, Pfeffer und Muskatnuss in ein hohes Gef&#228;&#223; geben und mit einem Stabmixer p&#252;rieren. Dann den geriebenen Gruy&#232;re untermischen. Diese Sauce &#252;ber die Krautstiele verteilen.
+Das Gratin im vorgeheizten Backofen bei 200&#176;C auf der zweituntersten Schiene etwa 20 Min. backen.
+Dazu passen Salzkartoffeln oder Nudeln.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

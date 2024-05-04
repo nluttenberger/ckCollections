@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-637981164639924">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ff4734f5-509e-4f48-9af7-5ae0ae1765e2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Wiesenchampignons mit Mangoldfüllung</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Wiesenchampignons mit Mangoldf&#252;llung</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>12 große</fr:igdtQuantity>
+        <fr:igdtQuantity>12 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="champignon">Champignons (Wiesenchampignons)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -22,27 +22,31 @@
         <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>1 m.-große</fr:igdtQuantity>
+        <fr:igdtQuantity>1 m.-gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Pck.</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Fett für die Form</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">Fett f&#252;r die Form</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Den Mangold putzen, in Streifen schneiden, die Stiele dabei entfernen und so lange in Wasser kochen, bis er gar ist.
+Inzwischen die Champignons putzen, die Stiele davon entfernen und diese klein schneiden. Die Zwiebel und den Knoblauch sch&#228;len und klein schneiden.
+Den Mangold abgie&#223;en und ausdr&#252;cken. Etwas Oliven&#246;l in einen Topf geben und die Zwiebel mit dem Knoblauch und den Champignonstielen anbraten. Dann den Mangold dazugeben und mit Salz und Pfeffer w&#252;rzen.
+Die Champignonk&#246;pfe in der Zwischenzeit in eine gefettete Auflaufform setzen und diese mit dem Mangoldgemisch f&#252;llen. Zum Schlu&#223; den Feta-K&#228;se zerbr&#246;seln und dar&#252;ber streuen.
+Im vorgeheizten Backofen bei 200&#176;C f&#252;r ca. 20 Minuten &#252;berbacken. Hei&#223; servieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

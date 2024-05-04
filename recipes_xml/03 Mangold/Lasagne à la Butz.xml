@@ -1,25 +1,25 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1902691310110117">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-08611f89-b5b6-4366-9187-74569caa39df">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Lasagne à la Butz</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Lasagne &#224; la Butz</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1.000 g</fr:igdtQuantity>
         <fr:igdtName ref="hackfleisch">Hackfleisch, Lamm und Rind gemischt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="gewürz">Gewürzmischung (Köfte baharati), türkisches Hackbratengewürz</fr:igdtName>
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (K&#246;fte baharati), t&#252;rkisches Hackbratengew&#252;rz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>2 große</fr:igdtQuantity>
-        <fr:igdtName ref="gemüsezwiebel">Gemüsezwiebel(n)</fr:igdtName>
+        <fr:igdtQuantity>2 gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="gem&#252;sezwiebel">Gem&#252;sezwiebel(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6</fr:igdtQuantity>
@@ -30,7 +30,7 @@
         <fr:igdtName ref="rote_bete">Rote Bete</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>3 große</fr:igdtQuantity>
+        <fr:igdtQuantity>3 gro&#223;e</fr:igdtQuantity>
         <fr:igdtName ref="karotte">Karotte(n)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -39,11 +39,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 Flasche</fr:igdtQuantity>
-        <fr:igdtName ref="rotwein">Rotwein, kräftiger</fr:igdtName>
+        <fr:igdtName ref="rotwein">Rotwein, kr&#228;ftiger</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3</fr:igdtQuantity>
-        <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+        <fr:igdtName ref="lorbeer">Lorbeerbl&#228;tter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 Zweig/e</fr:igdtQuantity>
@@ -70,20 +70,20 @@
         <fr:igdtName ref="schokolade">Schokolade, 70% Kakaogehalt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Becher</fr:igdtQuantity>
-        <fr:igdtName ref="crème_fraîche">Crème fraîche</fr:igdtName>
+        <fr:igdtName ref="cr&#232;me">Cr&#232;me fra&#238;che</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="mozzarella">Mozzarella, in dünne Scheiben geschnitten, oder gerieben</fr:igdtName>
+        <fr:igdtName ref="mozzarella">Mozzarella, in d&#252;nne Scheiben geschnitten, oder gerieben</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
@@ -91,18 +91,23 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>3 Bund</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, oder 4-5 Zucchini</fr:igdtName>
+        <fr:igdtName ref="zucchini">Mangold, oder 4-5 Zucchini</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Zwiebeln, Karotten, Rote Bete und 4 Tomaten fein w&#252;rfeln. Knoblauch klein hacken.
+Die Zwiebeln, Karotten, Rote Bete und Knoblauch einzeln, in je 2 EL Hackfleisch scharf anbraten (das Hackfleisch gibt man dazu um daraus das Bratfett zu gewinnen). Jeweils mit etwas Wein und Tomatenw&#252;rfeln abl&#246;schen, einkochen und in einen Topf geben. Die Karotten und Rote Beete werden gemixt bevor sie in den Topf kommen. Das restliche Hackfleisch scharf anbraten, unter st&#228;ndigem braten Chili, Tomatenmark, Schokolade und Kr&#228;uter zugeben. Mit Wein abl&#246;schen und einkochen, bis alle Fl&#252;ssigkeit verdampft ist. Nun ebenfalls in den Topf geben, alles zusammen immer wieder mit Wein abl&#246;schen und einkochen.
+Den Mangold waschen und die Bl&#228;tter vom Stunk befreien (es werden nur die gr&#252;nen Bl&#228;tter ben&#246;tigt) dann in Salzwasser blanchieren.
+Zucchini waschen und mit dem Hobel in ganz d&#252;nne Streifen schneiden.
+Cr&#232;me fra&#238;che mit Salz, Pfeffer und Muskat abschmecken. Die &#252;brigen 2 Tomaten in d&#252;nne Scheiben schneiden
+Zuerst 1/3 der Hackfleischso&#223;e in eine Auflaufform geben und gleichm&#228;&#223;ig verstreichen, anschlie&#223;end mit einer Schicht Mangold oder Zucchini belegen, 1/3 der Cr&#232;me fra&#238;che dar&#252;ber verteilen mit Tomatenscheiben bedecken und mit wenig K&#228;se bestreuen. So weiterschichten, bis alles verbraucht ist. Am Schluss mit einer sch&#246;nen Schickt K&#228;se bedecken und bei 220&#176;C ca 30 Minuten backen, ggf. noch mal f&#252;r 10 Minuten den Backofengrill anschalten (aber Achtung: nicht aus den Augen lassen).</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

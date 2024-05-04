@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-4057851630237202">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-6cbc5dce-0be6-48b1-b9c6-7a31145bd24e">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Ricotta-Quiche</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
         <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
@@ -22,7 +22,7 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ TL</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; TL</fr:igdtQuantity>
         <fr:igdtName ref="">Salz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="parmesan">Parmesan, gerieben</fr:igdtName>
+        <fr:igdtName ref="parmesan">Parmesan, geriebener</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>100 g</fr:igdtQuantity>
@@ -55,30 +55,38 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
-        <fr:igdtName ref="gouda">Käse, gerieben, z. B. mittelalter Gouda, nicht zu würzig</fr:igdtName>
+        <fr:igdtName ref="gouda">K&#228;se, geriebener, z. B. mittelalter Gouda, nicht zu w&#252;rzig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="muskat">Muskat</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl zum Braten</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l zum Braten</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>F&#252;r den Teig Mehl, Butter, Wasser und Salz verkneten. Ca. 1 Stunde im K&#252;hlschrank ruhen lassen.
+F&#252;r die F&#252;llung den Mangold waschen. Stiele abtrennen und in kleine St&#252;ckchen schneiden. Mangoldbl&#228;tter grob in Streifen schneiden. Zwiebel und Knoblauch klein schneiden.
+Zwiebel mit &#214;l in einer Pfanne glasig and&#252;nsten. Mangoldstiele und Knoblauch hinzuf&#252;gen. Bei frischem Knoblauch vertr&#228;gt das Gericht m.E. 3 Zehen. 5 Minuten bei nicht zu starker Hitze zusammen d&#252;nsten. Rausnehmen und in einer Sch&#252;ssel beiseite stellen.
+Jetzt auch die Bl&#228;tter portionsweise in die Pfanne geben, bis sie zusammenfallen. Etwas abk&#252;hlen lassen und danach ausdr&#252;cken. Mangold ist nicht ganz so w&#228;ssrig wie Spinat, aber wenn man den Teig nicht vorbacken will, wird er zu weich, wenn beim Backen zu viel Fl&#252;ssigkeit austritt.
+Dann die Bl&#228;tter mit dem Messer kleinhacken und die Stiele dazugeben. Ricotta und Parmesan hinzuf&#252;gen, alles gut vermischen und mit Salz, Pfeffer und Muskat abschmecken.
+Das Ei verquirlen, fl&#252;ssige Sahne und den geriebenen K&#228;se dazugeben und alles miteinander vermischen. K&#228;sesorte ist Geschmackssache. Er sollte gut zerlaufen, aber nicht so kr&#228;ftig sein, weil er den Geschmack des Mangolds nicht &#252;berdecken soll. Mit der Mangoldmasse mischen.
+Ofen vorheizen auf ca. 160 - 170 Grad Ober-/ Unterhitze.
+Teig f&#252;r eine 26er Springform ausrollen. Als Rand sollten 3 cm H&#246;he reichen. Die Mangoldmasse einf&#252;llen. Ca. 45 bis 55 Minuten auf der zweiten Schiene von unten backen. Die Backzeit h&#228;ngt stark von Qualit&#228;t und Alter des Ofens ab. Immer wieder mal schauen, dass der K&#228;se nicht zu dunkel wird.
+Aus dem Ofen nehmen und in der Springform ein paar Minuten ruhen lassen und dann aus der Form l&#246;sen.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,16 +1,16 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3336571495549193">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-ac000d2f-8cfc-4f4b-bed9-0004d0219d90">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Mangold-Quinoa-Kokos-Risotto, getoppt mit Zitronenbröseln</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Mangold-Quinoa-Kokos-Risotto, getoppt mit Zitronenbr&#246;seln</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>½ kleine</fr:igdtQuantity>
+        <fr:igdtQuantity>&#189; kleine</fr:igdtQuantity>
         <fr:igdtName ref="zwiebel">Zwiebel(n), gehackt</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -35,11 +35,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
-        <fr:igdtName ref="kokosöl">Kokosöl, flüssig</fr:igdtName>
+        <fr:igdtName ref="kokos&#246;l">Kokos&#246;l, fl&#252;ssig</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 EL</fr:igdtQuantity>
-        <fr:igdtName ref="paniermehl">Semmelbrösel oder Dinkelbrösel</fr:igdtName>
+        <fr:igdtName ref="paniermehl">Semmelbr&#246;sel oder Dinkelbr&#246;sel</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -47,15 +47,15 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="zitrone">Zitronenpfeffer</fr:igdtName>
+        <fr:igdtName ref="pfeffer">Zitronenpfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>n. B.</fr:igdtQuantity>
-        <fr:igdtName ref="chili">Chilipulver</fr:igdtName>
+        <fr:igdtName ref="chilischote">Chilipulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1 TL</fr:igdtQuantity>
@@ -65,12 +65,16 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Zwiebel und den Knoblauch in einer Pfanne mit 1 EL Kokos&#246;l 2 Minuten anschwitzen, dann die Mangoldstielstreifen und die gewaschene Quinoa dazugeben. Alles f&#252;r 5 Minuten bei mittlerer Hitze anschwitzen.
+Mit Wasser abl&#246;schen und mit Salz w&#252;rzen, 10 Minuten d&#252;nsten. Immer mal wieder umr&#252;hren und bei Bedarf etwas Wasser hinzugeben. Die Kokosmilch dazugeben und weitere 5 Minuten d&#252;nsten.
+In der Zwischenzeit in einer kleinen Pfanne 1 EL Kokos&#246;l erhitzen, 1 EL Br&#246;sel dazugeben. Den Abrieb der Zitrone und das Chilipulver und den Zitronenpfeffer dazugeben und alles goldgelb anr&#246;sten. Zum Schluss noch die frische, gehackte Petersilie unterr&#252;hren.
+Zum Risotto noch die Mangoldbl&#228;tter geben und umr&#252;hren, bis sie zusammengefallen sind, mit Salz und Pfeffer w&#252;rzen.
+Nun das Risotto in einem tiefen Teller anrichten und mit den Br&#246;seln garnieren.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

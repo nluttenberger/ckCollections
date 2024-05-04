@@ -1,0 +1,66 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-73d89423-0b09-444d-868a-5a5f0784cdf3">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Tomaten mit Mangoldf&#252;llung 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>6</fr:igdtQuantity>
+        <fr:igdtName ref="tomate">Fleischtomate(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>450 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangoldbl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>200 g</fr:igdtQuantity>
+        <fr:igdtName ref="schafsk&#228;se">Schafsk&#228;se</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="basilikum">Basilikum</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>einige</fr:igdtQuantity>
+        <fr:igdtName ref="salbei">Salbeibl&#228;tter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz und Pfeffer, aus der M&#252;hle</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Tomaten putzen und jeweils einen Deckel abschneiden. Die Tomaten aush&#246;hlten und das Tomatenfleisch beiseitestellen. Die Tomaten von innen mit dem Kr&#228;utersalz und dem Pfeffer w&#252;rzen.
+Mangoldbl&#228;tter putzen und entlang der Mittelrippe auseinanderschneiden. Die Bl&#228;tter in kleine St&#252;cke und die Mittelrippe ebenfalls in ca. 0,5 cm gro&#223;e St&#252;cke schneiden. Zwiebel und Knoblauchzehe w&#252;rfeln.
+Butter in einer gro&#223;en Pfanne erhitzen. Die Zwiebeln und die St&#252;cke der Mittelrippe glasig d&#252;nsten, Knoblauch und Mangold ca. 5 Minuten d&#252;nsten lassen.
+In der Zwischenzeit den Schafsk&#228;se w&#252;rfeln und in die ausgeh&#246;hlten Tomaten geben. Basilikum und Salbei waschen, trockentupfen und fein hacken. Den Mangold mit dem Tomatenfleisch mischen und mit den Kr&#228;utern und Pfeffer und gehackten Kr&#228;utersalz abschmecken.
+Die Tomaten mit dem zubereiteten Mangold f&#252;llen und den Deckel auflegen. Die Tomaten in eine Auflaufform setzen und etwas Wasser angie&#223;en.
+Im auf 200 &#176;C Ober-/Unterhitze vorgeheizten Backofen ca. 10 Minuten auf der mittleren Schiene backen.
+Dazu passt sehr gut Couscous.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

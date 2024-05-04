@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2441631384864249">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-21f4eeba-d775-4098-9a28-8d0b755de2f0">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Laubfrösche</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Laubfr&#246;sche</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>1 kg</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -26,8 +26,8 @@
         <fr:igdtName ref="paniermehl">Paniermehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 EL</fr:igdtQuantity>
@@ -43,30 +43,34 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>250 ml</fr:igdtQuantity>
-        <fr:igdtName ref="brühe">Brühe</fr:igdtName>
+        <fr:igdtName ref="br&#252;he">Br&#252;he</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>2 TL</fr:igdtQuantity>
-        <fr:igdtName ref="stärke">Stärkemehl</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">St&#228;rkemehl</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
-        <fr:igdtName ref="">Wasser, kaltes zum Anrühren der Stärke</fr:igdtName>
+        <fr:igdtName ref="st&#228;rke">Wasser, kaltes zum Anr&#252;hren der St&#228;rke</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>50 g</fr:igdtQuantity>
-        <fr:igdtName ref="saure_sahne">saure Sahne</fr:igdtName>
+        <fr:igdtName ref="sahne">saure Sahne</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter vom Strunk abbrechen und kurz in kochendem Wasser blanchieren, danach gut abtropfen lassen. Auf ein gro&#223;es Brett legen und die wei&#223;en Stiele abschneiden.
+Das Hackfleisch mit Ei und Paniermehl verkneten und danach mit Salz und Pfeffer w&#252;rzen. Nun die Zwiebel und die Petersilie fein hacken und unter das Hackfleisch kneten. Die Masse zu kleinen B&#228;llchen formen. Je nach Gr&#246;&#223;e 1 - 2 Mangoldbl&#228;tter zusammenlegen, die Hackb&#228;llchen darauflegen und mit dem Mangold umwickeln.
+Die Butter in einer Pfanne erhitzen und die Laubfr&#246;sche darin kurz anbraten. Danach mit Br&#252;he abl&#246;schen, mit einem Deckel verschlie&#223;en und bei mittlerer bis niedriger Temperatur ca. 20 Minuten weich d&#252;nsten.
+Danach die Laubfr&#246;sche herausnehmen und die So&#223;e kurz aufkochen lassen. Das St&#228;rkemehl in etwas kaltem Wasser glatt r&#252;hren und damit die So&#223;e unter R&#252;hren binden. Zum Schluss noch die saure Sahne unterr&#252;hren, die So&#223;e darf aber jetzt nicht mehr kochen.
+Die Laubfr&#246;sche wieder hinzugeben und in der So&#223;e noch einmal erw&#228;rmen. Bei uns gibt es dazu immer Kartoffeln oder Reis.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

@@ -1,0 +1,79 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-077f2de8-6202-471c-8349-c512176f6e4d">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Gebratene chinesiche Nudeln &#224; la 'CAP'</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="nudeln">chinesische Eiernudeln, (Mie-Nudeln)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 m.-gro&#223;e</fr:igdtQuantity>
+        <fr:igdtName ref="karotte">M&#246;hre(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 Bund</fr:igdtQuantity>
+        <fr:igdtName ref="lauchzwiebel">Lauchzwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 Stange/n</fr:igdtQuantity>
+        <fr:igdtName ref="lauch">Porree</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="pak_choi">Pak Choi, (Pak Choi), zarte Kohlart, &#228;hnelt &#228;u&#223;erlich dem Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>400 g</fr:igdtQuantity>
+        <fr:igdtName ref="sprossen">Sojasprossen</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>4 Port.</fr:igdtQuantity>
+        <fr:igdtName ref="huhn">H&#228;hnchenfilet(s)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="sojasauce">Sojasauce</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="chilischote">Chilisauce, scharfe</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung, (Chinesiches W&#252;rzpulver f&#252;r Huhn)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="knoblauch">Knoblauchzehe(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="curcuma">Kurkuma</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Nudeln in kochend hei&#223;em Wasser 5 Minuten einweichen, anschlie&#223;end abtropfen lassen.Den Knoblauch durchpressen. M&#246;hren, Lauchzwiebeln, Porree und Pak Choi in feine Streifen schneiden. Die H&#228;hnchenfilets in 2 EL Sojasauce 30 Minuten marinieren.
+&#214;l im Wok oder einer gro&#223;en Pfanne erhitzen und darin das gesamte Gem&#252;se rasch anbraten. Mit Kurkuma, der Gew&#252;rzmischung, Sojasauce und Chilisauce w&#252;rzen, dann die Nudeln zuf&#252;gen und alles ein paar Minuten weiter braten.
+Die H&#228;hnchenfilets separat dazu braten.
+S&#252;&#223;e Chilisauce und scharfe Chilisauce dazu reichen.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

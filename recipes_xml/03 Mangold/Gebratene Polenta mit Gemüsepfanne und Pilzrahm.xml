@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-2738671426073811">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-f22a20fd-0303-4682-afc8-6c2545c5d254">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
-  <fr:recipeName>Gebratene Polenta mit Gemüsepfanne und Pilzrahm</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeName>Gebratene Polenta mit Gem&#252;sepfanne und Pilzrahm</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>250 g</fr:igdtQuantity>
         <fr:igdtName ref="polenta">Polenta</fr:igdtName>
@@ -18,11 +18,11 @@
         <fr:igdtName ref="">Wasser</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>¼</fr:igdtQuantity>
-        <fr:igdtName ref="hokkaidokürbis">Hokkaidokürbis(se)</fr:igdtName>
+        <fr:igdtQuantity>&#188;</fr:igdtQuantity>
+        <fr:igdtName ref="hokkaidok&#252;rbis">Hokkaidok&#252;rbis(se)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity>6 Blätter</fr:igdtQuantity>
+        <fr:igdtQuantity>6 Bl&#228;tter</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
@@ -46,16 +46,16 @@
         <fr:igdtName ref="pflanzenfett">Hafersahne (Hafercreme Cuisine)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="kräutersalz">Kräutersalz</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="kr&#228;utersalz">Kr&#228;utersalz</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="paprikapulver">Paprikapulver, edelsüß</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="paprikapulver">Paprikapulver, edels&#252;&#223;</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
@@ -63,11 +63,11 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>evtl.</fr:igdtQuantity>
-        <fr:igdtName ref="kräuter">Kräuter</fr:igdtName>
+        <fr:igdtName ref="kr&#228;uter">Kr&#228;uter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>4 EL</fr:igdtQuantity>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -77,12 +77,17 @@
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Polenta m&#246;glichst fr&#252;hzeitig vorbereiten, damit sie fest wird und abgek&#252;hlt ist. Daf&#252;r 1 l Wasser mit etwas Salz (nach Belieben etwas Knoblauch oder auch gehackte Kr&#228;uter) aufkochen und die Polenta unter R&#252;hren einrieseln lassen. Gut durchr&#252;hren und dann in eine flache Auflaufform oder auf ein tiefes Backblech streichen.
+Den Mangold in Streifen schneiden, das Blattgr&#252;n separat legen. Den Hokkaido w&#252;rfeln. Die getrockneten Tomaten in feine Streifen schneiden. 50 g der Champignons in Scheiben schneiden.
+Die restlichen Champignons ebenfalls in Scheiben schneiden und separat legen. Die Zwiebel grob w&#252;rfeln und zu den Champignons legen. Die Rauke grob hacken.
+&#214;l in 3 Pfannen erhitzen. In die erste die Polenta geben und langsam anbraten, bis sie goldbraun ist.
+In die zweite das gemischte Gem&#252;se, bis auf das Mangoldgr&#252;n geben und unter R&#252;hren anbraten. 1 Schnapsglas Wasser hinzuf&#252;gen und mit Deckel ca. 5 Min. k&#246;cheln. Das Mangoldgr&#252;n hinzuf&#252;gen und mit Kr&#228;utersalz und Pfeffer abschmecken.
+In die letzte Pfanne Zwiebel und Pilze geben und anbraten, bis sie leicht gebr&#228;unt sind. Dann Paprika, Kr&#228;utersalz und Pfeffer hinzuf&#252;gen und die Hafersahne einr&#252;hren. Kurz aufkochen und dann die Rauke hinzuf&#252;gen. Zusammen mit Polenta anrichten.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

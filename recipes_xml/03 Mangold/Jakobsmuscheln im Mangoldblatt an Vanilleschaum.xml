@@ -1,17 +1,17 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-1209181226665601">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-8c005623-35a1-49ae-b8bd-a77bf946bee7">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Jakobsmuscheln im Mangoldblatt an Vanilleschaum</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
-        <fr:igdtQuantity>4 Blätter</fr:igdtQuantity>
-        <fr:igdtName ref="mangold">Mangold, große</fr:igdtName>
+        <fr:igdtQuantity>4 Bl&#228;tter</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold, gro&#223;e</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>150 g</fr:igdtQuantity>
@@ -35,7 +35,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>15 g</fr:igdtQuantity>
-        <fr:igdtName ref="schalotten">Schalotte(n), in Würfeln</fr:igdtName>
+        <fr:igdtName ref="schalotten">Schalotte(n), in W&#252;rfeln</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>etwas</fr:igdtQuantity>
@@ -43,7 +43,7 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>6 cl</fr:igdtQuantity>
-        <fr:igdtName ref="weißwein">Weißwein</fr:igdtName>
+        <fr:igdtName ref="wei&#223;wein">Wei&#223;wein</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>1</fr:igdtQuantity>
@@ -54,27 +54,35 @@
         <fr:igdtName ref="butter">Butter</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="">Meersalz, (Fleur de Sel)</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Pfeffer, schwarzer aus der Mühle</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Pfeffer, schwarzer aus der M&#252;hle</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Öl</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="">&#214;l</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Mangoldbl&#228;tter 3 Minuten im Dampf blanchieren, kurz abschrecken, abtropfen lassen, den Strunk flach schneiden und die Bl&#228;tter auf K&#252;chenpapier abtropfen lassen.
+Den Lachs in W&#252;rfel schneiden und leicht anfrieren lassen. Danach die Lachsw&#252;rfel mit Noilly Prat, etwas Sahne (maximal 50 ml), Salz und Pfeffer im Mixer zu einer glatten Farce verarbeiten. Das Ei trennen, den Dotter f&#252;r die Sauce aufheben und das Eiklar zu Schnee schlagen. Den Eischnee vorsichtig unter die Lachsfarce heben.
+Auf jedes Mangoldblatt einen EL der Farce geben, je eine Muschel in die Farce dr&#252;cken, mit Salz und Pfeffer w&#252;rzen und das Ganze zu Rouladen aufrollen. Die R&#246;llchen in einen gelochten, leicht gefetteten Garbeh&#228;lter legen.
+F&#252;r die Sauce die Schalottenw&#252;rfel in Butter anschwitzen und mit dem Wei&#223;wein und gut der H&#228;lfte der noch vorhandenen Schlagsahne aufgie&#223;en. Dann das Mark einer Vanilleschote dazu geben und noch ein klein wenig Knoblauch dazu pressen (nur einen Hauch). Diese Mischung etwa 10 Minuten ganz leicht simmern lassen und danach noch etwa 30 Minuten ziehen lassen. Anschlie&#223;end durch ein Sieb streichen und mit Salz und Pfeffer w&#252;rzen. Das Eigelb mit der restlichen Schlagsahne aufschlagen. Kurz vor dem Servieren die Sauce noch einmal erhitzen, die Eigelb-Mischung dazu geben und die Sauce mit dem Zauberstab aufsch&#228;umen.
+W&#228;hrend der Zubereitung der Sauce werden die R&#246;llchen im Dampf gegart:
+85&#176;C &#8211; 100% Feuchte - 8 Minuten.
+Gegen Ende der Garzeit die restlichen Jakobsmuscheln zart in &#214;l braten und mit Salz und Pfeffer w&#252;rzen.
+Dann kann angerichtet werden.
+Als Beilage passt schwarzer Piemont-Reis und Mangoldgem&#252;se mit etwas Zimt und Kardamom gew&#252;rzt.</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>

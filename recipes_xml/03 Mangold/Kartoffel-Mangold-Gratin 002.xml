@@ -1,0 +1,73 @@
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-d5f99614-8869-4d3f-ac72-c0bd167c649a">
+  <fr:meta>
+    <fr:book />
+    <fr:chapter />
+  </fr:meta>
+  <fr:recipeName>Kartoffel-Mangold-Gratin 002</fr:recipeName>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
+  <fr:recipeIngredients>
+    <fr:igdtList>
+      <fr:igdtListName />
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1 kg</fr:igdtQuantity>
+        <fr:igdtName ref="kartoffel">Kartoffel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>1</fr:igdtQuantity>
+        <fr:igdtName ref="zwiebel">Zwiebel(n)</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="butter">Butter</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>40 g</fr:igdtQuantity>
+        <fr:igdtName ref="weizenmehl">Mehl</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>800 ml</fr:igdtQuantity>
+        <fr:igdtName ref="milch">Milch</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>800 g</fr:igdtQuantity>
+        <fr:igdtName ref="mangold">Mangold</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="zitrone">Zitronensaft</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 ml</fr:igdtQuantity>
+        <fr:igdtName ref="sahne">Sahne</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>2 EL</fr:igdtQuantity>
+        <fr:igdtName ref="senf">Senf</fr:igdtName>
+      </fr:igdtListLine>
+      <fr:igdtListLine>
+        <fr:igdtQuantity>100 g</fr:igdtQuantity>
+        <fr:igdtName ref="gruy&#232;re">K&#228;se (Gruy&#232;re), gerieben</fr:igdtName>
+      </fr:igdtListLine>
+    </fr:igdtList>
+  </fr:recipeIngredients>
+  <fr:recipeInstructions>
+    <fr:instruction>
+      <fr:instrStepName />
+      <fr:instrStepText>Die Kartoffeln reinigen und mit Schale in Salzwasser in ca. 20 Minuten knapp weich kochen. Kartoffeln sch&#228;len und ausk&#252;hlen lassen.
+Zwiebel fein hacken und in der Butter kurz and&#252;nsten. Mit dem Mehl best&#228;uben und unter R&#252;hren kurz anschwitzen. Die Milch in kleineren Mengen dazu gie&#223;en und die Fl&#252;ssigkeit glatt r&#252;hren. Die Sauce bei schwacher Hitze etwa 30 Minuten k&#246;cheln lassen.
+Am Mangold die Stiele abschneiden und alles  in feine Streifen schneiden. In einer gen&#252;gend gro&#223;en Pfanne Salzwasser mit etwas Zitronensaft aufkochen. Die Mangoldbl&#228;tter und -stiele darin 3 - 4 Min. blanchieren. Das Wasser abgie&#223;en und den Mangold kalt abschrecken und dann abtropfen lassen. Mit Salz und Pfeffer w&#252;rzen.
+Die Kartoffeln in Scheiben schneiden und ebenfalls w&#252;rzen.
+Die Sahne in die Sauce geben und diese aufkochen. Sauce durch ein feines Sieb gie&#223;en und mit einem L&#246;ffelr&#252;cken s&#228;mtliche Fl&#252;ssigkeit durchdr&#252;cken. Den Senf unterr&#252;hren und mit Salz und Pfeffer abschmecken.
+Den Ofen auf 200 &#176;C Ober-/Unterhitze vorheizen. Kartoffeln und Mangold abwechslungsweise in eine eingefettete Gratinform schichten. Zwischen den Lagen immer wieder mit Sauce begie&#223;en. Zuletzt den K&#228;se dar&#252;ber streuen und im Ofen 40 Min. gratinieren.</fr:instrStepText>
+    </fr:instruction>
+  </fr:recipeInstructions>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
+</fr:recipe>

@@ -1,14 +1,14 @@
-<?xml version="1.0" ?><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-3008391453723314">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="ck-83cd60ff-b78a-4691-be7a-99b541d46ae2">
   <fr:meta>
-    <fr:book>ckCollections</fr:book>
-    <fr:chapter>03 Mangold</fr:chapter>
+    <fr:book />
+    <fr:chapter />
   </fr:meta>
   <fr:recipeName>Mangold-Gratin mit Feta</fr:recipeName>
-  <fr:recipeKeywords/>
-  <fr:recipeIntro/>
+  <fr:recipeKeywords />
+  <fr:recipeIntro />
   <fr:recipeIngredients>
     <fr:igdtList>
-      <fr:igdtListName/>
+      <fr:igdtListName />
       <fr:igdtListLine>
         <fr:igdtQuantity>500 g</fr:igdtQuantity>
         <fr:igdtName ref="mangold">Mangold</fr:igdtName>
@@ -27,30 +27,37 @@
       </fr:igdtListLine>
       <fr:igdtListLine>
         <fr:igdtQuantity>200 g</fr:igdtQuantity>
-        <fr:igdtName ref="schafskäse">Feta-Käse, griechischer</fr:igdtName>
+        <fr:igdtName ref="schafsk&#228;se">Feta-K&#228;se, griechischer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="">Salz und Pfeffer</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="pfeffer">Salz und Pfeffer</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
+        <fr:igdtQuantity />
         <fr:igdtName ref="paprikapulver">Paprikapulver</fr:igdtName>
       </fr:igdtListLine>
       <fr:igdtListLine>
-        <fr:igdtQuantity/>
-        <fr:igdtName ref="gewürz">Gewürzmischung (Hackfleischgewürz)</fr:igdtName>
+        <fr:igdtQuantity />
+        <fr:igdtName ref="gew&#252;rz">Gew&#252;rzmischung (Hackfleischgew&#252;rz)</fr:igdtName>
       </fr:igdtListLine>
     </fr:igdtList>
   </fr:recipeIngredients>
   <fr:recipeInstructions>
     <fr:instruction>
-      <fr:instrStepName/>
-      <fr:instrStepText/>
+      <fr:instrStepName />
+      <fr:instrStepText>Mangold putzen, waschen, die dicken Stiele abschneiden und grob w&#252;rfeln. Die gr&#252;nen Bl&#228;tter in ca. 1 cm breite Streifen schneiden.
+Hackfleisch in der Pfanne kr&#252;melig braten. Mit Hackfleischgew&#252;rz , Pfeffer, Salz und Paprikapulver w&#252;rzen. Die gew&#252;rfelten Mangold-Stiele zugeben. Abgedeckt bei geringer Hitze 10 min. d&#252;nsten.
+In der Zwischenzeit die Champignons in d&#252;nne Scheiben schneiden. Den Gouda grob reiben. Den Feta ebenfalls grob reiben oder zerkr&#252;meln.
+Die kleingeschnittenen Mangoldbl&#228;tter in einer Gratinform verteilen. Die Champignons darauf verteilen. Den geriebenen Feta-K&#228;se dar&#252;ber streuen. Die Hackfleisch-Mangold-Mischung ebenfalls gleichm&#228;&#223;ig in der Gratinform verteilen. Zuletzt den geriebenen Gouda dar&#252;ber streuen.
+Im Backofen auf der mittleren Schiene bei 160 &#176;C Umluft ca. 30 - 35 min. &#252;berbacken.
+N&#228;hrwerte:
+insgesamt 1680 g, 17,7 g KH, 179 g Eiw., 154 g Fett, 2222 kcal
+Bei 2 Portionen pro Portion: 840 g, 8,9 g KH, 90 g Eiw., 77 g Fett, 1111 kcal</fr:instrStepText>
     </fr:instruction>
   </fr:recipeInstructions>
-  <fr:recipeSideDish/>
-  <fr:recipeOrigin/>
-  <fr:recipeSeeAlso/>
-  <fr:recipeLicense/>
+  <fr:recipeSideDish />
+  <fr:recipeOrigin />
+  <fr:recipeSeeAlso />
+  <fr:recipeLicense />
 </fr:recipe>
